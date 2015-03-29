@@ -5,9 +5,11 @@ import LoadData
 from operator import attrgetter
 
 parties = ['ALP', 'LIB', 'NAT', 'COA', 'DEM', 'GRN', 'ONP', 'PUP', 'KAP', 'FF', 'CD', 'OTH']
+others = ['DEM', 'ONP', 'PUP', 'KAP', 'FF', 'CD', 'OTH']
+joined_parties = ['ALP', 'COA', 'GRN', 'OTH']
+
 states = ['NSW', 'VIC', 'SA', 'WA', 'QLD', 'TAS']
 pollsters = ['Morgan', 'Newspoll', 'Galaxy', 'Essential', 'ReachTEL']
-others = ['DEM', 'ONP', 'PUP', 'KAP', 'FF', 'CD', 'OTH']
 
 VIC_polls = LoadData.LoadPolls('VIC')
 NSW_polls = LoadData.LoadPolls('NSW')
@@ -28,62 +30,78 @@ for pollster in pollsters:
 		potential_list = []
 		for state in state_polls:
 			for poll in state:
-				if poll.pollster == pollster:
-					if 0 < -(poll.median_date() - election.election_date()).days < 15:
-						potential_list.append(poll)
-						poll.distance = -(poll.median_date() - election.election_date()).days
+				if poll.state() == election.state():
+					if poll.pollster == pollster:
+						if 0 < -(poll.median_date() - election.election_date()).days < 15:
+							potential_list.append(poll)
+							poll.distance = -(poll.median_date() - election.election_date()).days
 		try:
 			min_dist = min(potential_list, key=attrgetter('distance'))
 			error_dict[pollster].append([min_dist,election])
 		except ValueError:
 			pass
 		
-def CoalitionConsistency(poll1,poll2):
+def JoinCoalition(poll):
 
-	## checks if two polls have the same lib/nat/coalition 
-	## data and if not, combines them in the best possible way
+	if np.isnan(poll.results('NAT')):
+		poll.change_result('NAT', 0)
 
-def OthersConsistency(poll1,poll2):
+	if np.isnan(poll.results('COA')):
+		poll.change_result('COA', poll.results('LIB') + poll.results('NAT'))
 
-	## checks if two polls have the same others
-	## configuration and if not, combines them in the 
-	## best possible way
+## Because different pollsters poll different "Other" parties, it's 
+## only fair to combine all the other parties into a single group
+## for the purposes of computing accuracies. 
+
+def JoinOthers(poll):
+
+	others_vote = 0
+	for party in others:
+		if not np.isnan(poll.results(party)) and poll.results(party) != 0:
+			others_vote = others_vote + poll.results(party)
+
+	poll.change_result('OTH', others_vote)
 
 def ComputeRMSQ(poll, election):
 
 	## This function computes the RMSQ error
 	## of a poll from the actual election outcome
 
-	poll, election = CoalitionConsistency(poll,election)
-	poll, election = OthersConsistency(poll,election)
-
 	to_sum = []
-	for party in parties:
-		count = 0
-		if not np.isnan(poll.results(party)):
-			if not np.isnan(election.results(party)):
-				try:
-					resid = poll.results(party) - election.results(party)
-					count = count + 1
-				except TypeError:
-					pass
-				try:
-					to_sum.append(math.pow(resid,2))
-					count = count + 4
-				except TypeError:
-					pass
-		tppresid = poll.tpp() - election.tpp()
-		to_sum.append(4*(math.pow(tppresid,2)))
+	count = 0
+	for party in joined_parties:
+		resid = poll.results(party) - election.results(party)
+		try:
+			to_sum.append(math.pow(resid,2))
+		except TypeError:
+			pass
+		count = count + 1
+	tppresid = poll.tpp() - election.tpp()
+	if not np.isnan(tppresid):
+		try:
+			to_sum.append(4*(math.pow(tppresid,2)))
+		except TypeError:
+			pass
+	count = count + 4
 
-	return sum(to_sum)/count
+	return math.sqrt(sum(to_sum)/count)
 
-for party in parties:
-	print party, error_dict['Morgan'][0][0].results(party), error_dict['Morgan'][0][1].results(party)
-	print np.isnan(error_dict['Morgan'][0][0].results(party))
 
-print error_dict['Morgan'][0][1].election_date()
+for pollster in pollsters:
 
-#print ComputeRMSQ(error_dict['Morgan'][0][0], error_dict['Morgan'][0][1])
+	errors = []
+
+	for i in range(0,len(error_dict[pollster])):
+
+		JoinCoalition(error_dict[pollster][i][0])
+		JoinCoalition(error_dict[pollster][i][1])
+		JoinOthers(error_dict[pollster][i][0])
+		JoinOthers(error_dict[pollster][i][1])
+
+		errors.append(ComputeRMSQ(error_dict[pollster][i][0], error_dict[pollster][i][1]))
+
+	print pollster + '      ',  np.mean(errors)
+#print ComputeRMSQ(error_dict['Morgan'][6][0], error_dict['Morgan'][6][1])
 
 
 

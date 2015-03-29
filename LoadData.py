@@ -47,6 +47,12 @@ class Poll(object):
         except KeyError:
             return 0
 
+    def change_result(self,party,new):
+        try:
+            self._results[party] = new
+        except KeyError:
+            pass
+
     def tpp(self):
         return self._tpp
 
@@ -73,7 +79,7 @@ def LoadPolls(state):
             except KeyError:
                 pass
         try:
-            poll_list.append(Poll(pollframe['Pollster'][i], state, pd.to_datetime(pollframe['PollMedianDate'][i]), pollframe['N'][i], results_dict, pollframe['ALP_TPP']))
+            poll_list.append(Poll(pollframe['Pollster'][i], state, pd.to_datetime(pollframe['PollMedianDate'][i]), pollframe['N'][i], results_dict, pollframe['ALP_TPP'][i]))
         except KeyError:
             poll_list.append(Poll(pollframe['Pollster'][i], state, pd.to_datetime(pollframe['PollMedianDate'][i]), pollframe['N'][i], results_dict, np.nan))
     return poll_list
@@ -88,5 +94,5 @@ def LoadElections():
                 results_dict[party] = electionframe[party][i]
             except KeyError:
                 pass
-        election_list.append(Election('Election', electionframe['State'][i], pd.to_datetime(electionframe['Date'][i]), electionframe['N'][i], results_dict, electionframe['ALP_TPP']))
+        election_list.append(Election('Election', electionframe['State'][i], pd.to_datetime(electionframe['Date'][i]), electionframe['N'][i], results_dict, electionframe['ALP_TPP'][i]))
     return election_list
