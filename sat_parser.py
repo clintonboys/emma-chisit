@@ -121,7 +121,5 @@ sat = sat.drop('PollRange',1)
 
 sat = sat[['PollStartDate', 'PollEndDate', 'PollMedianDate', 'Satisfied', 'Dissatisfied', 'NetSat', 'Uncommitted']]
 
-#print sat[460:480]
-
 sat.to_csv('leader_satisfaction.csv')
 

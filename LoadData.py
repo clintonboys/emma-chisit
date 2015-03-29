@@ -26,6 +26,7 @@ class Poll(object):
         self._samplesize = samplesize
         self._results = results
         self._tpp = TPP
+        self.distance = 100000  # This variable will be used to find closest polls to elections
 
     @property
     def pollster(self):
