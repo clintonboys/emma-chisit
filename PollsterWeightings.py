@@ -86,6 +86,7 @@ def ComputeRMSQ(poll, election):
 
 	return math.sqrt(sum(to_sum)/count)
 
+av_error = []
 
 for pollster in pollsters:
 
@@ -100,8 +101,9 @@ for pollster in pollsters:
 
 		errors.append(ComputeRMSQ(error_dict[pollster][i][0], error_dict[pollster][i][1]))
 
-	print pollster + '      ',  np.mean(errors)
+	av_error.append(np.mean(errors))
+
 #print ComputeRMSQ(error_dict['Morgan'][6][0], error_dict['Morgan'][6][1])
 
-
+print np.mean(av_error)
 
