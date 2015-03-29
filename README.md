@@ -13,6 +13,8 @@ For state polling data I had to spend countless hours mining the web.
 
 *Morgan*. All of Morgan's polls **are** available [here](http://www.roymorgan.com/findings) but finding them is a matter of fishing through their 39 000 findings. This took a while and is probably something I should have scraped, but this would have been a pretty tricky task. 
 
+*ReachTEL*. The only ReachTEL data I could find is on their website [here](https://www.reachtel.com.au/blog/category/tags/new-south-wales) (and various other tags). ReachTEL has only been polling since around 2013 so it's probable these are all their polls.
+
 2. **Leader satisfaction data**
 
 Newspoll leader satisfaction data goes back to 1985. The file sat.csv contains the raw data cut and pasted from the Newspoll sat; sat_parser.py converts it into the neater file leader_satisfaction.csv which also contains median poll dates. 
