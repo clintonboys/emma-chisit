@@ -47,5 +47,4 @@ OperaHouse = PollingPlace('OperaHouse', Sydney)
 
 year_range = range(2000,2016)
 
-for election in elections_from_2000:
-    print election.election_date().year, election.state()
+print PPinSeat(OperaHouse, Sydney)
