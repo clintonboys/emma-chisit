@@ -3,7 +3,7 @@
 
 26/3/15: This model is still in very early stages of development. I'm currently spending a lot of time building a poll database for state polls. 
 
-1. **Polling data**
+ 1. **Polling data**
 
 Federal polling data was obtained from the Phantom Trend's [github repository](https://github.com/PhantomTrend/ptcode) containing a wealth of federal poll data back to 2000. 
 
@@ -15,14 +15,18 @@ For state polling data I had to spend countless hours mining the web.
 
 *ReachTEL*. The only ReachTEL data I could find is on their website [here](https://www.reachtel.com.au/blog/category/tags/new-south-wales) (and various other tags). ReachTEL has only been polling since around 2013 so it's probable these are all their polls.
 
-2. **Pollster weightings**
+ 2. **Pollster weightings**
 
-The Python script LoadData.py contains a series of classes to load poll and election data. The script PollsterWeightings.py computes root-mean-square deviation errors for all contests polled, using the final poll released before the election, and averages over all contests. From this we compute the poll weightings we use in the full model. 
+The Python script `LoadData.py` contains a series of classes to load poll and election data. The script PollsterWeightings.py computes root-mean-square deviation errors for all contests polled, using the final poll released before the election, and averages over all contests. From this we compute the poll weightings we use in the full model. 
 
-3. **Leader satisfaction data**
+ 3. **Leader satisfaction data**
 
-Newspoll leader satisfaction data goes back to 1985. The file sat.csv contains the raw data cut and pasted from the Newspoll sat; sat_parser.py converts it into the neater file leader_satisfaction.csv which also contains median poll dates. 
+Newspoll leader satisfaction data goes back to 1985. The file `data/sat.csv` contains the raw data cut and pasted from the Newspoll sat; `SatisfactionParser.py` converts it into the neater file `data/leader_satisfaction.csv` which also contains median poll dates. 
 
-4. **Runoff simulator**
+ 4. **Runoff simulator**
 
-In RunoffElection.py we use primary vote data and historical preference data to simulate an election in a particular seat using the single transferable vote method with instant runoff voting, which is the electoral system used in most Australian lower houses. 
+In `RunoffElection.py` we use primary vote data and historical preference data to simulate an election in a particular seat using the single transferable vote method with instant runoff voting, which is the electoral system used in most Australian lower houses. 
+
+ 5. **Seat clustering**
+
+The file `ClusterSeats.py` uses k-means clustering to find clusters of similar seats for federal electorates. Currently using 2006 census data and 2007 seat labels. 
