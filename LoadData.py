@@ -69,7 +69,7 @@ class Election(Poll):
 
 def LoadPolls(state):
     poll_list = []
-    filename = 'polling_data/' + state + '_state_polls.csv'
+    filename = 'data/polling_data/' + state + '_state_polls.csv'
     pollframe = pd.read_csv(filename)
     for i in range(0,len(pollframe)):
         results_dict = {}
@@ -79,13 +79,13 @@ def LoadPolls(state):
             except KeyError:
                 pass
         try:
-            poll_list.append(Poll(pollframe['Pollster'][i], state, pd.to_datetime(pollframe['PollMedianDate'][i]), pollframe['N'][i], results_dict, pollframe['ALP_TPP'][i]))
+            poll_list.append(Poll(pollframe['Pollster'][i], state, pd.to_datetime(pollframe['PollMedianDate'][i],dayfirst=True), pollframe['N'][i], results_dict, pollframe['ALP_TPP'][i]))
         except KeyError:
-            poll_list.append(Poll(pollframe['Pollster'][i], state, pd.to_datetime(pollframe['PollMedianDate'][i]), pollframe['N'][i], results_dict, np.nan))
+            poll_list.append(Poll(pollframe['Pollster'][i], state, pd.to_datetime(pollframe['PollMedianDate'][i],dayfirst=True), pollframe['N'][i], results_dict, np.nan))
     return poll_list
 
 def LoadElections():
-    electionframe = pd.read_csv('elections_from_2000.csv')
+    electionframe = pd.read_csv('data/election_data/elections_from_2000.csv')
     election_list = []
     for i in range(0,len(electionframe)):
         results_dict = {}
@@ -94,5 +94,5 @@ def LoadElections():
                 results_dict[party] = electionframe[party][i]
             except KeyError:
                 pass
-        election_list.append(Election('Election', electionframe['State'][i], pd.to_datetime(electionframe['Date'][i]), electionframe['N'][i], results_dict, electionframe['ALP_TPP'][i]))
+        election_list.append(Election('Election', electionframe['State'][i], pd.to_datetime(electionframe['Date'][i],dayfirst=True), electionframe['N'][i], results_dict, electionframe['ALP_TPP'][i]))
     return election_list

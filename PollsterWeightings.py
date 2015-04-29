@@ -84,7 +84,7 @@ def ComputeRMSQ(poll, election):
 			pass
 	count = count + 4
 
-	return math.sqrt(sum(to_sum)/count)
+	return np.round(math.sqrt(sum(to_sum)/count),4)
 
 def ComputePollsterError():
 	av_error = []
@@ -101,36 +101,26 @@ def ComputePollsterError():
 			JoinOthers(error_dict[pollster][i][0])
 			JoinOthers(error_dict[pollster][i][1])
 
-			errors.append(ComputeRMSQ(error_dict[pollster][i][0], error_dict[pollster][i][1]))
+			errors.append(np.round(ComputeRMSQ(error_dict[pollster][i][0], error_dict[pollster][i][1]),3))
 
 		av_error.append(np.mean(errors))
 		final_error_dict[pollster] = np.round(np.mean(errors), 3)
 	return final_error_dict
 
 def ComputePollsterWeights():
-	av_error = []
-	final_error_dict = {}
 
-	for pollster in pollsters:
+	errors = ComputePollsterError()
 
-		errors = []
+	mean_error_dict = []
 
-		for i in range(0,len(error_dict[pollster])):
+	for pollster in errors:
+		mean_error_dict.append(errors[pollster])
 
-			JoinCoalition(error_dict[pollster][i][0])
-			JoinCoalition(error_dict[pollster][i][1])
-			JoinOthers(error_dict[pollster][i][0])
-			JoinOthers(error_dict[pollster][i][1])
-
-			errors.append(ComputeRMSQ(error_dict[pollster][i][0], error_dict[pollster][i][1]))
-
-		av_error.append(np.mean(errors))
-		final_error_dict[pollster] = np.round(np.mean(errors), 3)
-	return final_error_dict
+	av_error = np.round(np.mean(mean_error_dict),3)
 
 	weight_dict = {}
 
 	for pollster in pollsters:
-		weight_dict[pollster] = np.round(1/np.round(final_error_dict[pollster] / np.round(np.mean(av_error),3),3),3)
+		weight_dict[pollster] = np.round(1/(errors[pollster] / av_error),3)
 
 	return weight_dict
