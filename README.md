@@ -30,3 +30,7 @@ In `RunoffElection.py` we use primary vote data and historical preference data t
 V. **Seat clustering**
 
 The file `ClusterSeats.py` uses k-means clustering to find clusters of similar seats for federal electorates. Currently using 2006 census data and 2007 seat labels. 
+
+VI. **Poll aggregator**
+
+`PollAggregator.py` contains a number of functions for aggregating opinion polls and obtaining nationwide or statewide swing estimates for a nowcast. It can also combine national and statewide polls for a more informed national agreggate (research needs to be done to determine how useful or correct this is, and in what proportions). 
