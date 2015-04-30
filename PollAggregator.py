@@ -40,10 +40,17 @@ election_data = LoadData.LoadElections()
 relevant_polls = []
 
 def GetLatestElection(state, to_date):
+	relevant_elections = []
+	for election in election_data:
+		if (election.state() == state):
+			if election.election_date() < to_date:
+				relevant_elections.append(election)
+
 	date = datetime.datetime(1900,1,1)
 	latest_election = None
-	for election in election_data:
-		if (election.state() == state) and (election.election_date() > date > to_date):
+
+	for election in relevant_elections:
+		if election.election_date() > date:
 			date = election.election_date()
 			latest_election = election
 	return latest_election
@@ -78,9 +85,7 @@ def AggregatePolls(state, to_date, N):
 	return aggregated_poll
 
 def GetSwings(state, aggregated_poll):
-	latest_election = GetLatestElection(state)
-
-	print latest_election.election_date()
+	latest_election = GetLatestElection(state, to_date)
 
 	PollsterWeightings.JoinOthers(latest_election)
 	PollsterWeightings.JoinCoalition(latest_election)
@@ -91,10 +96,10 @@ def GetSwings(state, aggregated_poll):
 		swing_dict[party] = np.round(aggregated_poll.results(party) - latest_election.results(party),3)
 
 	return swing_dict
-	
-print GetSwings(state,AggregatePolls(state, to_date, N))
 
-#print GetSwings(state)
+	
+print GetSwings(state,AggregatePolls(state, to_date, N))['COA']
+
 
 
 
