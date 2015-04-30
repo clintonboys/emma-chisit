@@ -1,0 +1,656 @@
+2010 Federal Election House of Representatives First Preferences By Candidate By Polling Place for NT [Event:15508 Phase:FinalResults Generated:2013-01-22T15:02:24 Cycle:109e02bb-5f15-4808-984f-b47255b191fb Created:2013-01-22T14:55:43 Environment:PROD Site:PARKES Server:NTR01 Version:6.0.10.10009]
+StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
+NT,306,Lingiari,8701,Alice Springs,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,16,1.29
+NT,306,Lingiari,8701,Alice Springs,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),388,-13.1
+NT,306,Lingiari,8701,Alice Springs,21508,SHAW,Barbara,3,N,N,GRN,The Greens,276,9.9
+NT,306,Lingiari,8701,Alice Springs,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,81,6.51
+NT,306,Lingiari,8701,Alice Springs,21517,FINTER,Deirdre,5,N,N,IND,Independent,62,4.98
+NT,306,Lingiari,8701,Alice Springs,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,421,-5.32
+NT,306,Lingiari,8701,Alice Springs,999,Informal,Informal,999,N,N,,Informal,70,2.86
+NT,306,Lingiari,46405,Alice Springs Airport PPVC,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,0,0
+NT,306,Lingiari,46405,Alice Springs Airport PPVC,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),37,0.83
+NT,306,Lingiari,46405,Alice Springs Airport PPVC,21508,SHAW,Barbara,3,N,N,GRN,The Greens,21,12.49
+NT,306,Lingiari,46405,Alice Springs Airport PPVC,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,6,6
+NT,306,Lingiari,46405,Alice Springs Airport PPVC,21517,FINTER,Deirdre,5,N,N,IND,Independent,2,2
+NT,306,Lingiari,46405,Alice Springs Airport PPVC,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,34,-17.06
+NT,306,Lingiari,46405,Alice Springs Airport PPVC,999,Informal,Informal,999,N,N,,Informal,7,2.46
+NT,306,Lingiari,34172,Alice Springs PPVC,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,78,2.67
+NT,306,Lingiari,34172,Alice Springs PPVC,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),1054,-0.46
+NT,306,Lingiari,34172,Alice Springs PPVC,21508,SHAW,Barbara,3,N,N,GRN,The Greens,459,8.27
+NT,306,Lingiari,34172,Alice Springs PPVC,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,162,5.54
+NT,306,Lingiari,34172,Alice Springs PPVC,21517,FINTER,Deirdre,5,N,N,IND,Independent,165,5.65
+NT,306,Lingiari,34172,Alice Springs PPVC,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,1004,-16.28
+NT,306,Lingiari,34172,Alice Springs PPVC,999,Informal,Informal,999,N,N,,Informal,174,1.91
+NT,306,Lingiari,8702,Alyangula,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,3,1.05
+NT,306,Lingiari,8702,Alyangula,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),92,5.22
+NT,306,Lingiari,8702,Alyangula,21508,SHAW,Barbara,3,N,N,GRN,The Greens,31,2.94
+NT,306,Lingiari,8702,Alyangula,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,13,4.56
+NT,306,Lingiari,8702,Alyangula,21517,FINTER,Deirdre,5,N,N,IND,Independent,10,3.51
+NT,306,Lingiari,8702,Alyangula,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,136,-13.46
+NT,306,Lingiari,8702,Alyangula,999,Informal,Informal,999,N,N,,Informal,23,2.44
+NT,306,Lingiari,34266,Alyangula PPVC,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,0,0
+NT,306,Lingiari,34266,Alyangula PPVC,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),0,0
+NT,306,Lingiari,34266,Alyangula PPVC,21508,SHAW,Barbara,3,N,N,GRN,The Greens,0,0
+NT,306,Lingiari,34266,Alyangula PPVC,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,0,0
+NT,306,Lingiari,34266,Alyangula PPVC,21517,FINTER,Deirdre,5,N,N,IND,Independent,0,0
+NT,306,Lingiari,34266,Alyangula PPVC,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,0,0
+NT,306,Lingiari,34266,Alyangula PPVC,999,Informal,Informal,999,N,N,,Informal,0,0
+NT,306,Lingiari,34243,Assistant Divisional Office (PREPOLL),21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,0,0
+NT,306,Lingiari,34243,Assistant Divisional Office (PREPOLL),21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),0,0
+NT,306,Lingiari,34243,Assistant Divisional Office (PREPOLL),21508,SHAW,Barbara,3,N,N,GRN,The Greens,0,0
+NT,306,Lingiari,34243,Assistant Divisional Office (PREPOLL),21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,0,0
+NT,306,Lingiari,34243,Assistant Divisional Office (PREPOLL),21517,FINTER,Deirdre,5,N,N,IND,Independent,0,0
+NT,306,Lingiari,34243,Assistant Divisional Office (PREPOLL),21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,0,0
+NT,306,Lingiari,34243,Assistant Divisional Office (PREPOLL),999,Informal,Informal,999,N,N,,Informal,0,0
+NT,306,Lingiari,8704,Batchelor,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,4,1.45
+NT,306,Lingiari,8704,Batchelor,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),92,-6.28
+NT,306,Lingiari,8704,Batchelor,21508,SHAW,Barbara,3,N,N,GRN,The Greens,55,7.67
+NT,306,Lingiari,8704,Batchelor,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,10,3.64
+NT,306,Lingiari,8704,Batchelor,21517,FINTER,Deirdre,5,N,N,IND,Independent,8,2.91
+NT,306,Lingiari,8704,Batchelor,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,106,-4.94
+NT,306,Lingiari,8704,Batchelor,999,Informal,Informal,999,N,N,,Informal,16,3.82
+NT,306,Lingiari,34264,Bees Creek,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,30,2.88
+NT,306,Lingiari,34264,Bees Creek,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),426,-14.56
+NT,306,Lingiari,34264,Bees Creek,21508,SHAW,Barbara,3,N,N,GRN,The Greens,80,-1.23
+NT,306,Lingiari,34264,Bees Creek,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,42,4.03
+NT,306,Lingiari,34264,Bees Creek,21517,FINTER,Deirdre,5,N,N,IND,Independent,74,7.09
+NT,306,Lingiari,34264,Bees Creek,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,391,3.68
+NT,306,Lingiari,34264,Bees Creek,999,Informal,Informal,999,N,N,,Informal,79,4.91
+NT,306,Lingiari,8706,Berry Springs,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,23,3.37
+NT,306,Lingiari,8706,Berry Springs,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),278,-2.74
+NT,306,Lingiari,8706,Berry Springs,21508,SHAW,Barbara,3,N,N,GRN,The Greens,68,-2.2
+NT,306,Lingiari,8706,Berry Springs,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,13,1.9
+NT,306,Lingiari,8706,Berry Springs,21517,FINTER,Deirdre,5,N,N,IND,Independent,31,4.54
+NT,306,Lingiari,8706,Berry Springs,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,270,-1.86
+NT,306,Lingiari,8706,Berry Springs,999,Informal,Informal,999,N,N,,Informal,50,2.88
+NT,306,Lingiari,34265,Blatherskite Park,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,2,1.48
+NT,306,Lingiari,34265,Blatherskite Park,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),45,-15.28
+NT,306,Lingiari,34265,Blatherskite Park,21508,SHAW,Barbara,3,N,N,GRN,The Greens,13,1.89
+NT,306,Lingiari,34265,Blatherskite Park,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,11,8.15
+NT,306,Lingiari,34265,Blatherskite Park,21517,FINTER,Deirdre,5,N,N,IND,Independent,11,8.15
+NT,306,Lingiari,34265,Blatherskite Park,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,53,-0.37
+NT,306,Lingiari,34265,Blatherskite Park,999,Informal,Informal,999,N,N,,Informal,10,3.9
+NT,306,Lingiari,8707,Braitling,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,30,2.16
+NT,306,Lingiari,8707,Braitling,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),467,-19.12
+NT,306,Lingiari,8707,Braitling,21508,SHAW,Barbara,3,N,N,GRN,The Greens,196,6.01
+NT,306,Lingiari,8707,Braitling,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,102,7.33
+NT,306,Lingiari,8707,Braitling,21517,FINTER,Deirdre,5,N,N,IND,Independent,107,7.69
+NT,306,Lingiari,8707,Braitling,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,490,0.89
+NT,306,Lingiari,8707,Braitling,999,Informal,Informal,999,N,N,,Informal,104,3.86
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,11,4.62
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),60,-11.48
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,21508,SHAW,Barbara,3,N,N,GRN,The Greens,26,3.73
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,6,2.52
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,21517,FINTER,Deirdre,5,N,N,IND,Independent,16,6.72
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,119,-1.08
+NT,306,Lingiari,58672,Casuarina LINGIARI PPVC,999,Informal,Informal,999,N,N,,Informal,27,6.72
+NT,306,Lingiari,8886,Christmas Island,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,9,2.09
+NT,306,Lingiari,8886,Christmas Island,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),100,10.37
+NT,306,Lingiari,8886,Christmas Island,21508,SHAW,Barbara,3,N,N,GRN,The Greens,48,2.33
+NT,306,Lingiari,8886,Christmas Island,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,6,1.4
+NT,306,Lingiari,8886,Christmas Island,21517,FINTER,Deirdre,5,N,N,IND,Independent,8,1.86
+NT,306,Lingiari,8886,Christmas Island,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,259,-17.34
+NT,306,Lingiari,8886,Christmas Island,999,Informal,Informal,999,N,N,,Informal,19,2.59
+NT,306,Lingiari,34174,Christmas Island PPVC,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,0,0
+NT,306,Lingiari,34174,Christmas Island PPVC,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),0,0
+NT,306,Lingiari,34174,Christmas Island PPVC,21508,SHAW,Barbara,3,N,N,GRN,The Greens,0,0
+NT,306,Lingiari,34174,Christmas Island PPVC,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,0,0
+NT,306,Lingiari,34174,Christmas Island PPVC,21517,FINTER,Deirdre,5,N,N,IND,Independent,0,0
+NT,306,Lingiari,34174,Christmas Island PPVC,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,0,0
+NT,306,Lingiari,34174,Christmas Island PPVC,999,Informal,Informal,999,N,N,,Informal,0,0
+NT,306,Lingiari,34176,Cocos Islands PPVC,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,0,0
+NT,306,Lingiari,34176,Cocos Islands PPVC,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),0,0
+NT,306,Lingiari,34176,Cocos Islands PPVC,21508,SHAW,Barbara,3,N,N,GRN,The Greens,0,0
+NT,306,Lingiari,34176,Cocos Islands PPVC,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,0,0
+NT,306,Lingiari,34176,Cocos Islands PPVC,21517,FINTER,Deirdre,5,N,N,IND,Independent,0,0
+NT,306,Lingiari,34176,Cocos Islands PPVC,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,0,0
+NT,306,Lingiari,34176,Cocos Islands PPVC,999,Informal,Informal,999,N,N,,Informal,0,0
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,9,1.89
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),207,6.68
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,21508,SHAW,Barbara,3,N,N,GRN,The Greens,57,4.28
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,13,2.73
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,21517,FINTER,Deirdre,5,N,N,IND,Independent,23,4.83
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,167,-15.47
+NT,306,Lingiari,58673,Darwin LINGIARI PPVC,999,Informal,Informal,999,N,N,,Informal,28,1.86
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,1,5.26
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),13,68.42
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),21508,SHAW,Barbara,3,N,N,GRN,The Greens,0,0
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,0,0
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),21517,FINTER,Deirdre,5,N,N,IND,Independent,0,0
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,5,26.32
+NT,306,Lingiari,34133,Divisional Office (PREPOLL),999,Informal,Informal,999,N,N,,Informal,0,0
+NT,306,Lingiari,8711,Gillen,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,49,2.27
+NT,306,Lingiari,8711,Gillen,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),815,-15.04
+NT,306,Lingiari,8711,Gillen,21508,SHAW,Barbara,3,N,N,GRN,The Greens,273,3.98
+NT,306,Lingiari,8711,Gillen,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,135,6.24
+NT,306,Lingiari,8711,Gillen,21517,FINTER,Deirdre,5,N,N,IND,Independent,144,6.66
+NT,306,Lingiari,8711,Gillen,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,747,1.61
+NT,306,Lingiari,8711,Gillen,999,Informal,Informal,999,N,N,,Informal,175,4.35
+NT,306,Lingiari,8712,Home Island,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,9,4.11
+NT,306,Lingiari,8712,Home Island,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),94,27.7
+NT,306,Lingiari,8712,Home Island,21508,SHAW,Barbara,3,N,N,GRN,The Greens,2,-1.26
+NT,306,Lingiari,8712,Home Island,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,1,0.46
+NT,306,Lingiari,8712,Home Island,21517,FINTER,Deirdre,5,N,N,IND,Independent,1,0.46
+NT,306,Lingiari,8712,Home Island,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,112,-24.51
+NT,306,Lingiari,8712,Home Island,999,Informal,Informal,999,N,N,,Informal,10,-2.13
+NT,306,Lingiari,8713,Howard Springs,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,51,2.86
+NT,306,Lingiari,8713,Howard Springs,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),773,-11.21
+NT,306,Lingiari,8713,Howard Springs,21508,SHAW,Barbara,3,N,N,GRN,The Greens,138,-0.52
+NT,306,Lingiari,8713,Howard Springs,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,57,3.2
+NT,306,Lingiari,8713,Howard Springs,21517,FINTER,Deirdre,5,N,N,IND,Independent,112,6.29
+NT,306,Lingiari,8713,Howard Springs,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,651,3.13
+NT,306,Lingiari,8713,Howard Springs,999,Informal,Informal,999,N,N,,Informal,150,5.16
+NT,306,Lingiari,8714,Humpty Doo,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,60,2.93
+NT,306,Lingiari,8714,Humpty Doo,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),809,-8.23
+NT,306,Lingiari,8714,Humpty Doo,21508,SHAW,Barbara,3,N,N,GRN,The Greens,127,-2.98
+NT,306,Lingiari,8714,Humpty Doo,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,68,3.32
+NT,306,Lingiari,8714,Humpty Doo,21517,FINTER,Deirdre,5,N,N,IND,Independent,130,6.34
+NT,306,Lingiari,8714,Humpty Doo,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,857,1.79
+NT,306,Lingiari,8714,Humpty Doo,999,Informal,Informal,999,N,N,,Informal,151,3.42
+NT,306,Lingiari,46750,Humpty Doo Central PPVC,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,30,4.84
+NT,306,Lingiari,46750,Humpty Doo Central PPVC,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),282,9.19
+NT,306,Lingiari,46750,Humpty Doo Central PPVC,21508,SHAW,Barbara,3,N,N,GRN,The Greens,39,-0.97
+NT,306,Lingiari,46750,Humpty Doo Central PPVC,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,24,3.87
+NT,306,Lingiari,46750,Humpty Doo Central PPVC,21517,FINTER,Deirdre,5,N,N,IND,Independent,39,6.29
+NT,306,Lingiari,46750,Humpty Doo Central PPVC,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,206,-17.58
+NT,306,Lingiari,46750,Humpty Doo Central PPVC,999,Informal,Informal,999,N,N,,Informal,43,2.61
+NT,306,Lingiari,8715,Jabiru,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,5,1.92
+NT,306,Lingiari,8715,Jabiru,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),84,-4.48
+NT,306,Lingiari,8715,Jabiru,21508,SHAW,Barbara,3,N,N,GRN,The Greens,35,4.25
+NT,306,Lingiari,8715,Jabiru,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,5,1.92
+NT,306,Lingiari,8715,Jabiru,21517,FINTER,Deirdre,5,N,N,IND,Independent,7,2.68
+NT,306,Lingiari,8715,Jabiru,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,125,-1.17
+NT,306,Lingiari,8715,Jabiru,999,Informal,Informal,999,N,N,,Informal,18,2.56
+NT,306,Lingiari,34178,Jabiru PPVC,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,10,8.06
+NT,306,Lingiari,34178,Jabiru PPVC,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),34,-9.17
+NT,306,Lingiari,34178,Jabiru PPVC,21508,SHAW,Barbara,3,N,N,GRN,The Greens,15,4.78
+NT,306,Lingiari,34178,Jabiru PPVC,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,7,5.65
+NT,306,Lingiari,34178,Jabiru PPVC,21517,FINTER,Deirdre,5,N,N,IND,Independent,8,6.45
+NT,306,Lingiari,34178,Jabiru PPVC,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,50,-10.9
+NT,306,Lingiari,34178,Jabiru PPVC,999,Informal,Informal,999,N,N,,Informal,11,3.5
+NT,306,Lingiari,8717,Katherine,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,18,1.87
+NT,306,Lingiari,8717,Katherine,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),427,-10.4
+NT,306,Lingiari,8717,Katherine,21508,SHAW,Barbara,3,N,N,GRN,The Greens,112,4.47
+NT,306,Lingiari,8717,Katherine,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,25,2.6
+NT,306,Lingiari,8717,Katherine,21517,FINTER,Deirdre,5,N,N,IND,Independent,57,5.93
+NT,306,Lingiari,8717,Katherine,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,323,0.07
+NT,306,Lingiari,8717,Katherine,999,Informal,Informal,999,N,N,,Informal,56,3.29
+NT,306,Lingiari,12068,Katherine East,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,18,2.21
+NT,306,Lingiari,12068,Katherine East,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),332,-8.85
+NT,306,Lingiari,12068,Katherine East,21508,SHAW,Barbara,3,N,N,GRN,The Greens,76,2.72
+NT,306,Lingiari,12068,Katherine East,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,30,3.69
+NT,306,Lingiari,12068,Katherine East,21517,FINTER,Deirdre,5,N,N,IND,Independent,32,3.93
+NT,306,Lingiari,12068,Katherine East,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,326,2.72
+NT,306,Lingiari,12068,Katherine East,999,Informal,Informal,999,N,N,,Informal,57,4.32
+NT,306,Lingiari,34179,Katherine PPVC,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,39,2.21
+NT,306,Lingiari,34179,Katherine PPVC,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),864,12.44
+NT,306,Lingiari,34179,Katherine PPVC,21508,SHAW,Barbara,3,N,N,GRN,The Greens,142,0.58
+NT,306,Lingiari,34179,Katherine PPVC,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,40,2.27
+NT,306,Lingiari,34179,Katherine PPVC,21517,FINTER,Deirdre,5,N,N,IND,Independent,61,3.46
+NT,306,Lingiari,34179,Katherine PPVC,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,617,-15.56
+NT,306,Lingiari,34179,Katherine PPVC,999,Informal,Informal,999,N,N,,Informal,90,1.18
+NT,306,Lingiari,12069,Larapinta,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,27,2.54
+NT,306,Lingiari,12069,Larapinta,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),368,-16.79
+NT,306,Lingiari,12069,Larapinta,21508,SHAW,Barbara,3,N,N,GRN,The Greens,148,6.97
+NT,306,Lingiari,12069,Larapinta,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,70,6.57
+NT,306,Lingiari,12069,Larapinta,21517,FINTER,Deirdre,5,N,N,IND,Independent,80,7.51
+NT,306,Lingiari,12069,Larapinta,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,372,-2.72
+NT,306,Lingiari,12069,Larapinta,999,Informal,Informal,999,N,N,,Informal,79,4.06
+NT,306,Lingiari,8723,Nhulunbuy,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,34,2.81
+NT,306,Lingiari,8723,Nhulunbuy,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),306,-3.96
+NT,306,Lingiari,8723,Nhulunbuy,21508,SHAW,Barbara,3,N,N,GRN,The Greens,111,1.24
+NT,306,Lingiari,8723,Nhulunbuy,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,23,1.9
+NT,306,Lingiari,8723,Nhulunbuy,21517,FINTER,Deirdre,5,N,N,IND,Independent,38,3.15
+NT,306,Lingiari,8723,Nhulunbuy,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,696,-1.75
+NT,306,Lingiari,8723,Nhulunbuy,999,Informal,Informal,999,N,N,,Informal,92,3.51
+NT,306,Lingiari,34181,Nhulunbuy PPVC,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,7,1.98
+NT,306,Lingiari,34181,Nhulunbuy PPVC,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),96,-9.44
+NT,306,Lingiari,34181,Nhulunbuy PPVC,21508,SHAW,Barbara,3,N,N,GRN,The Greens,40,3.81
+NT,306,Lingiari,34181,Nhulunbuy PPVC,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,9,2.54
+NT,306,Lingiari,34181,Nhulunbuy PPVC,21517,FINTER,Deirdre,5,N,N,IND,Independent,14,3.95
+NT,306,Lingiari,34181,Nhulunbuy PPVC,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,188,2.45
+NT,306,Lingiari,34181,Nhulunbuy PPVC,999,Informal,Informal,999,N,N,,Informal,18,1.03
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,24,2.88
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),379,9.12
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,21508,SHAW,Barbara,3,N,N,GRN,The Greens,61,-0.42
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,44,5.29
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,21517,FINTER,Deirdre,5,N,N,IND,Independent,29,3.49
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,295,-14.93
+NT,306,Lingiari,58674,Palmerston LINGIARI PPVC,999,Informal,Informal,999,N,N,,Informal,74,4.44
+NT,306,Lingiari,8727,Pine Creek,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,8,7.08
+NT,306,Lingiari,8727,Pine Creek,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),49,-6.64
+NT,306,Lingiari,8727,Pine Creek,21508,SHAW,Barbara,3,N,N,GRN,The Greens,15,1.15
+NT,306,Lingiari,8727,Pine Creek,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,2,1.77
+NT,306,Lingiari,8727,Pine Creek,21517,FINTER,Deirdre,5,N,N,IND,Independent,2,1.77
+NT,306,Lingiari,8727,Pine Creek,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,37,0.16
+NT,306,Lingiari,8727,Pine Creek,999,Informal,Informal,999,N,N,,Informal,13,8.83
+NT,306,Lingiari,34143,Prison Mobile Team 1,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,11,5.88
+NT,306,Lingiari,34143,Prison Mobile Team 1,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),71,32.89
+NT,306,Lingiari,34143,Prison Mobile Team 1,21508,SHAW,Barbara,3,N,N,GRN,The Greens,17,7.4
+NT,306,Lingiari,34143,Prison Mobile Team 1,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,17,9.09
+NT,306,Lingiari,34143,Prison Mobile Team 1,21517,FINTER,Deirdre,5,N,N,IND,Independent,2,1.07
+NT,306,Lingiari,34143,Prison Mobile Team 1,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,69,-49.54
+NT,306,Lingiari,34143,Prison Mobile Team 1,999,Informal,Informal,999,N,N,,Informal,17,-3.61
+NT,306,Lingiari,34147,Remote Mobile Team 1,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,72,6.23
+NT,306,Lingiari,34147,Remote Mobile Team 1,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),306,16.71
+NT,306,Lingiari,34147,Remote Mobile Team 1,21508,SHAW,Barbara,3,N,N,GRN,The Greens,72,3.46
+NT,306,Lingiari,34147,Remote Mobile Team 1,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,23,1.99
+NT,306,Lingiari,34147,Remote Mobile Team 1,21517,FINTER,Deirdre,5,N,N,IND,Independent,15,1.3
+NT,306,Lingiari,34147,Remote Mobile Team 1,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,667,-25.89
+NT,306,Lingiari,34147,Remote Mobile Team 1,999,Informal,Informal,999,N,N,,Informal,87,-1.77
+NT,306,Lingiari,34156,Remote Mobile Team 10,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,9,2.02
+NT,306,Lingiari,34156,Remote Mobile Team 10,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),173,29.06
+NT,306,Lingiari,34156,Remote Mobile Team 10,21508,SHAW,Barbara,3,N,N,GRN,The Greens,31,4.16
+NT,306,Lingiari,34156,Remote Mobile Team 10,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,17,3.82
+NT,306,Lingiari,34156,Remote Mobile Team 10,21517,FINTER,Deirdre,5,N,N,IND,Independent,19,4.27
+NT,306,Lingiari,34156,Remote Mobile Team 10,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,196,-39.53
+NT,306,Lingiari,34156,Remote Mobile Team 10,999,Informal,Informal,999,N,N,,Informal,29,-2.66
+NT,306,Lingiari,34157,Remote Mobile Team 11,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,40,6.27
+NT,306,Lingiari,34157,Remote Mobile Team 11,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),158,15.02
+NT,306,Lingiari,34157,Remote Mobile Team 11,21508,SHAW,Barbara,3,N,N,GRN,The Greens,37,3.08
+NT,306,Lingiari,34157,Remote Mobile Team 11,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,5,0.78
+NT,306,Lingiari,34157,Remote Mobile Team 11,21517,FINTER,Deirdre,5,N,N,IND,Independent,6,0.94
+NT,306,Lingiari,34157,Remote Mobile Team 11,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,392,-22.23
+NT,306,Lingiari,34157,Remote Mobile Team 11,999,Informal,Informal,999,N,N,,Informal,47,-1.9
+NT,306,Lingiari,34158,Remote Mobile Team 12,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,9,2.04
+NT,306,Lingiari,34158,Remote Mobile Team 12,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),139,21.62
+NT,306,Lingiari,34158,Remote Mobile Team 12,21508,SHAW,Barbara,3,N,N,GRN,The Greens,42,6.8
+NT,306,Lingiari,34158,Remote Mobile Team 12,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,13,2.94
+NT,306,Lingiari,34158,Remote Mobile Team 12,21517,FINTER,Deirdre,5,N,N,IND,Independent,11,2.49
+NT,306,Lingiari,34158,Remote Mobile Team 12,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,228,-32.04
+NT,306,Lingiari,34158,Remote Mobile Team 12,999,Informal,Informal,999,N,N,,Informal,51,1.55
+NT,306,Lingiari,34159,Remote Mobile Team 13,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,2,4
+NT,306,Lingiari,34159,Remote Mobile Team 13,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),14,19.18
+NT,306,Lingiari,34159,Remote Mobile Team 13,21508,SHAW,Barbara,3,N,N,GRN,The Greens,19,35.06
+NT,306,Lingiari,34159,Remote Mobile Team 13,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,0,0
+NT,306,Lingiari,34159,Remote Mobile Team 13,21517,FINTER,Deirdre,5,N,N,IND,Independent,1,2
+NT,306,Lingiari,34159,Remote Mobile Team 13,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,14,-54.35
+NT,306,Lingiari,34159,Remote Mobile Team 13,999,Informal,Informal,999,N,N,,Informal,1,-6.15
+NT,306,Lingiari,34160,Remote Mobile Team 14,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,33,5.56
+NT,306,Lingiari,34160,Remote Mobile Team 14,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),97,6.6
+NT,306,Lingiari,34160,Remote Mobile Team 14,21508,SHAW,Barbara,3,N,N,GRN,The Greens,256,40.47
+NT,306,Lingiari,34160,Remote Mobile Team 14,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,28,4.72
+NT,306,Lingiari,34160,Remote Mobile Team 14,21517,FINTER,Deirdre,5,N,N,IND,Independent,7,1.18
+NT,306,Lingiari,34160,Remote Mobile Team 14,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,172,-54.77
+NT,306,Lingiari,34160,Remote Mobile Team 14,999,Informal,Informal,999,N,N,,Informal,66,1.25
+NT,306,Lingiari,34161,Remote Mobile Team 15,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,10,2.74
+NT,306,Lingiari,34161,Remote Mobile Team 15,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),12,-6.55
+NT,306,Lingiari,34161,Remote Mobile Team 15,21508,SHAW,Barbara,3,N,N,GRN,The Greens,155,39.81
+NT,306,Lingiari,34161,Remote Mobile Team 15,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,7,1.92
+NT,306,Lingiari,34161,Remote Mobile Team 15,21517,FINTER,Deirdre,5,N,N,IND,Independent,1,0.27
+NT,306,Lingiari,34161,Remote Mobile Team 15,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,180,-34.29
+NT,306,Lingiari,34161,Remote Mobile Team 15,999,Informal,Informal,999,N,N,,Informal,21,-3.35
+NT,306,Lingiari,34162,Remote Mobile Team 16,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,30,7.28
+NT,306,Lingiari,34162,Remote Mobile Team 16,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),42,0.42
+NT,306,Lingiari,34162,Remote Mobile Team 16,21508,SHAW,Barbara,3,N,N,GRN,The Greens,141,31.49
+NT,306,Lingiari,34162,Remote Mobile Team 16,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,132,32.04
+NT,306,Lingiari,34162,Remote Mobile Team 16,21517,FINTER,Deirdre,5,N,N,IND,Independent,6,1.46
+NT,306,Lingiari,34162,Remote Mobile Team 16,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,61,-68.78
+NT,306,Lingiari,34162,Remote Mobile Team 16,999,Informal,Informal,999,N,N,,Informal,47,1.51
+NT,306,Lingiari,34163,Remote Mobile Team 17,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,8,2.61
+NT,306,Lingiari,34163,Remote Mobile Team 17,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),61,10.08
+NT,306,Lingiari,34163,Remote Mobile Team 17,21508,SHAW,Barbara,3,N,N,GRN,The Greens,71,20.43
+NT,306,Lingiari,34163,Remote Mobile Team 17,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,19,6.21
+NT,306,Lingiari,34163,Remote Mobile Team 17,21517,FINTER,Deirdre,5,N,N,IND,Independent,2,0.65
+NT,306,Lingiari,34163,Remote Mobile Team 17,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,145,-36.3
+NT,306,Lingiari,34163,Remote Mobile Team 17,999,Informal,Informal,999,N,N,,Informal,33,1.02
+NT,306,Lingiari,34164,Remote Mobile Team 18,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,27,3.91
+NT,306,Lingiari,34164,Remote Mobile Team 18,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),148,11.58
+NT,306,Lingiari,34164,Remote Mobile Team 18,21508,SHAW,Barbara,3,N,N,GRN,The Greens,166,21.23
+NT,306,Lingiari,34164,Remote Mobile Team 18,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,169,24.46
+NT,306,Lingiari,34164,Remote Mobile Team 18,21517,FINTER,Deirdre,5,N,N,IND,Independent,24,3.47
+NT,306,Lingiari,34164,Remote Mobile Team 18,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,157,-60.79
+NT,306,Lingiari,34164,Remote Mobile Team 18,999,Informal,Informal,999,N,N,,Informal,68,0.22
+NT,306,Lingiari,34165,Remote Mobile Team 19,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,14,8.05
+NT,306,Lingiari,34165,Remote Mobile Team 19,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),45,16.05
+NT,306,Lingiari,34165,Remote Mobile Team 19,21508,SHAW,Barbara,3,N,N,GRN,The Greens,69,36.81
+NT,306,Lingiari,34165,Remote Mobile Team 19,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,6,3.45
+NT,306,Lingiari,34165,Remote Mobile Team 19,21517,FINTER,Deirdre,5,N,N,IND,Independent,3,1.72
+NT,306,Lingiari,34165,Remote Mobile Team 19,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,37,-62.28
+NT,306,Lingiari,34165,Remote Mobile Team 19,999,Informal,Informal,999,N,N,,Informal,25,3.89
+NT,306,Lingiari,34148,Remote Mobile Team 2,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,56,14.51
+NT,306,Lingiari,34148,Remote Mobile Team 2,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),154,30.12
+NT,306,Lingiari,34148,Remote Mobile Team 2,21508,SHAW,Barbara,3,N,N,GRN,The Greens,18,1.89
+NT,306,Lingiari,34148,Remote Mobile Team 2,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,4,1.04
+NT,306,Lingiari,34148,Remote Mobile Team 2,21517,FINTER,Deirdre,5,N,N,IND,Independent,3,0.78
+NT,306,Lingiari,34148,Remote Mobile Team 2,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,151,-44.38
+NT,306,Lingiari,34148,Remote Mobile Team 2,999,Informal,Informal,999,N,N,,Informal,128,16.11
+NT,306,Lingiari,38439,Remote Mobile Team 21,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,19,3.75
+NT,306,Lingiari,38439,Remote Mobile Team 21,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),134,16.67
+NT,306,Lingiari,38439,Remote Mobile Team 21,21508,SHAW,Barbara,3,N,N,GRN,The Greens,25,2.17
+NT,306,Lingiari,38439,Remote Mobile Team 21,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,8,1.58
+NT,306,Lingiari,38439,Remote Mobile Team 21,21517,FINTER,Deirdre,5,N,N,IND,Independent,5,0.99
+NT,306,Lingiari,38439,Remote Mobile Team 21,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,316,-21.28
+NT,306,Lingiari,38439,Remote Mobile Team 21,999,Informal,Informal,999,N,N,,Informal,71,3.54
+NT,306,Lingiari,46752,Remote Mobile Team 22,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,19,8.12
+NT,306,Lingiari,46752,Remote Mobile Team 22,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),112,37.96
+NT,306,Lingiari,46752,Remote Mobile Team 22,21508,SHAW,Barbara,3,N,N,GRN,The Greens,26,8.38
+NT,306,Lingiari,46752,Remote Mobile Team 22,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,2,0.85
+NT,306,Lingiari,46752,Remote Mobile Team 22,21517,FINTER,Deirdre,5,N,N,IND,Independent,2,0.85
+NT,306,Lingiari,46752,Remote Mobile Team 22,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,73,-52.42
+NT,306,Lingiari,46752,Remote Mobile Team 22,999,Informal,Informal,999,N,N,,Informal,35,4.29
+NT,306,Lingiari,34149,Remote Mobile Team 3,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,26,6.21
+NT,306,Lingiari,34149,Remote Mobile Team 3,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),129,20.97
+NT,306,Lingiari,34149,Remote Mobile Team 3,21508,SHAW,Barbara,3,N,N,GRN,The Greens,21,2.33
+NT,306,Lingiari,34149,Remote Mobile Team 3,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,7,1.67
+NT,306,Lingiari,34149,Remote Mobile Team 3,21517,FINTER,Deirdre,5,N,N,IND,Independent,11,2.63
+NT,306,Lingiari,34149,Remote Mobile Team 3,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,225,-29.78
+NT,306,Lingiari,34149,Remote Mobile Team 3,999,Informal,Informal,999,N,N,,Informal,59,3.58
+NT,306,Lingiari,34150,Remote Mobile Team 4,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,96,13.56
+NT,306,Lingiari,34150,Remote Mobile Team 4,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),126,7.98
+NT,306,Lingiari,34150,Remote Mobile Team 4,21508,SHAW,Barbara,3,N,N,GRN,The Greens,51,4.43
+NT,306,Lingiari,34150,Remote Mobile Team 4,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,12,1.69
+NT,306,Lingiari,34150,Remote Mobile Team 4,21517,FINTER,Deirdre,5,N,N,IND,Independent,10,1.41
+NT,306,Lingiari,34150,Remote Mobile Team 4,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,413,-25.21
+NT,306,Lingiari,34150,Remote Mobile Team 4,999,Informal,Informal,999,N,N,,Informal,99,3.56
+NT,306,Lingiari,34151,Remote Mobile Team 5,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,75,7
+NT,306,Lingiari,34151,Remote Mobile Team 5,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),196,8.51
+NT,306,Lingiari,34151,Remote Mobile Team 5,21508,SHAW,Barbara,3,N,N,GRN,The Greens,35,0.47
+NT,306,Lingiari,34151,Remote Mobile Team 5,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,12,1.12
+NT,306,Lingiari,34151,Remote Mobile Team 5,21517,FINTER,Deirdre,5,N,N,IND,Independent,245,22.88
+NT,306,Lingiari,34151,Remote Mobile Team 5,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,508,-36.09
+NT,306,Lingiari,34151,Remote Mobile Team 5,999,Informal,Informal,999,N,N,,Informal,85,-1.4
+NT,306,Lingiari,34152,Remote Mobile Team 6,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,166,12.97
+NT,306,Lingiari,34152,Remote Mobile Team 6,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),242,9.12
+NT,306,Lingiari,34152,Remote Mobile Team 6,21508,SHAW,Barbara,3,N,N,GRN,The Greens,109,5.74
+NT,306,Lingiari,34152,Remote Mobile Team 6,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,33,2.58
+NT,306,Lingiari,34152,Remote Mobile Team 6,21517,FINTER,Deirdre,5,N,N,IND,Independent,16,1.25
+NT,306,Lingiari,34152,Remote Mobile Team 6,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,714,-27.83
+NT,306,Lingiari,34152,Remote Mobile Team 6,999,Informal,Informal,999,N,N,,Informal,252,7.68
+NT,306,Lingiari,34153,Remote Mobile Team 7,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,28,12.02
+NT,306,Lingiari,34153,Remote Mobile Team 7,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),66,18.62
+NT,306,Lingiari,34153,Remote Mobile Team 7,21508,SHAW,Barbara,3,N,N,GRN,The Greens,10,1.43
+NT,306,Lingiari,34153,Remote Mobile Team 7,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,2,0.86
+NT,306,Lingiari,34153,Remote Mobile Team 7,21517,FINTER,Deirdre,5,N,N,IND,Independent,0,0
+NT,306,Lingiari,34153,Remote Mobile Team 7,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,127,-28.92
+NT,306,Lingiari,34153,Remote Mobile Team 7,999,Informal,Informal,999,N,N,,Informal,56,10.76
+NT,306,Lingiari,34154,Remote Mobile Team 8,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,32,10.13
+NT,306,Lingiari,34154,Remote Mobile Team 8,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),148,37.08
+NT,306,Lingiari,34154,Remote Mobile Team 8,21508,SHAW,Barbara,3,N,N,GRN,The Greens,14,1.72
+NT,306,Lingiari,34154,Remote Mobile Team 8,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,4,1.27
+NT,306,Lingiari,34154,Remote Mobile Team 8,21517,FINTER,Deirdre,5,N,N,IND,Independent,6,1.9
+NT,306,Lingiari,34154,Remote Mobile Team 8,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,112,-48.3
+NT,306,Lingiari,34154,Remote Mobile Team 8,999,Informal,Informal,999,N,N,,Informal,13,-4.94
+NT,306,Lingiari,34155,Remote Mobile Team 9,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,69,11.35
+NT,306,Lingiari,34155,Remote Mobile Team 9,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),169,18.02
+NT,306,Lingiari,34155,Remote Mobile Team 9,21508,SHAW,Barbara,3,N,N,GRN,The Greens,20,0.49
+NT,306,Lingiari,34155,Remote Mobile Team 9,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,7,1.15
+NT,306,Lingiari,34155,Remote Mobile Team 9,21517,FINTER,Deirdre,5,N,N,IND,Independent,5,0.82
+NT,306,Lingiari,34155,Remote Mobile Team 9,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,338,-28.02
+NT,306,Lingiari,34155,Remote Mobile Team 9,999,Informal,Informal,999,N,N,,Informal,85,3.46
+NT,306,Lingiari,8731,Sadadeen,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,31,1.72
+NT,306,Lingiari,8731,Sadadeen,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),527,-16.98
+NT,306,Lingiari,8731,Sadadeen,21508,SHAW,Barbara,3,N,N,GRN,The Greens,274,4.02
+NT,306,Lingiari,8731,Sadadeen,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,162,9
+NT,306,Lingiari,8731,Sadadeen,21517,FINTER,Deirdre,5,N,N,IND,Independent,145,8.06
+NT,306,Lingiari,8731,Sadadeen,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,661,-0.58
+NT,306,Lingiari,8731,Sadadeen,999,Informal,Informal,999,N,N,,Informal,119,3.75
+NT,306,Lingiari,34132,Special Hospital Team 1,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,4,5.33
+NT,306,Lingiari,34132,Special Hospital Team 1,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),18,9.33
+NT,306,Lingiari,34132,Special Hospital Team 1,21508,SHAW,Barbara,3,N,N,GRN,The Greens,19,22.66
+NT,306,Lingiari,34132,Special Hospital Team 1,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,8,10.67
+NT,306,Lingiari,34132,Special Hospital Team 1,21517,FINTER,Deirdre,5,N,N,IND,Independent,0,0
+NT,306,Lingiari,34132,Special Hospital Team 1,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,26,-40
+NT,306,Lingiari,34132,Special Hospital Team 1,999,Informal,Informal,999,N,N,,Informal,6,1.16
+NT,306,Lingiari,34144,Special Hospital Team 2,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,1,2.7
+NT,306,Lingiari,34144,Special Hospital Team 2,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),2,-10.22
+NT,306,Lingiari,34144,Special Hospital Team 2,21508,SHAW,Barbara,3,N,N,GRN,The Greens,11,26.6
+NT,306,Lingiari,34144,Special Hospital Team 2,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,1,2.7
+NT,306,Lingiari,34144,Special Hospital Team 2,21517,FINTER,Deirdre,5,N,N,IND,Independent,0,0
+NT,306,Lingiari,34144,Special Hospital Team 2,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,22,-12.42
+NT,306,Lingiari,34144,Special Hospital Team 2,999,Informal,Informal,999,N,N,,Informal,0,-5.88
+NT,306,Lingiari,34145,Special Hospital Team 3,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,1,2.78
+NT,306,Lingiari,34145,Special Hospital Team 3,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),15,28.34
+NT,306,Lingiari,34145,Special Hospital Team 3,21508,SHAW,Barbara,3,N,N,GRN,The Greens,2,2.23
+NT,306,Lingiari,34145,Special Hospital Team 3,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,0,0
+NT,306,Lingiari,34145,Special Hospital Team 3,21517,FINTER,Deirdre,5,N,N,IND,Independent,0,0
+NT,306,Lingiari,34145,Special Hospital Team 3,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,18,-23.33
+NT,306,Lingiari,34145,Special Hospital Team 3,999,Informal,Informal,999,N,N,,Informal,0,-6.25
+NT,306,Lingiari,34146,Special Hospital Team 4,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,2,40
+NT,306,Lingiari,34146,Special Hospital Team 4,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),1,20
+NT,306,Lingiari,34146,Special Hospital Team 4,21508,SHAW,Barbara,3,N,N,GRN,The Greens,0,0
+NT,306,Lingiari,34146,Special Hospital Team 4,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,0,0
+NT,306,Lingiari,34146,Special Hospital Team 4,21517,FINTER,Deirdre,5,N,N,IND,Independent,0,0
+NT,306,Lingiari,34146,Special Hospital Team 4,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,2,40
+NT,306,Lingiari,34146,Special Hospital Team 4,999,Informal,Informal,999,N,N,,Informal,0,0
+NT,306,Lingiari,8733,Tennant Creek,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,29,2.99
+NT,306,Lingiari,8733,Tennant Creek,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),255,-3.69
+NT,306,Lingiari,8733,Tennant Creek,21508,SHAW,Barbara,3,N,N,GRN,The Greens,327,29.16
+NT,306,Lingiari,8733,Tennant Creek,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,12,1.24
+NT,306,Lingiari,8733,Tennant Creek,21517,FINTER,Deirdre,5,N,N,IND,Independent,15,1.55
+NT,306,Lingiari,8733,Tennant Creek,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,332,-24.4
+NT,306,Lingiari,8733,Tennant Creek,999,Informal,Informal,999,N,N,,Informal,83,2.24
+NT,306,Lingiari,34183,Tennant Creek PPVC,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,6,1.91
+NT,306,Lingiari,34183,Tennant Creek PPVC,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),90,-8.06
+NT,306,Lingiari,34183,Tennant Creek PPVC,21508,SHAW,Barbara,3,N,N,GRN,The Greens,59,11.76
+NT,306,Lingiari,34183,Tennant Creek PPVC,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,4,1.27
+NT,306,Lingiari,34183,Tennant Creek PPVC,21517,FINTER,Deirdre,5,N,N,IND,Independent,10,3.18
+NT,306,Lingiari,34183,Tennant Creek PPVC,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,145,-4.6
+NT,306,Lingiari,34183,Tennant Creek PPVC,999,Informal,Informal,999,N,N,,Informal,20,2.23
+NT,306,Lingiari,8888,Tindal,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,2,0.74
+NT,306,Lingiari,8888,Tindal,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),177,7.12
+NT,306,Lingiari,8888,Tindal,21508,SHAW,Barbara,3,N,N,GRN,The Greens,18,0.91
+NT,306,Lingiari,8888,Tindal,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,9,3.33
+NT,306,Lingiari,8888,Tindal,21517,FINTER,Deirdre,5,N,N,IND,Independent,10,3.7
+NT,306,Lingiari,8888,Tindal,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,54,-8.81
+NT,306,Lingiari,8888,Tindal,999,Informal,Informal,999,N,N,,Informal,10,1.95
+NT,306,Lingiari,8736,West Island,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,1,2.38
+NT,306,Lingiari,8736,West Island,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),14,3.82
+NT,306,Lingiari,8736,West Island,21508,SHAW,Barbara,3,N,N,GRN,The Greens,4,-5.23
+NT,306,Lingiari,8736,West Island,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,0,0
+NT,306,Lingiari,8736,West Island,21517,FINTER,Deirdre,5,N,N,IND,Independent,1,2.38
+NT,306,Lingiari,8736,West Island,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,22,-3.36
+NT,306,Lingiari,8736,West Island,999,Informal,Informal,999,N,N,,Informal,4,5.53
+NT,306,Lingiari,8710,Yirara,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,11,2.87
+NT,306,Lingiari,8710,Yirara,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),132,-19.16
+NT,306,Lingiari,8710,Yirara,21508,SHAW,Barbara,3,N,N,GRN,The Greens,66,7.01
+NT,306,Lingiari,8710,Yirara,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,32,8.36
+NT,306,Lingiari,8710,Yirara,21517,FINTER,Deirdre,5,N,N,IND,Independent,26,6.79
+NT,306,Lingiari,8710,Yirara,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,116,-2.13
+NT,306,Lingiari,8710,Yirara,999,Informal,Informal,999,N,N,,Informal,36,5.22
+NT,306,Lingiari,8737,Yulara,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,3,1.7
+NT,306,Lingiari,8737,Yulara,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),52,-2.14
+NT,306,Lingiari,8737,Yulara,21508,SHAW,Barbara,3,N,N,GRN,The Greens,34,-1.26
+NT,306,Lingiari,8737,Yulara,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,4,2.27
+NT,306,Lingiari,8737,Yulara,21517,FINTER,Deirdre,5,N,N,IND,Independent,8,4.55
+NT,306,Lingiari,8737,Yulara,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,75,2.28
+NT,306,Lingiari,8737,Yulara,999,Informal,Informal,999,N,N,,Informal,9,2.84
+NT,306,Lingiari,34185,Yulara PPVC,21510,FLYNN,Peter,1,N,N,CEC,Citizens Electoral Council,2,4.08
+NT,306,Lingiari,34185,Yulara PPVC,21511,ABBOTT,Leo,2,N,N,CLP,Country Liberals (NT),12,-8.84
+NT,306,Lingiari,34185,Yulara PPVC,21508,SHAW,Barbara,3,N,N,GRN,The Greens,10,9.3
+NT,306,Lingiari,34185,Yulara PPVC,21926,LECHLEITNER,Kenny,4,N,N,IND,Independent,3,6.12
+NT,306,Lingiari,34185,Yulara PPVC,21517,FINTER,Deirdre,5,N,N,IND,Independent,1,2.04
+NT,306,Lingiari,34185,Yulara PPVC,21513,SNOWDON,Warren Edward,6,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,21,-12.7
+NT,306,Lingiari,34185,Yulara PPVC,999,Informal,Informal,999,N,N,,Informal,1,2
+NT,307,Solomon,8703,Anula,21311,KEARNEY,John,1,N,N,ON,One Nation,35,2.56
+NT,307,Solomon,8703,Anula,21440,YOUNG,Emma,2,N,N,GRN,The Greens,145,2.22
+NT,307,Solomon,8703,Anula,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,590,-3.38
+NT,307,Solomon,8703,Anula,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),583,-1.04
+NT,307,Solomon,8703,Anula,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,15,0.86
+NT,307,Solomon,8703,Anula,999,Informal,Informal,999,N,N,,Informal,83,3.52
+NT,307,Solomon,33137,Bakewell,21311,KEARNEY,John,1,N,N,ON,One Nation,91,3.32
+NT,307,Solomon,33137,Bakewell,21440,YOUNG,Emma,2,N,N,GRN,The Greens,226,3.91
+NT,307,Solomon,33137,Bakewell,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,931,-6.61
+NT,307,Solomon,33137,Bakewell,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),1453,-0.07
+NT,307,Solomon,33137,Bakewell,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,36,1
+NT,307,Solomon,33137,Bakewell,999,Informal,Informal,999,N,N,,Informal,179,2.95
+NT,307,Solomon,8705,Berrimah,21311,KEARNEY,John,1,N,N,ON,One Nation,29,4.97
+NT,307,Solomon,8705,Berrimah,21440,YOUNG,Emma,2,N,N,GRN,The Greens,58,5.03
+NT,307,Solomon,8705,Berrimah,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,138,-8.02
+NT,307,Solomon,8705,Berrimah,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),348,-2.25
+NT,307,Solomon,8705,Berrimah,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,10,1.58
+NT,307,Solomon,8705,Berrimah,999,Informal,Informal,999,N,N,,Informal,19,0.9
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,21311,KEARNEY,John,1,N,N,ON,One Nation,78,3.1
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,21440,YOUNG,Emma,2,N,N,GRN,The Greens,270,1.23
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,1080,4.37
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),1051,-7.1
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,35,0.71
+NT,307,Solomon,34248,Casuarina SOLOMON PPVC,999,Informal,Informal,999,N,N,,Informal,143,2.99
+NT,307,Solomon,8709,Darwin,21311,KEARNEY,John,1,N,N,ON,One Nation,37,2.37
+NT,307,Solomon,8709,Darwin,21440,YOUNG,Emma,2,N,N,GRN,The Greens,289,7.91
+NT,307,Solomon,8709,Darwin,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,438,-9.19
+NT,307,Solomon,8709,Darwin,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),786,-0.06
+NT,307,Solomon,8709,Darwin,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,14,0.5
+NT,307,Solomon,8709,Darwin,999,Informal,Informal,999,N,N,,Informal,65,0.91
+NT,307,Solomon,46407,Darwin Airport PPVC,21311,KEARNEY,John,1,N,N,ON,One Nation,4,1.87
+NT,307,Solomon,46407,Darwin Airport PPVC,21440,YOUNG,Emma,2,N,N,GRN,The Greens,27,3.61
+NT,307,Solomon,46407,Darwin Airport PPVC,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,77,-2.76
+NT,307,Solomon,46407,Darwin Airport PPVC,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),104,-0.05
+NT,307,Solomon,46407,Darwin Airport PPVC,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,2,0.03
+NT,307,Solomon,46407,Darwin Airport PPVC,999,Informal,Informal,999,N,N,,Informal,16,4.33
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,21311,KEARNEY,John,1,N,N,ON,One Nation,83,2.13
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,21440,YOUNG,Emma,2,N,N,GRN,The Greens,495,3.22
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,1271,-6.08
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),2012,2.7
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,36,0.31
+NT,307,Solomon,34139,Darwin SOLOMON PPVC,999,Informal,Informal,999,N,N,,Informal,162,1.6
+NT,307,Solomon,34135,Divisional Office (PREPOLL),21311,KEARNEY,John,1,N,N,ON,One Nation,2,1.6
+NT,307,Solomon,34135,Divisional Office (PREPOLL),21440,YOUNG,Emma,2,N,N,GRN,The Greens,21,7.45
+NT,307,Solomon,34135,Divisional Office (PREPOLL),21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,32,-12.72
+NT,307,Solomon,34135,Divisional Office (PREPOLL),21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),68,5.8
+NT,307,Solomon,34135,Divisional Office (PREPOLL),21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,2,0.67
+NT,307,Solomon,34135,Divisional Office (PREPOLL),999,Informal,Informal,999,N,N,,Informal,4,0.37
+NT,307,Solomon,8725,Driver,21311,KEARNEY,John,1,N,N,ON,One Nation,95,4.8
+NT,307,Solomon,8725,Driver,21440,YOUNG,Emma,2,N,N,GRN,The Greens,166,1.52
+NT,307,Solomon,8725,Driver,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,706,-6.97
+NT,307,Solomon,8725,Driver,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),975,1.46
+NT,307,Solomon,8725,Driver,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,38,0.98
+NT,307,Solomon,8725,Driver,999,Informal,Informal,999,N,N,,Informal,169,4.96
+NT,307,Solomon,32595,Durack,21311,KEARNEY,John,1,N,N,ON,One Nation,62,4.12
+NT,307,Solomon,32595,Durack,21440,YOUNG,Emma,2,N,N,GRN,The Greens,128,4.72
+NT,307,Solomon,32595,Durack,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,407,-2.97
+NT,307,Solomon,32595,Durack,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),899,-4.28
+NT,307,Solomon,32595,Durack,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,8,0.47
+NT,307,Solomon,32595,Durack,999,Informal,Informal,999,N,N,,Informal,75,2.49
+NT,307,Solomon,58818,Fort Hill Wharf PPVC,21311,KEARNEY,John,1,N,N,ON,One Nation,0,0
+NT,307,Solomon,58818,Fort Hill Wharf PPVC,21440,YOUNG,Emma,2,N,N,GRN,The Greens,0,0
+NT,307,Solomon,58818,Fort Hill Wharf PPVC,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,0,0
+NT,307,Solomon,58818,Fort Hill Wharf PPVC,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),0,0
+NT,307,Solomon,58818,Fort Hill Wharf PPVC,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,0,0
+NT,307,Solomon,58818,Fort Hill Wharf PPVC,999,Informal,Informal,999,N,N,,Informal,0,0
+NT,307,Solomon,8887,Gray,21311,KEARNEY,John,1,N,N,ON,One Nation,53,3.37
+NT,307,Solomon,8887,Gray,21440,YOUNG,Emma,2,N,N,GRN,The Greens,135,3.69
+NT,307,Solomon,8887,Gray,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,574,-7.63
+NT,307,Solomon,8887,Gray,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),783,0.58
+NT,307,Solomon,8887,Gray,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,29,1.4
+NT,307,Solomon,8887,Gray,999,Informal,Informal,999,N,N,,Informal,129,3.93
+NT,307,Solomon,8716,Karama,21311,KEARNEY,John,1,N,N,ON,One Nation,67,3.52
+NT,307,Solomon,8716,Karama,21440,YOUNG,Emma,2,N,N,GRN,The Greens,179,3.18
+NT,307,Solomon,8716,Karama,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,842,-5.2
+NT,307,Solomon,8716,Karama,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),790,-0.57
+NT,307,Solomon,8716,Karama,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,23,0.73
+NT,307,Solomon,8716,Karama,999,Informal,Informal,999,N,N,,Informal,142,3.45
+NT,307,Solomon,38315,Karama East,21311,KEARNEY,John,1,N,N,ON,One Nation,26,3.18
+NT,307,Solomon,38315,Karama East,21440,YOUNG,Emma,2,N,N,GRN,The Greens,83,4.14
+NT,307,Solomon,38315,Karama East,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,357,-9.8
+NT,307,Solomon,38315,Karama East,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),335,1.94
+NT,307,Solomon,38315,Karama East,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,16,1.74
+NT,307,Solomon,38315,Karama East,999,Informal,Informal,999,N,N,,Informal,64,3.47
+NT,307,Solomon,8718,Larrakeyah,21311,KEARNEY,John,1,N,N,ON,One Nation,15,1.39
+NT,307,Solomon,8718,Larrakeyah,21440,YOUNG,Emma,2,N,N,GRN,The Greens,127,4.33
+NT,307,Solomon,8718,Larrakeyah,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,287,-5.6
+NT,307,Solomon,8718,Larrakeyah,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),640,0.35
+NT,307,Solomon,8718,Larrakeyah,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,10,0.6
+NT,307,Solomon,8718,Larrakeyah,999,Informal,Informal,999,N,N,,Informal,27,0.3
+NT,307,Solomon,8719,Leanyer,21311,KEARNEY,John,1,N,N,ON,One Nation,35,1.9
+NT,307,Solomon,8719,Leanyer,21440,YOUNG,Emma,2,N,N,GRN,The Greens,206,3.17
+NT,307,Solomon,8719,Leanyer,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,702,-4.41
+NT,307,Solomon,8719,Leanyer,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),883,0.63
+NT,307,Solomon,8719,Leanyer,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,19,0.54
+NT,307,Solomon,8719,Leanyer,999,Informal,Informal,999,N,N,,Informal,95,2.32
+NT,307,Solomon,8720,Ludmilla,21311,KEARNEY,John,1,N,N,ON,One Nation,43,2.88
+NT,307,Solomon,8720,Ludmilla,21440,YOUNG,Emma,2,N,N,GRN,The Greens,212,4.1
+NT,307,Solomon,8720,Ludmilla,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,500,-5.74
+NT,307,Solomon,8720,Ludmilla,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),712,-0.87
+NT,307,Solomon,8720,Ludmilla,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,25,1.03
+NT,307,Solomon,8720,Ludmilla,999,Informal,Informal,999,N,N,,Informal,69,1.62
+NT,307,Solomon,38314,Malak,21311,KEARNEY,John,1,N,N,ON,One Nation,29,3.68
+NT,307,Solomon,38314,Malak,21440,YOUNG,Emma,2,N,N,GRN,The Greens,94,3.43
+NT,307,Solomon,38314,Malak,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,334,-7.46
+NT,307,Solomon,38314,Malak,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),318,0.84
+NT,307,Solomon,38314,Malak,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,14,1.41
+NT,307,Solomon,38314,Malak,999,Informal,Informal,999,N,N,,Informal,46,2.34
+NT,307,Solomon,8721,Moil,21311,KEARNEY,John,1,N,N,ON,One Nation,53,2.75
+NT,307,Solomon,8721,Moil,21440,YOUNG,Emma,2,N,N,GRN,The Greens,279,4.19
+NT,307,Solomon,8721,Moil,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,780,-8.02
+NT,307,Solomon,8721,Moil,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),789,1.28
+NT,307,Solomon,8721,Moil,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,27,0.95
+NT,307,Solomon,8721,Moil,999,Informal,Informal,999,N,N,,Informal,116,2.19
+NT,307,Solomon,32596,Moulden,21311,KEARNEY,John,1,N,N,ON,One Nation,18,3.9
+NT,307,Solomon,32596,Moulden,21440,YOUNG,Emma,2,N,N,GRN,The Greens,36,0.48
+NT,307,Solomon,32596,Moulden,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,188,-9.72
+NT,307,Solomon,32596,Moulden,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),212,5.66
+NT,307,Solomon,32596,Moulden,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,7,0.85
+NT,307,Solomon,32596,Moulden,999,Informal,Informal,999,N,N,,Informal,35,1.85
+NT,307,Solomon,8722,Nakara,21311,KEARNEY,John,1,N,N,ON,One Nation,47,2.68
+NT,307,Solomon,8722,Nakara,21440,YOUNG,Emma,2,N,N,GRN,The Greens,279,5.63
+NT,307,Solomon,8722,Nakara,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,724,-7.36
+NT,307,Solomon,8722,Nakara,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),671,-0.79
+NT,307,Solomon,8722,Nakara,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,34,1.35
+NT,307,Solomon,8722,Nakara,999,Informal,Informal,999,N,N,,Informal,88,1.64
+NT,307,Solomon,8724,Nightcliff,21311,KEARNEY,John,1,N,N,ON,One Nation,54,1.67
+NT,307,Solomon,8724,Nightcliff,21440,YOUNG,Emma,2,N,N,GRN,The Greens,729,7.86
+NT,307,Solomon,8724,Nightcliff,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,1172,-5.36
+NT,307,Solomon,8724,Nightcliff,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),1239,-3.1
+NT,307,Solomon,8724,Nightcliff,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,32,0.62
+NT,307,Solomon,8724,Nightcliff,999,Informal,Informal,999,N,N,,Informal,188,2.21
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,21311,KEARNEY,John,1,N,N,ON,One Nation,114,4.55
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,21440,YOUNG,Emma,2,N,N,GRN,The Greens,188,-1.98
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,846,-4.83
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),1323,3.85
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,36,0.79
+NT,307,Solomon,34249,Palmerston SOLOMON PPVC,999,Informal,Informal,999,N,N,,Informal,135,2.59
+NT,307,Solomon,8726,Parap,21311,KEARNEY,John,1,N,N,ON,One Nation,47,1.77
+NT,307,Solomon,8726,Parap,21440,YOUNG,Emma,2,N,N,GRN,The Greens,463,3.83
+NT,307,Solomon,8726,Parap,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,891,-4.24
+NT,307,Solomon,8726,Parap,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),1237,-0.41
+NT,307,Solomon,8726,Parap,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,24,0.67
+NT,307,Solomon,8726,Parap,999,Informal,Informal,999,N,N,,Informal,105,1.29
+NT,307,Solomon,34138,Prison Mobile Team 1,21311,KEARNEY,John,1,N,N,ON,One Nation,0,0
+NT,307,Solomon,34138,Prison Mobile Team 1,21440,YOUNG,Emma,2,N,N,GRN,The Greens,2,1.82
+NT,307,Solomon,34138,Prison Mobile Team 1,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,5,-31.82
+NT,307,Solomon,34138,Prison Mobile Team 1,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),2,20
+NT,307,Solomon,34138,Prison Mobile Team 1,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,1,10
+NT,307,Solomon,34138,Prison Mobile Team 1,999,Informal,Informal,999,N,N,,Informal,0,0
+NT,307,Solomon,8729,Rapid Creek,21311,KEARNEY,John,1,N,N,ON,One Nation,40,3.34
+NT,307,Solomon,8729,Rapid Creek,21440,YOUNG,Emma,2,N,N,GRN,The Greens,270,11.16
+NT,307,Solomon,8729,Rapid Creek,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,439,-11.56
+NT,307,Solomon,8729,Rapid Creek,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),431,-2.19
+NT,307,Solomon,8729,Rapid Creek,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,19,0.78
+NT,307,Solomon,8729,Rapid Creek,999,Informal,Informal,999,N,N,,Informal,45,0.78
+NT,307,Solomon,34131,Special Hospital Team 1,21311,KEARNEY,John,1,N,N,ON,One Nation,3,2.94
+NT,307,Solomon,34131,Special Hospital Team 1,21440,YOUNG,Emma,2,N,N,GRN,The Greens,7,2.36
+NT,307,Solomon,34131,Special Hospital Team 1,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,50,-6.84
+NT,307,Solomon,34131,Special Hospital Team 1,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),39,5.81
+NT,307,Solomon,34131,Special Hospital Team 1,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,3,1.14
+NT,307,Solomon,34131,Special Hospital Team 1,999,Informal,Informal,999,N,N,,Informal,7,0.49
+NT,307,Solomon,8732,Stuart Park,21311,KEARNEY,John,1,N,N,ON,One Nation,23,1.63
+NT,307,Solomon,8732,Stuart Park,21440,YOUNG,Emma,2,N,N,GRN,The Greens,189,3.14
+NT,307,Solomon,8732,Stuart Park,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,494,-2
+NT,307,Solomon,8732,Stuart Park,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),687,-2.62
+NT,307,Solomon,8732,Stuart Park,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,14,0.76
+NT,307,Solomon,8732,Stuart Park,999,Informal,Informal,999,N,N,,Informal,76,1.28
+NT,307,Solomon,8730,Tiwi,21311,KEARNEY,John,1,N,N,ON,One Nation,31,3.26
+NT,307,Solomon,8730,Tiwi,21440,YOUNG,Emma,2,N,N,GRN,The Greens,152,2.66
+NT,307,Solomon,8730,Tiwi,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,375,-5.7
+NT,307,Solomon,8730,Tiwi,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),377,-0.44
+NT,307,Solomon,8730,Tiwi,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,17,1.5
+NT,307,Solomon,8730,Tiwi,999,Informal,Informal,999,N,N,,Informal,49,1.79
+NT,307,Solomon,8734,Wanguri,21311,KEARNEY,John,1,N,N,ON,One Nation,47,2.97
+NT,307,Solomon,8734,Wanguri,21440,YOUNG,Emma,2,N,N,GRN,The Greens,209,4.97
+NT,307,Solomon,8734,Wanguri,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,642,-6.6
+NT,307,Solomon,8734,Wanguri,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),673,0.2
+NT,307,Solomon,8734,Wanguri,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,14,0.28
+NT,307,Solomon,8734,Wanguri,999,Informal,Informal,999,N,N,,Informal,110,3.67
+NT,307,Solomon,32593,Woodroffe,21311,KEARNEY,John,1,N,N,ON,One Nation,19,3.61
+NT,307,Solomon,32593,Woodroffe,21440,YOUNG,Emma,2,N,N,GRN,The Greens,56,5.13
+NT,307,Solomon,32593,Woodroffe,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,206,-5.03
+NT,307,Solomon,32593,Woodroffe,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),235,-4.23
+NT,307,Solomon,32593,Woodroffe,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,10,1.44
+NT,307,Solomon,32593,Woodroffe,999,Informal,Informal,999,N,N,,Informal,23,0.64
+NT,307,Solomon,12070,Wulagi,21311,KEARNEY,John,1,N,N,ON,One Nation,39,3.67
+NT,307,Solomon,12070,Wulagi,21440,YOUNG,Emma,2,N,N,GRN,The Greens,123,-0.35
+NT,307,Solomon,12070,Wulagi,21480,HALE,Damian Francis,3,N,Y,ALP,Australian Labor Party (Northern Territory) Branch,473,-2.7
+NT,307,Solomon,12070,Wulagi,21477,GRIGGS,Natasha,4,Y,N,CLP,Country Liberals (NT),410,-1.41
+NT,307,Solomon,12070,Wulagi,21468,CAMPBELL,Trudy,5,N,N,CEC,Citizens Electoral Council,19,1.69
+NT,307,Solomon,12070,Wulagi,999,Informal,Informal,999,N,N,,Informal,50,1.57

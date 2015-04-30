@@ -8,8 +8,8 @@ parties = ['ALP', 'LIB', 'NAT', 'COA', 'DEM', 'GRN', 'ONP', 'PUP', 'KAP', 'FF', 
 others = ['DEM', 'ONP', 'PUP', 'KAP', 'FF', 'CD', 'OTH']
 joined_parties = ['ALP', 'COA', 'GRN', 'OTH']
 
-states = ['NSW', 'VIC', 'SA', 'WA', 'QLD', 'TAS']
-pollsters = ['Morgan', 'Newspoll', 'Galaxy', 'Essential', 'ReachTEL']
+states = ['NSW', 'VIC', 'SA', 'WA', 'QLD', 'TAS', 'AUS']
+pollsters = ['Morgan', 'Newspoll', 'Galaxy', 'Essential', 'ReachTEL', 'Nielsen', 'Ipsos']
 
 VIC_polls = LoadData.LoadPolls('VIC')
 NSW_polls = LoadData.LoadPolls('NSW')
@@ -17,8 +17,9 @@ SA_polls = LoadData.LoadPolls('SA')
 WA_polls = LoadData.LoadPolls('WA')
 QLD_polls = LoadData.LoadPolls('QLD')
 TAS_polls = LoadData.LoadPolls('TAS')
+FED_polls = LoadData.LoadPolls('AUS')
 
-state_polls = [NSW_polls, VIC_polls, SA_polls, WA_polls, QLD_polls, TAS_polls]
+state_polls = [NSW_polls, VIC_polls, SA_polls, WA_polls, QLD_polls, TAS_polls, FED_polls]
 
 elections_from_2000 = LoadData.LoadElections()
 
@@ -59,6 +60,11 @@ def JoinOthers(poll):
 	for party in others:
 		if not np.isnan(poll.results(party)) and poll.results(party) != 0:
 			others_vote = others_vote + poll.results(party)
+	try:
+
+		del poll._results['Informal']
+	except KeyError:
+		pass
 
 	poll.change_result('OTH', others_vote)
 

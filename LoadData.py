@@ -69,7 +69,10 @@ class Election(Poll):
 
 def LoadPolls(state):
     poll_list = []
-    filename = 'data/polling_data/' + state + '_state_polls.csv'
+    if state != 'AUS':
+        filename = 'data/polling_data/' + state + '_state_polls.csv'
+    else:
+        filename = 'data/polling_data/FED_polls_primary.csv'
     pollframe = pd.read_csv(filename)
     for i in range(0,len(pollframe)):
         results_dict = {}
@@ -79,9 +82,13 @@ def LoadPolls(state):
             except KeyError:
                 pass
         try:
-            poll_list.append(Poll(pollframe['Pollster'][i], state, pd.to_datetime(pollframe['PollMedianDate'][i],dayfirst=True), pollframe['N'][i], results_dict, pollframe['ALP_TPP'][i]))
+            sample_size = pollframe['N'][i]
         except KeyError:
-            poll_list.append(Poll(pollframe['Pollster'][i], state, pd.to_datetime(pollframe['PollMedianDate'][i],dayfirst=True), pollframe['N'][i], results_dict, np.nan))
+            sample_size = np.nan
+        try:
+            poll_list.append(Poll(pollframe['Pollster'][i], state, pd.to_datetime(pollframe['PollMedianDate'][i],dayfirst=True), sample_size, results_dict, pollframe['ALP_TPP'][i]))
+        except KeyError:
+            poll_list.append(Poll(pollframe['Pollster'][i], state, pd.to_datetime(pollframe['PollMedianDate'][i],dayfirst=True), sample_size, results_dict, np.nan))
     return poll_list
 
 def LoadElections():
@@ -96,3 +103,5 @@ def LoadElections():
                 pass
         election_list.append(Election('Election', electionframe['State'][i], pd.to_datetime(electionframe['Date'][i],dayfirst=True), electionframe['N'][i], results_dict, electionframe['ALP_TPP'][i]))
     return election_list
+
+LoadPolls('AUS')

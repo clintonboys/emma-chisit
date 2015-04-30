@@ -1,0 +1,491 @@
+2007 Federal Election House of Representatives First Preferences By Candidate By Polling Place for NT [Event:13745 Phase:FinalResults Generated:2008-09-03T12:42:13 Cycle:349e38e7-5eda-4bc7-a4a0-805bff59620f Created:2008-08-13T17:22:12 Environment:TEST Site:Primary Server:TST-VTR04 Version:4.8.0.0]
+StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
+NT,306,Lingiari,8701,Alice Springs,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,634,-3.87
+NT,306,Lingiari,8701,Alice Springs,18471,WRIGHT,Wayne,2,N,N,IND,Independent,20,1.24
+NT,306,Lingiari,8701,Alice Springs,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,49,3.03
+NT,306,Lingiari,8701,Alice Springs,17171,GILES,Adam,4,N,N,CLP,C.L.P.,717,1.6
+NT,306,Lingiari,8701,Alice Springs,17288,YOUNG,Emma,5,N,N,GRN,The Greens,199,2.52
+NT,306,Lingiari,8701,Alice Springs,999,Informal,Informal,999,N,N,,Informal,41,-0.52
+NT,306,Lingiari,8702,Alyangula,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,208,4.55
+NT,306,Lingiari,8702,Alyangula,18471,WRIGHT,Wayne,2,N,N,IND,Independent,8,2.35
+NT,306,Lingiari,8702,Alyangula,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,5,1.47
+NT,306,Lingiari,8702,Alyangula,17171,GILES,Adam,4,N,N,CLP,C.L.P.,92,-3.76
+NT,306,Lingiari,8702,Alyangula,17288,YOUNG,Emma,5,N,N,GRN,The Greens,27,1.49
+NT,306,Lingiari,8702,Alyangula,999,Informal,Informal,999,N,N,,Informal,18,-1.35
+NT,306,Lingiari,8704,Batchelor,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,127,1.17
+NT,306,Lingiari,8704,Batchelor,18471,WRIGHT,Wayne,2,N,N,IND,Independent,3,1.03
+NT,306,Lingiari,8704,Batchelor,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,10,3.42
+NT,306,Lingiari,8704,Batchelor,17171,GILES,Adam,4,N,N,CLP,C.L.P.,116,-4.64
+NT,306,Lingiari,8704,Batchelor,17288,YOUNG,Emma,5,N,N,GRN,The Greens,36,3.11
+NT,306,Lingiari,8704,Batchelor,999,Informal,Informal,999,N,N,,Informal,5,-1.94
+NT,306,Lingiari,34264,Bees Creek,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,357,-0.61
+NT,306,Lingiari,34264,Bees Creek,18471,WRIGHT,Wayne,2,N,N,IND,Independent,13,1.23
+NT,306,Lingiari,34264,Bees Creek,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,7,0.66
+NT,306,Lingiari,34264,Bees Creek,17171,GILES,Adam,4,N,N,CLP,C.L.P.,585,1.08
+NT,306,Lingiari,34264,Bees Creek,17288,YOUNG,Emma,5,N,N,GRN,The Greens,94,2.16
+NT,306,Lingiari,34264,Bees Creek,999,Informal,Informal,999,N,N,,Informal,23,-1.62
+NT,306,Lingiari,8706,Berry Springs,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,303,4.29
+NT,306,Lingiari,8706,Berry Springs,18471,WRIGHT,Wayne,2,N,N,IND,Independent,6,0.82
+NT,306,Lingiari,8706,Berry Springs,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,16,2.19
+NT,306,Lingiari,8706,Berry Springs,17171,GILES,Adam,4,N,N,CLP,C.L.P.,318,-4.83
+NT,306,Lingiari,8706,Berry Springs,17288,YOUNG,Emma,5,N,N,GRN,The Greens,89,3.71
+NT,306,Lingiari,8706,Berry Springs,999,Informal,Informal,999,N,N,,Informal,30,0.03
+NT,306,Lingiari,34265,Blatherskite Park,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,128,-19.46
+NT,306,Lingiari,34265,Blatherskite Park,18471,WRIGHT,Wayne,2,N,N,IND,Independent,9,2.79
+NT,306,Lingiari,34265,Blatherskite Park,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,4,1.24
+NT,306,Lingiari,34265,Blatherskite Park,17171,GILES,Adam,4,N,N,CLP,C.L.P.,157,18.09
+NT,306,Lingiari,34265,Blatherskite Park,17288,YOUNG,Emma,5,N,N,GRN,The Greens,25,2.22
+NT,306,Lingiari,34265,Blatherskite Park,999,Informal,Informal,999,N,N,,Informal,10,-5.33
+NT,306,Lingiari,8707,Braitling,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,527,-4.44
+NT,306,Lingiari,8707,Braitling,18471,WRIGHT,Wayne,2,N,N,IND,Independent,38,2.47
+NT,306,Lingiari,8707,Braitling,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,38,2.47
+NT,306,Lingiari,8707,Braitling,17171,GILES,Adam,4,N,N,CLP,C.L.P.,809,0.46
+NT,306,Lingiari,8707,Braitling,17288,YOUNG,Emma,5,N,N,GRN,The Greens,124,2.07
+NT,306,Lingiari,8707,Braitling,999,Informal,Informal,999,N,N,,Informal,49,-1.42
+NT,306,Lingiari,8886,Christmas Island,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,325,7.21
+NT,306,Lingiari,8886,Christmas Island,18471,WRIGHT,Wayne,2,N,N,IND,Independent,3,0.72
+NT,306,Lingiari,8886,Christmas Island,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,0,0
+NT,306,Lingiari,8886,Christmas Island,17171,GILES,Adam,4,N,N,CLP,C.L.P.,54,-0.01
+NT,306,Lingiari,8886,Christmas Island,17288,YOUNG,Emma,5,N,N,GRN,The Greens,37,2.27
+NT,306,Lingiari,8886,Christmas Island,999,Informal,Informal,999,N,N,,Informal,7,-4.32
+NT,306,Lingiari,8711,Gillen,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,812,-9.03
+NT,306,Lingiari,8711,Gillen,18471,WRIGHT,Wayne,2,N,N,IND,Independent,30,1.22
+NT,306,Lingiari,8711,Gillen,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,111,4.5
+NT,306,Lingiari,8711,Gillen,17171,GILES,Adam,4,N,N,CLP,C.L.P.,1300,5.21
+NT,306,Lingiari,8711,Gillen,17288,YOUNG,Emma,5,N,N,GRN,The Greens,213,3.39
+NT,306,Lingiari,8711,Gillen,999,Informal,Informal,999,N,N,,Informal,80,-0.89
+NT,306,Lingiari,8712,Home Island,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,174,-6.38
+NT,306,Lingiari,8712,Home Island,18471,WRIGHT,Wayne,2,N,N,IND,Independent,10,4.35
+NT,306,Lingiari,8712,Home Island,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,6,2.61
+NT,306,Lingiari,8712,Home Island,17171,GILES,Adam,4,N,N,CLP,C.L.P.,35,5.08
+NT,306,Lingiari,8712,Home Island,17288,YOUNG,Emma,5,N,N,GRN,The Greens,5,0.79
+NT,306,Lingiari,8712,Home Island,999,Informal,Informal,999,N,N,,Informal,16,-6.35
+NT,306,Lingiari,8713,Howard Springs,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,651,1.22
+NT,306,Lingiari,8713,Howard Springs,18471,WRIGHT,Wayne,2,N,N,IND,Independent,42,2.15
+NT,306,Lingiari,8713,Howard Springs,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,31,1.59
+NT,306,Lingiari,8713,Howard Springs,17171,GILES,Adam,4,N,N,CLP,C.L.P.,1064,-3.03
+NT,306,Lingiari,8713,Howard Springs,17288,YOUNG,Emma,5,N,N,GRN,The Greens,161,2.39
+NT,306,Lingiari,8713,Howard Springs,999,Informal,Informal,999,N,N,,Informal,52,-1.5
+NT,306,Lingiari,8714,Humpty Doo,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,1021,6.26
+NT,306,Lingiari,8714,Humpty Doo,18471,WRIGHT,Wayne,2,N,N,IND,Independent,42,1.65
+NT,306,Lingiari,8714,Humpty Doo,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,39,1.53
+NT,306,Lingiari,8714,Humpty Doo,17171,GILES,Adam,4,N,N,CLP,C.L.P.,1217,-6.41
+NT,306,Lingiari,8714,Humpty Doo,17288,YOUNG,Emma,5,N,N,GRN,The Greens,234,2.44
+NT,306,Lingiari,8714,Humpty Doo,999,Informal,Informal,999,N,N,,Informal,91,-1.45
+NT,306,Lingiari,8715,Jabiru,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,182,-0.24
+NT,306,Lingiari,8715,Jabiru,18471,WRIGHT,Wayne,2,N,N,IND,Independent,10,2.7
+NT,306,Lingiari,8715,Jabiru,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,9,2.43
+NT,306,Lingiari,8715,Jabiru,17171,GILES,Adam,4,N,N,CLP,C.L.P.,136,-0.24
+NT,306,Lingiari,8715,Jabiru,17288,YOUNG,Emma,5,N,N,GRN,The Greens,34,4.09
+NT,306,Lingiari,8715,Jabiru,999,Informal,Informal,999,N,N,,Informal,15,1.42
+NT,306,Lingiari,8717,Katherine,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,444,-6.69
+NT,306,Lingiari,8717,Katherine,18471,WRIGHT,Wayne,2,N,N,IND,Independent,27,2.04
+NT,306,Lingiari,8717,Katherine,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,33,2.49
+NT,306,Lingiari,8717,Katherine,17171,GILES,Adam,4,N,N,CLP,C.L.P.,726,5.08
+NT,306,Lingiari,8717,Katherine,17288,YOUNG,Emma,5,N,N,GRN,The Greens,95,1.13
+NT,306,Lingiari,8717,Katherine,999,Informal,Informal,999,N,N,,Informal,30,-2.01
+NT,306,Lingiari,12068,Katherine East,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,361,-4.98
+NT,306,Lingiari,12068,Katherine East,18471,WRIGHT,Wayne,2,N,N,IND,Independent,19,1.96
+NT,306,Lingiari,12068,Katherine East,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,43,4.45
+NT,306,Lingiari,12068,Katherine East,17171,GILES,Adam,4,N,N,CLP,C.L.P.,480,2.33
+NT,306,Lingiari,12068,Katherine East,17288,YOUNG,Emma,5,N,N,GRN,The Greens,64,1.24
+NT,306,Lingiari,12068,Katherine East,999,Informal,Informal,999,N,N,,Informal,22,-2.19
+NT,306,Lingiari,12069,Larapinta,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,462,-2.38
+NT,306,Lingiari,12069,Larapinta,18471,WRIGHT,Wayne,2,N,N,IND,Independent,21,1.71
+NT,306,Lingiari,12069,Larapinta,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,29,2.36
+NT,306,Lingiari,12069,Larapinta,17171,GILES,Adam,4,N,N,CLP,C.L.P.,630,0.94
+NT,306,Lingiari,12069,Larapinta,17288,YOUNG,Emma,5,N,N,GRN,The Greens,85,0.92
+NT,306,Lingiari,12069,Larapinta,999,Informal,Informal,999,N,N,,Informal,36,-1.1
+NT,306,Lingiari,8723,Nhulunbuy,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,754,8.34
+NT,306,Lingiari,8723,Nhulunbuy,18471,WRIGHT,Wayne,2,N,N,IND,Independent,27,2.13
+NT,306,Lingiari,8723,Nhulunbuy,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,16,1.26
+NT,306,Lingiari,8723,Nhulunbuy,17171,GILES,Adam,4,N,N,CLP,C.L.P.,372,-7.93
+NT,306,Lingiari,8723,Nhulunbuy,17288,YOUNG,Emma,5,N,N,GRN,The Greens,101,0.78
+NT,306,Lingiari,8723,Nhulunbuy,999,Informal,Informal,999,N,N,,Informal,47,-1.43
+NT,306,Lingiari,8727,Pine Creek,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,43,-6.71
+NT,306,Lingiari,8727,Pine Creek,18471,WRIGHT,Wayne,2,N,N,IND,Independent,5,3.79
+NT,306,Lingiari,8727,Pine Creek,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,2,1.52
+NT,306,Lingiari,8727,Pine Creek,17171,GILES,Adam,4,N,N,CLP,C.L.P.,66,-3.57
+NT,306,Lingiari,8727,Pine Creek,17288,YOUNG,Emma,5,N,N,GRN,The Greens,16,8.55
+NT,306,Lingiari,8727,Pine Creek,999,Informal,Informal,999,N,N,,Informal,2,0.31
+NT,306,Lingiari,34143,Prison Mobile Team 1,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,51,0.58
+NT,306,Lingiari,34143,Prison Mobile Team 1,18471,WRIGHT,Wayne,2,N,N,IND,Independent,2,3.39
+NT,306,Lingiari,34143,Prison Mobile Team 1,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,2,3.39
+NT,306,Lingiari,34143,Prison Mobile Team 1,17171,GILES,Adam,4,N,N,CLP,C.L.P.,3,2.05
+NT,306,Lingiari,34143,Prison Mobile Team 1,17288,YOUNG,Emma,5,N,N,GRN,The Greens,1,0.68
+NT,306,Lingiari,34143,Prison Mobile Team 1,999,Informal,Informal,999,N,N,,Informal,8,2.77
+NT,306,Lingiari,34147,Remote Mobile Team 1,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,985,6.46
+NT,306,Lingiari,34147,Remote Mobile Team 1,18471,WRIGHT,Wayne,2,N,N,IND,Independent,20,1.64
+NT,306,Lingiari,34147,Remote Mobile Team 1,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,55,4.52
+NT,306,Lingiari,34147,Remote Mobile Team 1,17171,GILES,Adam,4,N,N,CLP,C.L.P.,99,-10.35
+NT,306,Lingiari,34147,Remote Mobile Team 1,17288,YOUNG,Emma,5,N,N,GRN,The Greens,59,2.33
+NT,306,Lingiari,34147,Remote Mobile Team 1,999,Informal,Informal,999,N,N,,Informal,79,-0.91
+NT,306,Lingiari,34156,Remote Mobile Team 10,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,273,-18.91
+NT,306,Lingiari,34156,Remote Mobile Team 10,18471,WRIGHT,Wayne,2,N,N,IND,Independent,9,1.83
+NT,306,Lingiari,34156,Remote Mobile Team 10,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,17,3.45
+NT,306,Lingiari,34156,Remote Mobile Team 10,17171,GILES,Adam,4,N,N,CLP,C.L.P.,174,16.78
+NT,306,Lingiari,34156,Remote Mobile Team 10,17288,YOUNG,Emma,5,N,N,GRN,The Greens,20,1.49
+NT,306,Lingiari,34156,Remote Mobile Team 10,999,Informal,Informal,999,N,N,,Informal,21,-2.85
+NT,306,Lingiari,34157,Remote Mobile Team 11,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,556,4.15
+NT,306,Lingiari,34157,Remote Mobile Team 11,18471,WRIGHT,Wayne,2,N,N,IND,Independent,14,1.98
+NT,306,Lingiari,34157,Remote Mobile Team 11,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,8,1.13
+NT,306,Lingiari,34157,Remote Mobile Team 11,17171,GILES,Adam,4,N,N,CLP,C.L.P.,109,-3.09
+NT,306,Lingiari,34157,Remote Mobile Team 11,17288,YOUNG,Emma,5,N,N,GRN,The Greens,21,0.5
+NT,306,Lingiari,34157,Remote Mobile Team 11,999,Informal,Informal,999,N,N,,Informal,58,0.66
+NT,306,Lingiari,34158,Remote Mobile Team 12,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,484,10.79
+NT,306,Lingiari,34158,Remote Mobile Team 12,18471,WRIGHT,Wayne,2,N,N,IND,Independent,8,1.41
+NT,306,Lingiari,34158,Remote Mobile Team 12,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,29,5.11
+NT,306,Lingiari,34158,Remote Mobile Team 12,17171,GILES,Adam,4,N,N,CLP,C.L.P.,35,-12.28
+NT,306,Lingiari,34158,Remote Mobile Team 12,17288,YOUNG,Emma,5,N,N,GRN,The Greens,12,-0.38
+NT,306,Lingiari,34158,Remote Mobile Team 12,999,Informal,Informal,999,N,N,,Informal,59,2.45
+NT,306,Lingiari,34159,Remote Mobile Team 13,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,18,-17.82
+NT,306,Lingiari,34159,Remote Mobile Team 13,18471,WRIGHT,Wayne,2,N,N,IND,Independent,1,3.13
+NT,306,Lingiari,34159,Remote Mobile Team 13,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,2,6.25
+NT,306,Lingiari,34159,Remote Mobile Team 13,17171,GILES,Adam,4,N,N,CLP,C.L.P.,11,15.86
+NT,306,Lingiari,34159,Remote Mobile Team 13,17288,YOUNG,Emma,5,N,N,GRN,The Greens,0,-1.85
+NT,306,Lingiari,34159,Remote Mobile Team 13,999,Informal,Informal,999,N,N,,Informal,3,1.67
+NT,306,Lingiari,34160,Remote Mobile Team 14,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,620,17.25
+NT,306,Lingiari,34160,Remote Mobile Team 14,18471,WRIGHT,Wayne,2,N,N,IND,Independent,2,0.3
+NT,306,Lingiari,34160,Remote Mobile Team 14,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,7,1.04
+NT,306,Lingiari,34160,Remote Mobile Team 14,17171,GILES,Adam,4,N,N,CLP,C.L.P.,38,-12.8
+NT,306,Lingiari,34160,Remote Mobile Team 14,17288,YOUNG,Emma,5,N,N,GRN,The Greens,9,-1.09
+NT,306,Lingiari,34160,Remote Mobile Team 14,999,Informal,Informal,999,N,N,,Informal,58,0.98
+NT,306,Lingiari,34161,Remote Mobile Team 15,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,469,20.64
+NT,306,Lingiari,34161,Remote Mobile Team 15,18471,WRIGHT,Wayne,2,N,N,IND,Independent,10,2.03
+NT,306,Lingiari,34161,Remote Mobile Team 15,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,4,0.81
+NT,306,Lingiari,34161,Remote Mobile Team 15,17171,GILES,Adam,4,N,N,CLP,C.L.P.,5,-17.36
+NT,306,Lingiari,34161,Remote Mobile Team 15,17288,YOUNG,Emma,5,N,N,GRN,The Greens,5,-1.54
+NT,306,Lingiari,34161,Remote Mobile Team 15,999,Informal,Informal,999,N,N,,Informal,33,-0.62
+NT,306,Lingiari,34162,Remote Mobile Team 16,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,424,6.32
+NT,306,Lingiari,34162,Remote Mobile Team 16,18471,WRIGHT,Wayne,2,N,N,IND,Independent,8,1.52
+NT,306,Lingiari,34162,Remote Mobile Team 16,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,6,1.14
+NT,306,Lingiari,34162,Remote Mobile Team 16,17171,GILES,Adam,4,N,N,CLP,C.L.P.,71,-4.87
+NT,306,Lingiari,34162,Remote Mobile Team 16,17288,YOUNG,Emma,5,N,N,GRN,The Greens,16,0.58
+NT,306,Lingiari,34162,Remote Mobile Team 16,999,Informal,Informal,999,N,N,,Informal,38,-0.14
+NT,306,Lingiari,34163,Remote Mobile Team 17,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,227,-4.93
+NT,306,Lingiari,34163,Remote Mobile Team 17,18471,WRIGHT,Wayne,2,N,N,IND,Independent,7,2.15
+NT,306,Lingiari,34163,Remote Mobile Team 17,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,1,0.31
+NT,306,Lingiari,34163,Remote Mobile Team 17,17171,GILES,Adam,4,N,N,CLP,C.L.P.,81,6.48
+NT,306,Lingiari,34163,Remote Mobile Team 17,17288,YOUNG,Emma,5,N,N,GRN,The Greens,10,0.6
+NT,306,Lingiari,34163,Remote Mobile Team 17,999,Informal,Informal,999,N,N,,Informal,36,3.03
+NT,306,Lingiari,34164,Remote Mobile Team 18,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,703,13.94
+NT,306,Lingiari,34164,Remote Mobile Team 18,18471,WRIGHT,Wayne,2,N,N,IND,Independent,12,1.51
+NT,306,Lingiari,34164,Remote Mobile Team 18,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,6,0.75
+NT,306,Lingiari,34164,Remote Mobile Team 18,17171,GILES,Adam,4,N,N,CLP,C.L.P.,47,-12.54
+NT,306,Lingiari,34164,Remote Mobile Team 18,17288,YOUNG,Emma,5,N,N,GRN,The Greens,27,0.96
+NT,306,Lingiari,34164,Remote Mobile Team 18,999,Informal,Informal,999,N,N,,Informal,56,-0.36
+NT,306,Lingiari,34165,Remote Mobile Team 19,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,292,11.4
+NT,306,Lingiari,34165,Remote Mobile Team 19,18471,WRIGHT,Wayne,2,N,N,IND,Independent,5,1.47
+NT,306,Lingiari,34165,Remote Mobile Team 19,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,10,2.93
+NT,306,Lingiari,34165,Remote Mobile Team 19,17171,GILES,Adam,4,N,N,CLP,C.L.P.,20,-12.53
+NT,306,Lingiari,34165,Remote Mobile Team 19,17288,YOUNG,Emma,5,N,N,GRN,The Greens,14,1.66
+NT,306,Lingiari,34165,Remote Mobile Team 19,999,Informal,Informal,999,N,N,,Informal,7,-4.85
+NT,306,Lingiari,34148,Remote Mobile Team 2,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,573,12.56
+NT,306,Lingiari,34148,Remote Mobile Team 2,18471,WRIGHT,Wayne,2,N,N,IND,Independent,16,2.43
+NT,306,Lingiari,34148,Remote Mobile Team 2,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,34,5.17
+NT,306,Lingiari,34148,Remote Mobile Team 2,17171,GILES,Adam,4,N,N,CLP,C.L.P.,14,-16.31
+NT,306,Lingiari,34148,Remote Mobile Team 2,17288,YOUNG,Emma,5,N,N,GRN,The Greens,21,0.72
+NT,306,Lingiari,34148,Remote Mobile Team 2,999,Informal,Informal,999,N,N,,Informal,41,-1.03
+NT,306,Lingiari,38439,Remote Mobile Team 21,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,453,-17.93
+NT,306,Lingiari,38439,Remote Mobile Team 21,18471,WRIGHT,Wayne,2,N,N,IND,Independent,8,1.45
+NT,306,Lingiari,38439,Remote Mobile Team 21,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,5,0.91
+NT,306,Lingiari,38439,Remote Mobile Team 21,17171,GILES,Adam,4,N,N,CLP,C.L.P.,76,13.77
+NT,306,Lingiari,38439,Remote Mobile Team 21,17288,YOUNG,Emma,5,N,N,GRN,The Greens,10,1.81
+NT,306,Lingiari,38439,Remote Mobile Team 21,999,Informal,Informal,999,N,N,,Informal,39,6.6
+NT,306,Lingiari,46752,Remote Mobile Team 22,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,233,4.91
+NT,306,Lingiari,46752,Remote Mobile Team 22,18471,WRIGHT,Wayne,2,N,N,IND,Independent,1,0.34
+NT,306,Lingiari,46752,Remote Mobile Team 22,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,1,0.34
+NT,306,Lingiari,46752,Remote Mobile Team 22,17171,GILES,Adam,4,N,N,CLP,C.L.P.,50,-1.57
+NT,306,Lingiari,46752,Remote Mobile Team 22,17288,YOUNG,Emma,5,N,N,GRN,The Greens,9,0.41
+NT,306,Lingiari,46752,Remote Mobile Team 22,999,Informal,Informal,999,N,N,,Informal,30,2.26
+NT,306,Lingiari,34149,Remote Mobile Team 3,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,304,-2.25
+NT,306,Lingiari,34149,Remote Mobile Team 3,18471,WRIGHT,Wayne,2,N,N,IND,Independent,3,0.71
+NT,306,Lingiari,34149,Remote Mobile Team 3,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,29,6.87
+NT,306,Lingiari,34149,Remote Mobile Team 3,17171,GILES,Adam,4,N,N,CLP,C.L.P.,71,-1.69
+NT,306,Lingiari,34149,Remote Mobile Team 3,17288,YOUNG,Emma,5,N,N,GRN,The Greens,15,0.98
+NT,306,Lingiari,34149,Remote Mobile Team 3,999,Informal,Informal,999,N,N,,Informal,66,6.58
+NT,306,Lingiari,34150,Remote Mobile Team 4,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,640,14.35
+NT,306,Lingiari,34150,Remote Mobile Team 4,18471,WRIGHT,Wayne,2,N,N,IND,Independent,16,2.22
+NT,306,Lingiari,34150,Remote Mobile Team 4,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,15,2.08
+NT,306,Lingiari,34150,Remote Mobile Team 4,17171,GILES,Adam,4,N,N,CLP,C.L.P.,40,-12.91
+NT,306,Lingiari,34150,Remote Mobile Team 4,17288,YOUNG,Emma,5,N,N,GRN,The Greens,11,-1
+NT,306,Lingiari,34150,Remote Mobile Team 4,999,Informal,Informal,999,N,N,,Informal,86,3.74
+NT,306,Lingiari,34151,Remote Mobile Team 5,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,952,13.92
+NT,306,Lingiari,34151,Remote Mobile Team 5,18471,WRIGHT,Wayne,2,N,N,IND,Independent,16,1.48
+NT,306,Lingiari,34151,Remote Mobile Team 5,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,4,0.37
+NT,306,Lingiari,34151,Remote Mobile Team 5,17171,GILES,Adam,4,N,N,CLP,C.L.P.,87,-10.43
+NT,306,Lingiari,34151,Remote Mobile Team 5,17288,YOUNG,Emma,5,N,N,GRN,The Greens,19,-0.78
+NT,306,Lingiari,34151,Remote Mobile Team 5,999,Informal,Informal,999,N,N,,Informal,17,-5.44
+NT,306,Lingiari,34152,Remote Mobile Team 6,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,1373,11.77
+NT,306,Lingiari,34152,Remote Mobile Team 6,18471,WRIGHT,Wayne,2,N,N,IND,Independent,43,2.7
+NT,306,Lingiari,34152,Remote Mobile Team 6,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,34,2.13
+NT,306,Lingiari,34152,Remote Mobile Team 6,17171,GILES,Adam,4,N,N,CLP,C.L.P.,104,-11.96
+NT,306,Lingiari,34152,Remote Mobile Team 6,17288,YOUNG,Emma,5,N,N,GRN,The Greens,40,-0.01
+NT,306,Lingiari,34152,Remote Mobile Team 6,999,Informal,Informal,999,N,N,,Informal,295,8.66
+NT,306,Lingiari,34153,Remote Mobile Team 7,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,257,23.07
+NT,306,Lingiari,34153,Remote Mobile Team 7,18471,WRIGHT,Wayne,2,N,N,IND,Independent,0,0
+NT,306,Lingiari,34153,Remote Mobile Team 7,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,0,0
+NT,306,Lingiari,34153,Remote Mobile Team 7,17171,GILES,Adam,4,N,N,CLP,C.L.P.,2,-17.72
+NT,306,Lingiari,34153,Remote Mobile Team 7,17288,YOUNG,Emma,5,N,N,GRN,The Greens,5,-0.65
+NT,306,Lingiari,34153,Remote Mobile Team 7,999,Informal,Informal,999,N,N,,Informal,99,20.2
+NT,306,Lingiari,34154,Remote Mobile Team 8,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,270,-5.09
+NT,306,Lingiari,34154,Remote Mobile Team 8,18471,WRIGHT,Wayne,2,N,N,IND,Independent,7,1.8
+NT,306,Lingiari,34154,Remote Mobile Team 8,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,10,2.57
+NT,306,Lingiari,34154,Remote Mobile Team 8,17171,GILES,Adam,4,N,N,CLP,C.L.P.,83,2.84
+NT,306,Lingiari,34154,Remote Mobile Team 8,17288,YOUNG,Emma,5,N,N,GRN,The Greens,19,2.38
+NT,306,Lingiari,34154,Remote Mobile Team 8,999,Informal,Informal,999,N,N,,Informal,33,0.84
+NT,306,Lingiari,34155,Remote Mobile Team 9,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,668,15.88
+NT,306,Lingiari,34155,Remote Mobile Team 9,18471,WRIGHT,Wayne,2,N,N,IND,Independent,11,1.49
+NT,306,Lingiari,34155,Remote Mobile Team 9,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,2,0.27
+NT,306,Lingiari,34155,Remote Mobile Team 9,17171,GILES,Adam,4,N,N,CLP,C.L.P.,46,-12.21
+NT,306,Lingiari,34155,Remote Mobile Team 9,17288,YOUNG,Emma,5,N,N,GRN,The Greens,13,-0.76
+NT,306,Lingiari,34155,Remote Mobile Team 9,999,Informal,Informal,999,N,N,,Informal,83,3.14
+NT,306,Lingiari,8731,Sadadeen,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,833,-3.98
+NT,306,Lingiari,8731,Sadadeen,18471,WRIGHT,Wayne,2,N,N,IND,Independent,23,1.03
+NT,306,Lingiari,8731,Sadadeen,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,94,4.21
+NT,306,Lingiari,8731,Sadadeen,17171,GILES,Adam,4,N,N,CLP,C.L.P.,1033,1.64
+NT,306,Lingiari,8731,Sadadeen,17288,YOUNG,Emma,5,N,N,GRN,The Greens,250,0.58
+NT,306,Lingiari,8731,Sadadeen,999,Informal,Informal,999,N,N,,Informal,56,-1.88
+NT,306,Lingiari,34132,Special Hospital Team 1,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,57,5
+NT,306,Lingiari,34132,Special Hospital Team 1,18471,WRIGHT,Wayne,2,N,N,IND,Independent,1,1.32
+NT,306,Lingiari,34132,Special Hospital Team 1,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,3,3.95
+NT,306,Lingiari,34132,Special Hospital Team 1,17171,GILES,Adam,4,N,N,CLP,C.L.P.,13,1.4
+NT,306,Lingiari,34132,Special Hospital Team 1,17288,YOUNG,Emma,5,N,N,GRN,The Greens,2,2.63
+NT,306,Lingiari,34132,Special Hospital Team 1,999,Informal,Informal,999,N,N,,Informal,5,-16.05
+NT,306,Lingiari,34144,Special Hospital Team 2,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,28,17.59
+NT,306,Lingiari,34144,Special Hospital Team 2,18471,WRIGHT,Wayne,2,N,N,IND,Independent,0,0
+NT,306,Lingiari,34144,Special Hospital Team 2,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,1,3.23
+NT,306,Lingiari,34144,Special Hospital Team 2,17171,GILES,Adam,4,N,N,CLP,C.L.P.,1,-14.95
+NT,306,Lingiari,34144,Special Hospital Team 2,17288,YOUNG,Emma,5,N,N,GRN,The Greens,1,3.23
+NT,306,Lingiari,34144,Special Hospital Team 2,999,Informal,Informal,999,N,N,,Informal,1,-18.3
+NT,306,Lingiari,34145,Special Hospital Team 3,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,16,57.14
+NT,306,Lingiari,34145,Special Hospital Team 3,18471,WRIGHT,Wayne,2,N,N,IND,Independent,2,7.14
+NT,306,Lingiari,34145,Special Hospital Team 3,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,3,10.71
+NT,306,Lingiari,34145,Special Hospital Team 3,17171,GILES,Adam,4,N,N,CLP,C.L.P.,6,21.43
+NT,306,Lingiari,34145,Special Hospital Team 3,17288,YOUNG,Emma,5,N,N,GRN,The Greens,1,3.57
+NT,306,Lingiari,34145,Special Hospital Team 3,999,Informal,Informal,999,N,N,,Informal,3,9.68
+NT,306,Lingiari,34146,Special Hospital Team 4,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,0,0
+NT,306,Lingiari,34146,Special Hospital Team 4,18471,WRIGHT,Wayne,2,N,N,IND,Independent,0,0
+NT,306,Lingiari,34146,Special Hospital Team 4,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,0,0
+NT,306,Lingiari,34146,Special Hospital Team 4,17171,GILES,Adam,4,N,N,CLP,C.L.P.,0,0
+NT,306,Lingiari,34146,Special Hospital Team 4,17288,YOUNG,Emma,5,N,N,GRN,The Greens,0,0
+NT,306,Lingiari,34146,Special Hospital Team 4,999,Informal,Informal,999,N,N,,Informal,0,0
+NT,306,Lingiari,8733,Tennant Creek,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,618,6.6
+NT,306,Lingiari,8733,Tennant Creek,18471,WRIGHT,Wayne,2,N,N,IND,Independent,17,1.61
+NT,306,Lingiari,8733,Tennant Creek,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,55,5.22
+NT,306,Lingiari,8733,Tennant Creek,17171,GILES,Adam,4,N,N,CLP,C.L.P.,316,1.54
+NT,306,Lingiari,8733,Tennant Creek,17288,YOUNG,Emma,5,N,N,GRN,The Greens,48,1.31
+NT,306,Lingiari,8733,Tennant Creek,999,Informal,Informal,999,N,N,,Informal,63,0.19
+NT,306,Lingiari,8888,Tindal,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,70,5.45
+NT,306,Lingiari,8888,Tindal,18471,WRIGHT,Wayne,2,N,N,IND,Independent,10,4.12
+NT,306,Lingiari,8888,Tindal,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,7,2.88
+NT,306,Lingiari,8888,Tindal,17171,GILES,Adam,4,N,N,CLP,C.L.P.,142,-7.62
+NT,306,Lingiari,8888,Tindal,17288,YOUNG,Emma,5,N,N,GRN,The Greens,14,2.48
+NT,306,Lingiari,8888,Tindal,999,Informal,Informal,999,N,N,,Informal,4,-1.56
+NT,306,Lingiari,8736,West Island,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,34,18.78
+NT,306,Lingiari,8736,West Island,18471,WRIGHT,Wayne,2,N,N,IND,Independent,0,0
+NT,306,Lingiari,8736,West Island,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,0,0
+NT,306,Lingiari,8736,West Island,17171,GILES,Adam,4,N,N,CLP,C.L.P.,18,-11.79
+NT,306,Lingiari,8736,West Island,17288,YOUNG,Emma,5,N,N,GRN,The Greens,9,6.05
+NT,306,Lingiari,8736,West Island,999,Informal,Informal,999,N,N,,Informal,2,1.04
+NT,306,Lingiari,8710,Yirara,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,130,-9.02
+NT,306,Lingiari,8710,Yirara,18471,WRIGHT,Wayne,2,N,N,IND,Independent,4,1
+NT,306,Lingiari,8710,Yirara,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,11,2.74
+NT,306,Lingiari,8710,Yirara,17171,GILES,Adam,4,N,N,CLP,C.L.P.,215,3.62
+NT,306,Lingiari,8710,Yirara,17288,YOUNG,Emma,5,N,N,GRN,The Greens,41,4.9
+NT,306,Lingiari,8710,Yirara,999,Informal,Informal,999,N,N,,Informal,14,-2.7
+NT,306,Lingiari,8737,Yulara,17531,SNOWDON,Warren,1,Y,Y,ALP,Australian Labor Party (Northern Territory) Branch,98,-0.01
+NT,306,Lingiari,8737,Yulara,18471,WRIGHT,Wayne,2,N,N,IND,Independent,13,5.35
+NT,306,Lingiari,8737,Yulara,17144,RYAN,Maurie Japarta,3,N,N,IND,Independent,5,2.06
+NT,306,Lingiari,8737,Yulara,17171,GILES,Adam,4,N,N,CLP,C.L.P.,77,-6.97
+NT,306,Lingiari,8737,Yulara,17288,YOUNG,Emma,5,N,N,GRN,The Greens,50,7.69
+NT,306,Lingiari,8737,Yulara,999,Informal,Informal,999,N,N,,Informal,5,0.1
+NT,307,Solomon,8703,Anula,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,766,2.49
+NT,307,Solomon,8703,Anula,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,4,-0.14
+NT,307,Solomon,8703,Anula,17330,CHESTER,Jacques,3,N,N,LDP,LDP,8,0.49
+NT,307,Solomon,8703,Anula,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,719,-2.56
+NT,307,Solomon,8703,Anula,15566,FOLEY,Maurice,5,N,N,IND,Independent,12,-0.02
+NT,307,Solomon,8703,Anula,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,138,2.7
+NT,307,Solomon,8703,Anula,999,Informal,Informal,999,N,N,,Informal,37,-0.97
+NT,307,Solomon,33137,Bakewell,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,1158,7.8
+NT,307,Solomon,33137,Bakewell,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,9,-0.35
+NT,307,Solomon,33137,Bakewell,17330,CHESTER,Jacques,3,N,N,LDP,LDP,16,0.56
+NT,307,Solomon,33137,Bakewell,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,1515,-4.48
+NT,307,Solomon,33137,Bakewell,15566,FOLEY,Maurice,5,N,N,IND,Independent,28,-0.36
+NT,307,Solomon,33137,Bakewell,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,124,0.81
+NT,307,Solomon,33137,Bakewell,999,Informal,Informal,999,N,N,,Informal,94,-1.55
+NT,307,Solomon,8705,Berrimah,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,219,5.31
+NT,307,Solomon,8705,Berrimah,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,1,-0.38
+NT,307,Solomon,8705,Berrimah,17330,CHESTER,Jacques,3,N,N,LDP,LDP,2,0.29
+NT,307,Solomon,8705,Berrimah,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,428,-2.03
+NT,307,Solomon,8705,Berrimah,15566,FOLEY,Maurice,5,N,N,IND,Independent,7,-0.2
+NT,307,Solomon,8705,Berrimah,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,34,-0.25
+NT,307,Solomon,8705,Berrimah,999,Informal,Informal,999,N,N,,Informal,16,-0.91
+NT,307,Solomon,8709,Darwin,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,468,1.87
+NT,307,Solomon,8709,Darwin,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,5,-0.23
+NT,307,Solomon,8709,Darwin,17330,CHESTER,Jacques,3,N,N,LDP,LDP,8,0.64
+NT,307,Solomon,8709,Darwin,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,633,3.53
+NT,307,Solomon,8709,Darwin,15566,FOLEY,Maurice,5,N,N,IND,Independent,11,-0.92
+NT,307,Solomon,8709,Darwin,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,133,-0.37
+NT,307,Solomon,8709,Darwin,999,Informal,Informal,999,N,N,,Informal,40,0.12
+NT,307,Solomon,8725,Driver,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,1000,8.81
+NT,307,Solomon,8725,Driver,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,22,0.33
+NT,307,Solomon,8725,Driver,17330,CHESTER,Jacques,3,N,N,LDP,LDP,9,0.38
+NT,307,Solomon,8725,Driver,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,1121,-6.92
+NT,307,Solomon,8725,Driver,15566,FOLEY,Maurice,5,N,N,IND,Independent,33,-0.01
+NT,307,Solomon,8725,Driver,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,161,2.42
+NT,307,Solomon,8725,Driver,999,Informal,Informal,999,N,N,,Informal,70,-2.93
+NT,307,Solomon,32595,Durack,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,467,5.28
+NT,307,Solomon,32595,Durack,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,1,-0.27
+NT,307,Solomon,32595,Durack,17330,CHESTER,Jacques,3,N,N,LDP,LDP,17,1.09
+NT,307,Solomon,32595,Durack,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,996,-2.66
+NT,307,Solomon,32595,Durack,15566,FOLEY,Maurice,5,N,N,IND,Independent,15,-0.42
+NT,307,Solomon,32595,Durack,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,59,1.03
+NT,307,Solomon,32595,Durack,999,Informal,Informal,999,N,N,,Informal,36,-1.47
+NT,307,Solomon,8887,Gray,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,793,11.17
+NT,307,Solomon,8887,Gray,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,8,-0.25
+NT,307,Solomon,8887,Gray,17330,CHESTER,Jacques,3,N,N,LDP,LDP,7,0.39
+NT,307,Solomon,8887,Gray,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,884,-7.65
+NT,307,Solomon,8887,Gray,15566,FOLEY,Maurice,5,N,N,IND,Independent,18,-0.17
+NT,307,Solomon,8887,Gray,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,88,0.64
+NT,307,Solomon,8887,Gray,999,Informal,Informal,999,N,N,,Informal,68,-2.44
+NT,307,Solomon,8716,Karama,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,928,5.73
+NT,307,Solomon,8716,Karama,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,9,0
+NT,307,Solomon,8716,Karama,17330,CHESTER,Jacques,3,N,N,LDP,LDP,11,0.59
+NT,307,Solomon,8716,Karama,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,790,-3.23
+NT,307,Solomon,8716,Karama,15566,FOLEY,Maurice,5,N,N,IND,Independent,20,-0.1
+NT,307,Solomon,8716,Karama,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,117,1.92
+NT,307,Solomon,8716,Karama,999,Informal,Informal,999,N,N,,Informal,68,-1.82
+NT,307,Solomon,38315,Karama East,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,489,7.98
+NT,307,Solomon,38315,Karama East,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,2,-0.36
+NT,307,Solomon,38315,Karama East,17330,CHESTER,Jacques,3,N,N,LDP,LDP,3,0.33
+NT,307,Solomon,38315,Karama East,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,357,-3.08
+NT,307,Solomon,38315,Karama East,15566,FOLEY,Maurice,5,N,N,IND,Independent,8,-0.52
+NT,307,Solomon,38315,Karama East,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,55,-0.38
+NT,307,Solomon,38315,Karama East,999,Informal,Informal,999,N,N,,Informal,36,-0.87
+NT,307,Solomon,8718,Larrakeyah,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,485,3.25
+NT,307,Solomon,8718,Larrakeyah,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,5,-0.11
+NT,307,Solomon,8718,Larrakeyah,17330,CHESTER,Jacques,3,N,N,LDP,LDP,5,0.33
+NT,307,Solomon,8718,Larrakeyah,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,888,-2.19
+NT,307,Solomon,8718,Larrakeyah,15566,FOLEY,Maurice,5,N,N,IND,Independent,11,-0.39
+NT,307,Solomon,8718,Larrakeyah,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,112,1.46
+NT,307,Solomon,8718,Larrakeyah,999,Informal,Informal,999,N,N,,Informal,33,-1.46
+NT,307,Solomon,8719,Leanyer,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,865,0.33
+NT,307,Solomon,8719,Leanyer,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,10,0.14
+NT,307,Solomon,8719,Leanyer,17330,CHESTER,Jacques,3,N,N,LDP,LDP,19,0.93
+NT,307,Solomon,8719,Leanyer,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,962,-0.66
+NT,307,Solomon,8719,Leanyer,15566,FOLEY,Maurice,5,N,N,IND,Independent,18,-0.32
+NT,307,Solomon,8719,Leanyer,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,163,2.78
+NT,307,Solomon,8719,Leanyer,999,Informal,Informal,999,N,N,,Informal,54,-0.2
+NT,307,Solomon,8720,Ludmilla,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,668,2.23
+NT,307,Solomon,8720,Ludmilla,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,11,0.18
+NT,307,Solomon,8720,Ludmilla,17330,CHESTER,Jacques,3,N,N,LDP,LDP,11,0.65
+NT,307,Solomon,8720,Ludmilla,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,827,-2.22
+NT,307,Solomon,8720,Ludmilla,15566,FOLEY,Maurice,5,N,N,IND,Independent,13,-0.81
+NT,307,Solomon,8720,Ludmilla,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,172,3.3
+NT,307,Solomon,8720,Ludmilla,999,Informal,Informal,999,N,N,,Informal,49,-1.54
+NT,307,Solomon,38314,Malak,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,699,8.05
+NT,307,Solomon,38314,Malak,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,5,0
+NT,307,Solomon,38314,Malak,17330,CHESTER,Jacques,3,N,N,LDP,LDP,7,0.5
+NT,307,Solomon,38314,Malak,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,554,-5.55
+NT,307,Solomon,38314,Malak,15566,FOLEY,Maurice,5,N,N,IND,Independent,20,0.15
+NT,307,Solomon,38314,Malak,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,119,1.95
+NT,307,Solomon,38314,Malak,999,Informal,Informal,999,N,N,,Informal,46,0.52
+NT,307,Solomon,8721,Moil,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,1179,2.89
+NT,307,Solomon,8721,Moil,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,11,-0.03
+NT,307,Solomon,8721,Moil,17330,CHESTER,Jacques,3,N,N,LDP,LDP,18,0.74
+NT,307,Solomon,8721,Moil,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,964,-0.33
+NT,307,Solomon,8721,Moil,15566,FOLEY,Maurice,5,N,N,IND,Independent,10,-1.11
+NT,307,Solomon,8721,Moil,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,250,1.7
+NT,307,Solomon,8721,Moil,999,Informal,Informal,999,N,N,,Informal,88,-0.68
+NT,307,Solomon,32596,Moulden,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,303,9.59
+NT,307,Solomon,32596,Moulden,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,4,0.14
+NT,307,Solomon,32596,Moulden,17330,CHESTER,Jacques,3,N,N,LDP,LDP,0,0
+NT,307,Solomon,32596,Moulden,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,242,-7.8
+NT,307,Solomon,32596,Moulden,15566,FOLEY,Maurice,5,N,N,IND,Independent,7,-0.97
+NT,307,Solomon,32596,Moulden,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,44,2.25
+NT,307,Solomon,32596,Moulden,999,Informal,Informal,999,N,N,,Informal,33,1.85
+NT,307,Solomon,8722,Nakara,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,994,2.05
+NT,307,Solomon,8722,Nakara,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,12,0.18
+NT,307,Solomon,8722,Nakara,17330,CHESTER,Jacques,3,N,N,LDP,LDP,12,0.59
+NT,307,Solomon,8722,Nakara,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,798,-2.29
+NT,307,Solomon,8722,Nakara,15566,FOLEY,Maurice,5,N,N,IND,Independent,19,-0.29
+NT,307,Solomon,8722,Nakara,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,210,3.21
+NT,307,Solomon,8722,Nakara,999,Informal,Informal,999,N,N,,Informal,66,-1.07
+NT,307,Solomon,8724,Nightcliff,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,1454,-0.42
+NT,307,Solomon,8724,Nightcliff,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,13,0.09
+NT,307,Solomon,8724,Nightcliff,17330,CHESTER,Jacques,3,N,N,LDP,LDP,30,0.86
+NT,307,Solomon,8724,Nightcliff,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,1448,1.38
+NT,307,Solomon,8724,Nightcliff,15566,FOLEY,Maurice,5,N,N,IND,Independent,29,-0.42
+NT,307,Solomon,8724,Nightcliff,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,514,2.16
+NT,307,Solomon,8724,Nightcliff,999,Informal,Informal,999,N,N,,Informal,119,-0.53
+NT,307,Solomon,8726,Parap,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,1160,-1.87
+NT,307,Solomon,8726,Parap,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,7,-0.19
+NT,307,Solomon,8726,Parap,17330,CHESTER,Jacques,3,N,N,LDP,LDP,20,0.65
+NT,307,Solomon,8726,Parap,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,1442,0.4
+NT,307,Solomon,8726,Parap,15566,FOLEY,Maurice,5,N,N,IND,Independent,30,-0.73
+NT,307,Solomon,8726,Parap,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,417,4.95
+NT,307,Solomon,8726,Parap,999,Informal,Informal,999,N,N,,Informal,79,-1.35
+NT,307,Solomon,34138,Prison Mobile Team 1,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,9,26.26
+NT,307,Solomon,34138,Prison Mobile Team 1,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,0,0
+NT,307,Solomon,34138,Prison Mobile Team 1,17330,CHESTER,Jacques,3,N,N,LDP,LDP,0,0
+NT,307,Solomon,34138,Prison Mobile Team 1,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,0,-11.11
+NT,307,Solomon,34138,Prison Mobile Team 1,15566,FOLEY,Maurice,5,N,N,IND,Independent,0,0
+NT,307,Solomon,34138,Prison Mobile Team 1,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,2,7.07
+NT,307,Solomon,34138,Prison Mobile Team 1,999,Informal,Informal,999,N,N,,Informal,0,0
+NT,307,Solomon,8729,Rapid Creek,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,725,4.23
+NT,307,Solomon,8729,Rapid Creek,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,12,0.16
+NT,307,Solomon,8729,Rapid Creek,17330,CHESTER,Jacques,3,N,N,LDP,LDP,10,0.66
+NT,307,Solomon,8729,Rapid Creek,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,574,-4.52
+NT,307,Solomon,8729,Rapid Creek,15566,FOLEY,Maurice,5,N,N,IND,Independent,13,-0.34
+NT,307,Solomon,8729,Rapid Creek,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,171,3.07
+NT,307,Solomon,8729,Rapid Creek,999,Informal,Informal,999,N,N,,Informal,44,-1.63
+NT,307,Solomon,34131,Special Hospital Team 1,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,39,6.59
+NT,307,Solomon,34131,Special Hospital Team 1,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,2,2.78
+NT,307,Solomon,34131,Special Hospital Team 1,17330,CHESTER,Jacques,3,N,N,LDP,LDP,1,1.39
+NT,307,Solomon,34131,Special Hospital Team 1,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,27,-2.82
+NT,307,Solomon,34131,Special Hospital Team 1,15566,FOLEY,Maurice,5,N,N,IND,Independent,0,-6.45
+NT,307,Solomon,34131,Special Hospital Team 1,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,3,1.75
+NT,307,Solomon,34131,Special Hospital Team 1,999,Informal,Informal,999,N,N,,Informal,2,-1.92
+NT,307,Solomon,34137,Special Hospital Team 2,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,23,8.97
+NT,307,Solomon,34137,Special Hospital Team 2,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,0,0
+NT,307,Solomon,34137,Special Hospital Team 2,17330,CHESTER,Jacques,3,N,N,LDP,LDP,2,5.13
+NT,307,Solomon,34137,Special Hospital Team 2,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,9,-21.92
+NT,307,Solomon,34137,Special Hospital Team 2,15566,FOLEY,Maurice,5,N,N,IND,Independent,3,2.69
+NT,307,Solomon,34137,Special Hospital Team 2,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,2,5.13
+NT,307,Solomon,34137,Special Hospital Team 2,999,Informal,Informal,999,N,N,,Informal,5,6.6
+NT,307,Solomon,8732,Stuart Park,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,613,-1.73
+NT,307,Solomon,8732,Stuart Park,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,4,-0.13
+NT,307,Solomon,8732,Stuart Park,17330,CHESTER,Jacques,3,N,N,LDP,LDP,8,0.48
+NT,307,Solomon,8732,Stuart Park,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,850,2.54
+NT,307,Solomon,8732,Stuart Park,15566,FOLEY,Maurice,5,N,N,IND,Independent,7,-0.95
+NT,307,Solomon,8732,Stuart Park,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,170,2.46
+NT,307,Solomon,8732,Stuart Park,999,Informal,Informal,999,N,N,,Informal,66,0.07
+NT,307,Solomon,8730,Tiwi,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,464,-5.16
+NT,307,Solomon,8730,Tiwi,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,3,-0.46
+NT,307,Solomon,8730,Tiwi,17330,CHESTER,Jacques,3,N,N,LDP,LDP,6,0.58
+NT,307,Solomon,8730,Tiwi,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,412,5.38
+NT,307,Solomon,8730,Tiwi,15566,FOLEY,Maurice,5,N,N,IND,Independent,7,0.06
+NT,307,Solomon,8730,Tiwi,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,137,4.46
+NT,307,Solomon,8730,Tiwi,999,Informal,Informal,999,N,N,,Informal,33,-0.61
+NT,307,Solomon,8734,Wanguri,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,779,3.23
+NT,307,Solomon,8734,Wanguri,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,10,0.37
+NT,307,Solomon,8734,Wanguri,17330,CHESTER,Jacques,3,N,N,LDP,LDP,16,0.97
+NT,307,Solomon,8734,Wanguri,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,699,-1.9
+NT,307,Solomon,8734,Wanguri,15566,FOLEY,Maurice,5,N,N,IND,Independent,14,-0.79
+NT,307,Solomon,8734,Wanguri,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,136,1.39
+NT,307,Solomon,8734,Wanguri,999,Informal,Informal,999,N,N,,Informal,48,-2.88
+NT,307,Solomon,32593,Woodroffe,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,384,8.87
+NT,307,Solomon,32593,Woodroffe,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,4,-0.46
+NT,307,Solomon,32593,Woodroffe,17330,CHESTER,Jacques,3,N,N,LDP,LDP,3,0.35
+NT,307,Solomon,32593,Woodroffe,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,425,-5.45
+NT,307,Solomon,32593,Woodroffe,15566,FOLEY,Maurice,5,N,N,IND,Independent,5,-1.03
+NT,307,Solomon,32593,Woodroffe,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,48,0.7
+NT,307,Solomon,32593,Woodroffe,999,Informal,Informal,999,N,N,,Informal,32,-0.84
+NT,307,Solomon,12070,Wulagi,17529,HALE,Damian,1,Y,N,ALP,Australian Labor Party (Northern Territory) Branch,471,5.28
+NT,307,Solomon,12070,Wulagi,17417,CAMPBELL,Trudy,2,N,N,CEC,Citizens Electoral Council,1,-0.42
+NT,307,Solomon,12070,Wulagi,17330,CHESTER,Jacques,3,N,N,LDP,LDP,3,0.3
+NT,307,Solomon,12070,Wulagi,17168,TOLLNER,David,4,N,Y,CLP,C.L.P.,399,-6.04
+NT,307,Solomon,12070,Wulagi,15566,FOLEY,Maurice,5,N,N,IND,Independent,6,-0.8
+NT,307,Solomon,12070,Wulagi,17286,HUDSON,Debbie,6,N,N,GRN,The Greens,119,5.62
+NT,307,Solomon,12070,Wulagi,999,Informal,Informal,999,N,N,,Informal,30,-2.06

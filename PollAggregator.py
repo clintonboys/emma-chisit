@@ -26,8 +26,8 @@ import pandas as pd
 import LoadData
 import PollsterWeightings
 
-to_date = datetime.datetime(2015,1,28) 
-state = 'QLD'
+to_date = datetime.datetime(2013,9,6) 
+state = 'AUS'
 N=30
 four_parties = ['ALP', 'COA', 'GRN', 'OTH']
 
@@ -96,11 +96,3 @@ def GetSwings(state, aggregated_poll):
 		swing_dict[party] = np.round(aggregated_poll.results(party) - latest_election.results(party),3)
 
 	return swing_dict
-
-	
-print GetSwings(state,AggregatePolls(state, to_date, N))['COA']
-
-
-
-
-

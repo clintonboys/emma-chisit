@@ -9,6 +9,7 @@ class PollingPlace(object):
         self._name = name
         self._seat = seat
         self._state = seat.state()
+        self._results = {}
 
         seat.pollingplaces().append(self)
 
@@ -22,12 +23,23 @@ class PollingPlace(object):
     def seat(self):
         return self._seat    
 
+    def AddResults(self,year, results_dict):
+        self._results[year] = results_dict
+
+    def GetResults(self,year,party):
+        try:
+            return self._results[year][party]
+        except KeyError:
+            return 'Party ' + party + ' did not contest ' + str(self._name) + ' in ' + str(year) + '...'
+
 class Seat(object):
 
     def __init__(self, name, state):
         self._name = name
         self._state = state
         self._pollingplaces = []
+        self._results = {}
+
     @property
     def name(self):
         return self._name
@@ -38,13 +50,14 @@ class Seat(object):
     def pollingplaces(self):
         return self._pollingplaces
 
+    def AddResults(self,year,results_dict):
+        self._results[year] = results_dict
+
 def PPinSeat(pollingplace, seat):
     return pollingplace in seat.pollingplaces()
 
-Sydney = Seat('Sydney', 'NSW')
-TownHall = PollingPlace('TownHall', Sydney)
-OperaHouse = PollingPlace('OperaHouse', Sydney)
+# Sydney = Seat('Sydney', 'NSW')
+# TownHall = PollingPlace('TownHall', Sydney)
+# OperaHouse = PollingPlace('OperaHouse', Sydney)
 
-year_range = range(2000,2016)
-
-print PPinSeat(OperaHouse, Sydney)
+# year_range = range(2000,2016)

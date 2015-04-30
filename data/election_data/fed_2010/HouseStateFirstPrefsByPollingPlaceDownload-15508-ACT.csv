@@ -1,0 +1,425 @@
+2010 Federal Election House of Representatives First Preferences By Candidate By Polling Place for ACT [Event:15508 Phase:FinalResults Generated:2013-01-22T15:02:24 Cycle:109e02bb-5f15-4808-984f-b47255b191fb Created:2013-01-22T14:55:43 Environment:PROD Site:PARKES Server:NTR01 Version:6.0.10.10009]
+StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
+ACT,101,Canberra,8829,Barton,20863,JONES,Giulia,1,N,N,LP,Liberal,713,-3.1
+ACT,101,Canberra,8829,Barton,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,538,7.93
+ACT,101,Canberra,8829,Barton,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,939,-4.22
+ACT,101,Canberra,8829,Barton,999,Informal,Informal,999,N,N,,Informal,79,2.44
+ACT,101,Canberra,11877,Bonython,20863,JONES,Giulia,1,N,N,LP,Liberal,745,1.86
+ACT,101,Canberra,11877,Bonython,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,315,4.14
+ACT,101,Canberra,11877,Bonython,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,983,-4.84
+ACT,101,Canberra,11877,Bonython,999,Informal,Informal,999,N,N,,Informal,119,2.64
+ACT,101,Canberra,11452,Calwell,20863,JONES,Giulia,1,N,N,LP,Liberal,931,-1.61
+ACT,101,Canberra,11452,Calwell,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,440,6.9
+ACT,101,Canberra,11452,Calwell,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,1220,-4.65
+ACT,101,Canberra,11452,Calwell,999,Informal,Informal,999,N,N,,Informal,175,4.09
+ACT,101,Canberra,8794,Canberra Hospital,20863,JONES,Giulia,1,N,N,LP,Liberal,291,1.69
+ACT,101,Canberra,8794,Canberra Hospital,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,182,8.42
+ACT,101,Canberra,8794,Canberra Hospital,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,370,-8.9
+ACT,101,Canberra,8794,Canberra Hospital,999,Informal,Informal,999,N,N,,Informal,24,0.4
+ACT,101,Canberra,8761,Chapman,20863,JONES,Giulia,1,N,N,LP,Liberal,1068,2.09
+ACT,101,Canberra,8761,Chapman,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,539,5.37
+ACT,101,Canberra,8761,Chapman,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,1237,-6.72
+ACT,101,Canberra,8761,Chapman,999,Informal,Informal,999,N,N,,Informal,117,2.2
+ACT,101,Canberra,8763,Chisholm,20863,JONES,Giulia,1,N,N,LP,Liberal,710,4.98
+ACT,101,Canberra,8763,Chisholm,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,274,5.82
+ACT,101,Canberra,8763,Chisholm,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,831,-9.81
+ACT,101,Canberra,8763,Chisholm,999,Informal,Informal,999,N,N,,Informal,115,1.71
+ACT,101,Canberra,58708,City CANBERRA PPVC,20863,JONES,Giulia,1,N,N,LP,Liberal,637,-1.68
+ACT,101,Canberra,58708,City CANBERRA PPVC,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,460,9.78
+ACT,101,Canberra,58708,City CANBERRA PPVC,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,863,-7.29
+ACT,101,Canberra,58708,City CANBERRA PPVC,999,Informal,Informal,999,N,N,,Informal,84,2.42
+ACT,101,Canberra,31298,Conder,20863,JONES,Giulia,1,N,N,LP,Liberal,1327,0.33
+ACT,101,Canberra,31298,Conder,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,522,5.67
+ACT,101,Canberra,31298,Conder,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,1636,-4.89
+ACT,101,Canberra,31298,Conder,999,Informal,Informal,999,N,N,,Informal,233,3.55
+ACT,101,Canberra,8764,Curtin,20863,JONES,Giulia,1,N,N,LP,Liberal,981,0.31
+ACT,101,Canberra,8764,Curtin,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,653,5.81
+ACT,101,Canberra,8764,Curtin,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,1309,-5.42
+ACT,101,Canberra,8764,Curtin,999,Informal,Informal,999,N,N,,Informal,114,1.62
+ACT,101,Canberra,8766,Deakin,20863,JONES,Giulia,1,N,N,LP,Liberal,858,2.26
+ACT,101,Canberra,8766,Deakin,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,275,4.94
+ACT,101,Canberra,8766,Deakin,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,565,-6.64
+ACT,101,Canberra,8766,Deakin,999,Informal,Informal,999,N,N,,Informal,47,1.05
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),20863,JONES,Giulia,1,N,N,LP,Liberal,605,2.86
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,383,9.78
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,644,-11.9
+ACT,101,Canberra,30092,Divisional Office (PREPOLL),999,Informal,Informal,999,N,N,,Informal,78,2.86
+ACT,101,Canberra,8767,Duffy,20863,JONES,Giulia,1,N,N,LP,Liberal,645,1.99
+ACT,101,Canberra,8767,Duffy,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,429,6.73
+ACT,101,Canberra,8767,Duffy,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,936,-7.98
+ACT,101,Canberra,8767,Duffy,999,Informal,Informal,999,N,N,,Informal,80,2.27
+ACT,101,Canberra,8768,Fadden,20863,JONES,Giulia,1,N,N,LP,Liberal,978,1.16
+ACT,101,Canberra,8768,Fadden,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,359,4.05
+ACT,101,Canberra,8768,Fadden,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,1000,-4.55
+ACT,101,Canberra,8768,Fadden,999,Informal,Informal,999,N,N,,Informal,90,1.94
+ACT,101,Canberra,8769,Farrer,20863,JONES,Giulia,1,N,N,LP,Liberal,1211,1.79
+ACT,101,Canberra,8769,Farrer,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,416,4.34
+ACT,101,Canberra,8769,Farrer,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,1136,-5.47
+ACT,101,Canberra,8769,Farrer,999,Informal,Informal,999,N,N,,Informal,117,1.86
+ACT,101,Canberra,8771,Gilmore,20863,JONES,Giulia,1,N,N,LP,Liberal,861,3.03
+ACT,101,Canberra,8771,Gilmore,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,304,3.52
+ACT,101,Canberra,8771,Gilmore,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,1007,-5.76
+ACT,101,Canberra,8771,Gilmore,999,Informal,Informal,999,N,N,,Informal,142,3.79
+ACT,101,Canberra,12072,Gordon,20863,JONES,Giulia,1,N,N,LP,Liberal,1507,-1.34
+ACT,101,Canberra,12072,Gordon,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,606,6.33
+ACT,101,Canberra,12072,Gordon,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,1875,-4.32
+ACT,101,Canberra,12072,Gordon,999,Informal,Informal,999,N,N,,Informal,309,4.16
+ACT,101,Canberra,8772,Gowrie,20863,JONES,Giulia,1,N,N,LP,Liberal,771,1.49
+ACT,101,Canberra,8772,Gowrie,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,346,6.54
+ACT,101,Canberra,8772,Gowrie,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,892,-6.77
+ACT,101,Canberra,8772,Gowrie,999,Informal,Informal,999,N,N,,Informal,143,3.98
+ACT,101,Canberra,8817,Griffith,20863,JONES,Giulia,1,N,N,LP,Liberal,691,0.56
+ACT,101,Canberra,8817,Griffith,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,362,4.82
+ACT,101,Canberra,8817,Griffith,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,735,-5.13
+ACT,101,Canberra,8817,Griffith,999,Informal,Informal,999,N,N,,Informal,72,1.3
+ACT,101,Canberra,8773,Holder,20863,JONES,Giulia,1,N,N,LP,Liberal,684,2.95
+ACT,101,Canberra,8773,Holder,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,380,6.37
+ACT,101,Canberra,8773,Holder,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,841,-8.53
+ACT,101,Canberra,8773,Holder,999,Informal,Informal,999,N,N,,Informal,70,1.21
+ACT,101,Canberra,8774,Hughes,20863,JONES,Giulia,1,N,N,LP,Liberal,1061,2.89
+ACT,101,Canberra,8774,Hughes,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,551,4.73
+ACT,101,Canberra,8774,Hughes,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,1156,-7.15
+ACT,101,Canberra,8774,Hughes,999,Informal,Informal,999,N,N,,Informal,116,2.05
+ACT,101,Canberra,8884,Isabella Plains,20863,JONES,Giulia,1,N,N,LP,Liberal,905,-0.87
+ACT,101,Canberra,8884,Isabella Plains,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,433,6.79
+ACT,101,Canberra,8884,Isabella Plains,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,1286,-5.08
+ACT,101,Canberra,8884,Isabella Plains,999,Informal,Informal,999,N,N,,Informal,174,3.39
+ACT,101,Canberra,8776,Kambah North,20863,JONES,Giulia,1,N,N,LP,Liberal,905,6.48
+ACT,101,Canberra,8776,Kambah North,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,436,3.72
+ACT,101,Canberra,8776,Kambah North,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,1104,-9.18
+ACT,101,Canberra,8776,Kambah North,999,Informal,Informal,999,N,N,,Informal,115,1.79
+ACT,101,Canberra,8777,Kambah South,20863,JONES,Giulia,1,N,N,LP,Liberal,626,2.89
+ACT,101,Canberra,8777,Kambah South,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,386,5.35
+ACT,101,Canberra,8777,Kambah South,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,965,-7.08
+ACT,101,Canberra,8777,Kambah South,999,Informal,Informal,999,N,N,,Informal,103,2.38
+ACT,101,Canberra,8778,Kambah West,20863,JONES,Giulia,1,N,N,LP,Liberal,980,2.15
+ACT,101,Canberra,8778,Kambah West,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,528,5.17
+ACT,101,Canberra,8778,Kambah West,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,1307,-6.39
+ACT,101,Canberra,8778,Kambah West,999,Informal,Informal,999,N,N,,Informal,145,2.46
+ACT,101,Canberra,8779,Lyons,20863,JONES,Giulia,1,N,N,LP,Liberal,458,1.77
+ACT,101,Canberra,8779,Lyons,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,347,6.44
+ACT,101,Canberra,8779,Lyons,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,695,-7.55
+ACT,101,Canberra,8779,Lyons,999,Informal,Informal,999,N,N,,Informal,84,2.88
+ACT,101,Canberra,8780,Mawson,20863,JONES,Giulia,1,N,N,LP,Liberal,1021,3.7
+ACT,101,Canberra,8780,Mawson,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,447,4.86
+ACT,101,Canberra,8780,Mawson,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,1080,-7.77
+ACT,101,Canberra,8780,Mawson,999,Informal,Informal,999,N,N,,Informal,113,1.89
+ACT,101,Canberra,8781,Monash,20863,JONES,Giulia,1,N,N,LP,Liberal,1138,1.82
+ACT,101,Canberra,8781,Monash,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,453,5.29
+ACT,101,Canberra,8781,Monash,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,1337,-6.11
+ACT,101,Canberra,8781,Monash,999,Informal,Informal,999,N,N,,Informal,182,3.24
+ACT,101,Canberra,8782,Narrabundah,20863,JONES,Giulia,1,N,N,LP,Liberal,639,3.89
+ACT,101,Canberra,8782,Narrabundah,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,456,3.45
+ACT,101,Canberra,8782,Narrabundah,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,983,-6.62
+ACT,101,Canberra,8782,Narrabundah,999,Informal,Informal,999,N,N,,Informal,125,2.58
+ACT,101,Canberra,32706,Norfolk Island PPVC,20863,JONES,Giulia,1,N,N,LP,Liberal,0,-34.18
+ACT,101,Canberra,32706,Norfolk Island PPVC,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,0,-13.92
+ACT,101,Canberra,32706,Norfolk Island PPVC,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,0,-50.63
+ACT,101,Canberra,32706,Norfolk Island PPVC,999,Informal,Informal,999,N,N,,Informal,0,-1.25
+ACT,101,Canberra,8783,Oaks Estate,20863,JONES,Giulia,1,N,N,LP,Liberal,34,-4.26
+ACT,101,Canberra,8783,Oaks Estate,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,43,10.11
+ACT,101,Canberra,8783,Oaks Estate,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,60,-3.72
+ACT,101,Canberra,8783,Oaks Estate,999,Informal,Informal,999,N,N,,Informal,20,8.66
+ACT,101,Canberra,8784,Pearce,20863,JONES,Giulia,1,N,N,LP,Liberal,1091,3.41
+ACT,101,Canberra,8784,Pearce,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,563,3.87
+ACT,101,Canberra,8784,Pearce,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,1413,-6.68
+ACT,101,Canberra,8784,Pearce,999,Informal,Informal,999,N,N,,Informal,141,2.27
+ACT,101,Canberra,58809,Prison Mobile Team 1,20863,JONES,Giulia,1,N,N,LP,Liberal,3,-14.44
+ACT,101,Canberra,58809,Prison Mobile Team 1,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,4,28.89
+ACT,101,Canberra,58809,Prison Mobile Team 1,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,3,-14.44
+ACT,101,Canberra,58809,Prison Mobile Team 1,999,Informal,Informal,999,N,N,,Informal,2,16.67
+ACT,101,Canberra,8785,Red Hill,20863,JONES,Giulia,1,N,N,LP,Liberal,886,1.34
+ACT,101,Canberra,8785,Red Hill,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,428,5.19
+ACT,101,Canberra,8785,Red Hill,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,903,-5.92
+ACT,101,Canberra,8785,Red Hill,999,Informal,Informal,999,N,N,,Informal,100,2.96
+ACT,101,Canberra,8786,Richardson,20863,JONES,Giulia,1,N,N,LP,Liberal,648,3.5
+ACT,101,Canberra,8786,Richardson,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,270,5.69
+ACT,101,Canberra,8786,Richardson,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,832,-7.65
+ACT,101,Canberra,8786,Richardson,999,Informal,Informal,999,N,N,,Informal,117,1.94
+ACT,101,Canberra,32712,Special Hospital Team 1,20863,JONES,Giulia,1,N,N,LP,Liberal,58,1.49
+ACT,101,Canberra,32712,Special Hospital Team 1,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,11,-2.65
+ACT,101,Canberra,32712,Special Hospital Team 1,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,59,2.27
+ACT,101,Canberra,32712,Special Hospital Team 1,999,Informal,Informal,999,N,N,,Informal,4,-0.23
+ACT,101,Canberra,58810,Special Hospital Team 2,20863,JONES,Giulia,1,N,N,LP,Liberal,79,11.84
+ACT,101,Canberra,58810,Special Hospital Team 2,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,16,0.3
+ACT,101,Canberra,58810,Special Hospital Team 2,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,46,-10.98
+ACT,101,Canberra,58810,Special Hospital Team 2,999,Informal,Informal,999,N,N,,Informal,11,4.42
+ACT,101,Canberra,58811,Special Hospital Team 3,20863,JONES,Giulia,1,N,N,LP,Liberal,47,2.49
+ACT,101,Canberra,58811,Special Hospital Team 3,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,9,-2.1
+ACT,101,Canberra,58811,Special Hospital Team 3,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,45,0.51
+ACT,101,Canberra,58811,Special Hospital Team 3,999,Informal,Informal,999,N,N,,Informal,6,2.93
+ACT,101,Canberra,46425,Stirling,20863,JONES,Giulia,1,N,N,LP,Liberal,373,10.86
+ACT,101,Canberra,46425,Stirling,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,167,3.85
+ACT,101,Canberra,46425,Stirling,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,405,-13.63
+ACT,101,Canberra,46425,Stirling,999,Informal,Informal,999,N,N,,Informal,36,2.48
+ACT,101,Canberra,8788,Tharwa,20863,JONES,Giulia,1,N,N,LP,Liberal,54,-1.93
+ACT,101,Canberra,8788,Tharwa,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,23,0.54
+ACT,101,Canberra,8788,Tharwa,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,49,1.39
+ACT,101,Canberra,8788,Tharwa,999,Informal,Informal,999,N,N,,Informal,3,-0.7
+ACT,101,Canberra,11878,Theodore,20863,JONES,Giulia,1,N,N,LP,Liberal,640,-0.68
+ACT,101,Canberra,11878,Theodore,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,315,6.04
+ACT,101,Canberra,11878,Theodore,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,810,-4.37
+ACT,101,Canberra,11878,Theodore,999,Informal,Informal,999,N,N,,Informal,81,2.55
+ACT,101,Canberra,32704,Tuggeranong PPVC,20863,JONES,Giulia,1,N,N,LP,Liberal,2938,5.32
+ACT,101,Canberra,32704,Tuggeranong PPVC,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,1179,2.18
+ACT,101,Canberra,32704,Tuggeranong PPVC,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,3319,-6.74
+ACT,101,Canberra,32704,Tuggeranong PPVC,999,Informal,Informal,999,N,N,,Informal,536,4.99
+ACT,101,Canberra,8790,Wanniassa,20863,JONES,Giulia,1,N,N,LP,Liberal,875,4.17
+ACT,101,Canberra,8790,Wanniassa,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,449,6.12
+ACT,101,Canberra,8790,Wanniassa,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,1220,-9.57
+ACT,101,Canberra,8790,Wanniassa,999,Informal,Informal,999,N,N,,Informal,197,4.52
+ACT,101,Canberra,8791,Wanniassa Hills,20863,JONES,Giulia,1,N,N,LP,Liberal,841,-0.18
+ACT,101,Canberra,8791,Wanniassa Hills,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,449,5.64
+ACT,101,Canberra,8791,Wanniassa Hills,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,1188,-4.58
+ACT,101,Canberra,8791,Wanniassa Hills,999,Informal,Informal,999,N,N,,Informal,99,1.57
+ACT,101,Canberra,8792,Waramanga,20863,JONES,Giulia,1,N,N,LP,Liberal,921,1.67
+ACT,101,Canberra,8792,Waramanga,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,551,5.86
+ACT,101,Canberra,8792,Waramanga,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,1292,-6.59
+ACT,101,Canberra,8792,Waramanga,999,Informal,Informal,999,N,N,,Informal,131,1.92
+ACT,101,Canberra,8793,Weston,20863,JONES,Giulia,1,N,N,LP,Liberal,494,2.59
+ACT,101,Canberra,8793,Weston,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,269,3.82
+ACT,101,Canberra,8793,Weston,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,691,-5.4
+ACT,101,Canberra,8793,Weston,999,Informal,Informal,999,N,N,,Informal,51,1.21
+ACT,101,Canberra,32705,Woden PPVC,20863,JONES,Giulia,1,N,N,LP,Liberal,2573,5.27
+ACT,101,Canberra,32705,Woden PPVC,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,1218,5.03
+ACT,101,Canberra,32705,Woden PPVC,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,2726,-9.53
+ACT,101,Canberra,32705,Woden PPVC,999,Informal,Informal,999,N,N,,Informal,305,2.73
+ACT,101,Canberra,8840,Yarralumla,20863,JONES,Giulia,1,N,N,LP,Liberal,703,2.82
+ACT,101,Canberra,8840,Yarralumla,20864,ELLERMAN,Sue,2,N,N,GRN,The Greens,358,4
+ACT,101,Canberra,8840,Yarralumla,21228,BRODTMANN,Gai,3,Y,N,ALP,Australian Labor Party,743,-6.47
+ACT,101,Canberra,8840,Yarralumla,999,Informal,Informal,999,N,N,,Informal,70,2.19
+ACT,102,Fraser,8801,Ainslie North,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,470,1.12
+ACT,102,Fraser,8801,Ainslie North,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,36,1.59
+ACT,102,Fraser,8801,Ainslie North,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,1048,-10.35
+ACT,102,Fraser,8801,Ainslie North,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,706,11.64
+ACT,102,Fraser,8801,Ainslie North,999,Informal,Informal,999,N,N,,Informal,99,0.91
+ACT,102,Fraser,8804,Ainslie South,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,169,-2.15
+ACT,102,Fraser,8804,Ainslie South,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,20,2.42
+ACT,102,Fraser,8804,Ainslie South,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,399,-6.22
+ACT,102,Fraser,8804,Ainslie South,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,239,9.96
+ACT,102,Fraser,8804,Ainslie South,999,Informal,Informal,999,N,N,,Informal,27,1.54
+ACT,102,Fraser,38197,Amaroo,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,1252,-4.11
+ACT,102,Fraser,38197,Amaroo,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,41,1.35
+ACT,102,Fraser,38197,Amaroo,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,1369,1.67
+ACT,102,Fraser,38197,Amaroo,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,375,4.02
+ACT,102,Fraser,38197,Amaroo,999,Informal,Informal,999,N,N,,Informal,121,1.63
+ACT,102,Fraser,8803,Aranda,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,685,1.67
+ACT,102,Fraser,8803,Aranda,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,53,1.9
+ACT,102,Fraser,8803,Aranda,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,1330,-8.45
+ACT,102,Fraser,8803,Aranda,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,719,8.28
+ACT,102,Fraser,8803,Aranda,999,Informal,Informal,999,N,N,,Informal,88,1.1
+ACT,102,Fraser,8805,Belconnen,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,752,0.87
+ACT,102,Fraser,8805,Belconnen,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,65,2.6
+ACT,102,Fraser,8805,Belconnen,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,1124,-5.8
+ACT,102,Fraser,8805,Belconnen,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,562,7.46
+ACT,102,Fraser,8805,Belconnen,999,Informal,Informal,999,N,N,,Informal,110,1.31
+ACT,102,Fraser,32464,Belconnen PPVC,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,2591,5.11
+ACT,102,Fraser,32464,Belconnen PPVC,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,142,1.94
+ACT,102,Fraser,32464,Belconnen PPVC,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,3320,-5.1
+ACT,102,Fraser,32464,Belconnen PPVC,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,1261,2.75
+ACT,102,Fraser,32464,Belconnen PPVC,999,Informal,Informal,999,N,N,,Informal,371,3.48
+ACT,102,Fraser,8802,Braddon,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,441,-0.96
+ACT,102,Fraser,8802,Braddon,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,49,2.6
+ACT,102,Fraser,8802,Braddon,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,859,-8.36
+ACT,102,Fraser,8802,Braddon,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,534,10.98
+ACT,102,Fraser,8802,Braddon,999,Informal,Informal,999,N,N,,Informal,107,2.53
+ACT,102,Fraser,12073,Bruce,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,312,-0.3
+ACT,102,Fraser,12073,Bruce,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,15,1.68
+ACT,102,Fraser,12073,Bruce,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,429,-1.8
+ACT,102,Fraser,12073,Bruce,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,138,3.66
+ACT,102,Fraser,12073,Bruce,999,Informal,Informal,999,N,N,,Informal,36,1.94
+ACT,102,Fraser,8806,Campbell,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,1008,5.92
+ACT,102,Fraser,8806,Campbell,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,36,1.71
+ACT,102,Fraser,8806,Campbell,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,688,-9.07
+ACT,102,Fraser,8806,Campbell,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,377,5.13
+ACT,102,Fraser,8806,Campbell,999,Informal,Informal,999,N,N,,Informal,57,1.03
+ACT,102,Fraser,8807,Charnwood,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,1161,1.84
+ACT,102,Fraser,8807,Charnwood,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,76,2.18
+ACT,102,Fraser,8807,Charnwood,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,1759,-3.57
+ACT,102,Fraser,8807,Charnwood,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,496,4.26
+ACT,102,Fraser,8807,Charnwood,999,Informal,Informal,999,N,N,,Informal,252,4.05
+ACT,102,Fraser,8808,City,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,360,-0.14
+ACT,102,Fraser,8808,City,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,46,3.14
+ACT,102,Fraser,8808,City,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,589,-10.54
+ACT,102,Fraser,8808,City,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,469,13.3
+ACT,102,Fraser,8808,City,999,Informal,Informal,999,N,N,,Informal,81,2.91
+ACT,102,Fraser,32465,City FRASER PPVC,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,1255,-1.27
+ACT,102,Fraser,32465,City FRASER PPVC,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,81,1.88
+ACT,102,Fraser,32465,City FRASER PPVC,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,1924,-5.83
+ACT,102,Fraser,32465,City FRASER PPVC,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,1056,9.98
+ACT,102,Fraser,32465,City FRASER PPVC,999,Informal,Informal,999,N,N,,Informal,129,1.56
+ACT,102,Fraser,8809,Dickson,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,435,0.31
+ACT,102,Fraser,8809,Dickson,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,32,2.03
+ACT,102,Fraser,8809,Dickson,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,737,-5.15
+ACT,102,Fraser,8809,Dickson,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,370,7.45
+ACT,102,Fraser,8809,Dickson,999,Informal,Informal,999,N,N,,Informal,66,1.78
+ACT,102,Fraser,30093,Divisional Office (PREPOLL),20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,686,-2.53
+ACT,102,Fraser,30093,Divisional Office (PREPOLL),21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,41,1.66
+ACT,102,Fraser,30093,Divisional Office (PREPOLL),21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,1040,-8.25
+ACT,102,Fraser,30093,Divisional Office (PREPOLL),20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,698,13.79
+ACT,102,Fraser,30093,Divisional Office (PREPOLL),999,Informal,Informal,999,N,N,,Informal,64,1.18
+ACT,102,Fraser,8810,Downer,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,319,2.29
+ACT,102,Fraser,8810,Downer,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,25,2.01
+ACT,102,Fraser,8810,Downer,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,588,-8.43
+ACT,102,Fraser,8810,Downer,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,310,8.41
+ACT,102,Fraser,8810,Downer,999,Informal,Informal,999,N,N,,Informal,78,1.35
+ACT,102,Fraser,8812,Evatt,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,1063,0.24
+ACT,102,Fraser,8812,Evatt,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,65,1.97
+ACT,102,Fraser,8812,Evatt,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,1683,-2.03
+ACT,102,Fraser,8812,Evatt,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,486,3.73
+ACT,102,Fraser,8812,Evatt,999,Informal,Informal,999,N,N,,Informal,170,1.92
+ACT,102,Fraser,8813,Evatt South,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,495,-0.51
+ACT,102,Fraser,8813,Evatt South,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,42,2.67
+ACT,102,Fraser,8813,Evatt South,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,763,-4.08
+ACT,102,Fraser,8813,Evatt South,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,274,6.43
+ACT,102,Fraser,8813,Evatt South,999,Informal,Informal,999,N,N,,Informal,114,4.11
+ACT,102,Fraser,8814,Florey,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,656,2.2
+ACT,102,Fraser,8814,Florey,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,35,1.74
+ACT,102,Fraser,8814,Florey,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,988,-6.95
+ACT,102,Fraser,8814,Florey,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,331,6.88
+ACT,102,Fraser,8814,Florey,999,Informal,Informal,999,N,N,,Informal,143,3.27
+ACT,102,Fraser,34238,Fraser Central,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,1075,1.62
+ACT,102,Fraser,34238,Fraser Central,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,47,1.52
+ACT,102,Fraser,34238,Fraser Central,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,1490,-4.11
+ACT,102,Fraser,34238,Fraser Central,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,478,4.79
+ACT,102,Fraser,34238,Fraser Central,999,Informal,Informal,999,N,N,,Informal,164,2.53
+ACT,102,Fraser,8816,Giralang,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,634,5.98
+ACT,102,Fraser,8816,Giralang,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,40,2.11
+ACT,102,Fraser,8816,Giralang,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,897,-8.79
+ACT,102,Fraser,8816,Giralang,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,324,5.35
+ACT,102,Fraser,8816,Giralang,999,Informal,Informal,999,N,N,,Informal,144,2.9
+ACT,102,Fraser,34240,Gungahlin,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,1114,-6.35
+ACT,102,Fraser,34240,Gungahlin,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,49,1.81
+ACT,102,Fraser,34240,Gungahlin,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,1125,1.91
+ACT,102,Fraser,34240,Gungahlin,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,423,6.58
+ACT,102,Fraser,34240,Gungahlin,999,Informal,Informal,999,N,N,,Informal,143,2.11
+ACT,102,Fraser,38504,Gungahlin PPVC,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,1594,13.99
+ACT,102,Fraser,38504,Gungahlin PPVC,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,58,1.61
+ACT,102,Fraser,38504,Gungahlin PPVC,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,1493,-8.88
+ACT,102,Fraser,38504,Gungahlin PPVC,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,448,-2.07
+ACT,102,Fraser,38504,Gungahlin PPVC,999,Informal,Informal,999,N,N,,Informal,139,2.39
+ACT,102,Fraser,8819,Hall,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,122,-4.62
+ACT,102,Fraser,8819,Hall,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,4,1.51
+ACT,102,Fraser,8819,Hall,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,99,3.74
+ACT,102,Fraser,8819,Hall,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,40,1.12
+ACT,102,Fraser,8819,Hall,999,Informal,Informal,999,N,N,,Informal,17,5.16
+ACT,102,Fraser,47681,Harrison,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,876,-2.73
+ACT,102,Fraser,47681,Harrison,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,26,1.28
+ACT,102,Fraser,47681,Harrison,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,856,0.9
+ACT,102,Fraser,47681,Harrison,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,280,4.66
+ACT,102,Fraser,47681,Harrison,999,Informal,Informal,999,N,N,,Informal,79,0.81
+ACT,102,Fraser,8821,Holt,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,826,0.14
+ACT,102,Fraser,8821,Holt,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,61,2.29
+ACT,102,Fraser,8821,Holt,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,1312,-4.52
+ACT,102,Fraser,8821,Holt,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,468,6.6
+ACT,102,Fraser,8821,Holt,999,Informal,Informal,999,N,N,,Informal,149,2.15
+ACT,102,Fraser,8822,Jervis Bay,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,23,-4.38
+ACT,102,Fraser,8822,Jervis Bay,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,0,0
+ACT,102,Fraser,8822,Jervis Bay,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,19,-9.5
+ACT,102,Fraser,8822,Jervis Bay,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,14,17.93
+ACT,102,Fraser,8822,Jervis Bay,999,Informal,Informal,999,N,N,,Informal,1,-0.23
+ACT,102,Fraser,8823,Kaleen,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,899,1.31
+ACT,102,Fraser,8823,Kaleen,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,46,1.7
+ACT,102,Fraser,8823,Kaleen,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,1331,-4.52
+ACT,102,Fraser,8823,Kaleen,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,437,5.75
+ACT,102,Fraser,8823,Kaleen,999,Informal,Informal,999,N,N,,Informal,138,1.78
+ACT,102,Fraser,8824,Kaleen South,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,572,4.29
+ACT,102,Fraser,8824,Kaleen South,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,35,2.02
+ACT,102,Fraser,8824,Kaleen South,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,814,-7.06
+ACT,102,Fraser,8824,Kaleen South,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,308,5.24
+ACT,102,Fraser,8824,Kaleen South,999,Informal,Informal,999,N,N,,Informal,97,1.98
+ACT,102,Fraser,8825,Latham,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,730,1.69
+ACT,102,Fraser,8825,Latham,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,50,2.19
+ACT,102,Fraser,8825,Latham,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,1121,-5.85
+ACT,102,Fraser,8825,Latham,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,383,6.04
+ACT,102,Fraser,8825,Latham,999,Informal,Informal,999,N,N,,Informal,131,2.22
+ACT,102,Fraser,8826,Lyneham,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,608,-2.02
+ACT,102,Fraser,8826,Lyneham,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,51,1.69
+ACT,102,Fraser,8826,Lyneham,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,1397,-6.94
+ACT,102,Fraser,8826,Lyneham,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,959,11.49
+ACT,102,Fraser,8826,Lyneham,999,Informal,Informal,999,N,N,,Informal,112,0.91
+ACT,102,Fraser,8827,Macgregor,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,632,-0.51
+ACT,102,Fraser,8827,Macgregor,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,35,1.67
+ACT,102,Fraser,8827,Macgregor,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,1067,-2.42
+ACT,102,Fraser,8827,Macgregor,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,365,6.58
+ACT,102,Fraser,8827,Macgregor,999,Informal,Informal,999,N,N,,Informal,128,2.75
+ACT,102,Fraser,8828,Macquarie,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,476,-0.13
+ACT,102,Fraser,8828,Macquarie,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,40,2.14
+ACT,102,Fraser,8828,Macquarie,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,887,-6.46
+ACT,102,Fraser,8828,Macquarie,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,469,8.95
+ACT,102,Fraser,8828,Macquarie,999,Informal,Informal,999,N,N,,Informal,65,1.46
+ACT,102,Fraser,8830,Melba,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,615,3.76
+ACT,102,Fraser,8830,Melba,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,38,1.94
+ACT,102,Fraser,8830,Melba,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,971,-5.41
+ACT,102,Fraser,8830,Melba,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,332,4.03
+ACT,102,Fraser,8830,Melba,999,Informal,Informal,999,N,N,,Informal,72,1.6
+ACT,102,Fraser,32463,Ngunnawal,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,710,-2.6
+ACT,102,Fraser,32463,Ngunnawal,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,39,1.78
+ACT,102,Fraser,32463,Ngunnawal,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,1037,-2.89
+ACT,102,Fraser,32463,Ngunnawal,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,402,7.54
+ACT,102,Fraser,32463,Ngunnawal,999,Informal,Informal,999,N,N,,Informal,134,2.34
+ACT,102,Fraser,34239,Ngunnawal South,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,326,-0.29
+ACT,102,Fraser,34239,Ngunnawal South,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,20,2.01
+ACT,102,Fraser,34239,Ngunnawal South,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,474,-2.94
+ACT,102,Fraser,34239,Ngunnawal South,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,174,5.4
+ACT,102,Fraser,34239,Ngunnawal South,999,Informal,Informal,999,N,N,,Informal,59,3.56
+ACT,102,Fraser,32081,Nicholls,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,1347,-1.74
+ACT,102,Fraser,32081,Nicholls,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,47,1.51
+ACT,102,Fraser,32081,Nicholls,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,1375,-1.22
+ACT,102,Fraser,32081,Nicholls,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,349,3.65
+ACT,102,Fraser,32081,Nicholls,999,Informal,Informal,999,N,N,,Informal,141,2.03
+ACT,102,Fraser,38198,O'Connor,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,248,6.25
+ACT,102,Fraser,38198,O'Connor,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,19,2.11
+ACT,102,Fraser,38198,O'Connor,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,395,-10.96
+ACT,102,Fraser,38198,O'Connor,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,240,6.44
+ACT,102,Fraser,38198,O'Connor,999,Informal,Informal,999,N,N,,Informal,37,1.14
+ACT,102,Fraser,8832,Page,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,674,1.72
+ACT,102,Fraser,8832,Page,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,46,2.2
+ACT,102,Fraser,8832,Page,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,1039,-2.82
+ACT,102,Fraser,8832,Page,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,333,2.86
+ACT,102,Fraser,8832,Page,999,Informal,Informal,999,N,N,,Informal,115,2.41
+ACT,102,Fraser,31626,Palmerston,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,803,-2.89
+ACT,102,Fraser,31626,Palmerston,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,38,1.54
+ACT,102,Fraser,31626,Palmerston,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,1268,0.87
+ACT,102,Fraser,31626,Palmerston,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,362,4.96
+ACT,102,Fraser,31626,Palmerston,999,Informal,Informal,999,N,N,,Informal,137,1.91
+ACT,102,Fraser,8833,Reid,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,227,1.96
+ACT,102,Fraser,8833,Reid,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,26,3.66
+ACT,102,Fraser,8833,Reid,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,289,-7.09
+ACT,102,Fraser,8833,Reid,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,169,6.45
+ACT,102,Fraser,8833,Reid,999,Informal,Informal,999,N,N,,Informal,12,0.76
+ACT,102,Fraser,8834,Scullin,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,448,-2.69
+ACT,102,Fraser,8834,Scullin,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,33,1.97
+ACT,102,Fraser,8834,Scullin,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,862,-1.33
+ACT,102,Fraser,8834,Scullin,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,331,6.94
+ACT,102,Fraser,8834,Scullin,999,Informal,Informal,999,N,N,,Informal,98,3.16
+ACT,102,Fraser,32467,Special Hospital Team 1,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,65,-4.95
+ACT,102,Fraser,32467,Special Hospital Team 1,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,3,1.84
+ACT,102,Fraser,32467,Special Hospital Team 1,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,80,2.53
+ACT,102,Fraser,32467,Special Hospital Team 1,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,15,4.03
+ACT,102,Fraser,32467,Special Hospital Team 1,999,Informal,Informal,999,N,N,,Informal,15,3.51
+ACT,102,Fraser,32468,Special Hospital Team 2,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,49,4.25
+ACT,102,Fraser,32468,Special Hospital Team 2,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,3,2.97
+ACT,102,Fraser,32468,Special Hospital Team 2,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,42,-3.5
+ACT,102,Fraser,32468,Special Hospital Team 2,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,7,1.19
+ACT,102,Fraser,32468,Special Hospital Team 2,999,Informal,Informal,999,N,N,,Informal,14,8.23
+ACT,102,Fraser,8836,Turner,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,427,0.62
+ACT,102,Fraser,8836,Turner,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,53,2.47
+ACT,102,Fraser,8836,Turner,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,987,-9.15
+ACT,102,Fraser,8836,Turner,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,681,10.88
+ACT,102,Fraser,8836,Turner,999,Informal,Informal,999,N,N,,Informal,76,1.55
+ACT,102,Fraser,8837,Watson,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,713,-0.47
+ACT,102,Fraser,8837,Watson,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,49,1.64
+ACT,102,Fraser,8837,Watson,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,1375,-7.21
+ACT,102,Fraser,8837,Watson,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,847,10.25
+ACT,102,Fraser,8837,Watson,999,Informal,Informal,999,N,N,,Informal,110,1.83
+ACT,102,Fraser,8838,Weetangera,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,757,1.59
+ACT,102,Fraser,8838,Weetangera,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,46,2.02
+ACT,102,Fraser,8838,Weetangera,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,1089,-3.75
+ACT,102,Fraser,8838,Weetangera,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,384,3.29
+ACT,102,Fraser,8838,Weetangera,999,Informal,Informal,999,N,N,,Informal,66,0.82
+ACT,102,Fraser,8839,Wreck Bay,20858,MILLIGAN,James Keith,1,N,N,LP,Liberal,6,8.82
+ACT,102,Fraser,8839,Wreck Bay,21307,HEDGES-PHILLIPS,Quintin,2,N,N,SPA,Secular Party of Australia,2,2.94
+ACT,102,Fraser,8839,Wreck Bay,21210,LEIGH,Andrew,3,Y,N,ALP,Australian Labor Party,48,19.2
+ACT,102,Fraser,8839,Wreck Bay,20860,ESGUERRA,Indra,4,N,N,GRN,The Greens,12,-26.79
+ACT,102,Fraser,8839,Wreck Bay,999,Informal,Informal,999,N,N,,Informal,1,-1.25

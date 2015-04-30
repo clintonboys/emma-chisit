@@ -1,0 +1,1735 @@
+2010 Federal Election House of Representatives First Preferences By Candidate By Polling Place for TAS [Event:15508 Phase:FinalResults Generated:2013-01-22T15:02:24 Cycle:109e02bb-5f15-4808-984f-b47255b191fb Created:2013-01-22T14:55:43 Environment:PROD Site:PARKES Server:NTR01 Version:6.0.10.10009]
+StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlace,CandidateID,Surname,GivenNm,BallotPosition,Elected,HistoricElected,PartyAb,PartyNm,OrdinaryVotes,Swing
+TAS,192,Bass,8289,Blessington Upper,21024,TITMUS,Steve,1,N,N,LP,Liberal,42,1.08
+TAS,192,Bass,8289,Blessington Upper,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,29,7.93
+TAS,192,Bass,8289,Blessington Upper,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,19,-4.47
+TAS,192,Bass,8289,Blessington Upper,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,1,1.1
+TAS,192,Bass,8289,Blessington Upper,999,Informal,Informal,999,N,N,,Informal,6,-1.6
+TAS,192,Bass,8290,Branxholm,21024,TITMUS,Steve,1,N,N,LP,Liberal,95,6.94
+TAS,192,Bass,8290,Branxholm,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,71,-5.84
+TAS,192,Bass,8290,Branxholm,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,26,2.53
+TAS,192,Bass,8290,Branxholm,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,3,1.54
+TAS,192,Bass,8290,Branxholm,999,Informal,Informal,999,N,N,,Informal,11,2.16
+TAS,192,Bass,8291,Bridport,21024,TITMUS,Steve,1,N,N,LP,Liberal,575,-2.72
+TAS,192,Bass,8291,Bridport,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,343,3.9
+TAS,192,Bass,8291,Bridport,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,135,0.21
+TAS,192,Bass,8291,Bridport,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,11,0.86
+TAS,192,Bass,8291,Bridport,999,Informal,Informal,999,N,N,,Informal,56,0.85
+TAS,192,Bass,8295,Derby,21024,TITMUS,Steve,1,N,N,LP,Liberal,45,-12.54
+TAS,192,Bass,8295,Derby,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,54,7.71
+TAS,192,Bass,8295,Derby,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,36,5.54
+TAS,192,Bass,8295,Derby,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,4,1.68
+TAS,192,Bass,8295,Derby,999,Informal,Informal,999,N,N,,Informal,5,1.13
+TAS,192,Bass,8296,Dilston,21024,TITMUS,Steve,1,N,N,LP,Liberal,304,-0.75
+TAS,192,Bass,8296,Dilston,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,273,7.55
+TAS,192,Bass,8296,Dilston,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,148,-3.56
+TAS,192,Bass,8296,Dilston,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,13,1.48
+TAS,192,Bass,8296,Dilston,999,Informal,Informal,999,N,N,,Informal,26,1.36
+TAS,192,Bass,30183,Divisional Office (PREPOLL),21024,TITMUS,Steve,1,N,N,LP,Liberal,74,9.94
+TAS,192,Bass,30183,Divisional Office (PREPOLL),21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,71,8.19
+TAS,192,Bass,30183,Divisional Office (PREPOLL),20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,26,-18.13
+TAS,192,Bass,30183,Divisional Office (PREPOLL),21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,0,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),999,Informal,Informal,999,N,N,,Informal,8,4.47
+TAS,192,Bass,8313,East Launceston,21024,TITMUS,Steve,1,N,N,LP,Liberal,399,2.65
+TAS,192,Bass,8313,East Launceston,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,315,5.83
+TAS,192,Bass,8313,East Launceston,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,187,-7.37
+TAS,192,Bass,8313,East Launceston,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,5,0.45
+TAS,192,Bass,8313,East Launceston,999,Informal,Informal,999,N,N,,Informal,22,1.34
+TAS,192,Bass,8297,Elphin,21024,TITMUS,Steve,1,N,N,LP,Liberal,364,-2.91
+TAS,192,Bass,8297,Elphin,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,310,5.83
+TAS,192,Bass,8297,Elphin,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,136,-1.24
+TAS,192,Bass,8297,Elphin,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,7,0.73
+TAS,192,Bass,8297,Elphin,999,Informal,Informal,999,N,N,,Informal,28,0
+TAS,192,Bass,8314,Five Ways,21024,TITMUS,Steve,1,N,N,LP,Liberal,407,-2.36
+TAS,192,Bass,8314,Five Ways,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,495,4.34
+TAS,192,Bass,8314,Five Ways,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,182,0.53
+TAS,192,Bass,8314,Five Ways,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,21,1.54
+TAS,192,Bass,8314,Five Ways,999,Informal,Informal,999,N,N,,Informal,54,1.56
+TAS,192,Bass,8300,General Hospital,21024,TITMUS,Steve,1,N,N,LP,Liberal,257,-0.93
+TAS,192,Bass,8300,General Hospital,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,338,7.46
+TAS,192,Bass,8300,General Hospital,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,177,-5.08
+TAS,192,Bass,8300,General Hospital,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,8,0.7
+TAS,192,Bass,8300,General Hospital,999,Informal,Informal,999,N,N,,Informal,35,-0.58
+TAS,192,Bass,8301,George Town,21024,TITMUS,Steve,1,N,N,LP,Liberal,548,0.55
+TAS,192,Bass,8301,George Town,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,860,2.53
+TAS,192,Bass,8301,George Town,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,206,-0.09
+TAS,192,Bass,8301,George Town,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,29,1.58
+TAS,192,Bass,8301,George Town,999,Informal,Informal,999,N,N,,Informal,88,0.54
+TAS,192,Bass,8302,George Town South,21024,TITMUS,Steve,1,N,N,LP,Liberal,316,-3.72
+TAS,192,Bass,8302,George Town South,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,516,5.61
+TAS,192,Bass,8302,George Town South,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,111,1.51
+TAS,192,Bass,8302,George Town South,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,11,0.51
+TAS,192,Bass,8302,George Town South,999,Informal,Informal,999,N,N,,Informal,52,0.9
+TAS,192,Bass,8303,Gladstone,21024,TITMUS,Steve,1,N,N,LP,Liberal,67,-9.34
+TAS,192,Bass,8303,Gladstone,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,52,4.55
+TAS,192,Bass,8303,Gladstone,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,20,7.56
+TAS,192,Bass,8303,Gladstone,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,3,2.11
+TAS,192,Bass,8303,Gladstone,999,Informal,Informal,999,N,N,,Informal,3,-1.09
+TAS,192,Bass,8605,Hadspen,21024,TITMUS,Steve,1,N,N,LP,Liberal,424,-3.47
+TAS,192,Bass,8605,Hadspen,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,526,10.45
+TAS,192,Bass,8605,Hadspen,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,116,3.31
+TAS,192,Bass,8605,Hadspen,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,14,0.89
+TAS,192,Bass,8605,Hadspen,999,Informal,Informal,999,N,N,,Informal,55,2.37
+TAS,192,Bass,8304,Hillwood,21024,TITMUS,Steve,1,N,N,LP,Liberal,146,-1.89
+TAS,192,Bass,8304,Hillwood,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,144,5.59
+TAS,192,Bass,8304,Hillwood,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,100,2.39
+TAS,192,Bass,8304,Hillwood,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,3,0.08
+TAS,192,Bass,8304,Hillwood,999,Informal,Informal,999,N,N,,Informal,10,-0.83
+TAS,192,Bass,8305,Inveresk,21024,TITMUS,Steve,1,N,N,LP,Liberal,343,1.28
+TAS,192,Bass,8305,Inveresk,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,534,0.65
+TAS,192,Bass,8305,Inveresk,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,195,1.05
+TAS,192,Bass,8305,Inveresk,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,26,1.71
+TAS,192,Bass,8305,Inveresk,999,Informal,Informal,999,N,N,,Informal,73,0.49
+TAS,192,Bass,8306,Invermay,21024,TITMUS,Steve,1,N,N,LP,Liberal,407,-2.46
+TAS,192,Bass,8306,Invermay,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,588,-0.37
+TAS,192,Bass,8306,Invermay,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,270,5.68
+TAS,192,Bass,8306,Invermay,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,17,1.06
+TAS,192,Bass,8306,Invermay,999,Informal,Informal,999,N,N,,Informal,61,-0.28
+TAS,192,Bass,8308,Karoola,21024,TITMUS,Steve,1,N,N,LP,Liberal,88,-3.35
+TAS,192,Bass,8308,Karoola,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,125,7.41
+TAS,192,Bass,8308,Karoola,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,42,0.36
+TAS,192,Bass,8308,Karoola,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,7,1.18
+TAS,192,Bass,8308,Karoola,999,Informal,Informal,999,N,N,,Informal,19,2.13
+TAS,192,Bass,8309,Kings Meadows,21024,TITMUS,Steve,1,N,N,LP,Liberal,860,-6.75
+TAS,192,Bass,8309,Kings Meadows,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,1081,6.75
+TAS,192,Bass,8309,Kings Meadows,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,278,2.34
+TAS,192,Bass,8309,Kings Meadows,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,17,0.47
+TAS,192,Bass,8309,Kings Meadows,999,Informal,Informal,999,N,N,,Informal,127,1.73
+TAS,192,Bass,8310,Lady Barron,21024,TITMUS,Steve,1,N,N,LP,Liberal,61,-5.81
+TAS,192,Bass,8310,Lady Barron,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,42,5.73
+TAS,192,Bass,8310,Lady Barron,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,25,1.47
+TAS,192,Bass,8310,Lady Barron,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,0,0
+TAS,192,Bass,8310,Lady Barron,999,Informal,Informal,999,N,N,,Informal,3,-1.71
+TAS,192,Bass,8311,Launceston,21024,TITMUS,Steve,1,N,N,LP,Liberal,392,-2.73
+TAS,192,Bass,8311,Launceston,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,424,1.34
+TAS,192,Bass,8311,Launceston,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,315,3.67
+TAS,192,Bass,8311,Launceston,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,23,1.73
+TAS,192,Bass,8311,Launceston,999,Informal,Informal,999,N,N,,Informal,57,2.74
+TAS,192,Bass,33906,Launceston BASS PPVC,21024,TITMUS,Steve,1,N,N,LP,Liberal,1197,-0.25
+TAS,192,Bass,33906,Launceston BASS PPVC,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,1098,6.99
+TAS,192,Bass,33906,Launceston BASS PPVC,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,515,-3.7
+TAS,192,Bass,33906,Launceston BASS PPVC,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,23,0.47
+TAS,192,Bass,33906,Launceston BASS PPVC,999,Informal,Informal,999,N,N,,Informal,70,1.17
+TAS,192,Bass,8312,Launceston Central,21024,TITMUS,Steve,1,N,N,LP,Liberal,234,-3.45
+TAS,192,Bass,8312,Launceston Central,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,233,8.28
+TAS,192,Bass,8312,Launceston Central,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,164,-3.5
+TAS,192,Bass,8312,Launceston Central,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,13,1.81
+TAS,192,Bass,8312,Launceston Central,999,Informal,Informal,999,N,N,,Informal,19,1.19
+TAS,192,Bass,8316,Lebrina,21024,TITMUS,Steve,1,N,N,LP,Liberal,86,-1.85
+TAS,192,Bass,8316,Lebrina,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,77,1.21
+TAS,192,Bass,8316,Lebrina,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,50,1.18
+TAS,192,Bass,8316,Lebrina,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,9,2.79
+TAS,192,Bass,8316,Lebrina,999,Informal,Informal,999,N,N,,Informal,8,-0.54
+TAS,192,Bass,8616,Legana (Bass),21024,TITMUS,Steve,1,N,N,LP,Liberal,706,-4.21
+TAS,192,Bass,8616,Legana (Bass),21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,629,8.97
+TAS,192,Bass,8616,Legana (Bass),20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,253,-0.96
+TAS,192,Bass,8616,Legana (Bass),21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,21,1.05
+TAS,192,Bass,8616,Legana (Bass),999,Informal,Informal,999,N,N,,Informal,44,-0.41
+TAS,192,Bass,8319,Lilydale,21024,TITMUS,Steve,1,N,N,LP,Liberal,235,-4.43
+TAS,192,Bass,8319,Lilydale,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,272,8.39
+TAS,192,Bass,8319,Lilydale,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,200,-0.68
+TAS,192,Bass,8319,Lilydale,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,8,0.41
+TAS,192,Bass,8319,Lilydale,999,Informal,Informal,999,N,N,,Informal,32,1.52
+TAS,192,Bass,8321,Mowbray,21024,TITMUS,Steve,1,N,N,LP,Liberal,498,-5.15
+TAS,192,Bass,8321,Mowbray,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,877,3.82
+TAS,192,Bass,8321,Mowbray,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,264,5.01
+TAS,192,Bass,8321,Mowbray,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,25,1.12
+TAS,192,Bass,8321,Mowbray,999,Informal,Informal,999,N,N,,Informal,103,1.3
+TAS,192,Bass,8288,Newnham,21024,TITMUS,Steve,1,N,N,LP,Liberal,793,-4.55
+TAS,192,Bass,8288,Newnham,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,1431,5
+TAS,192,Bass,8288,Newnham,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,276,2.61
+TAS,192,Bass,8288,Newnham,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,37,1.19
+TAS,192,Bass,8288,Newnham,999,Informal,Informal,999,N,N,,Informal,128,0.77
+TAS,192,Bass,8326,Newstead,21024,TITMUS,Steve,1,N,N,LP,Liberal,807,-5.78
+TAS,192,Bass,8326,Newstead,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,694,6.45
+TAS,192,Bass,8326,Newstead,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,336,1.03
+TAS,192,Bass,8326,Newstead,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,16,0.76
+TAS,192,Bass,8326,Newstead,999,Informal,Informal,999,N,N,,Informal,59,0.83
+TAS,192,Bass,8328,Norwood,21024,TITMUS,Steve,1,N,N,LP,Liberal,1175,-7.12
+TAS,192,Bass,8328,Norwood,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,964,8.96
+TAS,192,Bass,8328,Norwood,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,277,0.54
+TAS,192,Bass,8328,Norwood,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,13,0.38
+TAS,192,Bass,8328,Norwood,999,Informal,Informal,999,N,N,,Informal,81,1.13
+TAS,192,Bass,8329,Nunamara,21024,TITMUS,Steve,1,N,N,LP,Liberal,76,-6.35
+TAS,192,Bass,8329,Nunamara,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,95,9.82
+TAS,192,Bass,8329,Nunamara,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,52,-0.47
+TAS,192,Bass,8329,Nunamara,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,4,1.33
+TAS,192,Bass,8329,Nunamara,999,Informal,Informal,999,N,N,,Informal,13,-1.06
+TAS,192,Bass,8332,Pipers River,21024,TITMUS,Steve,1,N,N,LP,Liberal,116,4.08
+TAS,192,Bass,8332,Pipers River,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,78,2.85
+TAS,192,Bass,8332,Pipers River,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,43,-1.55
+TAS,192,Bass,8332,Pipers River,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,3,0.37
+TAS,192,Bass,8332,Pipers River,999,Informal,Informal,999,N,N,,Informal,14,4.2
+TAS,192,Bass,8333,Prospect,21024,TITMUS,Steve,1,N,N,LP,Liberal,856,-6.71
+TAS,192,Bass,8333,Prospect,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,911,7.96
+TAS,192,Bass,8333,Prospect,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,191,0.25
+TAS,192,Bass,8333,Prospect,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,16,0.76
+TAS,192,Bass,8333,Prospect,999,Informal,Informal,999,N,N,,Informal,78,1.41
+TAS,192,Bass,11665,Prospect Vale,21024,TITMUS,Steve,1,N,N,LP,Liberal,560,-8.96
+TAS,192,Bass,11665,Prospect Vale,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,481,8.11
+TAS,192,Bass,11665,Prospect Vale,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,100,2.14
+TAS,192,Bass,11665,Prospect Vale,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,7,0.44
+TAS,192,Bass,11665,Prospect Vale,999,Informal,Informal,999,N,N,,Informal,38,0.59
+TAS,192,Bass,8334,Ravenswood,21024,TITMUS,Steve,1,N,N,LP,Liberal,540,-0.03
+TAS,192,Bass,8334,Ravenswood,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,1091,2.26
+TAS,192,Bass,8334,Ravenswood,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,213,3.2
+TAS,192,Bass,8334,Ravenswood,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,24,0.58
+TAS,192,Bass,8334,Ravenswood,999,Informal,Informal,999,N,N,,Informal,173,2.23
+TAS,192,Bass,8335,Ringarooma,21024,TITMUS,Steve,1,N,N,LP,Liberal,171,-1.25
+TAS,192,Bass,8335,Ringarooma,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,136,3.91
+TAS,192,Bass,8335,Ringarooma,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,30,-1.69
+TAS,192,Bass,8335,Ringarooma,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,7,2.03
+TAS,192,Bass,8335,Ringarooma,999,Informal,Informal,999,N,N,,Informal,15,1.25
+TAS,192,Bass,8336,Riverside,21024,TITMUS,Steve,1,N,N,LP,Liberal,1114,-5.45
+TAS,192,Bass,8336,Riverside,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,960,9.03
+TAS,192,Bass,8336,Riverside,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,401,0.59
+TAS,192,Bass,8336,Riverside,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,32,1.14
+TAS,192,Bass,8336,Riverside,999,Informal,Informal,999,N,N,,Informal,79,0.62
+TAS,192,Bass,8338,Riverside West,21024,TITMUS,Steve,1,N,N,LP,Liberal,506,-2.25
+TAS,192,Bass,8338,Riverside West,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,481,9.15
+TAS,192,Bass,8338,Riverside West,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,138,-3.62
+TAS,192,Bass,8338,Riverside West,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,13,1.03
+TAS,192,Bass,8338,Riverside West,999,Informal,Informal,999,N,N,,Informal,44,1.5
+TAS,192,Bass,8864,Rocherlea,21024,TITMUS,Steve,1,N,N,LP,Liberal,192,-4.79
+TAS,192,Bass,8864,Rocherlea,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,438,10.25
+TAS,192,Bass,8864,Rocherlea,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,73,0.4
+TAS,192,Bass,8864,Rocherlea,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,8,0.29
+TAS,192,Bass,8864,Rocherlea,999,Informal,Informal,999,N,N,,Informal,52,1.47
+TAS,192,Bass,8294,Sandhill,21024,TITMUS,Steve,1,N,N,LP,Liberal,113,-8.59
+TAS,192,Bass,8294,Sandhill,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,119,9.88
+TAS,192,Bass,8294,Sandhill,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,40,-0.68
+TAS,192,Bass,8294,Sandhill,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,2,0.73
+TAS,192,Bass,8294,Sandhill,999,Informal,Informal,999,N,N,,Informal,9,-1.87
+TAS,192,Bass,8340,Scottsdale,21024,TITMUS,Steve,1,N,N,LP,Liberal,903,-5.51
+TAS,192,Bass,8340,Scottsdale,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,720,7.53
+TAS,192,Bass,8340,Scottsdale,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,118,0.69
+TAS,192,Bass,8340,Scottsdale,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,40,0.94
+TAS,192,Bass,8340,Scottsdale,999,Informal,Informal,999,N,N,,Informal,79,0.48
+TAS,192,Bass,8330,South Launceston,21024,TITMUS,Steve,1,N,N,LP,Liberal,198,1.78
+TAS,192,Bass,8330,South Launceston,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,197,3.76
+TAS,192,Bass,8330,South Launceston,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,114,-2.73
+TAS,192,Bass,8330,South Launceston,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,7,1.18
+TAS,192,Bass,8330,South Launceston,999,Informal,Informal,999,N,N,,Informal,11,0.31
+TAS,192,Bass,33647,Special Hospital Team 1,21024,TITMUS,Steve,1,N,N,LP,Liberal,142,0.38
+TAS,192,Bass,33647,Special Hospital Team 1,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,87,4.85
+TAS,192,Bass,33647,Special Hospital Team 1,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,10,-1.17
+TAS,192,Bass,33647,Special Hospital Team 1,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,3,-0.53
+TAS,192,Bass,33647,Special Hospital Team 1,999,Informal,Informal,999,N,N,,Informal,12,-0.31
+TAS,192,Bass,33894,Special Hospital Team 2,21024,TITMUS,Steve,1,N,N,LP,Liberal,87,-4.32
+TAS,192,Bass,33894,Special Hospital Team 2,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,64,8.21
+TAS,192,Bass,33894,Special Hospital Team 2,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,11,1.45
+TAS,192,Bass,33894,Special Hospital Team 2,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,0,-1.53
+TAS,192,Bass,33894,Special Hospital Team 2,999,Informal,Informal,999,N,N,,Informal,8,-0.36
+TAS,192,Bass,33895,Special Hospital Team 3,21024,TITMUS,Steve,1,N,N,LP,Liberal,51,2.38
+TAS,192,Bass,33895,Special Hospital Team 3,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,27,1.19
+TAS,192,Bass,33895,Special Hospital Team 3,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,3,-1.19
+TAS,192,Bass,33895,Special Hospital Team 3,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,3,2.38
+TAS,192,Bass,33895,Special Hospital Team 3,999,Informal,Informal,999,N,N,,Informal,5,0
+TAS,192,Bass,33896,Special Hospital Team 4,21024,TITMUS,Steve,1,N,N,LP,Liberal,182,1.27
+TAS,192,Bass,33896,Special Hospital Team 4,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,96,0.03
+TAS,192,Bass,33896,Special Hospital Team 4,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,23,2.3
+TAS,192,Bass,33896,Special Hospital Team 4,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,5,0.14
+TAS,192,Bass,33896,Special Hospital Team 4,999,Informal,Informal,999,N,N,,Informal,5,-3.69
+TAS,192,Bass,58646,Special Hospital Team 5,21024,TITMUS,Steve,1,N,N,LP,Liberal,67,-10.29
+TAS,192,Bass,58646,Special Hospital Team 5,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,66,15.45
+TAS,192,Bass,58646,Special Hospital Team 5,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,8,-0.12
+TAS,192,Bass,58646,Special Hospital Team 5,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,1,-0.45
+TAS,192,Bass,58646,Special Hospital Team 5,999,Informal,Informal,999,N,N,,Informal,6,-1.38
+TAS,192,Bass,8339,St Leonards,21024,TITMUS,Steve,1,N,N,LP,Liberal,463,-3.65
+TAS,192,Bass,8339,St Leonards,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,487,3.31
+TAS,192,Bass,8339,St Leonards,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,154,2.46
+TAS,192,Bass,8339,St Leonards,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,17,1.34
+TAS,192,Bass,8339,St Leonards,999,Informal,Informal,999,N,N,,Informal,42,-0.24
+TAS,192,Bass,33084,Summerhill,21024,TITMUS,Steve,1,N,N,LP,Liberal,1248,-7.28
+TAS,192,Bass,33084,Summerhill,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,1572,6.87
+TAS,192,Bass,33084,Summerhill,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,357,3.18
+TAS,192,Bass,33084,Summerhill,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,32,0.82
+TAS,192,Bass,33084,Summerhill,999,Informal,Informal,999,N,N,,Informal,152,0.02
+TAS,192,Bass,8322,Targa,21024,TITMUS,Steve,1,N,N,LP,Liberal,24,5.17
+TAS,192,Bass,8322,Targa,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,27,-6.07
+TAS,192,Bass,8322,Targa,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,14,1.31
+TAS,192,Bass,8322,Targa,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,3,4.41
+TAS,192,Bass,8322,Targa,999,Informal,Informal,999,N,N,,Informal,7,2.59
+TAS,192,Bass,8342,Trevallyn,21024,TITMUS,Steve,1,N,N,LP,Liberal,641,-5.29
+TAS,192,Bass,8342,Trevallyn,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,604,8.24
+TAS,192,Bass,8342,Trevallyn,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,476,-0.96
+TAS,192,Bass,8342,Trevallyn,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,24,1.17
+TAS,192,Bass,8342,Trevallyn,999,Informal,Informal,999,N,N,,Informal,47,0.84
+TAS,192,Bass,8344,Waverley,21024,TITMUS,Steve,1,N,N,LP,Liberal,249,-1.12
+TAS,192,Bass,8344,Waverley,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,515,0.57
+TAS,192,Bass,8344,Waverley,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,102,4.07
+TAS,192,Bass,8344,Waverley,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,20,1.48
+TAS,192,Bass,8344,Waverley,999,Informal,Informal,999,N,N,,Informal,72,-0.36
+TAS,192,Bass,8293,West Launceston,21024,TITMUS,Steve,1,N,N,LP,Liberal,643,-2.33
+TAS,192,Bass,8293,West Launceston,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,714,7.27
+TAS,192,Bass,8293,West Launceston,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,444,-2.65
+TAS,192,Bass,8293,West Launceston,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,19,0.93
+TAS,192,Bass,8293,West Launceston,999,Informal,Informal,999,N,N,,Informal,60,0.77
+TAS,192,Bass,8345,Weymouth,21024,TITMUS,Steve,1,N,N,LP,Liberal,56,-1.17
+TAS,192,Bass,8345,Weymouth,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,63,20.5
+TAS,192,Bass,8345,Weymouth,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,14,-16.34
+TAS,192,Bass,8345,Weymouth,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,0,0
+TAS,192,Bass,8345,Weymouth,999,Informal,Informal,999,N,N,,Informal,8,2.07
+TAS,192,Bass,8347,Whitemark,21024,TITMUS,Steve,1,N,N,LP,Liberal,154,-1.66
+TAS,192,Bass,8347,Whitemark,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,71,-1.03
+TAS,192,Bass,8347,Whitemark,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,63,5.76
+TAS,192,Bass,8347,Whitemark,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,1,0.01
+TAS,192,Bass,8347,Whitemark,999,Informal,Informal,999,N,N,,Informal,14,0.06
+TAS,192,Bass,8348,Windmill Hill,21024,TITMUS,Steve,1,N,N,LP,Liberal,400,-3.7
+TAS,192,Bass,8348,Windmill Hill,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,276,8.65
+TAS,192,Bass,8348,Windmill Hill,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,178,-4.69
+TAS,192,Bass,8348,Windmill Hill,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,10,1.16
+TAS,192,Bass,8348,Windmill Hill,999,Informal,Informal,999,N,N,,Informal,9,-1.07
+TAS,192,Bass,8349,Winnaleah,21024,TITMUS,Steve,1,N,N,LP,Liberal,115,-5.5
+TAS,192,Bass,8349,Winnaleah,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,64,11.39
+TAS,192,Bass,8349,Winnaleah,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,16,-2.1
+TAS,192,Bass,8349,Winnaleah,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,4,1.04
+TAS,192,Bass,8349,Winnaleah,999,Informal,Informal,999,N,N,,Informal,14,0.24
+TAS,192,Bass,8350,Youngtown,21024,TITMUS,Steve,1,N,N,LP,Liberal,548,-5.91
+TAS,192,Bass,8350,Youngtown,21013,LYONS,Geoff,2,Y,N,ALP,Australian Labor Party,718,8.54
+TAS,192,Bass,8350,Youngtown,20780,COLGRAVE,Sancia Geraldine,3,N,N,GRN,Australian Greens,141,-0.13
+TAS,192,Bass,8350,Youngtown,21751,WATTS,Adrian,4,N,N,CEC,Citizens Electoral Council,13,0.63
+TAS,192,Bass,8350,Youngtown,999,Informal,Informal,999,N,N,,Informal,59,1.47
+TAS,193,Braddon,8358,Abbotsham,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,74,0.23
+TAS,193,Braddon,8358,Abbotsham,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,20,3.76
+TAS,193,Braddon,8358,Abbotsham,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,46,1.28
+TAS,193,Braddon,8358,Abbotsham,999,Informal,Informal,999,N,N,,Informal,8,1.09
+TAS,193,Braddon,8359,Acton,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,406,-2.55
+TAS,193,Braddon,8359,Acton,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,310,11.52
+TAS,193,Braddon,8359,Acton,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,1088,-3.2
+TAS,193,Braddon,8359,Acton,999,Informal,Informal,999,N,N,,Informal,91,0.35
+TAS,193,Braddon,8360,Addison Street,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,330,-7.35
+TAS,193,Braddon,8360,Addison Street,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,95,4.83
+TAS,193,Braddon,8360,Addison Street,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,485,6.88
+TAS,193,Braddon,8360,Addison Street,999,Informal,Informal,999,N,N,,Informal,50,1.22
+TAS,193,Braddon,31441,Ambleside,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,260,-3.12
+TAS,193,Braddon,31441,Ambleside,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,42,0.85
+TAS,193,Braddon,31441,Ambleside,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,243,5.81
+TAS,193,Braddon,31441,Ambleside,999,Informal,Informal,999,N,N,,Informal,15,0.15
+TAS,193,Braddon,8362,Boat Harbour,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,157,-2.03
+TAS,193,Braddon,8362,Boat Harbour,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,72,2.13
+TAS,193,Braddon,8362,Boat Harbour,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,122,3.14
+TAS,193,Braddon,8362,Boat Harbour,999,Informal,Informal,999,N,N,,Informal,23,4.29
+TAS,193,Braddon,8364,Brooklyn,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,212,-1.16
+TAS,193,Braddon,8364,Brooklyn,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,59,3.3
+TAS,193,Braddon,8364,Brooklyn,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,413,2.71
+TAS,193,Braddon,8364,Brooklyn,999,Informal,Informal,999,N,N,,Informal,27,0.22
+TAS,193,Braddon,8365,Burnie,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,544,-0.71
+TAS,193,Braddon,8365,Burnie,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,189,3.11
+TAS,193,Braddon,8365,Burnie,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,693,1.21
+TAS,193,Braddon,8365,Burnie,999,Informal,Informal,999,N,N,,Informal,59,0.7
+TAS,193,Braddon,33832,Burnie PPVC,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,566,-2.5
+TAS,193,Braddon,33832,Burnie PPVC,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,170,0.14
+TAS,193,Braddon,33832,Burnie PPVC,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,739,7.42
+TAS,193,Braddon,33832,Burnie PPVC,999,Informal,Informal,999,N,N,,Informal,47,1.66
+TAS,193,Braddon,8367,Calder,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,49,5.92
+TAS,193,Braddon,8367,Calder,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,18,0
+TAS,193,Braddon,8367,Calder,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,59,-3.72
+TAS,193,Braddon,8367,Calder,999,Informal,Informal,999,N,N,,Informal,5,3.82
+TAS,193,Braddon,8368,Cooee,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,354,-4.78
+TAS,193,Braddon,8368,Cooee,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,96,2.36
+TAS,193,Braddon,8368,Cooee,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,443,3.9
+TAS,193,Braddon,8368,Cooee,999,Informal,Informal,999,N,N,,Informal,36,1.94
+TAS,193,Braddon,8370,Currie,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,340,-4.38
+TAS,193,Braddon,8370,Currie,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,94,7.94
+TAS,193,Braddon,8370,Currie,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,240,0.09
+TAS,193,Braddon,8370,Currie,999,Informal,Informal,999,N,N,,Informal,31,0.5
+TAS,193,Braddon,8371,Devonport Central,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,698,-7.8
+TAS,193,Braddon,8371,Devonport Central,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,228,5.63
+TAS,193,Braddon,8371,Devonport Central,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,745,6.14
+TAS,193,Braddon,8371,Devonport Central,999,Informal,Informal,999,N,N,,Informal,59,0.6
+TAS,193,Braddon,8373,Devonport North,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,365,-8.37
+TAS,193,Braddon,8373,Devonport North,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,80,2.42
+TAS,193,Braddon,8373,Devonport North,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,398,8.78
+TAS,193,Braddon,8373,Devonport North,999,Informal,Informal,999,N,N,,Informal,55,2.29
+TAS,193,Braddon,33831,Devonport PPVC,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,595,-0.13
+TAS,193,Braddon,33831,Devonport PPVC,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,161,-0.27
+TAS,193,Braddon,33831,Devonport PPVC,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,705,5.74
+TAS,193,Braddon,33831,Devonport PPVC,999,Informal,Informal,999,N,N,,Informal,77,3.59
+TAS,193,Braddon,34286,Devonport South,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,392,-9.43
+TAS,193,Braddon,34286,Devonport South,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,128,4.3
+TAS,193,Braddon,34286,Devonport South,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,665,9.18
+TAS,193,Braddon,34286,Devonport South,999,Informal,Informal,999,N,N,,Informal,55,0.98
+TAS,193,Braddon,8432,Devonport West,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,475,-8.69
+TAS,193,Braddon,8432,Devonport West,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,132,4.95
+TAS,193,Braddon,8432,Devonport West,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,706,9.76
+TAS,193,Braddon,8432,Devonport West,999,Informal,Informal,999,N,N,,Informal,72,1.65
+TAS,193,Braddon,30184,Divisional Office (PREPOLL),20953,CARPENTER,Garry William,1,N,N,LP,Liberal,130,-0.99
+TAS,193,Braddon,30184,Divisional Office (PREPOLL),20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,41,0.89
+TAS,193,Braddon,30184,Divisional Office (PREPOLL),20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,158,5.87
+TAS,193,Braddon,30184,Divisional Office (PREPOLL),999,Informal,Informal,999,N,N,,Informal,1,-1.33
+TAS,193,Braddon,8375,Don,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,387,-7.44
+TAS,193,Braddon,8375,Don,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,94,1.16
+TAS,193,Braddon,8375,Don,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,401,9.52
+TAS,193,Braddon,8375,Don,999,Informal,Informal,999,N,N,,Informal,43,0.95
+TAS,193,Braddon,8372,East Devonport,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,620,-8.42
+TAS,193,Braddon,8372,East Devonport,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,191,3.93
+TAS,193,Braddon,8372,East Devonport,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,1147,9.51
+TAS,193,Braddon,8372,East Devonport,999,Informal,Informal,999,N,N,,Informal,120,1.29
+TAS,193,Braddon,8376,Edith Creek,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,73,-8.45
+TAS,193,Braddon,8376,Edith Creek,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,25,5.44
+TAS,193,Braddon,8376,Edith Creek,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,80,6.77
+TAS,193,Braddon,8376,Edith Creek,999,Informal,Informal,999,N,N,,Informal,11,1.2
+TAS,193,Braddon,8378,Elliott,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,94,-2.13
+TAS,193,Braddon,8378,Elliott,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,38,-0.14
+TAS,193,Braddon,8378,Elliott,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,96,6.71
+TAS,193,Braddon,8378,Elliott,999,Informal,Informal,999,N,N,,Informal,11,2.44
+TAS,193,Braddon,8379,Forest,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,207,-8.79
+TAS,193,Braddon,8379,Forest,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,48,7.79
+TAS,193,Braddon,8379,Forest,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,150,4.05
+TAS,193,Braddon,8379,Forest,999,Informal,Informal,999,N,N,,Informal,19,1.52
+TAS,193,Braddon,8380,Forth,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,363,-1.39
+TAS,193,Braddon,8380,Forth,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,104,0.42
+TAS,193,Braddon,8380,Forth,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,295,6.12
+TAS,193,Braddon,8380,Forth,999,Informal,Informal,999,N,N,,Informal,22,-0.55
+TAS,193,Braddon,8381,Gawler,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,238,1.57
+TAS,193,Braddon,8381,Gawler,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,42,-0.48
+TAS,193,Braddon,8381,Gawler,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,174,2.81
+TAS,193,Braddon,8381,Gawler,999,Informal,Informal,999,N,N,,Informal,20,1.61
+TAS,193,Braddon,8382,Grassy,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,46,-4.53
+TAS,193,Braddon,8382,Grassy,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,9,1.66
+TAS,193,Braddon,8382,Grassy,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,56,6.1
+TAS,193,Braddon,8382,Grassy,999,Informal,Informal,999,N,N,,Informal,7,1.31
+TAS,193,Braddon,8383,Gunns Plains,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,52,2.27
+TAS,193,Braddon,8383,Gunns Plains,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,19,-2.73
+TAS,193,Braddon,8383,Gunns Plains,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,39,6.45
+TAS,193,Braddon,8383,Gunns Plains,999,Informal,Informal,999,N,N,,Informal,1,-1.06
+TAS,193,Braddon,8384,Havenview,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,179,-0.32
+TAS,193,Braddon,8384,Havenview,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,70,6.6
+TAS,193,Braddon,8384,Havenview,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,360,-2.12
+TAS,193,Braddon,8384,Havenview,999,Informal,Informal,999,N,N,,Informal,30,2.22
+TAS,193,Braddon,8361,Heybridge,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,122,3.62
+TAS,193,Braddon,8361,Heybridge,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,44,5.17
+TAS,193,Braddon,8361,Heybridge,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,130,-4.92
+TAS,193,Braddon,8361,Heybridge,999,Informal,Informal,999,N,N,,Informal,20,-0.19
+TAS,193,Braddon,8385,Highclere,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,70,-5.62
+TAS,193,Braddon,8385,Highclere,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,16,2.85
+TAS,193,Braddon,8385,Highclere,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,94,8.26
+TAS,193,Braddon,8385,Highclere,999,Informal,Informal,999,N,N,,Informal,4,-3.04
+TAS,193,Braddon,8386,Irishtown,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,155,-0.67
+TAS,193,Braddon,8386,Irishtown,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,12,0.53
+TAS,193,Braddon,8386,Irishtown,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,126,5.66
+TAS,193,Braddon,8386,Irishtown,999,Informal,Informal,999,N,N,,Informal,28,2.91
+TAS,193,Braddon,8615,Latrobe,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,807,-9.81
+TAS,193,Braddon,8615,Latrobe,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,239,4.21
+TAS,193,Braddon,8615,Latrobe,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,1210,9.81
+TAS,193,Braddon,8615,Latrobe,999,Informal,Informal,999,N,N,,Informal,101,1.16
+TAS,193,Braddon,8391,Marrawah,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,100,0.28
+TAS,193,Braddon,8391,Marrawah,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,20,0.19
+TAS,193,Braddon,8391,Marrawah,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,65,1.92
+TAS,193,Braddon,8391,Marrawah,999,Informal,Informal,999,N,N,,Informal,7,-0.3
+TAS,193,Braddon,8392,Mawbanna,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,26,-3.67
+TAS,193,Braddon,8392,Mawbanna,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,9,8.81
+TAS,193,Braddon,8392,Mawbanna,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,20,-3.26
+TAS,193,Braddon,8392,Mawbanna,999,Informal,Informal,999,N,N,,Informal,1,-3.57
+TAS,193,Braddon,8393,Melrose,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,69,-12.37
+TAS,193,Braddon,8393,Melrose,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,26,4.51
+TAS,193,Braddon,8393,Melrose,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,93,12.82
+TAS,193,Braddon,8393,Melrose,999,Informal,Informal,999,N,N,,Informal,4,-0.93
+TAS,193,Braddon,8374,Miandetta,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,145,-3.4
+TAS,193,Braddon,8374,Miandetta,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,37,3.19
+TAS,193,Braddon,8374,Miandetta,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,226,4.41
+TAS,193,Braddon,8374,Miandetta,999,Informal,Informal,999,N,N,,Informal,12,-0.39
+TAS,193,Braddon,8395,Montagu,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,47,-13.67
+TAS,193,Braddon,8395,Montagu,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,23,11.8
+TAS,193,Braddon,8395,Montagu,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,43,7.79
+TAS,193,Braddon,8395,Montagu,999,Informal,Informal,999,N,N,,Informal,4,2.12
+TAS,193,Braddon,8396,Montello,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,226,-4.53
+TAS,193,Braddon,8396,Montello,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,95,4.25
+TAS,193,Braddon,8396,Montello,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,564,4.95
+TAS,193,Braddon,8396,Montello,999,Informal,Informal,999,N,N,,Informal,49,1.2
+TAS,193,Braddon,8398,Moorleah,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,64,6.51
+TAS,193,Braddon,8398,Moorleah,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,26,1.51
+TAS,193,Braddon,8398,Moorleah,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,54,-1.81
+TAS,193,Braddon,8398,Moorleah,999,Informal,Informal,999,N,N,,Informal,4,-3.14
+TAS,193,Braddon,8399,Natone,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,83,2.67
+TAS,193,Braddon,8399,Natone,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,26,-0.21
+TAS,193,Braddon,8399,Natone,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,78,-0.62
+TAS,193,Braddon,8399,Natone,999,Informal,Informal,999,N,N,,Informal,9,1.04
+TAS,193,Braddon,8401,Nixon Street,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,898,-5.74
+TAS,193,Braddon,8401,Nixon Street,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,240,3.14
+TAS,193,Braddon,8401,Nixon Street,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,1028,6.22
+TAS,193,Braddon,8401,Nixon Street,999,Informal,Informal,999,N,N,,Informal,99,0.8
+TAS,193,Braddon,8402,North Motton,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,99,-6.44
+TAS,193,Braddon,8402,North Motton,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,32,1.8
+TAS,193,Braddon,8402,North Motton,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,88,8.78
+TAS,193,Braddon,8402,North Motton,999,Informal,Informal,999,N,N,,Informal,19,5.17
+TAS,193,Braddon,8404,Penguin,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,858,3.54
+TAS,193,Braddon,8404,Penguin,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,256,2.29
+TAS,193,Braddon,8404,Penguin,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,880,-1.93
+TAS,193,Braddon,8404,Penguin,999,Informal,Informal,999,N,N,,Informal,101,1.3
+TAS,193,Braddon,8406,Preston,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,43,3.68
+TAS,193,Braddon,8406,Preston,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,18,2.86
+TAS,193,Braddon,8406,Preston,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,28,-4.9
+TAS,193,Braddon,8406,Preston,999,Informal,Informal,999,N,N,,Informal,8,4.28
+TAS,193,Braddon,8652,Queenstown,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,253,-0.17
+TAS,193,Braddon,8652,Queenstown,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,123,8.54
+TAS,193,Braddon,8652,Queenstown,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,528,3.54
+TAS,193,Braddon,8652,Queenstown,999,Informal,Informal,999,N,N,,Informal,68,0.6
+TAS,193,Braddon,58806,Queenstown Interstate PPVC,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,0,0
+TAS,193,Braddon,58806,Queenstown Interstate PPVC,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,0,0
+TAS,193,Braddon,58806,Queenstown Interstate PPVC,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,0,0
+TAS,193,Braddon,58806,Queenstown Interstate PPVC,999,Informal,Informal,999,N,N,,Informal,0,0
+TAS,193,Braddon,34052,Queenstown PPVC,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,65,-7.43
+TAS,193,Braddon,34052,Queenstown PPVC,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,24,0.58
+TAS,193,Braddon,34052,Queenstown PPVC,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,112,13.67
+TAS,193,Braddon,34052,Queenstown PPVC,999,Informal,Informal,999,N,N,,Informal,11,4.07
+TAS,193,Braddon,8408,Reekara,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,33,-15.82
+TAS,193,Braddon,8408,Reekara,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,7,5.55
+TAS,193,Braddon,8408,Reekara,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,26,12.81
+TAS,193,Braddon,8408,Reekara,999,Informal,Informal,999,N,N,,Informal,1,-3.33
+TAS,193,Braddon,8409,Riana,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,129,6.87
+TAS,193,Braddon,8409,Riana,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,28,-0.13
+TAS,193,Braddon,8409,Riana,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,61,-5.07
+TAS,193,Braddon,8409,Riana,999,Informal,Informal,999,N,N,,Informal,7,0.66
+TAS,193,Braddon,8410,Ridgley,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,247,-3.36
+TAS,193,Braddon,8410,Ridgley,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,55,1.46
+TAS,193,Braddon,8410,Ridgley,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,321,4.82
+TAS,193,Braddon,8410,Ridgley,999,Informal,Informal,999,N,N,,Informal,36,3.06
+TAS,193,Braddon,8411,Rocky Cape,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,172,2.27
+TAS,193,Braddon,8411,Rocky Cape,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,35,-0.25
+TAS,193,Braddon,8411,Rocky Cape,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,161,1.23
+TAS,193,Braddon,8411,Rocky Cape,999,Informal,Informal,999,N,N,,Informal,19,0.95
+TAS,193,Braddon,8658,Rosebery,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,115,8.29
+TAS,193,Braddon,8658,Rosebery,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,75,11.56
+TAS,193,Braddon,8658,Rosebery,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,212,15.26
+TAS,193,Braddon,8658,Rosebery,999,Informal,Informal,999,N,N,,Informal,43,6.79
+TAS,193,Braddon,8667,Savage River,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,23,-6.68
+TAS,193,Braddon,8667,Savage River,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,9,-0.27
+TAS,193,Braddon,8667,Savage River,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,62,8.58
+TAS,193,Braddon,8667,Savage River,999,Informal,Informal,999,N,N,,Informal,6,1.31
+TAS,193,Braddon,8390,Shorewell Park,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,426,-5.39
+TAS,193,Braddon,8390,Shorewell Park,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,121,5.17
+TAS,193,Braddon,8390,Shorewell Park,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,528,3.31
+TAS,193,Braddon,8390,Shorewell Park,999,Informal,Informal,999,N,N,,Informal,27,0.43
+TAS,193,Braddon,8412,Sisters Beach,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,73,-2.71
+TAS,193,Braddon,8412,Sisters Beach,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,43,0.58
+TAS,193,Braddon,8412,Sisters Beach,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,88,6.32
+TAS,193,Braddon,8412,Sisters Beach,999,Informal,Informal,999,N,N,,Informal,11,0.72
+TAS,193,Braddon,8413,Sisters Creek,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,81,-4.34
+TAS,193,Braddon,8413,Sisters Creek,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,31,4.18
+TAS,193,Braddon,8413,Sisters Creek,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,54,1.61
+TAS,193,Braddon,8413,Sisters Creek,999,Informal,Informal,999,N,N,,Informal,12,4.38
+TAS,193,Braddon,8414,Smithton,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,976,-3.39
+TAS,193,Braddon,8414,Smithton,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,140,2.34
+TAS,193,Braddon,8414,Smithton,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,1031,6.05
+TAS,193,Braddon,8414,Smithton,999,Informal,Informal,999,N,N,,Informal,126,1.76
+TAS,193,Braddon,8415,Somerset,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,715,-5.01
+TAS,193,Braddon,8415,Somerset,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,253,5.09
+TAS,193,Braddon,8415,Somerset,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,1220,4.63
+TAS,193,Braddon,8415,Somerset,999,Informal,Informal,999,N,N,,Informal,108,1.69
+TAS,193,Braddon,8366,South Burnie,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,115,-3.6
+TAS,193,Braddon,8366,South Burnie,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,31,5.22
+TAS,193,Braddon,8366,South Burnie,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,123,0.88
+TAS,193,Braddon,8366,South Burnie,999,Informal,Informal,999,N,N,,Informal,13,1.44
+TAS,193,Braddon,8416,South Riana,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,84,-2.78
+TAS,193,Braddon,8416,South Riana,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,23,6.93
+TAS,193,Braddon,8416,South Riana,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,43,-0.34
+TAS,193,Braddon,8416,South Riana,999,Informal,Informal,999,N,N,,Informal,10,1.18
+TAS,193,Braddon,33648,Special Hospital Team 1,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,28,-2.27
+TAS,193,Braddon,33648,Special Hospital Team 1,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,0,-2.27
+TAS,193,Braddon,33648,Special Hospital Team 1,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,28,11.36
+TAS,193,Braddon,33648,Special Hospital Team 1,999,Informal,Informal,999,N,N,,Informal,0,-6.38
+TAS,193,Braddon,33838,Special Hospital Team 2,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,76,-12.23
+TAS,193,Braddon,33838,Special Hospital Team 2,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,13,3.66
+TAS,193,Braddon,33838,Special Hospital Team 2,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,106,16.41
+TAS,193,Braddon,33838,Special Hospital Team 2,999,Informal,Informal,999,N,N,,Informal,7,-2.21
+TAS,193,Braddon,33839,Special Hospital Team 3,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,36,-5.78
+TAS,193,Braddon,33839,Special Hospital Team 3,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,4,2.36
+TAS,193,Braddon,33839,Special Hospital Team 3,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,39,11.53
+TAS,193,Braddon,33839,Special Hospital Team 3,999,Informal,Informal,999,N,N,,Informal,2,-3.46
+TAS,193,Braddon,33840,Special Hospital Team 4,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,99,0.36
+TAS,193,Braddon,33840,Special Hospital Team 4,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,14,4.28
+TAS,193,Braddon,33840,Special Hospital Team 4,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,79,3.2
+TAS,193,Braddon,33840,Special Hospital Team 4,999,Informal,Informal,999,N,N,,Informal,5,-3.14
+TAS,193,Braddon,8417,Sprent,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,108,2.2
+TAS,193,Braddon,8417,Sprent,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,34,6.81
+TAS,193,Braddon,8417,Sprent,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,79,-4.73
+TAS,193,Braddon,8417,Sprent,999,Informal,Informal,999,N,N,,Informal,18,4.3
+TAS,193,Braddon,8418,Spreyton,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,489,-11.35
+TAS,193,Braddon,8418,Spreyton,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,143,4.1
+TAS,193,Braddon,8418,Spreyton,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,654,11.88
+TAS,193,Braddon,8418,Spreyton,999,Informal,Informal,999,N,N,,Informal,77,2.54
+TAS,193,Braddon,8419,Stanley,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,162,-0.69
+TAS,193,Braddon,8419,Stanley,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,71,6.9
+TAS,193,Braddon,8419,Stanley,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,163,-2.2
+TAS,193,Braddon,8419,Stanley,999,Informal,Informal,999,N,N,,Informal,10,-1.4
+TAS,193,Braddon,8420,Stowport,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,103,-1.24
+TAS,193,Braddon,8420,Stowport,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,29,2.19
+TAS,193,Braddon,8420,Stowport,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,95,2.87
+TAS,193,Braddon,8420,Stowport,999,Informal,Informal,999,N,N,,Informal,19,1
+TAS,193,Braddon,8673,Strahan,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,150,3.41
+TAS,193,Braddon,8673,Strahan,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,50,4.15
+TAS,193,Braddon,8673,Strahan,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,179,3.88
+TAS,193,Braddon,8673,Strahan,999,Informal,Informal,999,N,N,,Informal,21,2.66
+TAS,193,Braddon,8421,Sulphur Creek,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,271,9.25
+TAS,193,Braddon,8421,Sulphur Creek,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,52,-1.15
+TAS,193,Braddon,8421,Sulphur Creek,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,180,-5.64
+TAS,193,Braddon,8421,Sulphur Creek,999,Informal,Informal,999,N,N,,Informal,25,2.34
+TAS,193,Braddon,8422,Togari,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,53,0.43
+TAS,193,Braddon,8422,Togari,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,2,-0.03
+TAS,193,Braddon,8422,Togari,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,26,3.35
+TAS,193,Braddon,8422,Togari,999,Informal,Informal,999,N,N,,Informal,0,-1.23
+TAS,193,Braddon,8679,Tullah,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,22,-3.85
+TAS,193,Braddon,8679,Tullah,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,24,8.91
+TAS,193,Braddon,8679,Tullah,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,58,9.94
+TAS,193,Braddon,8679,Tullah,999,Informal,Informal,999,N,N,,Informal,8,4.7
+TAS,193,Braddon,8424,Turners Beach,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,395,-3.76
+TAS,193,Braddon,8424,Turners Beach,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,100,1.47
+TAS,193,Braddon,8424,Turners Beach,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,376,8.01
+TAS,193,Braddon,8424,Turners Beach,999,Informal,Informal,999,N,N,,Informal,29,0.1
+TAS,193,Braddon,8425,Ulverstone Central,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,579,-3
+TAS,193,Braddon,8425,Ulverstone Central,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,132,2.2
+TAS,193,Braddon,8425,Ulverstone Central,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,548,4.45
+TAS,193,Braddon,8425,Ulverstone Central,999,Informal,Informal,999,N,N,,Informal,40,1.01
+TAS,193,Braddon,8426,Ulverstone East,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,405,-1.66
+TAS,193,Braddon,8426,Ulverstone East,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,82,2.15
+TAS,193,Braddon,8426,Ulverstone East,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,394,4.26
+TAS,193,Braddon,8426,Ulverstone East,999,Informal,Informal,999,N,N,,Informal,37,1.39
+TAS,193,Braddon,8427,Ulverstone South,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,904,-4.44
+TAS,193,Braddon,8427,Ulverstone South,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,290,3.75
+TAS,193,Braddon,8427,Ulverstone South,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,1175,5.49
+TAS,193,Braddon,8427,Ulverstone South,999,Informal,Informal,999,N,N,,Informal,126,2.12
+TAS,193,Braddon,8429,Upper Burnie,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,462,-3.84
+TAS,193,Braddon,8429,Upper Burnie,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,126,3.92
+TAS,193,Braddon,8429,Upper Burnie,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,753,3.45
+TAS,193,Braddon,8429,Upper Burnie,999,Informal,Informal,999,N,N,,Informal,62,0.59
+TAS,193,Braddon,8682,Waratah,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,39,-12.31
+TAS,193,Braddon,8682,Waratah,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,34,9.88
+TAS,193,Braddon,8682,Waratah,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,85,4.48
+TAS,193,Braddon,8682,Waratah,999,Informal,Informal,999,N,N,,Informal,7,2.89
+TAS,193,Braddon,8428,West Ulverstone,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,598,-3.42
+TAS,193,Braddon,8428,West Ulverstone,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,130,2.16
+TAS,193,Braddon,8428,West Ulverstone,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,808,4.84
+TAS,193,Braddon,8428,West Ulverstone,999,Informal,Informal,999,N,N,,Informal,81,1.82
+TAS,193,Braddon,8434,Wivenhoe,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,200,-2.32
+TAS,193,Braddon,8434,Wivenhoe,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,69,6.94
+TAS,193,Braddon,8434,Wivenhoe,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,246,2.08
+TAS,193,Braddon,8434,Wivenhoe,999,Informal,Informal,999,N,N,,Informal,29,0.11
+TAS,193,Braddon,8435,Wynyard Central,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,815,-5.48
+TAS,193,Braddon,8435,Wynyard Central,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,336,4.58
+TAS,193,Braddon,8435,Wynyard Central,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,1101,4.5
+TAS,193,Braddon,8435,Wynyard Central,999,Informal,Informal,999,N,N,,Informal,81,-0.32
+TAS,193,Braddon,8433,Wynyard West,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,476,-2.74
+TAS,193,Braddon,8433,Wynyard West,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,150,3.04
+TAS,193,Braddon,8433,Wynyard West,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,665,3.47
+TAS,193,Braddon,8433,Wynyard West,999,Informal,Informal,999,N,N,,Informal,55,1.74
+TAS,193,Braddon,8437,Yolla,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,165,-0.03
+TAS,193,Braddon,8437,Yolla,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,64,1.31
+TAS,193,Braddon,8437,Yolla,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,163,3.9
+TAS,193,Braddon,8437,Yolla,999,Informal,Informal,999,N,N,,Informal,13,1.04
+TAS,193,Braddon,8696,Zeehan,20953,CARPENTER,Garry William,1,N,N,LP,Liberal,85,-2.6
+TAS,193,Braddon,8696,Zeehan,20778,JORDAN,Scott,2,N,N,GRN,Australian Greens,95,17.44
+TAS,193,Braddon,8696,Zeehan,20935,SIDEBOTTOM,Sid,3,Y,Y,ALP,Australian Labor Party,208,-3.43
+TAS,193,Braddon,8696,Zeehan,999,Informal,Informal,999,N,N,,Informal,28,2.99
+TAS,194,Denison,8440,Abbotsfield,20881,WILKIE,Andrew,1,Y,N,IND,Independent,238,16.01
+TAS,194,Denison,8440,Abbotsfield,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,849,-9.96
+TAS,194,Denison,8440,Abbotsfield,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,24,0.82
+TAS,194,Denison,8440,Abbotsfield,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,248,-6.49
+TAS,194,Denison,8440,Abbotsfield,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,128,3.17
+TAS,194,Denison,8440,Abbotsfield,999,Informal,Informal,999,N,N,,Informal,109,2.9
+TAS,194,Denison,8441,Albuera,20881,WILKIE,Andrew,1,Y,N,IND,Independent,156,27.76
+TAS,194,Denison,8441,Albuera,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,127,-16.32
+TAS,194,Denison,8441,Albuera,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,11,1.13
+TAS,194,Denison,8441,Albuera,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,117,-10.86
+TAS,194,Denison,8441,Albuera,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,151,-0.46
+TAS,194,Denison,8441,Albuera,999,Informal,Informal,999,N,N,,Informal,8,0.38
+TAS,194,Denison,8495,Austins Ferry,20881,WILKIE,Andrew,1,Y,N,IND,Independent,313,18.41
+TAS,194,Denison,8495,Austins Ferry,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,813,-8.77
+TAS,194,Denison,8495,Austins Ferry,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,22,0.77
+TAS,194,Denison,8495,Austins Ferry,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,413,-9.51
+TAS,194,Denison,8495,Austins Ferry,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,139,1.42
+TAS,194,Denison,8495,Austins Ferry,999,Informal,Informal,999,N,N,,Informal,82,1.22
+TAS,194,Denison,8442,Battery Point,20881,WILKIE,Andrew,1,Y,N,IND,Independent,340,27.22
+TAS,194,Denison,8442,Battery Point,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,224,-13.63
+TAS,194,Denison,8442,Battery Point,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,14,0.73
+TAS,194,Denison,8442,Battery Point,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,361,-5.98
+TAS,194,Denison,8442,Battery Point,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,310,-6.51
+TAS,194,Denison,8442,Battery Point,999,Informal,Informal,999,N,N,,Informal,28,1.12
+TAS,194,Denison,8443,Bowen Road,20881,WILKIE,Andrew,1,Y,N,IND,Independent,248,17.69
+TAS,194,Denison,8443,Bowen Road,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,628,-12.92
+TAS,194,Denison,8443,Bowen Road,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,30,1.01
+TAS,194,Denison,8443,Bowen Road,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,233,-4.38
+TAS,194,Denison,8443,Bowen Road,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,263,2.99
+TAS,194,Denison,8443,Bowen Road,999,Informal,Informal,999,N,N,,Informal,68,0.69
+TAS,194,Denison,8444,Brent Street,20881,WILKIE,Andrew,1,Y,N,IND,Independent,67,17.96
+TAS,194,Denison,8444,Brent Street,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,172,-11.3
+TAS,194,Denison,8444,Brent Street,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,5,0.84
+TAS,194,Denison,8444,Brent Street,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,96,-6.02
+TAS,194,Denison,8444,Brent Street,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,33,1.63
+TAS,194,Denison,8444,Brent Street,999,Informal,Informal,999,N,N,,Informal,8,0.15
+TAS,194,Denison,8445,Cascades,20881,WILKIE,Andrew,1,Y,N,IND,Independent,221,23.44
+TAS,194,Denison,8445,Cascades,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,202,-19.09
+TAS,194,Denison,8445,Cascades,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,11,0.39
+TAS,194,Denison,8445,Cascades,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,139,-3.34
+TAS,194,Denison,8445,Cascades,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,370,-0.05
+TAS,194,Denison,8445,Cascades,999,Informal,Informal,999,N,N,,Informal,24,-0.13
+TAS,194,Denison,8446,Chigwell,20881,WILKIE,Andrew,1,Y,N,IND,Independent,302,18.15
+TAS,194,Denison,8446,Chigwell,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,883,-9.67
+TAS,194,Denison,8446,Chigwell,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,30,0.83
+TAS,194,Denison,8446,Chigwell,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,279,-9.65
+TAS,194,Denison,8446,Chigwell,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,170,4.28
+TAS,194,Denison,8446,Chigwell,999,Informal,Informal,999,N,N,,Informal,101,1.99
+TAS,194,Denison,8447,Claremont,20881,WILKIE,Andrew,1,Y,N,IND,Independent,273,16.76
+TAS,194,Denison,8447,Claremont,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,824,-8.88
+TAS,194,Denison,8447,Claremont,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,19,0.66
+TAS,194,Denison,8447,Claremont,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,296,-10.65
+TAS,194,Denison,8447,Claremont,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,217,6.19
+TAS,194,Denison,8447,Claremont,999,Informal,Informal,999,N,N,,Informal,115,2.47
+TAS,194,Denison,8448,Collinsvale,20881,WILKIE,Andrew,1,Y,N,IND,Independent,75,22.46
+TAS,194,Denison,8448,Collinsvale,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,140,-15.83
+TAS,194,Denison,8448,Collinsvale,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,5,-0.1
+TAS,194,Denison,8448,Collinsvale,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,44,-7.42
+TAS,194,Denison,8448,Collinsvale,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,70,3.05
+TAS,194,Denison,8448,Collinsvale,999,Informal,Informal,999,N,N,,Informal,20,0.33
+TAS,194,Denison,8450,Cosgrove,20881,WILKIE,Andrew,1,Y,N,IND,Independent,100,15.2
+TAS,194,Denison,8450,Cosgrove,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,339,-6.67
+TAS,194,Denison,8450,Cosgrove,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,16,1.36
+TAS,194,Denison,8450,Cosgrove,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,117,-10.18
+TAS,194,Denison,8450,Cosgrove,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,86,2.95
+TAS,194,Denison,8450,Cosgrove,999,Informal,Informal,999,N,N,,Informal,34,-0.03
+TAS,194,Denison,8451,Creek Road,20881,WILKIE,Andrew,1,Y,N,IND,Independent,395,24.25
+TAS,194,Denison,8451,Creek Road,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,544,-13.68
+TAS,194,Denison,8451,Creek Road,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,24,0.88
+TAS,194,Denison,8451,Creek Road,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,345,-11.76
+TAS,194,Denison,8451,Creek Road,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,321,2.22
+TAS,194,Denison,8451,Creek Road,999,Informal,Informal,999,N,N,,Informal,58,1.57
+TAS,194,Denison,8452,Cross Street,20881,WILKIE,Andrew,1,Y,N,IND,Independent,464,26.27
+TAS,194,Denison,8452,Cross Street,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,602,-14.28
+TAS,194,Denison,8452,Cross Street,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,20,0.34
+TAS,194,Denison,8452,Cross Street,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,345,-8.31
+TAS,194,Denison,8452,Cross Street,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,335,-1.49
+TAS,194,Denison,8452,Cross Street,999,Informal,Informal,999,N,N,,Informal,48,-0.04
+TAS,194,Denison,30185,Divisional Office (PREPOLL),20881,WILKIE,Andrew,1,Y,N,IND,Independent,2,25
+TAS,194,Denison,30185,Divisional Office (PREPOLL),20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,3,-2.5
+TAS,194,Denison,30185,Divisional Office (PREPOLL),20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,0,-1.54
+TAS,194,Denison,30185,Divisional Office (PREPOLL),20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,1,-18.27
+TAS,194,Denison,30185,Divisional Office (PREPOLL),20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,2,-1.15
+TAS,194,Denison,30185,Divisional Office (PREPOLL),999,Informal,Informal,999,N,N,,Informal,0,-1.52
+TAS,194,Denison,8453,Dynnyrne,20881,WILKIE,Andrew,1,Y,N,IND,Independent,288,27.09
+TAS,194,Denison,8453,Dynnyrne,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,263,-15.19
+TAS,194,Denison,8453,Dynnyrne,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,23,1.72
+TAS,194,Denison,8453,Dynnyrne,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,224,-9.99
+TAS,194,Denison,8453,Dynnyrne,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,265,-2.04
+TAS,194,Denison,8453,Dynnyrne,999,Informal,Informal,999,N,N,,Informal,26,1.42
+TAS,194,Denison,8454,Elizabeth Street,20881,WILKIE,Andrew,1,Y,N,IND,Independent,216,23.53
+TAS,194,Denison,8454,Elizabeth Street,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,255,-15.16
+TAS,194,Denison,8454,Elizabeth Street,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,20,1.5
+TAS,194,Denison,8454,Elizabeth Street,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,137,-8.58
+TAS,194,Denison,8454,Elizabeth Street,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,290,0.29
+TAS,194,Denison,8454,Elizabeth Street,999,Informal,Informal,999,N,N,,Informal,28,0.75
+TAS,194,Denison,8455,Elwick,20881,WILKIE,Andrew,1,Y,N,IND,Independent,67,15.69
+TAS,194,Denison,8455,Elwick,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,222,-5.73
+TAS,194,Denison,8455,Elwick,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,2,-0.87
+TAS,194,Denison,8455,Elwick,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,77,-8.14
+TAS,194,Denison,8455,Elwick,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,59,1.96
+TAS,194,Denison,8455,Elwick,999,Informal,Informal,999,N,N,,Informal,19,0.39
+TAS,194,Denison,8456,Fern Tree,20881,WILKIE,Andrew,1,Y,N,IND,Independent,125,24.75
+TAS,194,Denison,8456,Fern Tree,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,105,-10.53
+TAS,194,Denison,8456,Fern Tree,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,7,0.5
+TAS,194,Denison,8456,Fern Tree,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,46,-9.01
+TAS,194,Denison,8456,Fern Tree,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,222,-3.91
+TAS,194,Denison,8456,Fern Tree,999,Informal,Informal,999,N,N,,Informal,18,2.99
+TAS,194,Denison,8457,Glenorchy,20881,WILKIE,Andrew,1,Y,N,IND,Independent,415,16.59
+TAS,194,Denison,8457,Glenorchy,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,1254,-11.78
+TAS,194,Denison,8457,Glenorchy,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,37,0.95
+TAS,194,Denison,8457,Glenorchy,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,485,-7.65
+TAS,194,Denison,8457,Glenorchy,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,311,5.4
+TAS,194,Denison,8457,Glenorchy,999,Informal,Informal,999,N,N,,Informal,163,2.59
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,20881,WILKIE,Andrew,1,Y,N,IND,Independent,246,16.62
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,760,11.13
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,18,0.1
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,321,-8.44
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,135,-17.32
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,999,Informal,Informal,999,N,N,,Informal,73,3.28
+TAS,194,Denison,8458,Glenorchy East,20881,WILKIE,Andrew,1,Y,N,IND,Independent,289,16.86
+TAS,194,Denison,8458,Glenorchy East,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,880,-10.11
+TAS,194,Denison,8458,Glenorchy East,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,15,0.3
+TAS,194,Denison,8458,Glenorchy East,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,346,-6.17
+TAS,194,Denison,8458,Glenorchy East,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,184,2.47
+TAS,194,Denison,8458,Glenorchy East,999,Informal,Informal,999,N,N,,Informal,78,0.09
+TAS,194,Denison,8459,Goodwood,20881,WILKIE,Andrew,1,Y,N,IND,Independent,92,14.33
+TAS,194,Denison,8459,Goodwood,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,362,-9.68
+TAS,194,Denison,8459,Goodwood,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,20,1.93
+TAS,194,Denison,8459,Goodwood,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,87,-6.69
+TAS,194,Denison,8459,Goodwood,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,81,3.69
+TAS,194,Denison,8459,Goodwood,999,Informal,Informal,999,N,N,,Informal,41,0.38
+TAS,194,Denison,8461,Hobart,20881,WILKIE,Andrew,1,Y,N,IND,Independent,184,22.28
+TAS,194,Denison,8461,Hobart,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,219,-13.62
+TAS,194,Denison,8461,Hobart,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,14,0.75
+TAS,194,Denison,8461,Hobart,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,155,-4.01
+TAS,194,Denison,8461,Hobart,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,254,-3.84
+TAS,194,Denison,8461,Hobart,999,Informal,Informal,999,N,N,,Informal,18,-0.91
+TAS,194,Denison,8462,Hobart Central,20881,WILKIE,Andrew,1,Y,N,IND,Independent,47,21.17
+TAS,194,Denison,8462,Hobart Central,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,52,-20.54
+TAS,194,Denison,8462,Hobart Central,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,4,1.32
+TAS,194,Denison,8462,Hobart Central,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,48,0.36
+TAS,194,Denison,8462,Hobart Central,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,71,-1.84
+TAS,194,Denison,8462,Hobart Central,999,Informal,Informal,999,N,N,,Informal,5,-0.16
+TAS,194,Denison,31107,Hobart DENISON PPVC,20881,WILKIE,Andrew,1,Y,N,IND,Independent,624,23.02
+TAS,194,Denison,31107,Hobart DENISON PPVC,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,724,-13.57
+TAS,194,Denison,31107,Hobart DENISON PPVC,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,23,-0.24
+TAS,194,Denison,31107,Hobart DENISON PPVC,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,718,-3.69
+TAS,194,Denison,31107,Hobart DENISON PPVC,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,622,-3.5
+TAS,194,Denison,31107,Hobart DENISON PPVC,999,Informal,Informal,999,N,N,,Informal,65,0.96
+TAS,194,Denison,8464,Hobart South,20881,WILKIE,Andrew,1,Y,N,IND,Independent,365,24.98
+TAS,194,Denison,8464,Hobart South,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,350,-15.01
+TAS,194,Denison,8464,Hobart South,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,17,0.26
+TAS,194,Denison,8464,Hobart South,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,262,-6.44
+TAS,194,Denison,8464,Hobart South,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,467,-2.19
+TAS,194,Denison,8464,Hobart South,999,Informal,Informal,999,N,N,,Informal,49,1.67
+TAS,194,Denison,8465,Hobart West,20881,WILKIE,Andrew,1,Y,N,IND,Independent,229,24.95
+TAS,194,Denison,8465,Hobart West,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,225,-18.62
+TAS,194,Denison,8465,Hobart West,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,23,0.94
+TAS,194,Denison,8465,Hobart West,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,115,-5.9
+TAS,194,Denison,8465,Hobart West,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,326,-0.88
+TAS,194,Denison,8465,Hobart West,999,Informal,Informal,999,N,N,,Informal,24,0.89
+TAS,194,Denison,46852,Kingston (Denison),20881,WILKIE,Andrew,1,Y,N,IND,Independent,159,20.57
+TAS,194,Denison,46852,Kingston (Denison),20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,252,-4.29
+TAS,194,Denison,46852,Kingston (Denison),20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,10,0.97
+TAS,194,Denison,46852,Kingston (Denison),20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,189,-18.94
+TAS,194,Denison,46852,Kingston (Denison),20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,163,4.67
+TAS,194,Denison,46852,Kingston (Denison),999,Informal,Informal,999,N,N,,Informal,42,2.55
+TAS,194,Denison,58686,Kingston DENISON PPVC,20881,WILKIE,Andrew,1,Y,N,IND,Independent,32,28.83
+TAS,194,Denison,58686,Kingston DENISON PPVC,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,29,-14.24
+TAS,194,Denison,58686,Kingston DENISON PPVC,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,0,-0.92
+TAS,194,Denison,58686,Kingston DENISON PPVC,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,31,-2.35
+TAS,194,Denison,58686,Kingston DENISON PPVC,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,19,-9.49
+TAS,194,Denison,58686,Kingston DENISON PPVC,999,Informal,Informal,999,N,N,,Informal,5,2.51
+TAS,194,Denison,8466,Lansdowne Crescent,20881,WILKIE,Andrew,1,Y,N,IND,Independent,317,24.78
+TAS,194,Denison,8466,Lansdowne Crescent,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,338,-14.64
+TAS,194,Denison,8466,Lansdowne Crescent,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,21,0.7
+TAS,194,Denison,8466,Lansdowne Crescent,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,244,-3.78
+TAS,194,Denison,8466,Lansdowne Crescent,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,359,-5.53
+TAS,194,Denison,8466,Lansdowne Crescent,999,Informal,Informal,999,N,N,,Informal,34,0.81
+TAS,194,Denison,8467,Lenah Valley,20881,WILKIE,Andrew,1,Y,N,IND,Independent,346,27.35
+TAS,194,Denison,8467,Lenah Valley,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,403,-17.72
+TAS,194,Denison,8467,Lenah Valley,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,17,0.65
+TAS,194,Denison,8467,Lenah Valley,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,266,-8.28
+TAS,194,Denison,8467,Lenah Valley,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,233,0.85
+TAS,194,Denison,8467,Lenah Valley,999,Informal,Informal,999,N,N,,Informal,45,0.93
+TAS,194,Denison,8468,Lower Sandy Bay,20881,WILKIE,Andrew,1,Y,N,IND,Independent,413,21.33
+TAS,194,Denison,8468,Lower Sandy Bay,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,388,-8.75
+TAS,194,Denison,8468,Lower Sandy Bay,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,6,-0.15
+TAS,194,Denison,8468,Lower Sandy Bay,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,812,-10.19
+TAS,194,Denison,8468,Lower Sandy Bay,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,317,-0.92
+TAS,194,Denison,8468,Lower Sandy Bay,999,Informal,Informal,999,N,N,,Informal,32,0.36
+TAS,194,Denison,8469,Lutana,20881,WILKIE,Andrew,1,Y,N,IND,Independent,185,19.64
+TAS,194,Denison,8469,Lutana,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,419,-14.43
+TAS,194,Denison,8469,Lutana,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,14,1.29
+TAS,194,Denison,8469,Lutana,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,179,-7.13
+TAS,194,Denison,8469,Lutana,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,145,4.02
+TAS,194,Denison,8469,Lutana,999,Informal,Informal,999,N,N,,Informal,50,1.2
+TAS,194,Denison,8470,Montrose,20881,WILKIE,Andrew,1,Y,N,IND,Independent,125,18.38
+TAS,194,Denison,8470,Montrose,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,314,-14.36
+TAS,194,Denison,8470,Montrose,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,10,1.32
+TAS,194,Denison,8470,Montrose,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,150,-8.28
+TAS,194,Denison,8470,Montrose,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,81,5.93
+TAS,194,Denison,8470,Montrose,999,Informal,Informal,999,N,N,,Informal,41,1.67
+TAS,194,Denison,8471,Moonah,20881,WILKIE,Andrew,1,Y,N,IND,Independent,347,20
+TAS,194,Denison,8471,Moonah,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,710,-14.23
+TAS,194,Denison,8471,Moonah,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,26,0.75
+TAS,194,Denison,8471,Moonah,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,420,-5.55
+TAS,194,Denison,8471,Moonah,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,232,3.39
+TAS,194,Denison,8471,Moonah,999,Informal,Informal,999,N,N,,Informal,111,2.68
+TAS,194,Denison,8472,Moonah North,20881,WILKIE,Andrew,1,Y,N,IND,Independent,211,19.72
+TAS,194,Denison,8472,Moonah North,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,480,-13.86
+TAS,194,Denison,8472,Moonah North,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,15,0.93
+TAS,194,Denison,8472,Moonah North,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,192,-7.45
+TAS,194,Denison,8472,Moonah North,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,172,3.85
+TAS,194,Denison,8472,Moonah North,999,Informal,Informal,999,N,N,,Informal,67,3.01
+TAS,194,Denison,8473,Mount Nelson,20881,WILKIE,Andrew,1,Y,N,IND,Independent,369,25.86
+TAS,194,Denison,8473,Mount Nelson,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,355,-11.5
+TAS,194,Denison,8473,Mount Nelson,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,14,0.28
+TAS,194,Denison,8473,Mount Nelson,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,359,-12.27
+TAS,194,Denison,8473,Mount Nelson,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,330,-0.05
+TAS,194,Denison,8473,Mount Nelson,999,Informal,Informal,999,N,N,,Informal,21,-0.27
+TAS,194,Denison,8474,Mount Stuart,20881,WILKIE,Andrew,1,Y,N,IND,Independent,221,25.7
+TAS,194,Denison,8474,Mount Stuart,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,256,-16.44
+TAS,194,Denison,8474,Mount Stuart,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,13,1.28
+TAS,194,Denison,8474,Mount Stuart,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,179,-4.48
+TAS,194,Denison,8474,Mount Stuart,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,191,-4.23
+TAS,194,Denison,8474,Mount Stuart,999,Informal,Informal,999,N,N,,Informal,12,0.24
+TAS,194,Denison,8476,New Town,20881,WILKIE,Andrew,1,Y,N,IND,Independent,316,24.82
+TAS,194,Denison,8476,New Town,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,372,-14.95
+TAS,194,Denison,8476,New Town,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,11,-0.32
+TAS,194,Denison,8476,New Town,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,301,-5.25
+TAS,194,Denison,8476,New Town,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,273,-2.11
+TAS,194,Denison,8476,New Town,999,Informal,Informal,999,N,N,,Informal,38,1.57
+TAS,194,Denison,8475,Newdegate,20881,WILKIE,Andrew,1,Y,N,IND,Independent,316,23.46
+TAS,194,Denison,8475,Newdegate,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,421,-14.99
+TAS,194,Denison,8475,Newdegate,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,12,-0.05
+TAS,194,Denison,8475,Newdegate,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,267,-6.7
+TAS,194,Denison,8475,Newdegate,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,331,-0.21
+TAS,194,Denison,8475,Newdegate,999,Informal,Informal,999,N,N,,Informal,41,0.41
+TAS,194,Denison,8478,Roseneath,20881,WILKIE,Andrew,1,Y,N,IND,Independent,57,16.52
+TAS,194,Denison,8478,Roseneath,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,202,-13.49
+TAS,194,Denison,8478,Roseneath,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,6,1.44
+TAS,194,Denison,8478,Roseneath,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,47,-4.01
+TAS,194,Denison,8478,Roseneath,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,33,3.49
+TAS,194,Denison,8478,Roseneath,999,Informal,Informal,999,N,N,,Informal,15,0.93
+TAS,194,Denison,8479,Rosetta,20881,WILKIE,Andrew,1,Y,N,IND,Independent,114,22.66
+TAS,194,Denison,8479,Rosetta,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,227,-8.31
+TAS,194,Denison,8479,Rosetta,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,0,-0.59
+TAS,194,Denison,8479,Rosetta,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,107,-13.72
+TAS,194,Denison,8479,Rosetta,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,55,2.15
+TAS,194,Denison,8479,Rosetta,999,Informal,Informal,999,N,N,,Informal,24,2.26
+TAS,194,Denison,58683,Rosny DENISON PPVC,20881,WILKIE,Andrew,1,Y,N,IND,Independent,17,14.29
+TAS,194,Denison,58683,Rosny DENISON PPVC,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,38,-8.47
+TAS,194,Denison,58683,Rosny DENISON PPVC,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,0,-1.01
+TAS,194,Denison,58683,Rosny DENISON PPVC,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,30,-5.09
+TAS,194,Denison,58683,Rosny DENISON PPVC,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,34,2.31
+TAS,194,Denison,58683,Rosny DENISON PPVC,999,Informal,Informal,999,N,N,,Informal,2,0.65
+TAS,194,Denison,46859,Sandfly (Denison),20881,WILKIE,Andrew,1,Y,N,IND,Independent,44,18.88
+TAS,194,Denison,46859,Sandfly (Denison),20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,63,-5.58
+TAS,194,Denison,46859,Sandfly (Denison),20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,1,-0.29
+TAS,194,Denison,46859,Sandfly (Denison),20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,55,-17.25
+TAS,194,Denison,46859,Sandfly (Denison),20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,70,5.67
+TAS,194,Denison,46859,Sandfly (Denison),999,Informal,Informal,999,N,N,,Informal,8,0.19
+TAS,194,Denison,8482,Sandy Bay,20881,WILKIE,Andrew,1,Y,N,IND,Independent,414,27.34
+TAS,194,Denison,8482,Sandy Bay,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,326,-12.89
+TAS,194,Denison,8482,Sandy Bay,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,15,0.24
+TAS,194,Denison,8482,Sandy Bay,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,477,-9.04
+TAS,194,Denison,8482,Sandy Bay,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,282,-3.08
+TAS,194,Denison,8482,Sandy Bay,999,Informal,Informal,999,N,N,,Informal,37,0.55
+TAS,194,Denison,8483,Sandy Bay Beach,20881,WILKIE,Andrew,1,Y,N,IND,Independent,216,28.02
+TAS,194,Denison,8483,Sandy Bay Beach,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,133,-14.43
+TAS,194,Denison,8483,Sandy Bay Beach,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,7,0.27
+TAS,194,Denison,8483,Sandy Bay Beach,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,337,-8.58
+TAS,194,Denison,8483,Sandy Bay Beach,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,78,-4.38
+TAS,194,Denison,8483,Sandy Bay Beach,999,Informal,Informal,999,N,N,,Informal,10,-0.1
+TAS,194,Denison,13315,Special Hospital Team 1,20881,WILKIE,Andrew,1,Y,N,IND,Independent,12,24.49
+TAS,194,Denison,13315,Special Hospital Team 1,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,20,-4.95
+TAS,194,Denison,13315,Special Hospital Team 1,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,2,2.67
+TAS,194,Denison,13315,Special Hospital Team 1,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,7,-26.56
+TAS,194,Denison,13315,Special Hospital Team 1,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,8,6.47
+TAS,194,Denison,13315,Special Hospital Team 1,999,Informal,Informal,999,N,N,,Informal,1,-1.4
+TAS,194,Denison,13316,Special Hospital Team 2,20881,WILKIE,Andrew,1,Y,N,IND,Independent,17,14.29
+TAS,194,Denison,13316,Special Hospital Team 2,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,60,5.21
+TAS,194,Denison,13316,Special Hospital Team 2,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,1,-0.53
+TAS,194,Denison,13316,Special Hospital Team 2,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,33,-13.37
+TAS,194,Denison,13316,Special Hospital Team 2,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,8,-2.87
+TAS,194,Denison,13316,Special Hospital Team 2,999,Informal,Informal,999,N,N,,Informal,7,1.61
+TAS,194,Denison,13317,Special Hospital Team 3,20881,WILKIE,Andrew,1,Y,N,IND,Independent,52,22.22
+TAS,194,Denison,13317,Special Hospital Team 3,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,53,-22.8
+TAS,194,Denison,13317,Special Hospital Team 3,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,3,-0.63
+TAS,194,Denison,13317,Special Hospital Team 3,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,103,3.35
+TAS,194,Denison,13317,Special Hospital Team 3,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,23,0.26
+TAS,194,Denison,13317,Special Hospital Team 3,999,Informal,Informal,999,N,N,,Informal,14,1.96
+TAS,194,Denison,13318,Special Hospital Team 4,20881,WILKIE,Andrew,1,Y,N,IND,Independent,36,19.05
+TAS,194,Denison,13318,Special Hospital Team 4,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,72,-7
+TAS,194,Denison,13318,Special Hospital Team 4,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,2,-0.9
+TAS,194,Denison,13318,Special Hospital Team 4,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,68,-4.54
+TAS,194,Denison,13318,Special Hospital Team 4,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,11,-3.98
+TAS,194,Denison,13318,Special Hospital Team 4,999,Informal,Informal,999,N,N,,Informal,2,-2.72
+TAS,194,Denison,8481,St Peters,20881,WILKIE,Andrew,1,Y,N,IND,Independent,154,26.37
+TAS,194,Denison,8481,St Peters,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,142,-16.8
+TAS,194,Denison,8481,St Peters,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,4,-0.52
+TAS,194,Denison,8481,St Peters,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,103,-4.72
+TAS,194,Denison,8481,St Peters,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,181,-1.94
+TAS,194,Denison,8481,St Peters,999,Informal,Informal,999,N,N,,Informal,18,1.23
+TAS,194,Denison,8484,Swan,20881,WILKIE,Andrew,1,Y,N,IND,Independent,225,22.66
+TAS,194,Denison,8484,Swan,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,310,-15.13
+TAS,194,Denison,8484,Swan,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,24,1.2
+TAS,194,Denison,8484,Swan,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,148,-5.66
+TAS,194,Denison,8484,Swan,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,286,-1.49
+TAS,194,Denison,8484,Swan,999,Informal,Informal,999,N,N,,Informal,30,-0.36
+TAS,194,Denison,8542,Taroona,20881,WILKIE,Andrew,1,Y,N,IND,Independent,406,27.6
+TAS,194,Denison,8542,Taroona,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,329,-12.72
+TAS,194,Denison,8542,Taroona,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,17,-0.05
+TAS,194,Denison,8542,Taroona,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,346,-7.51
+TAS,194,Denison,8542,Taroona,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,373,-5.67
+TAS,194,Denison,8542,Taroona,999,Informal,Informal,999,N,N,,Informal,37,1.46
+TAS,194,Denison,8485,Tolosa,20881,WILKIE,Andrew,1,Y,N,IND,Independent,251,16.29
+TAS,194,Denison,8485,Tolosa,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,777,-10.66
+TAS,194,Denison,8485,Tolosa,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,24,0.83
+TAS,194,Denison,8485,Tolosa,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,324,-7.24
+TAS,194,Denison,8485,Tolosa,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,165,3.39
+TAS,194,Denison,8485,Tolosa,999,Informal,Informal,999,N,N,,Informal,112,2.6
+TAS,194,Denison,8486,Waimea Heights,20881,WILKIE,Andrew,1,Y,N,IND,Independent,174,24.47
+TAS,194,Denison,8486,Waimea Heights,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,120,-13.51
+TAS,194,Denison,8486,Waimea Heights,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,3,0.15
+TAS,194,Denison,8486,Waimea Heights,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,277,-9.21
+TAS,194,Denison,8486,Waimea Heights,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,137,-0.68
+TAS,194,Denison,8486,Waimea Heights,999,Informal,Informal,999,N,N,,Informal,15,0.6
+TAS,194,Denison,8487,Windermere,20881,WILKIE,Andrew,1,Y,N,IND,Independent,126,17.57
+TAS,194,Denison,8487,Windermere,20931,JACKSON,Jonathan,2,N,N,ALP,Australian Labor Party,336,-12.22
+TAS,194,Denison,8487,Windermere,20862,BARNES,Mel,3,N,N,SAL,Socialist Alliance,13,1.2
+TAS,194,Denison,8487,Windermere,20950,SIMPKINS,Cameron John,4,N,N,LP,Liberal,170,-6.74
+TAS,194,Denison,8487,Windermere,20774,COUSER,Geoffrey Alan,5,N,N,GRN,Australian Greens,72,3.15
+TAS,194,Denison,8487,Windermere,999,Informal,Informal,999,N,N,,Informal,36,1.82
+TAS,195,Franklin,8493,Adventure Bay,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,48,3.7
+TAS,195,Franklin,8493,Adventure Bay,21693,FORSTER,John,2,N,N,IND,Independent,3,1.82
+TAS,195,Franklin,8493,Adventure Bay,20948,HOWLETT,Jane,3,N,N,LP,Liberal,42,-13.41
+TAS,195,Franklin,8493,Adventure Bay,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,72,8.92
+TAS,195,Franklin,8493,Adventure Bay,999,Informal,Informal,999,N,N,,Informal,3,1.27
+TAS,195,Franklin,8494,Alonnah,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,60,9.65
+TAS,195,Franklin,8494,Alonnah,21693,FORSTER,John,2,N,N,IND,Independent,2,0.94
+TAS,195,Franklin,8494,Alonnah,20948,HOWLETT,Jane,3,N,N,LP,Liberal,50,-14.8
+TAS,195,Franklin,8494,Alonnah,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,101,7.09
+TAS,195,Franklin,8494,Alonnah,999,Informal,Informal,999,N,N,,Informal,7,-0.77
+TAS,195,Franklin,8496,Barnes Bay,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,42,8.35
+TAS,195,Franklin,8496,Barnes Bay,21693,FORSTER,John,2,N,N,IND,Independent,2,1.72
+TAS,195,Franklin,8496,Barnes Bay,20948,HOWLETT,Jane,3,N,N,LP,Liberal,37,-11.67
+TAS,195,Franklin,8496,Barnes Bay,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,35,1.6
+TAS,195,Franklin,8496,Barnes Bay,999,Informal,Informal,999,N,N,,Informal,0,-2.1
+TAS,195,Franklin,8497,Bellerive,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,475,6.76
+TAS,195,Franklin,8497,Bellerive,21693,FORSTER,John,2,N,N,IND,Independent,55,2.38
+TAS,195,Franklin,8497,Bellerive,20948,HOWLETT,Jane,3,N,N,LP,Liberal,944,-7.32
+TAS,195,Franklin,8497,Bellerive,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,841,0.09
+TAS,195,Franklin,8497,Bellerive,999,Informal,Informal,999,N,N,,Informal,77,0.95
+TAS,195,Franklin,8498,Blackmans Bay,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,687,8.02
+TAS,195,Franklin,8498,Blackmans Bay,21693,FORSTER,John,2,N,N,IND,Independent,77,2.55
+TAS,195,Franklin,8498,Blackmans Bay,20948,HOWLETT,Jane,3,N,N,LP,Liberal,1082,-8.92
+TAS,195,Franklin,8498,Blackmans Bay,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,1176,1.26
+TAS,195,Franklin,8498,Blackmans Bay,999,Informal,Informal,999,N,N,,Informal,82,0.69
+TAS,195,Franklin,8499,Bligh,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,136,6.91
+TAS,195,Franklin,8499,Bligh,21693,FORSTER,John,2,N,N,IND,Independent,38,3.9
+TAS,195,Franklin,8499,Bligh,20948,HOWLETT,Jane,3,N,N,LP,Liberal,179,-6.29
+TAS,195,Franklin,8499,Bligh,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,621,0.98
+TAS,195,Franklin,8499,Bligh,999,Informal,Informal,999,N,N,,Informal,67,2.83
+TAS,195,Franklin,8501,Cambridge,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,244,8.27
+TAS,195,Franklin,8501,Cambridge,21693,FORSTER,John,2,N,N,IND,Independent,24,1.95
+TAS,195,Franklin,8501,Cambridge,20948,HOWLETT,Jane,3,N,N,LP,Liberal,480,-10.7
+TAS,195,Franklin,8501,Cambridge,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,482,2.09
+TAS,195,Franklin,8501,Cambridge,999,Informal,Informal,999,N,N,,Informal,37,0.15
+TAS,195,Franklin,8503,Clarendon Vale,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,69,7.29
+TAS,195,Franklin,8503,Clarendon Vale,21693,FORSTER,John,2,N,N,IND,Independent,9,1.48
+TAS,195,Franklin,8503,Clarendon Vale,20948,HOWLETT,Jane,3,N,N,LP,Liberal,92,-10.82
+TAS,195,Franklin,8503,Clarendon Vale,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,437,6.96
+TAS,195,Franklin,8503,Clarendon Vale,999,Informal,Informal,999,N,N,,Informal,62,3.42
+TAS,195,Franklin,8504,Cradoc,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,99,4.32
+TAS,195,Franklin,8504,Cradoc,21693,FORSTER,John,2,N,N,IND,Independent,14,3.3
+TAS,195,Franklin,8504,Cradoc,20948,HOWLETT,Jane,3,N,N,LP,Liberal,171,-4.69
+TAS,195,Franklin,8504,Cradoc,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,140,0.09
+TAS,195,Franklin,8504,Cradoc,999,Informal,Informal,999,N,N,,Informal,12,-0.75
+TAS,195,Franklin,8505,Cygnet,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,548,7.46
+TAS,195,Franklin,8505,Cygnet,21693,FORSTER,John,2,N,N,IND,Independent,36,2.2
+TAS,195,Franklin,8505,Cygnet,20948,HOWLETT,Jane,3,N,N,LP,Liberal,439,-7.91
+TAS,195,Franklin,8505,Cygnet,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,615,1.9
+TAS,195,Franklin,8505,Cygnet,999,Informal,Informal,999,N,N,,Informal,48,0.22
+TAS,195,Franklin,30186,Divisional Office (PREPOLL),20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,0,-16.87
+TAS,195,Franklin,30186,Divisional Office (PREPOLL),21693,FORSTER,John,2,N,N,IND,Independent,0,0
+TAS,195,Franklin,30186,Divisional Office (PREPOLL),20948,HOWLETT,Jane,3,N,N,LP,Liberal,2,25.71
+TAS,195,Franklin,30186,Divisional Office (PREPOLL),20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,1,-6.43
+TAS,195,Franklin,30186,Divisional Office (PREPOLL),999,Informal,Informal,999,N,N,,Informal,0,-2.35
+TAS,195,Franklin,8506,Dover,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,109,6.24
+TAS,195,Franklin,8506,Dover,21693,FORSTER,John,2,N,N,IND,Independent,13,2.26
+TAS,195,Franklin,8506,Dover,20948,HOWLETT,Jane,3,N,N,LP,Liberal,218,-5.36
+TAS,195,Franklin,8506,Dover,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,235,-1.82
+TAS,195,Franklin,8506,Dover,999,Informal,Informal,999,N,N,,Informal,35,3.18
+TAS,195,Franklin,8508,Franklin,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,151,8.92
+TAS,195,Franklin,8508,Franklin,21693,FORSTER,John,2,N,N,IND,Independent,12,2.45
+TAS,195,Franklin,8508,Franklin,20948,HOWLETT,Jane,3,N,N,LP,Liberal,142,-9.78
+TAS,195,Franklin,8508,Franklin,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,185,1.52
+TAS,195,Franklin,8508,Franklin,999,Informal,Informal,999,N,N,,Informal,12,-0.62
+TAS,195,Franklin,8511,Geeveston,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,139,8.35
+TAS,195,Franklin,8511,Geeveston,21693,FORSTER,John,2,N,N,IND,Independent,30,4.01
+TAS,195,Franklin,8511,Geeveston,20948,HOWLETT,Jane,3,N,N,LP,Liberal,224,-14.61
+TAS,195,Franklin,8511,Geeveston,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,355,5.1
+TAS,195,Franklin,8511,Geeveston,999,Informal,Informal,999,N,N,,Informal,42,1.7
+TAS,195,Franklin,8512,Geilston Bay,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,314,5.46
+TAS,195,Franklin,8512,Geilston Bay,21693,FORSTER,John,2,N,N,IND,Independent,71,3.68
+TAS,195,Franklin,8512,Geilston Bay,20948,HOWLETT,Jane,3,N,N,LP,Liberal,627,-9.8
+TAS,195,Franklin,8512,Geilston Bay,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,917,4.1
+TAS,195,Franklin,8512,Geilston Bay,999,Informal,Informal,999,N,N,,Informal,70,0.53
+TAS,195,Franklin,8513,Glen Huon,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,65,3.34
+TAS,195,Franklin,8513,Glen Huon,21693,FORSTER,John,2,N,N,IND,Independent,4,1.32
+TAS,195,Franklin,8513,Glen Huon,20948,HOWLETT,Jane,3,N,N,LP,Liberal,116,-3.68
+TAS,195,Franklin,8513,Glen Huon,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,117,1.03
+TAS,195,Franklin,8513,Glen Huon,999,Informal,Informal,999,N,N,,Informal,16,0.53
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,340,6.73
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,21693,FORSTER,John,2,N,N,IND,Independent,41,2.86
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,20948,HOWLETT,Jane,3,N,N,LP,Liberal,504,-5.19
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,550,-0.66
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,999,Informal,Informal,999,N,N,,Informal,30,0.32
+TAS,195,Franklin,8515,Howden,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,123,6.38
+TAS,195,Franklin,8515,Howden,21693,FORSTER,John,2,N,N,IND,Independent,8,2.01
+TAS,195,Franklin,8515,Howden,20948,HOWLETT,Jane,3,N,N,LP,Liberal,144,-6.87
+TAS,195,Franklin,8515,Howden,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,123,0.93
+TAS,195,Franklin,8515,Howden,999,Informal,Informal,999,N,N,,Informal,9,1.4
+TAS,195,Franklin,8516,Howrah,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,385,5.78
+TAS,195,Franklin,8516,Howrah,21693,FORSTER,John,2,N,N,IND,Independent,77,3.12
+TAS,195,Franklin,8516,Howrah,20948,HOWLETT,Jane,3,N,N,LP,Liberal,926,-7.11
+TAS,195,Franklin,8516,Howrah,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,1080,1.02
+TAS,195,Franklin,8516,Howrah,999,Informal,Informal,999,N,N,,Informal,85,0.98
+TAS,195,Franklin,8517,Huonville,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,302,8.27
+TAS,195,Franklin,8517,Huonville,21693,FORSTER,John,2,N,N,IND,Independent,38,2.75
+TAS,195,Franklin,8517,Huonville,20948,HOWLETT,Jane,3,N,N,LP,Liberal,431,-13.69
+TAS,195,Franklin,8517,Huonville,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,612,5.35
+TAS,195,Franklin,8517,Huonville,999,Informal,Informal,999,N,N,,Informal,91,3.01
+TAS,195,Franklin,8518,Judbury,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,53,6.56
+TAS,195,Franklin,8518,Judbury,21693,FORSTER,John,2,N,N,IND,Independent,6,2.79
+TAS,195,Franklin,8518,Judbury,20948,HOWLETT,Jane,3,N,N,LP,Liberal,73,-8.26
+TAS,195,Franklin,8518,Judbury,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,83,1.41
+TAS,195,Franklin,8518,Judbury,999,Informal,Informal,999,N,N,,Informal,6,-3.42
+TAS,195,Franklin,8519,Kettering,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,175,5.88
+TAS,195,Franklin,8519,Kettering,21693,FORSTER,John,2,N,N,IND,Independent,13,2.66
+TAS,195,Franklin,8519,Kettering,20948,HOWLETT,Jane,3,N,N,LP,Liberal,156,-6.06
+TAS,195,Franklin,8519,Kettering,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,144,-0.87
+TAS,195,Franklin,8519,Kettering,999,Informal,Informal,999,N,N,,Informal,20,0.82
+TAS,195,Franklin,8520,Kingston (Franklin),20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,527,3.59
+TAS,195,Franklin,8520,Kingston (Franklin),21693,FORSTER,John,2,N,N,IND,Independent,92,3.18
+TAS,195,Franklin,8520,Kingston (Franklin),20948,HOWLETT,Jane,3,N,N,LP,Liberal,1046,-7.07
+TAS,195,Franklin,8520,Kingston (Franklin),20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,1232,3.77
+TAS,195,Franklin,8520,Kingston (Franklin),999,Informal,Informal,999,N,N,,Informal,128,1.36
+TAS,195,Franklin,8521,Kingston Beach,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,506,5.5
+TAS,195,Franklin,8521,Kingston Beach,21693,FORSTER,John,2,N,N,IND,Independent,48,2.38
+TAS,195,Franklin,8521,Kingston Beach,20948,HOWLETT,Jane,3,N,N,LP,Liberal,747,-6.66
+TAS,195,Franklin,8521,Kingston Beach,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,717,1.65
+TAS,195,Franklin,8521,Kingston Beach,999,Informal,Informal,999,N,N,,Informal,46,0.11
+TAS,195,Franklin,58684,Kingston FRANKLIN PPVC,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,133,3.31
+TAS,195,Franklin,58684,Kingston FRANKLIN PPVC,21693,FORSTER,John,2,N,N,IND,Independent,21,3.16
+TAS,195,Franklin,58684,Kingston FRANKLIN PPVC,20948,HOWLETT,Jane,3,N,N,LP,Liberal,238,-4.34
+TAS,195,Franklin,58684,Kingston FRANKLIN PPVC,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,272,1.96
+TAS,195,Franklin,58684,Kingston FRANKLIN PPVC,999,Informal,Informal,999,N,N,,Informal,26,2.04
+TAS,195,Franklin,8522,Lauderdale,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,585,8.91
+TAS,195,Franklin,8522,Lauderdale,21693,FORSTER,John,2,N,N,IND,Independent,70,3
+TAS,195,Franklin,8522,Lauderdale,20948,HOWLETT,Jane,3,N,N,LP,Liberal,763,-10.1
+TAS,195,Franklin,8522,Lauderdale,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,912,0.77
+TAS,195,Franklin,8522,Lauderdale,999,Informal,Informal,999,N,N,,Informal,82,0.65
+TAS,195,Franklin,8523,Lindisfarne,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,397,7.2
+TAS,195,Franklin,8523,Lindisfarne,21693,FORSTER,John,2,N,N,IND,Independent,44,2.21
+TAS,195,Franklin,8523,Lindisfarne,20948,HOWLETT,Jane,3,N,N,LP,Liberal,768,-8.7
+TAS,195,Franklin,8523,Lindisfarne,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,782,1.32
+TAS,195,Franklin,8523,Lindisfarne,999,Informal,Informal,999,N,N,,Informal,48,0.32
+TAS,195,Franklin,8524,Loatta Road,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,298,7.52
+TAS,195,Franklin,8524,Loatta Road,21693,FORSTER,John,2,N,N,IND,Independent,36,2.42
+TAS,195,Franklin,8524,Loatta Road,20948,HOWLETT,Jane,3,N,N,LP,Liberal,509,-9.49
+TAS,195,Franklin,8524,Loatta Road,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,647,1.67
+TAS,195,Franklin,8524,Loatta Road,999,Informal,Informal,999,N,N,,Informal,31,0.38
+TAS,195,Franklin,34288,Maranoa Heights,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,177,4.83
+TAS,195,Franklin,34288,Maranoa Heights,21693,FORSTER,John,2,N,N,IND,Independent,51,3.82
+TAS,195,Franklin,34288,Maranoa Heights,20948,HOWLETT,Jane,3,N,N,LP,Liberal,476,-8.24
+TAS,195,Franklin,34288,Maranoa Heights,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,630,5.67
+TAS,195,Franklin,34288,Maranoa Heights,999,Informal,Informal,999,N,N,,Informal,70,2.62
+TAS,195,Franklin,8525,Margate,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,508,6.58
+TAS,195,Franklin,8525,Margate,21693,FORSTER,John,2,N,N,IND,Independent,45,2.21
+TAS,195,Franklin,8525,Margate,20948,HOWLETT,Jane,3,N,N,LP,Liberal,666,-9.34
+TAS,195,Franklin,8525,Margate,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,817,4.44
+TAS,195,Franklin,8525,Margate,999,Informal,Informal,999,N,N,,Informal,78,1.04
+TAS,195,Franklin,8526,Middleton,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,81,2.26
+TAS,195,Franklin,8526,Middleton,21693,FORSTER,John,2,N,N,IND,Independent,8,3.08
+TAS,195,Franklin,8526,Middleton,20948,HOWLETT,Jane,3,N,N,LP,Liberal,54,-7.38
+TAS,195,Franklin,8526,Middleton,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,117,5
+TAS,195,Franklin,8526,Middleton,999,Informal,Informal,999,N,N,,Informal,11,1.18
+TAS,195,Franklin,8527,Montagu Bay,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,262,10.77
+TAS,195,Franklin,8527,Montagu Bay,21693,FORSTER,John,2,N,N,IND,Independent,35,3.24
+TAS,195,Franklin,8527,Montagu Bay,20948,HOWLETT,Jane,3,N,N,LP,Liberal,347,-10.31
+TAS,195,Franklin,8527,Montagu Bay,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,437,-1.98
+TAS,195,Franklin,8527,Montagu Bay,999,Informal,Informal,999,N,N,,Informal,27,0.93
+TAS,195,Franklin,8528,Mornington,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,82,8.3
+TAS,195,Franklin,8528,Mornington,21693,FORSTER,John,2,N,N,IND,Independent,15,3.59
+TAS,195,Franklin,8528,Mornington,20948,HOWLETT,Jane,3,N,N,LP,Liberal,97,-9.67
+TAS,195,Franklin,8528,Mornington,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,224,-1.13
+TAS,195,Franklin,8528,Mornington,999,Informal,Informal,999,N,N,,Informal,34,3.63
+TAS,195,Franklin,8514,Mountain River,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,146,4.97
+TAS,195,Franklin,8514,Mountain River,21693,FORSTER,John,2,N,N,IND,Independent,10,1.75
+TAS,195,Franklin,8514,Mountain River,20948,HOWLETT,Jane,3,N,N,LP,Liberal,230,-7.43
+TAS,195,Franklin,8514,Mountain River,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,185,3
+TAS,195,Franklin,8514,Mountain River,999,Informal,Informal,999,N,N,,Informal,36,1.07
+TAS,195,Franklin,47795,Old Beach,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,149,5.07
+TAS,195,Franklin,47795,Old Beach,21693,FORSTER,John,2,N,N,IND,Independent,33,2.79
+TAS,195,Franklin,47795,Old Beach,20948,HOWLETT,Jane,3,N,N,LP,Liberal,374,-2.58
+TAS,195,Franklin,47795,Old Beach,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,626,-1.06
+TAS,195,Franklin,47795,Old Beach,999,Informal,Informal,999,N,N,,Informal,52,0.54
+TAS,195,Franklin,8530,Port Huon,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,39,9.54
+TAS,195,Franklin,8530,Port Huon,21693,FORSTER,John,2,N,N,IND,Independent,6,2.42
+TAS,195,Franklin,8530,Port Huon,20948,HOWLETT,Jane,3,N,N,LP,Liberal,101,-22.13
+TAS,195,Franklin,8530,Port Huon,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,102,11.61
+TAS,195,Franklin,8530,Port Huon,999,Informal,Informal,999,N,N,,Informal,15,0.29
+TAS,195,Franklin,8531,Ranelagh,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,146,3.22
+TAS,195,Franklin,8531,Ranelagh,21693,FORSTER,John,2,N,N,IND,Independent,35,3.99
+TAS,195,Franklin,8531,Ranelagh,20948,HOWLETT,Jane,3,N,N,LP,Liberal,282,-15.1
+TAS,195,Franklin,8531,Ranelagh,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,415,11.52
+TAS,195,Franklin,8531,Ranelagh,999,Informal,Informal,999,N,N,,Informal,48,0.57
+TAS,195,Franklin,8655,Richmond,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,181,6.06
+TAS,195,Franklin,8655,Richmond,21693,FORSTER,John,2,N,N,IND,Independent,34,3.47
+TAS,195,Franklin,8655,Richmond,20948,HOWLETT,Jane,3,N,N,LP,Liberal,369,1.51
+TAS,195,Franklin,8655,Richmond,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,395,2.87
+TAS,195,Franklin,8655,Richmond,999,Informal,Informal,999,N,N,,Informal,34,0.94
+TAS,195,Franklin,8532,Risdon Vale,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,136,6.13
+TAS,195,Franklin,8532,Risdon Vale,21693,FORSTER,John,2,N,N,IND,Independent,41,3.28
+TAS,195,Franklin,8532,Risdon Vale,20948,HOWLETT,Jane,3,N,N,LP,Liberal,200,-9.72
+TAS,195,Franklin,8532,Risdon Vale,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,873,4.76
+TAS,195,Franklin,8532,Risdon Vale,999,Informal,Informal,999,N,N,,Informal,64,1.63
+TAS,195,Franklin,8533,Rokeby,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,169,6.56
+TAS,195,Franklin,8533,Rokeby,21693,FORSTER,John,2,N,N,IND,Independent,39,2.61
+TAS,195,Franklin,8533,Rokeby,20948,HOWLETT,Jane,3,N,N,LP,Liberal,331,-6.72
+TAS,195,Franklin,8533,Rokeby,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,954,1.9
+TAS,195,Franklin,8533,Rokeby,999,Informal,Informal,999,N,N,,Informal,72,-0.56
+TAS,195,Franklin,34054,Rosny FRANKLIN PPVC,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,187,0.16
+TAS,195,Franklin,34054,Rosny FRANKLIN PPVC,21693,FORSTER,John,2,N,N,IND,Independent,23,2.09
+TAS,195,Franklin,34054,Rosny FRANKLIN PPVC,20948,HOWLETT,Jane,3,N,N,LP,Liberal,402,-3.79
+TAS,195,Franklin,34054,Rosny FRANKLIN PPVC,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,489,5.47
+TAS,195,Franklin,34054,Rosny FRANKLIN PPVC,999,Informal,Informal,999,N,N,,Informal,23,0.32
+TAS,195,Franklin,8534,Sandfly (Franklin),20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,237,7.54
+TAS,195,Franklin,8534,Sandfly (Franklin),21693,FORSTER,John,2,N,N,IND,Independent,14,1.92
+TAS,195,Franklin,8534,Sandfly (Franklin),20948,HOWLETT,Jane,3,N,N,LP,Liberal,257,-5.39
+TAS,195,Franklin,8534,Sandfly (Franklin),20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,222,-2.02
+TAS,195,Franklin,8534,Sandfly (Franklin),999,Informal,Informal,999,N,N,,Informal,31,0.9
+TAS,195,Franklin,8535,Sandford,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,291,-0.26
+TAS,195,Franklin,8535,Sandford,21693,FORSTER,John,2,N,N,IND,Independent,22,1.91
+TAS,195,Franklin,8535,Sandford,20948,HOWLETT,Jane,3,N,N,LP,Liberal,368,-7.3
+TAS,195,Franklin,8535,Sandford,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,468,7.82
+TAS,195,Franklin,8535,Sandford,999,Informal,Informal,999,N,N,,Informal,44,2
+TAS,195,Franklin,8536,Seven Mile Beach,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,147,3.76
+TAS,195,Franklin,8536,Seven Mile Beach,21693,FORSTER,John,2,N,N,IND,Independent,17,2.32
+TAS,195,Franklin,8536,Seven Mile Beach,20948,HOWLETT,Jane,3,N,N,LP,Liberal,262,-5.59
+TAS,195,Franklin,8536,Seven Mile Beach,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,307,0.7
+TAS,195,Franklin,8536,Seven Mile Beach,999,Informal,Informal,999,N,N,,Informal,20,-0.69
+TAS,195,Franklin,8537,Snug,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,265,0.56
+TAS,195,Franklin,8537,Snug,21693,FORSTER,John,2,N,N,IND,Independent,28,2.75
+TAS,195,Franklin,8537,Snug,20948,HOWLETT,Jane,3,N,N,LP,Liberal,292,-8.09
+TAS,195,Franklin,8537,Snug,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,435,7.19
+TAS,195,Franklin,8537,Snug,999,Informal,Informal,999,N,N,,Informal,55,2.18
+TAS,195,Franklin,8538,South Arm,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,175,5.96
+TAS,195,Franklin,8538,South Arm,21693,FORSTER,John,2,N,N,IND,Independent,18,2.82
+TAS,195,Franklin,8538,South Arm,20948,HOWLETT,Jane,3,N,N,LP,Liberal,212,-6.79
+TAS,195,Franklin,8538,South Arm,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,234,-0.61
+TAS,195,Franklin,8538,South Arm,999,Informal,Informal,999,N,N,,Informal,22,0.67
+TAS,195,Franklin,8539,Southport,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,40,14.98
+TAS,195,Franklin,8539,Southport,21693,FORSTER,John,2,N,N,IND,Independent,2,1.54
+TAS,195,Franklin,8539,Southport,20948,HOWLETT,Jane,3,N,N,LP,Liberal,31,-18.26
+TAS,195,Franklin,8539,Southport,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,57,3.66
+TAS,195,Franklin,8539,Southport,999,Informal,Informal,999,N,N,,Informal,3,-2.74
+TAS,195,Franklin,14421,Special Hospital Team 1,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,17,10.12
+TAS,195,Franklin,14421,Special Hospital Team 1,21693,FORSTER,John,2,N,N,IND,Independent,8,6.25
+TAS,195,Franklin,14421,Special Hospital Team 1,20948,HOWLETT,Jane,3,N,N,LP,Liberal,43,-20.84
+TAS,195,Franklin,14421,Special Hospital Team 1,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,60,9.54
+TAS,195,Franklin,14421,Special Hospital Team 1,999,Informal,Informal,999,N,N,,Informal,4,-4.03
+TAS,195,Franklin,13330,Special Hospital Team 2,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,29,9.77
+TAS,195,Franklin,13330,Special Hospital Team 2,21693,FORSTER,John,2,N,N,IND,Independent,8,3.69
+TAS,195,Franklin,13330,Special Hospital Team 2,20948,HOWLETT,Jane,3,N,N,LP,Liberal,103,-6.89
+TAS,195,Franklin,13330,Special Hospital Team 2,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,77,-1.96
+TAS,195,Franklin,13330,Special Hospital Team 2,999,Informal,Informal,999,N,N,,Informal,10,-2.73
+TAS,195,Franklin,8541,Surges Bay,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,36,-1.4
+TAS,195,Franklin,8541,Surges Bay,21693,FORSTER,John,2,N,N,IND,Independent,2,1.25
+TAS,195,Franklin,8541,Surges Bay,20948,HOWLETT,Jane,3,N,N,LP,Liberal,71,-7.19
+TAS,195,Franklin,8541,Surges Bay,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,51,8.61
+TAS,195,Franklin,8541,Surges Bay,999,Informal,Informal,999,N,N,,Informal,10,4.03
+TAS,195,Franklin,8543,Tranmere,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,283,4.86
+TAS,195,Franklin,8543,Tranmere,21693,FORSTER,John,2,N,N,IND,Independent,36,1.8
+TAS,195,Franklin,8543,Tranmere,20948,HOWLETT,Jane,3,N,N,LP,Liberal,866,-8.05
+TAS,195,Franklin,8543,Tranmere,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,810,3.02
+TAS,195,Franklin,8543,Tranmere,999,Informal,Informal,999,N,N,,Informal,62,1.26
+TAS,195,Franklin,8544,Warrane,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,229,7.65
+TAS,195,Franklin,8544,Warrane,21693,FORSTER,John,2,N,N,IND,Independent,46,3.78
+TAS,195,Franklin,8544,Warrane,20948,HOWLETT,Jane,3,N,N,LP,Liberal,257,-7.66
+TAS,195,Franklin,8544,Warrane,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,685,0.1
+TAS,195,Franklin,8544,Warrane,999,Informal,Informal,999,N,N,,Informal,67,1.02
+TAS,195,Franklin,8545,Wentworth Street,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,269,7.08
+TAS,195,Franklin,8545,Wentworth Street,21693,FORSTER,John,2,N,N,IND,Independent,37,2.67
+TAS,195,Franklin,8545,Wentworth Street,20948,HOWLETT,Jane,3,N,N,LP,Liberal,441,-9.04
+TAS,195,Franklin,8545,Wentworth Street,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,641,1.06
+TAS,195,Franklin,8545,Wentworth Street,999,Informal,Informal,999,N,N,,Informal,32,-0.52
+TAS,195,Franklin,8546,Woodbridge,20772,HEATLEY,Wendy,1,N,N,GRN,Australian Greens,174,9.57
+TAS,195,Franklin,8546,Woodbridge,21693,FORSTER,John,2,N,N,IND,Independent,3,0.75
+TAS,195,Franklin,8546,Woodbridge,20948,HOWLETT,Jane,3,N,N,LP,Liberal,104,-5.69
+TAS,195,Franklin,8546,Woodbridge,20944,COLLINS,Julie,4,Y,Y,ALP,Australian Labor Party,120,-3.16
+TAS,195,Franklin,8546,Woodbridge,999,Informal,Informal,999,N,N,,Informal,13,2.42
+TAS,196,Lyons,8550,Avoca,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,2,1.22
+TAS,196,Lyons,8550,Avoca,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,42,-1.09
+TAS,196,Lyons,8550,Avoca,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,108,8.26
+TAS,196,Lyons,8550,Avoca,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,12,1.56
+TAS,196,Lyons,8550,Avoca,999,Informal,Informal,999,N,N,,Informal,6,0.98
+TAS,196,Lyons,8551,Bagdad,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,13,1.86
+TAS,196,Lyons,8551,Bagdad,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,188,0.55
+TAS,196,Lyons,8551,Bagdad,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,403,-0.54
+TAS,196,Lyons,8551,Bagdad,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,94,6.26
+TAS,196,Lyons,8551,Bagdad,999,Informal,Informal,999,N,N,,Informal,37,1.2
+TAS,196,Lyons,8553,Beaconsfield,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,23,2.19
+TAS,196,Lyons,8553,Beaconsfield,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,294,4.55
+TAS,196,Lyons,8553,Beaconsfield,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,557,5.34
+TAS,196,Lyons,8553,Beaconsfield,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,175,5.83
+TAS,196,Lyons,8553,Beaconsfield,999,Informal,Informal,999,N,N,,Informal,51,1.09
+TAS,196,Lyons,8608,Beauty Point,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,10,1.45
+TAS,196,Lyons,8608,Beauty Point,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,238,5.23
+TAS,196,Lyons,8608,Beauty Point,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,328,6.53
+TAS,196,Lyons,8608,Beauty Point,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,112,7.62
+TAS,196,Lyons,8608,Beauty Point,999,Informal,Informal,999,N,N,,Informal,34,2.07
+TAS,196,Lyons,8556,Bicheno,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,8,1.33
+TAS,196,Lyons,8556,Bicheno,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,214,-2.91
+TAS,196,Lyons,8556,Bicheno,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,257,8.41
+TAS,196,Lyons,8556,Bicheno,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,122,5.21
+TAS,196,Lyons,8556,Bicheno,999,Informal,Informal,999,N,N,,Informal,25,-0.6
+TAS,196,Lyons,8557,Bishopsbourne,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,1,1.06
+TAS,196,Lyons,8557,Bishopsbourne,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,55,4.25
+TAS,196,Lyons,8557,Bishopsbourne,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,32,7.44
+TAS,196,Lyons,8557,Bishopsbourne,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,6,6.38
+TAS,196,Lyons,8557,Bishopsbourne,999,Informal,Informal,999,N,N,,Informal,2,0
+TAS,196,Lyons,8559,Bothwell,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,9,2.53
+TAS,196,Lyons,8559,Bothwell,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,131,4.2
+TAS,196,Lyons,8559,Bothwell,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,199,2.75
+TAS,196,Lyons,8559,Bothwell,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,17,2.59
+TAS,196,Lyons,8559,Bothwell,999,Informal,Informal,999,N,N,,Informal,23,2.12
+TAS,196,Lyons,8560,Bracknell,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,3,0.8
+TAS,196,Lyons,8560,Bracknell,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,176,2.52
+TAS,196,Lyons,8560,Bracknell,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,144,2.64
+TAS,196,Lyons,8560,Bracknell,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,53,2.91
+TAS,196,Lyons,8560,Bracknell,999,Informal,Informal,999,N,N,,Informal,23,3.48
+TAS,196,Lyons,8500,Bridgewater,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,65,3.42
+TAS,196,Lyons,8500,Bridgewater,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,286,-15.67
+TAS,196,Lyons,8500,Bridgewater,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,1286,7.36
+TAS,196,Lyons,8500,Bridgewater,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,265,8.88
+TAS,196,Lyons,8500,Bridgewater,999,Informal,Informal,999,N,N,,Informal,187,3.89
+TAS,196,Lyons,8562,Brighton,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,37,1.86
+TAS,196,Lyons,8562,Brighton,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,474,-3.82
+TAS,196,Lyons,8562,Brighton,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,1278,5.9
+TAS,196,Lyons,8562,Brighton,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,199,5.06
+TAS,196,Lyons,8562,Brighton,999,Informal,Informal,999,N,N,,Informal,135,3.48
+TAS,196,Lyons,8563,Broadmarsh,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,5,2.45
+TAS,196,Lyons,8563,Broadmarsh,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,63,-10.5
+TAS,196,Lyons,8563,Broadmarsh,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,106,9.6
+TAS,196,Lyons,8563,Broadmarsh,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,30,3.38
+TAS,196,Lyons,8563,Broadmarsh,999,Informal,Informal,999,N,N,,Informal,7,0.92
+TAS,196,Lyons,8564,Bronte,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,2,2.56
+TAS,196,Lyons,8564,Bronte,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,31,-0.45
+TAS,196,Lyons,8564,Bronte,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,38,9.47
+TAS,196,Lyons,8564,Bronte,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,7,0.56
+TAS,196,Lyons,8564,Bronte,999,Informal,Informal,999,N,N,,Informal,9,5.88
+TAS,196,Lyons,8565,Buckland,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,1,0.87
+TAS,196,Lyons,8565,Buckland,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,45,-3.73
+TAS,196,Lyons,8565,Buckland,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,53,-0.13
+TAS,196,Lyons,8565,Buckland,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,16,8.87
+TAS,196,Lyons,8565,Buckland,999,Informal,Informal,999,N,N,,Informal,3,-1.49
+TAS,196,Lyons,8566,Campania,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,3,0.67
+TAS,196,Lyons,8566,Campania,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,202,5.51
+TAS,196,Lyons,8566,Campania,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,185,-0.67
+TAS,196,Lyons,8566,Campania,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,61,5.34
+TAS,196,Lyons,8566,Campania,999,Informal,Informal,999,N,N,,Informal,37,3.64
+TAS,196,Lyons,8567,Campbell Town,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,8,1.09
+TAS,196,Lyons,8567,Campbell Town,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,197,4.83
+TAS,196,Lyons,8567,Campbell Town,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,437,-0.12
+TAS,196,Lyons,8567,Campbell Town,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,93,5.75
+TAS,196,Lyons,8567,Campbell Town,999,Informal,Informal,999,N,N,,Informal,37,1.52
+TAS,196,Lyons,8568,Carrick,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,9,1.84
+TAS,196,Lyons,8568,Carrick,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,200,-4.78
+TAS,196,Lyons,8568,Carrick,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,215,10.53
+TAS,196,Lyons,8568,Carrick,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,64,4.83
+TAS,196,Lyons,8568,Carrick,999,Informal,Informal,999,N,N,,Informal,19,-0.05
+TAS,196,Lyons,8570,Chudleigh,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,3,1.12
+TAS,196,Lyons,8570,Chudleigh,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,109,12.98
+TAS,196,Lyons,8570,Chudleigh,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,91,10.16
+TAS,196,Lyons,8570,Chudleigh,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,64,9.07
+TAS,196,Lyons,8570,Chudleigh,999,Informal,Informal,999,N,N,,Informal,4,-2.66
+TAS,196,Lyons,8571,Claude Road,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,4,1.79
+TAS,196,Lyons,8571,Claude Road,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,83,4.99
+TAS,196,Lyons,8571,Claude Road,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,78,-1.99
+TAS,196,Lyons,8571,Claude Road,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,58,6.1
+TAS,196,Lyons,8571,Claude Road,999,Informal,Informal,999,N,N,,Informal,15,3.99
+TAS,196,Lyons,8572,Colebrook,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,4,1.75
+TAS,196,Lyons,8572,Colebrook,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,64,-1.41
+TAS,196,Lyons,8572,Colebrook,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,118,-2.14
+TAS,196,Lyons,8572,Colebrook,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,43,13.28
+TAS,196,Lyons,8572,Colebrook,999,Informal,Informal,999,N,N,,Informal,13,0.57
+TAS,196,Lyons,8573,Coles Bay,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,0,0
+TAS,196,Lyons,8573,Coles Bay,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,46,-15.47
+TAS,196,Lyons,8573,Coles Bay,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,58,11.13
+TAS,196,Lyons,8573,Coles Bay,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,45,11.18
+TAS,196,Lyons,8573,Coles Bay,999,Informal,Informal,999,N,N,,Informal,2,0.35
+TAS,196,Lyons,8575,Copping,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,3,1.49
+TAS,196,Lyons,8575,Copping,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,68,6.04
+TAS,196,Lyons,8575,Copping,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,73,1.38
+TAS,196,Lyons,8575,Copping,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,58,3.47
+TAS,196,Lyons,8575,Copping,999,Informal,Informal,999,N,N,,Informal,12,3.28
+TAS,196,Lyons,8578,Cressy,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,8,1.17
+TAS,196,Lyons,8578,Cressy,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,222,-4.29
+TAS,196,Lyons,8578,Cressy,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,401,10.87
+TAS,196,Lyons,8578,Cressy,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,52,2.35
+TAS,196,Lyons,8578,Cressy,999,Informal,Informal,999,N,N,,Informal,31,2.36
+TAS,196,Lyons,8580,Deloraine,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,28,1.45
+TAS,196,Lyons,8580,Deloraine,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,737,-0.66
+TAS,196,Lyons,8580,Deloraine,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,776,9.68
+TAS,196,Lyons,8580,Deloraine,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,389,6.53
+TAS,196,Lyons,8580,Deloraine,999,Informal,Informal,999,N,N,,Informal,94,1.73
+TAS,196,Lyons,30187,Divisional Office (PREPOLL),21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,0,0
+TAS,196,Lyons,30187,Divisional Office (PREPOLL),21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,6,1.62
+TAS,196,Lyons,30187,Divisional Office (PREPOLL),20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,10,16.54
+TAS,196,Lyons,30187,Divisional Office (PREPOLL),20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,2,-5.96
+TAS,196,Lyons,30187,Divisional Office (PREPOLL),999,Informal,Informal,999,N,N,,Informal,0,-2.38
+TAS,196,Lyons,8582,Dodges Ferry,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,44,2.26
+TAS,196,Lyons,8582,Dodges Ferry,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,448,-2.36
+TAS,196,Lyons,8582,Dodges Ferry,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,913,1.59
+TAS,196,Lyons,8582,Dodges Ferry,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,540,9.93
+TAS,196,Lyons,8582,Dodges Ferry,999,Informal,Informal,999,N,N,,Informal,97,0.8
+TAS,196,Lyons,8583,Dromedary,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,4,1.18
+TAS,196,Lyons,8583,Dromedary,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,85,-2.59
+TAS,196,Lyons,8583,Dromedary,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,200,6.91
+TAS,196,Lyons,8583,Dromedary,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,49,2.24
+TAS,196,Lyons,8583,Dromedary,999,Informal,Informal,999,N,N,,Informal,18,1.93
+TAS,196,Lyons,8584,Dunalley,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,10,2.23
+TAS,196,Lyons,8584,Dunalley,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,158,-0.68
+TAS,196,Lyons,8584,Dunalley,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,192,2.77
+TAS,196,Lyons,8584,Dunalley,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,88,7.66
+TAS,196,Lyons,8584,Dunalley,999,Informal,Informal,999,N,N,,Informal,34,2.87
+TAS,196,Lyons,8587,Elizabeth Town,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,2,0.56
+TAS,196,Lyons,8587,Elizabeth Town,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,155,-5.19
+TAS,196,Lyons,8587,Elizabeth Town,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,136,16.1
+TAS,196,Lyons,8587,Elizabeth Town,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,63,4.1
+TAS,196,Lyons,8587,Elizabeth Town,999,Informal,Informal,999,N,N,,Informal,26,2.73
+TAS,196,Lyons,8588,Ellendale,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,3,1.89
+TAS,196,Lyons,8588,Ellendale,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,59,0.87
+TAS,196,Lyons,8588,Ellendale,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,61,0.78
+TAS,196,Lyons,8588,Ellendale,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,36,9.89
+TAS,196,Lyons,8588,Ellendale,999,Informal,Informal,999,N,N,,Informal,6,-2.65
+TAS,196,Lyons,8589,Epping,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,3,1.49
+TAS,196,Lyons,8589,Epping,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,78,1.6
+TAS,196,Lyons,8589,Epping,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,106,3.78
+TAS,196,Lyons,8589,Epping,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,15,2.24
+TAS,196,Lyons,8589,Epping,999,Informal,Informal,999,N,N,,Informal,4,0.03
+TAS,196,Lyons,8591,Evandale,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,9,0.97
+TAS,196,Lyons,8591,Evandale,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,337,2.68
+TAS,196,Lyons,8591,Evandale,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,400,6.13
+TAS,196,Lyons,8591,Evandale,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,183,5.77
+TAS,196,Lyons,8591,Evandale,999,Informal,Informal,999,N,N,,Informal,25,0.35
+TAS,196,Lyons,8592,Exeter,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,15,1.42
+TAS,196,Lyons,8592,Exeter,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,405,6.18
+TAS,196,Lyons,8592,Exeter,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,387,4.8
+TAS,196,Lyons,8592,Exeter,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,248,9.42
+TAS,196,Lyons,8592,Exeter,999,Informal,Informal,999,N,N,,Informal,48,2.05
+TAS,196,Lyons,8596,Fingal,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,5,1.72
+TAS,196,Lyons,8596,Fingal,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,67,1.84
+TAS,196,Lyons,8596,Fingal,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,194,6.1
+TAS,196,Lyons,8596,Fingal,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,24,-1.02
+TAS,196,Lyons,8596,Fingal,999,Informal,Informal,999,N,N,,Informal,16,2.64
+TAS,196,Lyons,8597,Forcett,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,11,1.96
+TAS,196,Lyons,8597,Forcett,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,194,1.26
+TAS,196,Lyons,8597,Forcett,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,243,-0.26
+TAS,196,Lyons,8597,Forcett,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,114,8.13
+TAS,196,Lyons,8597,Forcett,999,Informal,Informal,999,N,N,,Informal,34,0.83
+TAS,196,Lyons,8598,Frankford,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,3,2.26
+TAS,196,Lyons,8598,Frankford,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,54,2.08
+TAS,196,Lyons,8598,Frankford,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,50,6.44
+TAS,196,Lyons,8598,Frankford,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,26,5.62
+TAS,196,Lyons,8598,Frankford,999,Informal,Informal,999,N,N,,Informal,4,0.52
+TAS,196,Lyons,8509,Gagebrook,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,22,2.67
+TAS,196,Lyons,8509,Gagebrook,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,105,-19.31
+TAS,196,Lyons,8509,Gagebrook,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,570,11.35
+TAS,196,Lyons,8509,Gagebrook,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,127,9.72
+TAS,196,Lyons,8509,Gagebrook,999,Informal,Informal,999,N,N,,Informal,61,3.35
+TAS,196,Lyons,8599,Glengarry,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,5,1.55
+TAS,196,Lyons,8599,Glengarry,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,130,4.12
+TAS,196,Lyons,8599,Glengarry,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,129,6.07
+TAS,196,Lyons,8599,Glengarry,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,59,4.08
+TAS,196,Lyons,8599,Glengarry,999,Informal,Informal,999,N,N,,Informal,4,-0.99
+TAS,196,Lyons,8600,Glenora,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,3,1.52
+TAS,196,Lyons,8600,Glenora,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,47,-1.59
+TAS,196,Lyons,8600,Glenora,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,119,9.52
+TAS,196,Lyons,8600,Glenora,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,28,4.39
+TAS,196,Lyons,8600,Glenora,999,Informal,Informal,999,N,N,,Informal,7,0.4
+TAS,196,Lyons,58676,Glenorchy LYONS PPVC,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,4,1.5
+TAS,196,Lyons,58676,Glenorchy LYONS PPVC,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,63,-8.4
+TAS,196,Lyons,58676,Glenorchy LYONS PPVC,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,156,19.97
+TAS,196,Lyons,58676,Glenorchy LYONS PPVC,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,43,0.13
+TAS,196,Lyons,58676,Glenorchy LYONS PPVC,999,Informal,Informal,999,N,N,,Informal,15,3.49
+TAS,196,Lyons,8602,Granton,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,7,1.64
+TAS,196,Lyons,8602,Granton,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,125,-3.63
+TAS,196,Lyons,8602,Granton,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,227,7.27
+TAS,196,Lyons,8602,Granton,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,69,7.91
+TAS,196,Lyons,8602,Granton,999,Informal,Informal,999,N,N,,Informal,15,1.92
+TAS,196,Lyons,8603,Gravelly Beach,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,7,1.24
+TAS,196,Lyons,8603,Gravelly Beach,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,171,6.8
+TAS,196,Lyons,8603,Gravelly Beach,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,188,8.35
+TAS,196,Lyons,8603,Gravelly Beach,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,199,14.64
+TAS,196,Lyons,8603,Gravelly Beach,999,Informal,Informal,999,N,N,,Informal,22,0.63
+TAS,196,Lyons,8604,Gretna,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,5,2.79
+TAS,196,Lyons,8604,Gretna,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,67,-4.03
+TAS,196,Lyons,8604,Gretna,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,82,3.74
+TAS,196,Lyons,8604,Gretna,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,25,8.48
+TAS,196,Lyons,8604,Gretna,999,Informal,Informal,999,N,N,,Informal,10,-1
+TAS,196,Lyons,8606,Hagley,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,1,0.35
+TAS,196,Lyons,8606,Hagley,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,161,2.27
+TAS,196,Lyons,8606,Hagley,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,82,5.51
+TAS,196,Lyons,8606,Hagley,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,40,5.82
+TAS,196,Lyons,8606,Hagley,999,Informal,Informal,999,N,N,,Informal,9,1.39
+TAS,196,Lyons,8607,Hamilton,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,1,0.79
+TAS,196,Lyons,8607,Hamilton,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,48,4.98
+TAS,196,Lyons,8607,Hamilton,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,58,-0.47
+TAS,196,Lyons,8607,Hamilton,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,19,5.53
+TAS,196,Lyons,8607,Hamilton,999,Informal,Informal,999,N,N,,Informal,5,0.14
+TAS,196,Lyons,58675,Hobart LYONS PPVC,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,6,1.4
+TAS,196,Lyons,58675,Hobart LYONS PPVC,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,124,-2.98
+TAS,196,Lyons,58675,Hobart LYONS PPVC,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,189,5.7
+TAS,196,Lyons,58675,Hobart LYONS PPVC,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,109,9.49
+TAS,196,Lyons,58675,Hobart LYONS PPVC,999,Informal,Informal,999,N,N,,Informal,9,0.32
+TAS,196,Lyons,31784,Kelso,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,4,1.89
+TAS,196,Lyons,31784,Kelso,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,67,3.45
+TAS,196,Lyons,31784,Kelso,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,87,6.17
+TAS,196,Lyons,31784,Kelso,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,54,12.44
+TAS,196,Lyons,31784,Kelso,999,Informal,Informal,999,N,N,,Informal,12,2.11
+TAS,196,Lyons,8611,Kempton,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,5,1.64
+TAS,196,Lyons,8611,Kempton,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,92,2.8
+TAS,196,Lyons,8611,Kempton,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,179,1.13
+TAS,196,Lyons,8611,Kempton,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,28,0.76
+TAS,196,Lyons,8611,Kempton,999,Informal,Informal,999,N,N,,Informal,16,2.26
+TAS,196,Lyons,8614,Lachlan,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,5,1.27
+TAS,196,Lyons,8614,Lachlan,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,71,-2.73
+TAS,196,Lyons,8614,Lachlan,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,217,7.64
+TAS,196,Lyons,8614,Lachlan,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,100,6.93
+TAS,196,Lyons,8614,Lachlan,999,Informal,Informal,999,N,N,,Informal,19,2.65
+TAS,196,Lyons,58627,Launceston LYONS PPVC,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,10,1.22
+TAS,196,Lyons,58627,Launceston LYONS PPVC,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,320,7.11
+TAS,196,Lyons,58627,Launceston LYONS PPVC,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,303,-1.78
+TAS,196,Lyons,58627,Launceston LYONS PPVC,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,189,6.7
+TAS,196,Lyons,58627,Launceston LYONS PPVC,999,Informal,Informal,999,N,N,,Informal,18,0.28
+TAS,196,Lyons,11916,Legana (Lyons),21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,12,1.43
+TAS,196,Lyons,11916,Legana (Lyons),21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,391,2.39
+TAS,196,Lyons,11916,Legana (Lyons),20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,291,12.04
+TAS,196,Lyons,11916,Legana (Lyons),20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,143,2.5
+TAS,196,Lyons,11916,Legana (Lyons),999,Informal,Informal,999,N,N,,Informal,30,1.22
+TAS,196,Lyons,8617,Levendale,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,1,0.91
+TAS,196,Lyons,8617,Levendale,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,47,7.44
+TAS,196,Lyons,8617,Levendale,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,54,2.87
+TAS,196,Lyons,8617,Levendale,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,8,1.39
+TAS,196,Lyons,8617,Levendale,999,Informal,Informal,999,N,N,,Informal,3,1.82
+TAS,196,Lyons,8619,Longford,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,25,1.24
+TAS,196,Lyons,8619,Longford,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,716,0.55
+TAS,196,Lyons,8619,Longford,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,1068,4.85
+TAS,196,Lyons,8619,Longford,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,215,4.48
+TAS,196,Lyons,8619,Longford,999,Informal,Informal,999,N,N,,Informal,98,1.91
+TAS,196,Lyons,8620,Lower Barrington,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,12,2.71
+TAS,196,Lyons,8620,Lower Barrington,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,187,-5.73
+TAS,196,Lyons,8620,Lower Barrington,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,179,9.85
+TAS,196,Lyons,8620,Lower Barrington,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,64,1.87
+TAS,196,Lyons,8620,Lower Barrington,999,Informal,Informal,999,N,N,,Informal,33,3.18
+TAS,196,Lyons,8623,Magra,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,6,1.23
+TAS,196,Lyons,8623,Magra,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,122,-2.95
+TAS,196,Lyons,8623,Magra,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,317,7.66
+TAS,196,Lyons,8623,Magra,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,44,3.89
+TAS,196,Lyons,8623,Magra,999,Informal,Informal,999,N,N,,Informal,43,4.12
+TAS,196,Lyons,8625,Mathinna,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,3,3.33
+TAS,196,Lyons,8625,Mathinna,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,10,-3.83
+TAS,196,Lyons,8625,Mathinna,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,68,8.89
+TAS,196,Lyons,8625,Mathinna,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,9,-0.34
+TAS,196,Lyons,8625,Mathinna,999,Informal,Informal,999,N,N,,Informal,4,-0.14
+TAS,196,Lyons,8626,Maydena,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,3,2.05
+TAS,196,Lyons,8626,Maydena,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,30,3.78
+TAS,196,Lyons,8626,Maydena,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,84,7.84
+TAS,196,Lyons,8626,Maydena,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,29,1.23
+TAS,196,Lyons,8626,Maydena,999,Informal,Informal,999,N,N,,Informal,15,5.15
+TAS,196,Lyons,8627,Meander,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,5,1.96
+TAS,196,Lyons,8627,Meander,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,94,0.9
+TAS,196,Lyons,8627,Meander,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,88,3.37
+TAS,196,Lyons,8627,Meander,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,68,10.88
+TAS,196,Lyons,8627,Meander,999,Informal,Informal,999,N,N,,Informal,10,2.05
+TAS,196,Lyons,8630,Midway Point,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,19,1.4
+TAS,196,Lyons,8630,Midway Point,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,345,-4.21
+TAS,196,Lyons,8630,Midway Point,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,749,3.95
+TAS,196,Lyons,8630,Midway Point,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,244,9.36
+TAS,196,Lyons,8630,Midway Point,999,Informal,Informal,999,N,N,,Informal,79,2.14
+TAS,196,Lyons,34050,Miena,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,0,0
+TAS,196,Lyons,34050,Miena,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,32,-8.15
+TAS,196,Lyons,34050,Miena,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,55,15.48
+TAS,196,Lyons,34050,Miena,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,14,4.54
+TAS,196,Lyons,34050,Miena,999,Informal,Informal,999,N,N,,Informal,6,3.94
+TAS,196,Lyons,8631,Mole Creek,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,6,1.88
+TAS,196,Lyons,8631,Mole Creek,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,134,1.61
+TAS,196,Lyons,8631,Mole Creek,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,118,7.61
+TAS,196,Lyons,8631,Mole Creek,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,61,8.95
+TAS,196,Lyons,8631,Mole Creek,999,Informal,Informal,999,N,N,,Informal,37,4.79
+TAS,196,Lyons,8632,Molesworth,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,5,1.62
+TAS,196,Lyons,8632,Molesworth,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,57,-2.54
+TAS,196,Lyons,8632,Molesworth,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,169,3.29
+TAS,196,Lyons,8632,Molesworth,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,77,7.11
+TAS,196,Lyons,8632,Molesworth,999,Informal,Informal,999,N,N,,Informal,14,1.95
+TAS,196,Lyons,8634,Moriarty,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,6,2.47
+TAS,196,Lyons,8634,Moriarty,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,120,-4.95
+TAS,196,Lyons,8634,Moriarty,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,86,1.93
+TAS,196,Lyons,8634,Moriarty,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,31,4.89
+TAS,196,Lyons,8634,Moriarty,999,Informal,Informal,999,N,N,,Informal,8,0.14
+TAS,196,Lyons,8635,New Norfolk,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,35,1.97
+TAS,196,Lyons,8635,New Norfolk,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,413,1.32
+TAS,196,Lyons,8635,New Norfolk,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,1051,2.92
+TAS,196,Lyons,8635,New Norfolk,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,275,5.93
+TAS,196,Lyons,8635,New Norfolk,999,Informal,Informal,999,N,N,,Informal,113,1.65
+TAS,196,Lyons,8637,New Norfolk North,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,27,2.14
+TAS,196,Lyons,8637,New Norfolk North,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,243,-0.64
+TAS,196,Lyons,8637,New Norfolk North,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,865,4.78
+TAS,196,Lyons,8637,New Norfolk North,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,125,4.79
+TAS,196,Lyons,8637,New Norfolk North,999,Informal,Informal,999,N,N,,Informal,114,4.09
+TAS,196,Lyons,8638,Nubeena,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,6,1.14
+TAS,196,Lyons,8638,Nubeena,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,141,1.45
+TAS,196,Lyons,8638,Nubeena,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,264,-1.01
+TAS,196,Lyons,8638,Nubeena,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,117,5.32
+TAS,196,Lyons,8638,Nubeena,999,Informal,Informal,999,N,N,,Informal,14,0.28
+TAS,196,Lyons,8639,Oatlands,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,7,1.09
+TAS,196,Lyons,8639,Oatlands,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,271,4.32
+TAS,196,Lyons,8639,Oatlands,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,295,0.88
+TAS,196,Lyons,8639,Oatlands,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,72,4.16
+TAS,196,Lyons,8639,Oatlands,999,Informal,Informal,999,N,N,,Informal,13,-0.21
+TAS,196,Lyons,8640,Orford,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,4,0.84
+TAS,196,Lyons,8640,Orford,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,221,5.21
+TAS,196,Lyons,8640,Orford,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,183,4.44
+TAS,196,Lyons,8640,Orford,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,67,6.67
+TAS,196,Lyons,8640,Orford,999,Informal,Informal,999,N,N,,Informal,9,0.23
+TAS,196,Lyons,8641,Ouse,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,7,3.59
+TAS,196,Lyons,8641,Ouse,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,80,2.02
+TAS,196,Lyons,8641,Ouse,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,92,5.92
+TAS,196,Lyons,8641,Ouse,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,16,2.83
+TAS,196,Lyons,8641,Ouse,999,Informal,Informal,999,N,N,,Informal,13,-0.83
+TAS,196,Lyons,8642,Parattah,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,1,0.7
+TAS,196,Lyons,8642,Parattah,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,55,-4.01
+TAS,196,Lyons,8642,Parattah,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,73,6.25
+TAS,196,Lyons,8642,Parattah,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,13,4.31
+TAS,196,Lyons,8642,Parattah,999,Informal,Informal,999,N,N,,Informal,8,3.74
+TAS,196,Lyons,8644,Perth,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,22,1.27
+TAS,196,Lyons,8644,Perth,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,562,-2.15
+TAS,196,Lyons,8644,Perth,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,965,7.74
+TAS,196,Lyons,8644,Perth,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,186,3.85
+TAS,196,Lyons,8644,Perth,999,Informal,Informal,999,N,N,,Informal,89,2.91
+TAS,196,Lyons,8647,Pontville,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,7,1.22
+TAS,196,Lyons,8647,Pontville,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,159,-4.56
+TAS,196,Lyons,8647,Pontville,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,349,8.63
+TAS,196,Lyons,8647,Pontville,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,61,2.75
+TAS,196,Lyons,8647,Pontville,999,Informal,Informal,999,N,N,,Informal,43,3.18
+TAS,196,Lyons,8648,Port Arthur,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,1,0.52
+TAS,196,Lyons,8648,Port Arthur,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,64,2.04
+TAS,196,Lyons,8648,Port Arthur,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,96,1.27
+TAS,196,Lyons,8648,Port Arthur,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,32,3.31
+TAS,196,Lyons,8648,Port Arthur,999,Informal,Informal,999,N,N,,Informal,9,1.97
+TAS,196,Lyons,8649,Port Sorell,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,17,0.87
+TAS,196,Lyons,8649,Port Sorell,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,881,-3.65
+TAS,196,Lyons,8649,Port Sorell,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,793,3.74
+TAS,196,Lyons,8649,Port Sorell,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,252,3.33
+TAS,196,Lyons,8649,Port Sorell,999,Informal,Informal,999,N,N,,Informal,105,3.25
+TAS,196,Lyons,8650,Primrose Sands,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,13,3.14
+TAS,196,Lyons,8650,Primrose Sands,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,92,-0.63
+TAS,196,Lyons,8650,Primrose Sands,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,232,-3.46
+TAS,196,Lyons,8650,Primrose Sands,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,77,9.1
+TAS,196,Lyons,8650,Primrose Sands,999,Informal,Informal,999,N,N,,Informal,28,2.21
+TAS,196,Lyons,8651,Pyengana,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,2,1.65
+TAS,196,Lyons,8651,Pyengana,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,44,3.03
+TAS,196,Lyons,8651,Pyengana,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,46,5.52
+TAS,196,Lyons,8651,Pyengana,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,29,0.64
+TAS,196,Lyons,8651,Pyengana,999,Informal,Informal,999,N,N,,Informal,4,-3.78
+TAS,196,Lyons,8654,Railton,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,11,1.66
+TAS,196,Lyons,8654,Railton,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,186,-2.86
+TAS,196,Lyons,8654,Railton,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,367,6.96
+TAS,196,Lyons,8654,Railton,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,97,7.4
+TAS,196,Lyons,8654,Railton,999,Informal,Informal,999,N,N,,Informal,55,3.1
+TAS,196,Lyons,58677,Rosny LYONS PPVC,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,3,1.53
+TAS,196,Lyons,58677,Rosny LYONS PPVC,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,51,-5.88
+TAS,196,Lyons,58677,Rosny LYONS PPVC,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,94,9.17
+TAS,196,Lyons,58677,Rosny LYONS PPVC,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,48,8.11
+TAS,196,Lyons,58677,Rosny LYONS PPVC,999,Informal,Informal,999,N,N,,Informal,5,0.38
+TAS,196,Lyons,8660,Ross,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,0,0
+TAS,196,Lyons,8660,Ross,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,100,0.92
+TAS,196,Lyons,8660,Ross,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,161,2.01
+TAS,196,Lyons,8660,Ross,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,31,5.76
+TAS,196,Lyons,8660,Ross,999,Informal,Informal,999,N,N,,Informal,13,3.91
+TAS,196,Lyons,8665,Saltwater River,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,1,0.81
+TAS,196,Lyons,8665,Saltwater River,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,43,4.66
+TAS,196,Lyons,8665,Saltwater River,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,56,-8.26
+TAS,196,Lyons,8665,Saltwater River,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,23,8.09
+TAS,196,Lyons,8665,Saltwater River,999,Informal,Informal,999,N,N,,Informal,5,2.42
+TAS,196,Lyons,8666,Sassafras,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,0,0
+TAS,196,Lyons,8666,Sassafras,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,123,0.89
+TAS,196,Lyons,8666,Sassafras,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,56,-3.52
+TAS,196,Lyons,8666,Sassafras,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,21,6.26
+TAS,196,Lyons,8666,Sassafras,999,Informal,Informal,999,N,N,,Informal,7,1.3
+TAS,196,Lyons,8668,Scamander,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,5,0.91
+TAS,196,Lyons,8668,Scamander,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,148,0.7
+TAS,196,Lyons,8668,Scamander,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,253,2.75
+TAS,196,Lyons,8668,Scamander,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,142,8.97
+TAS,196,Lyons,8668,Scamander,999,Informal,Informal,999,N,N,,Informal,18,-2.11
+TAS,196,Lyons,8670,Sheffield,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,23,1.91
+TAS,196,Lyons,8670,Sheffield,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,509,1.74
+TAS,196,Lyons,8670,Sheffield,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,505,6.29
+TAS,196,Lyons,8670,Sheffield,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,170,3.78
+TAS,196,Lyons,8670,Sheffield,999,Informal,Informal,999,N,N,,Informal,79,2.04
+TAS,196,Lyons,8671,Sidmouth,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,8,1.88
+TAS,196,Lyons,8671,Sidmouth,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,167,10.59
+TAS,196,Lyons,8671,Sidmouth,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,123,10.18
+TAS,196,Lyons,8671,Sidmouth,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,127,18.84
+TAS,196,Lyons,8671,Sidmouth,999,Informal,Informal,999,N,N,,Informal,14,0.19
+TAS,196,Lyons,8672,Sorell,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,40,1.94
+TAS,196,Lyons,8672,Sorell,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,735,-0.1
+TAS,196,Lyons,8672,Sorell,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,1007,5.68
+TAS,196,Lyons,8672,Sorell,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,284,3.82
+TAS,196,Lyons,8672,Sorell,999,Informal,Informal,999,N,N,,Informal,123,2.22
+TAS,196,Lyons,33649,Special Hospital Team 1,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,1,1.11
+TAS,196,Lyons,33649,Special Hospital Team 1,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,32,2.59
+TAS,196,Lyons,33649,Special Hospital Team 1,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,49,4.99
+TAS,196,Lyons,33649,Special Hospital Team 1,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,8,3.4
+TAS,196,Lyons,33649,Special Hospital Team 1,999,Informal,Informal,999,N,N,,Informal,1,-4.11
+TAS,196,Lyons,33971,Special Hospital Team 2,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,6,7.79
+TAS,196,Lyons,33971,Special Hospital Team 2,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,21,-6.06
+TAS,196,Lyons,33971,Special Hospital Team 2,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,41,3.25
+TAS,196,Lyons,33971,Special Hospital Team 2,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,9,7.52
+TAS,196,Lyons,33971,Special Hospital Team 2,999,Informal,Informal,999,N,N,,Informal,3,-2.13
+TAS,196,Lyons,33972,Special Hospital Team 3,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,1,3.45
+TAS,196,Lyons,33972,Special Hospital Team 3,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,5,-14.58
+TAS,196,Lyons,33972,Special Hospital Team 3,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,20,18.97
+TAS,196,Lyons,33972,Special Hospital Team 3,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,3,5.79
+TAS,196,Lyons,33972,Special Hospital Team 3,999,Informal,Informal,999,N,N,,Informal,3,5.03
+TAS,196,Lyons,47820,Special Hospital Team 4,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,4,2.86
+TAS,196,Lyons,47820,Special Hospital Team 4,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,55,6.79
+TAS,196,Lyons,47820,Special Hospital Team 4,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,72,1.43
+TAS,196,Lyons,47820,Special Hospital Team 4,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,9,1.43
+TAS,196,Lyons,47820,Special Hospital Team 4,999,Informal,Informal,999,N,N,,Informal,3,-2.66
+TAS,196,Lyons,8663,St Helens,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,14,0.83
+TAS,196,Lyons,8663,St Helens,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,532,-2.8
+TAS,196,Lyons,8663,St Helens,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,815,8.66
+TAS,196,Lyons,8663,St Helens,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,330,4.17
+TAS,196,Lyons,8663,St Helens,999,Informal,Informal,999,N,N,,Informal,123,3.86
+TAS,196,Lyons,34053,St Helens PPVC,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,0,0
+TAS,196,Lyons,34053,St Helens PPVC,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,54,6.21
+TAS,196,Lyons,34053,St Helens PPVC,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,53,-0.56
+TAS,196,Lyons,34053,St Helens PPVC,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,35,7.98
+TAS,196,Lyons,34053,St Helens PPVC,999,Informal,Informal,999,N,N,,Informal,5,1.91
+TAS,196,Lyons,8664,St Marys,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,2,0.37
+TAS,196,Lyons,8664,St Marys,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,110,1.49
+TAS,196,Lyons,8664,St Marys,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,291,4.31
+TAS,196,Lyons,8664,St Marys,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,140,9.35
+TAS,196,Lyons,8664,St Marys,999,Informal,Informal,999,N,N,,Informal,26,0.92
+TAS,196,Lyons,8675,Swansea,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,1,0.15
+TAS,196,Lyons,8675,Swansea,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,219,-0.2
+TAS,196,Lyons,8675,Swansea,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,326,4.18
+TAS,196,Lyons,8675,Swansea,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,111,6.3
+TAS,196,Lyons,8675,Swansea,999,Informal,Informal,999,N,N,,Informal,37,1.51
+TAS,196,Lyons,8613,Taranna,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,4,1.48
+TAS,196,Lyons,8613,Taranna,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,81,3.6
+TAS,196,Lyons,8613,Taranna,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,112,-0.76
+TAS,196,Lyons,8613,Taranna,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,73,9.22
+TAS,196,Lyons,8613,Taranna,999,Informal,Informal,999,N,N,,Informal,12,0.76
+TAS,196,Lyons,8677,Tea Tree,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,1,0.57
+TAS,196,Lyons,8677,Tea Tree,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,80,-4.31
+TAS,196,Lyons,8677,Tea Tree,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,70,11.33
+TAS,196,Lyons,8677,Tea Tree,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,25,3.3
+TAS,196,Lyons,8677,Tea Tree,999,Informal,Informal,999,N,N,,Informal,8,2.95
+TAS,196,Lyons,8678,Triabunna,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,3,0.51
+TAS,196,Lyons,8678,Triabunna,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,170,-1.99
+TAS,196,Lyons,8678,Triabunna,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,367,13.26
+TAS,196,Lyons,8678,Triabunna,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,43,2.24
+TAS,196,Lyons,8678,Triabunna,999,Informal,Informal,999,N,N,,Informal,33,0.9
+TAS,196,Lyons,8681,Tunnack,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,1,0.53
+TAS,196,Lyons,8681,Tunnack,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,77,5.55
+TAS,196,Lyons,8681,Tunnack,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,91,-3.24
+TAS,196,Lyons,8681,Tunnack,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,20,5.49
+TAS,196,Lyons,8681,Tunnack,999,Informal,Informal,999,N,N,,Informal,4,-1.5
+TAS,196,Lyons,8685,Wesley Vale,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,5,2.7
+TAS,196,Lyons,8685,Wesley Vale,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,78,-16.31
+TAS,196,Lyons,8685,Wesley Vale,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,72,11.05
+TAS,196,Lyons,8685,Wesley Vale,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,30,6.93
+TAS,196,Lyons,8685,Wesley Vale,999,Informal,Informal,999,N,N,,Informal,3,-2.08
+TAS,196,Lyons,8686,Westbury,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,12,1.06
+TAS,196,Lyons,8686,Westbury,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,444,-2.21
+TAS,196,Lyons,8686,Westbury,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,492,8.77
+TAS,196,Lyons,8686,Westbury,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,187,5.9
+TAS,196,Lyons,8686,Westbury,999,Informal,Informal,999,N,N,,Informal,64,1.88
+TAS,196,Lyons,8689,Westerway,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,4,2.05
+TAS,196,Lyons,8689,Westerway,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,62,1.25
+TAS,196,Lyons,8689,Westerway,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,96,6.37
+TAS,196,Lyons,8689,Westerway,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,33,4.6
+TAS,196,Lyons,8689,Westerway,999,Informal,Informal,999,N,N,,Informal,9,0.16
+TAS,196,Lyons,8692,Whitemore,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,0,0
+TAS,196,Lyons,8692,Whitemore,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,68,8.6
+TAS,196,Lyons,8692,Whitemore,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,14,-4.89
+TAS,196,Lyons,8692,Whitemore,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,12,11.67
+TAS,196,Lyons,8692,Whitemore,999,Informal,Informal,999,N,N,,Informal,3,0.94
+TAS,196,Lyons,8693,Wilmot,21635,NOYES,Lucas,1,N,N,SPA,Secular Party of Australia,3,1.3
+TAS,196,Lyons,8693,Wilmot,21019,HUTCHINSON,Eric Russell,2,N,N,LP,Liberal,77,2.06
+TAS,196,Lyons,8693,Wilmot,20926,ADAMS,Dick,3,Y,Y,ALP,Australian Labor Party,87,6.02
+TAS,196,Lyons,8693,Wilmot,20777,CASSIDY,Karen Frances,4,N,N,GRN,Australian Greens,64,0.44
+TAS,196,Lyons,8693,Wilmot,999,Informal,Informal,999,N,N,,Informal,11,1.72
