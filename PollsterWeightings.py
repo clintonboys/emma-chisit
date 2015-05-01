@@ -5,7 +5,7 @@ import LoadData
 from operator import attrgetter
 
 parties = ['ALP', 'LIB', 'NAT', 'COA', 'DEM', 'GRN', 'ONP', 'PUP', 'KAP', 'FF', 'CD', 'OTH']
-others = ['DEM', 'ONP', 'PUP', 'KAP', 'FF', 'CD', 'OTH']
+others = ['DEM', 'ONP', 'PUP', 'KAP', 'FF', 'CD', 'OTH', 'SPA']
 joined_parties = ['ALP', 'COA', 'GRN', 'OTH']
 
 states = ['NSW', 'VIC', 'SA', 'WA', 'QLD', 'TAS', 'AUS']
@@ -58,8 +58,11 @@ def JoinOthers(poll):
 
 	others_vote = 0
 	for party in others:
-		if not np.isnan(poll.results(party)) and poll.results(party) != 0:
-			others_vote = others_vote + poll.results(party)
+		try:
+			if not np.isnan(poll.results(party)) and poll.results(party) != 0:
+				others_vote = others_vote + poll.results(party)
+		except KeyError:
+			pass
 	try:
 
 		del poll._results['Informal']
@@ -67,6 +70,22 @@ def JoinOthers(poll):
 		pass
 
 	poll.change_result('OTH', others_vote)
+
+def JoinOthersResults(results):
+
+	others_vote = 0
+	for party in others:
+		try:
+			if not np.isnan(results[party]) and results[party] != 0:
+				others_vote += results[party]
+				del results[party]
+		except KeyError:
+			pass
+	try:
+		del results['Informal']
+	except KeyError:
+		pass
+	results['OTH'] = others_vote
 
 def ComputeRMSQ(poll, election):
 

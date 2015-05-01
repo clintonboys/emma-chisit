@@ -3,6 +3,7 @@ import numpy as np
 import LoadData
 import MakeSeats
 import PollsterWeightings
+import RunoffElection
 
 path = 'data/election_data/fed_2010/HouseStateFirstPrefsByPollingPlaceDownload-15508-ACT.csv'
 state_name = 'ACT'
@@ -46,5 +47,11 @@ for seat in seats:
 	seat.AddResults(year,GetSeatResults(seat))
 
 for seat in seats:
-	PollsterWeightings.JoinOthers(seat._results[year])
+	PollsterWeightings.JoinOthersResults(seat._results[year])
 	print seat._results
+
+basic_pref_flows = {'GRN': {'ALP': 83.03, 'LP': 16.97},
+					'OTH': {'ALP': 46.50, 'LP': 53.50}}
+
+for seat in seats:
+	print RunoffElection.Runoff(seat._results[year], basic_pref_flows, True)

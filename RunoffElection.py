@@ -28,12 +28,15 @@ pref_flows = {'ALP':{             'LIB': 0.20, 'GRN': 0.50, 'FF':0.15, 'IND': 0.
    in the runoff simulator which groups all other 
    parties into an Other grouping. '''
 
+basic_pref_flows = {'GRN': {'ALP': 83.03, 'LIB': 16.97},
+					'OTH': {'ALP': 46.50, 'LIB': 53.50}}
+
 def Runoff(candidate_dict, pref_flows, group_others = False):
 
 
 	if group_others:
 
-		three_major_parties = ['ALP', 'LIB', 'GRN']
+		three_major_parties = ['ALP', 'LP', 'GRN']
 		others = []
 
 		for party in candidate_dict:
@@ -99,6 +102,3 @@ def Runoff(candidate_dict, pref_flows, group_others = False):
 			remaining_candidates[party] = int(np.round(remaining_candidates[party] + to_dist[party]*votes,0))
 
 	return remaining_candidates
-
-print Runoff(sample_dict, pref_flows, True)
-print Runoff(sample_dict, pref_flows)
