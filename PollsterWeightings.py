@@ -73,6 +73,11 @@ def JoinOthers(poll):
 
 def JoinOthersResults(results):
 
+	del results['Informal']
+
+	if len(results) == 3:
+		return results
+
 	others_vote = 0
 	for party in others:
 		try:

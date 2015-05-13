@@ -53,12 +53,12 @@ kmeans.fit(census_data[['Var1', 'Var2', 'Var3', 'Var4', 'Var5', 'Var6', 'Var7', 
 
 census_data['10clusters'] = kmeans.labels_
 
-print census_data.divisions[census_data['6clusters'] == 0]
-print census_data.divisions[census_data['6clusters'] == 1]
-print census_data.divisions[census_data['6clusters'] == 2]
-print census_data.divisions[census_data['6clusters'] == 3]
-print census_data.divisions[census_data['6clusters'] == 4]
-print census_data.divisions[census_data['6clusters'] == 5]
+# print census_data.divisions[census_data['6clusters'] == 0]
+# print census_data.divisions[census_data['6clusters'] == 1]
+# print census_data.divisions[census_data['6clusters'] == 2]
+# print census_data.divisions[census_data['6clusters'] == 3]
+# print census_data.divisions[census_data['6clusters'] == 4]
+# print census_data.divisions[census_data['6clusters'] == 5]
 
 
 

@@ -103,5 +103,3 @@ def LoadElections():
                 pass
         election_list.append(Election('Election', electionframe['State'][i], pd.to_datetime(electionframe['Date'][i],dayfirst=True), electionframe['N'][i], results_dict, electionframe['ALP_TPP'][i]))
     return election_list
-
-LoadPolls('AUS')

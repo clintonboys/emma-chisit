@@ -33,10 +33,25 @@ basic_pref_flows = {'GRN': {'ALP': 83.03, 'LIB': 16.97},
 
 def Runoff(candidate_dict, pref_flows, group_others = False):
 
+	try:
+		del candidate_dict['Informal']
+	except KeyError:
+		pass
+
+	if len(candidate_dict) == 3:
+		group_others = False
 
 	if group_others:
 
-		three_major_parties = ['ALP', 'LP', 'GRN']
+		if 'LIB' in candidate_dict:
+			three_major_parties = ['ALP', 'LIB', 'GRN']
+			coa = 'LIB'
+		elif 'LP' in candidate_dict:
+			three_major_parties = ['ALP', 'LP', 'GRN']
+			coa = 'LP'
+		else:
+			return 'Cannot find Coalition...'
+
 		others = []
 
 		for party in candidate_dict:
@@ -47,14 +62,14 @@ def Runoff(candidate_dict, pref_flows, group_others = False):
 		for party in others:
 			others_votes = others_votes + candidate_dict[party]
 
-		new_dict = {'ALP':candidate_dict['ALP'], 'LIB':candidate_dict['LIB'], 'GRN':candidate_dict['GRN'], 'OTH':0}
+		new_dict = {'ALP':candidate_dict['ALP'], coa:candidate_dict[coa], 'GRN':candidate_dict['GRN'], 'OTH':0}
 
 		for party in others:
 			new_dict['OTH'] = new_dict['OTH'] + candidate_dict[party]
 
-		new_pref_flows = {'ALP': {                                 'LIB': pref_flows['ALP']['LIB'], 'GRN': pref_flows['ALP']['GRN']},
-		                  'LIB': {'ALP': pref_flows['LIB']['ALP'],                                  'GRN': pref_flows['LIB']['GRN']},
-		                  'GRN': {'ALP': pref_flows['GRN']['ALP'], 'LIB': pref_flows['GRN']['LIB'],                                },
+		new_pref_flows = {'ALP': {                                 coa: pref_flows['ALP'][coa], 'GRN': pref_flows['ALP']['GRN']},
+		                  coa: {'ALP': pref_flows[coa]['ALP'],                                  'GRN': pref_flows[coa]['GRN']},
+		                  'GRN': {'ALP': pref_flows['GRN']['ALP'], coa: pref_flows['GRN'][coa],                                },
 		                  'OTH': {}}
 
 		for party in three_major_parties:
