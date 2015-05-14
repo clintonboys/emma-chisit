@@ -33,6 +33,11 @@ basic_pref_flows = {'GRN': {'ALP': 83.03, 'LIB': 16.97},
 
 def Runoff(candidate_dict, pref_flows, group_others = False):
 
+## possibilities this needs to guard against:
+## LIB / LP
+## NP instead of LIB
+
+
 	try:
 		del candidate_dict['Informal']
 	except KeyError:
@@ -44,18 +49,28 @@ def Runoff(candidate_dict, pref_flows, group_others = False):
 	if group_others:
 
 		if 'LIB' in candidate_dict:
-			three_major_parties = ['ALP', 'LIB', 'GRN']
 			coa = 'LIB'
+			if 'NP' in candidate_dict:
+				major_parties = ['ALP', 'LIB', 'GRN', 'NP']
+				four_corner_contest = True
+			else:
+				major_parties = ['ALP', 'LIB', 'GRN']
+				four_corner_contest = False
 		elif 'LP' in candidate_dict:
-			three_major_parties = ['ALP', 'LP', 'GRN']
 			coa = 'LP'
+			if 'NP' in candidate_dict:
+				major_parties = ['ALP', 'LP', 'GRN', 'NP']
+				four_corner_contest = True
+			else:
+				major_parties = ['ALP', 'LP', 'GRN']
+				four_corner_contest = False
 		else:
 			return 'Cannot find Coalition...'
 
 		others = []
 
 		for party in candidate_dict:
-			if party not in three_major_parties:
+			if party not in major_parties:
 				others.append(party)
 
 		others_votes = 0
@@ -64,6 +79,9 @@ def Runoff(candidate_dict, pref_flows, group_others = False):
 
 		new_dict = {'ALP':candidate_dict['ALP'], coa:candidate_dict[coa], 'GRN':candidate_dict['GRN'], 'OTH':0}
 
+		if four_corner_contest:
+			new_dict['NP'] = candidate_dict['NP']
+
 		for party in others:
 			new_dict['OTH'] = new_dict['OTH'] + candidate_dict[party]
 
@@ -71,8 +89,13 @@ def Runoff(candidate_dict, pref_flows, group_others = False):
 		                  coa: {'ALP': pref_flows[coa]['ALP'],                                  'GRN': pref_flows[coa]['GRN']},
 		                  'GRN': {'ALP': pref_flows['GRN']['ALP'], coa: pref_flows['GRN'][coa],                                },
 		                  'OTH': {}}
+		if four_corner_contest:
+			new_pref_flows['NP'] = {'ALP': pref_flows['NP']['ALP'], coa: pref_flows['NP'][coa], 'GRN': pref_flows['NP']['GRN']}
+			new_pref_flows['ALP']['NP'] = pref_flows['ALP']['NP']
+			new_pref_flows[coa]['NP'] = pref_flows[coa]['NP']
+			new_pref_flows['GRN']['NP'] = pref_flows['GRN']['NP']
 
-		for party in three_major_parties:
+		for party in major_parties:
 			others_count = 0
 			for other_party in others:
 				others_count = others_count + pref_flows[party][other_party]
@@ -81,7 +104,7 @@ def Runoff(candidate_dict, pref_flows, group_others = False):
 		## The others groups' preference flows will be the weighted average 
 		## of its constituent parties
 
-		for party in three_major_parties:
+		for party in major_parties:
 			others_percentage = 0
 			for other_party in others:
 				others_percentage = others_percentage + pref_flows[other_party][party]*candidate_dict[party]

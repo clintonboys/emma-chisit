@@ -5,7 +5,7 @@ import LoadData
 from operator import attrgetter
 
 parties = ['ALP', 'LIB', 'NAT', 'COA', 'DEM', 'GRN', 'ONP', 'PUP', 'KAP', 'FF', 'CD', 'OTH']
-others = ['DEM', 'ONP', 'PUP', 'KAP', 'FF', 'CD', 'OTH', 'SPA']
+others = ['DEM', 'ONP', 'PUP', 'KAP', 'FF', 'CD', 'OTH', 'SPA', 'ON', 'BAP', 'CA', 'ASXP', 'TCS', 'FFP', 'LDP', 'CDP', 'SEP', 'NAFD', 'IND', 'CEC', 'AFN', 'SAL', 'NCP', 'CAL']
 joined_parties = ['ALP', 'COA', 'GRN', 'OTH']
 
 states = ['NSW', 'VIC', 'SA', 'WA', 'QLD', 'TAS', 'AUS']
