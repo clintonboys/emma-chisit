@@ -34,3 +34,7 @@ The file `ClusterSeats.py` uses k-means clustering to find clusters of similar s
 VI. **Poll aggregator**
 
 `PollAggregator.py` contains a number of functions for aggregating opinion polls and obtaining nationwide or statewide swing estimates for a nowcast. It can also combine national and statewide polls for a more informed national agreggate (research needs to be done to determine how useful or correct this is, and in what proportions). 
+
+VII. **Swing calculator**
+
+`ComputeSeatSwings.py` translates the swings from the poll aggregator to the previous results on a seat-by-seat level, and then performs a runoff on these new results.  
