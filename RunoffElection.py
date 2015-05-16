@@ -1,20 +1,24 @@
-import numpy as np
+'''
+RunoffElection.py
+-----------------
 
-'''RunoffElection.py
-   Simulates an Australian federal lower-house election 
-   using single transferable instant runoff voting. 
+Simulates an Australian federal lower-house election 
+using single transferable instant runoff voting. 
 
-   We take as input two dictionaries. The first consists of 
-   the raw first-preference vote numbers for each party. '''
+We take as input two dictionaries. The first consists of 
+the raw first-preference vote numbers for each party. 
+'''
 
 sample_dict = {'ALP':10000, 'LIB':8500, 'GRN':1300, 'FF':400, 'IND':150, 'SEX':50}
 
-'''The second consists of a matrix of preference data, 
-   which can be obtained for example through historical
-   preference data or by polls. Note that this matrix does 
-   not give the complete picture of preference flows, just
-   the percentage of each party's first preferences which
-   end up being distributed to other parties. '''
+'''
+The second consists of a matrix of preference data, 
+which can be obtained for example through historical
+preference data or by polls. Note that this matrix does 
+not give the complete picture of preference flows, just
+the percentage of each party's first preferences which
+end up being distributed to other parties. 
+'''
 
 pref_flows = {'ALP':{             'LIB': 0.20, 'GRN': 0.50, 'FF':0.15, 'IND': 0.10, 'SEX': 0.05},
 			  'LIB':{'ALP': 0.10,              'GRN': 0.15, 'FF':0.60, 'IND': 0.10, 'SEX': 0.05},
@@ -23,13 +27,17 @@ pref_flows = {'ALP':{             'LIB': 0.20, 'GRN': 0.50, 'FF':0.15, 'IND': 0.
 			  'IND':{'ALP': 0.40, 'LIB': 0.40, 'GRN': 0.10, 'FF':0.05,              'SEX': 0.05},
 			  'SEX':{'ALP': 0.55, 'LIB': 0.05, 'GRN': 0.35, 'FF':0.01, 'IND': 0.04             }}
 
-'''Because the Greens are the only third party 
-   included in every poll, we include an option
-   in the runoff simulator which groups all other 
-   parties into an Other grouping. '''
+'''
+Because the Greens are the only third party 
+included in every poll, we include an option
+in the runoff simulator which groups all other 
+parties into an Other grouping.
+'''
 
 basic_pref_flows = {'GRN': {'ALP': 83.03, 'LIB': 16.97},
 					'OTH': {'ALP': 46.50, 'LIB': 53.50}}
+
+import numpy as np
 
 def Runoff(candidate_dict, pref_flows, group_others = False):
 

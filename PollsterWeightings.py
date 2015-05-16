@@ -1,12 +1,30 @@
+'''
+PollsterWeightings.py
+---------------------
+
+Computes weightings for all pollsters in the database 
+of polling data to use in the model, based on historical
+reliability. 
+'''
+
 import pandas as pd
 import numpy as np
 import math
 import LoadData
 from operator import attrgetter
 
-parties = ['ALP', 'LIB', 'NAT', 'COA', 'DEM', 'GRN', 'ONP', 'PUP', 'KAP', 'FF', 'CD', 'OTH']
-others = ['DEM', 'ONP', 'PUP', 'KAP', 'FF', 'CD', 'OTH', 'SPA', 'ON', 'BAP', 'CA', 'ASXP', 'TCS', 'FFP', 'LDP', 'CDP', 'SEP', 'NAFD', 'IND', 'CEC', 'AFN', 'SAL', 'NCP', 'CAL']
+## Coding defensively to account for differences
+## in labelling among polling data. 
+
+liberal_alias = ['LIB', 'LP']
+national_alias = ['NAT', 'NP']
+coalition_alias = ['COA', 'LNP']
+
 joined_parties = ['ALP', 'COA', 'GRN', 'OTH']
+
+others = ['DEM', 'ONP', 'PUP', 'KAP', 'FF', 'CD', 'OTH', 'SPA', 'ON', 
+		  'BAP', 'CA', 'ASXP', 'TCS', 'FFP', 'LDP', 'CDP', 'SEP', 
+		  'NAFD', 'IND', 'CEC', 'AFN', 'SAL', 'NCP', 'CAL']
 
 states = ['NSW', 'VIC', 'SA', 'WA', 'QLD', 'TAS', 'AUS']
 pollsters = ['Morgan', 'Newspoll', 'Galaxy', 'Essential', 'ReachTEL', 'Nielsen', 'Ipsos']

@@ -35,13 +35,7 @@ state = 'AUS'
 to_date = datetime.datetime(2013,9,6) 
 N = 30
 year = 2010
-
-## Get swings from the poll aggregator
-
 current_national_swings = PollAggregator.GetSwings(state, PollAggregator.AggregatePolls(state, to_date, N))
-current_national_swings['LP'] = current_national_swings.pop('COA')
-
-## Load seats
 
 aus_results_2010 = LoadResultsByPP.LoadPPResults(2010, 'AUS', True)
 
@@ -59,21 +53,47 @@ basic_pref_flows = {'GRN': {'ALP': 80.00, 'LP': 20.00, 'OTH': 0, 'NP': 0.00},
 					'ALP': {'LP': 0, 'GRN':0, 'OTH': 0, 'NP': 0.00},
 					'LP': {'ALP': 0, 'GRN':0, 'OTH': 0, 'NP': 100.00}}
 
-seat = nsw_results_seats_2010[0]
+seat = nsw_results_seats_2010[13]
 
+print seat._name
+print seat._results[2010]
 old_results = RunoffElection.Runoff(seat._results[year], basic_pref_flows, True)
 
-seat_votes = float(seat._results[year]['ALP']) + float(seat._results[year]['LP']) + float(seat._results[year]['GRN']) + float(seat._results[year]['OTH'])
+print old_results
 
-for party in current_national_swings:
-	seat._results[year][party] = int(seat._results[year][party] + 0.01*current_national_swings[party]*seat_votes)
+'''
+ApplySwings takes as input a seat, a year which 
+the election results are taken from (the previous election),
+and a dictionary of swings for the four major
+parties (ALP, LP, GRN and OTH). 
+'''
 
-new_results = RunoffElection.Runoff(seat._results[year], basic_pref_flows, True)
+def ApplySwings(seat, state, year, swing_dict):
 
-print seat._name, '2010', 'ALP TPP estimate: ', np.round(100*(float(old_results['ALP']) / (float(old_results['ALP']) + float(old_results['LP']))),3)
-print seat._name, '2013', 'ALP TPP estimate: ', np.round(100*(float(new_results['ALP']) / (float(new_results['ALP']) + float(new_results['LP']))),3)
+	swing_dict['LP'] = swing_dict.pop('COA')  ## Make all of this consistent across the 
+											  ## various modules. 
 
 
+	old_results = RunoffElection.Runoff(seat._results[year], basic_pref_flows, True)
+
+	seat_votes = 0
+
+	for party in ['ALP', 'LP', 'GRN', 'OTH']:
+		try: 
+			seat_votes = seat_votes + float(seat._results[year][party])
+		except KeyError:
+			pass
+
+	for party in current_national_swings:
+		seat._results[year][party] = int(seat._results[year][party] + 0.01*current_national_swings[party]*seat_votes)
+
+	new_results = RunoffElection.Runoff(seat._results[year], basic_pref_flows, True)
+
+	print seat._name, '2010', 'ALP TPP estimate: ', np.round(100*(float(old_results['ALP']) / (float(old_results['ALP']) + float(old_results['LP']))),3)
+	print seat._name, '2013', 'ALP TPP estimate: ', np.round(100*(float(new_results['ALP']) / (float(new_results['ALP']) + float(new_results['LP']))),3)
+
+
+print ApplySwings(seat, state, year, current_national_swings)
 
 # for seat in nsw_results_seats_2010:
 # 	if not 'NP' in seat._results[year]:

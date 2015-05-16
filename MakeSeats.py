@@ -55,9 +55,3 @@ class Seat(object):
 
 def PPinSeat(pollingplace, seat):
     return pollingplace in seat.pollingplaces()
-
-# Sydney = Seat('Sydney', 'NSW')
-# TownHall = PollingPlace('TownHall', Sydney)
-# OperaHouse = PollingPlace('OperaHouse', Sydney)
-
-# year_range = range(2000,2016)
