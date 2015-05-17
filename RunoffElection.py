@@ -45,7 +45,6 @@ def Runoff(candidate_dict, pref_flows, group_others = False):
 ## LIB / LP
 ## NP instead of LIB
 
-
 	try:
 		del candidate_dict['Informal']
 	except KeyError:
