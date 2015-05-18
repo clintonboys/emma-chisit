@@ -53,5 +53,17 @@ class Seat(object):
     def AddResults(self,year,results_dict):
         self._results[year] = results_dict
 
+    def results(self, year, party = None):
+        if party is not None:
+            try:
+                return self._results[year][party]
+            except KeyError:
+                return 'No results for ' + party + ' in seat ' + str(self._name) + ' in ' + str(year) + '...'
+        else:
+            try:
+                return self._results[year]
+            except KeyError:
+                return 'No results for seat ' + str(self._name) + ' in ' + str(year) + '...'
+
 def PPinSeat(pollingplace, seat):
     return pollingplace in seat.pollingplaces()
