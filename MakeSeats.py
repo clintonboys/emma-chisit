@@ -1,7 +1,11 @@
-import LoadData
-import PollsterWeightings
+'''
+MakeSeats.py
+------------
 
-elections_from_2000 = LoadData.LoadElections()
+Contains the classes for seats and polling places
+used by the model. 
+
+'''
 
 class PollingPlace(object):
 

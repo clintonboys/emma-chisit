@@ -1,3 +1,14 @@
+'''
+LoadResultsByPP.py
+------------------
+
+Loads into memory the primary vote results for all 
+polling places in a given state in a given year's
+election.
+
+'''
+
+
 import pandas as pd
 import numpy as np
 import LoadData
@@ -6,6 +17,12 @@ import PollsterWeightings
 import RunoffElection
 
 def ReadPPResults(path,state_name,year):
+
+	## Given a filename pointing to a .csv file of primary
+	## vote data by polling place in the format provided by 
+	## the AEC, this function returns a list of all seats in the file,
+	## and a list of all polling places in the file with primary
+	## results added. 
 
 	data = pd.read_csv(path,header=1,skiprows=0)
 
@@ -31,6 +48,11 @@ def ReadPPResults(path,state_name,year):
 
 def LoadPPResults(year, state_name, fed=False):
 
+	## For a given state (or federally, in which case the function
+    ## loads results for all states in the given year) this function
+	## loads into memory the seats and polling places loaded with 
+	## primary results. s
+
 	if fed:
 		
 		composite_states = ['NSW', 'ACT', 'NT', 'SA', 'WA', 'VIC', 'QLD', 'TAS']
@@ -49,6 +71,11 @@ def LoadPPResults(year, state_name, fed=False):
 
 
 def GetSeatResults(seat,year):
+
+	## Having loaded all the polling place data into memory,
+	## this function accumulates it all into a results
+	## dictionary for the full seat in the given year. 
+
 	results_dict = {}
 	for polling_place in seat.pollingplaces():
 		for party in polling_place._results[year]:

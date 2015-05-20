@@ -26,7 +26,7 @@ import pandas as pd
 import LoadData
 import PollsterWeightings
 
-to_date = datetime.datetime(2013,9,6) 
+#to_date = datetime.datetime(2001,11,10) 
 state = 'AUS'
 N=30
 four_parties = ['ALP', 'COA', 'GRN', 'OTH']
@@ -37,7 +37,6 @@ def ExpDecay(days,N):
 
 poll_data = LoadData.LoadPolls(state)
 election_data = LoadData.LoadElections()
-relevant_polls = []
 
 def GetLatestElection(state, to_date):
 	relevant_elections = []
@@ -57,6 +56,8 @@ def GetLatestElection(state, to_date):
 
 def AggregatePolls(state, to_date, N):
 
+	relevant_polls = []
+
 	from_date = to_date - datetime.timedelta(days=N)
 
 	for poll in poll_data:
@@ -64,16 +65,16 @@ def AggregatePolls(state, to_date, N):
 			relevant_polls.append(poll)
 
 	for poll in relevant_polls:
-		PollsterWeightings.JoinCoalition(poll)
-		PollsterWeightings.JoinOthers(poll)
+		poll._results = LoadData.JoinCoalition(poll)
+		poll._results = LoadData.JoinOthers(poll)
 
 	weightings = PollsterWeightings.ComputePollsterWeights()
 
 	aggregate = {}
 	results_list = {}
 
-	for party in four_parties:
-		for poll in relevant_polls:
+	for poll in relevant_polls:
+		for party in poll._results:
 			results_list[party] = np.round(
 					np.sum(
 						np.array([weightings[poll.pollster] for poll in relevant_polls])*
@@ -87,8 +88,8 @@ def AggregatePolls(state, to_date, N):
 def GetSwings(state, aggregated_poll):
 	latest_election = GetLatestElection(state, to_date)
 
-	PollsterWeightings.JoinOthers(latest_election)
-	PollsterWeightings.JoinCoalition(latest_election)
+	LoadData.JoinOthers(latest_election)
+	LoadData.JoinCoalition(latest_election)
 
 	swing_dict = {}
 
@@ -96,3 +97,15 @@ def GetSwings(state, aggregated_poll):
 		swing_dict[party] = np.round(aggregated_poll.results(party) - latest_election.results(party),3)
 
 	return swing_dict
+
+to_dates = [datetime.datetime(2013,9,7), datetime.datetime(2010, 8, 21), datetime.datetime(2007, 11, 24), datetime.datetime(2004, 10,9)]
+polls = []
+elections = []
+for i in range(0,4):
+	polls.append(AggregatePolls('AUS', to_dates[i], 30))
+	elections.append(election_data[(i+22)])
+for i in range(0,4):
+	print elections[i].election_date(), elections[i].state()
+	elections[i]._results = LoadData.JoinCoalition(elections[i])
+	elections[i]._results = LoadData.JoinOthers(elections[i])
+	print polls[i]._results ,elections[i]._results

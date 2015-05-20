@@ -5,6 +5,7 @@ PollsterWeightings.py
 Computes weightings for all pollsters in the database 
 of polling data to use in the model, based on historical
 reliability. 
+
 '''
 
 import pandas as pd
@@ -13,24 +14,20 @@ import math
 import LoadData
 from operator import attrgetter
 
-others = ['DEM', 'ONP', 'PUP', 'KAP', 'FF', 'CD', 'OTH', 'SPA', 'ON', 
-		  'BAP', 'CA', 'ASXP', 'TCS', 'FFP', 'LDP', 'CDP', 'SEP', 
-		  'NAFD', 'IND', 'CEC', 'AFN', 'SAL', 'NCP', 'CAL']
-
 states = ['NSW', 'VIC', 'SA', 'WA', 'QLD', 'TAS', 'AUS']
 pollsters = ['Morgan', 'Newspoll', 'Galaxy', 'Essential', 'ReachTEL', 'Nielsen', 'Ipsos']
 
-state_polls = []
-for state in states:
-	state_polls.append(LoadData.LoadPolls(state))
-
-elections_from_2000 = LoadData.LoadElections()
-
-def GetRelevantPolls(n):
+def GetRelevantPolls(n = 14):
 
 	## For each election, find the closest poll for each pollster
-	## which was conduction within n days before the election, and add 
-	## them all to a dictionary of pollsters and polls. 
+	## which was conduction within n days before the election (this 
+	## value defaults to two weeks), and add them all to a
+	## dictionary of pollsters and polls. 
+
+	elections_from_2000 = LoadData.LoadElections()
+	state_polls = []
+	for state in states:
+		state_polls.append(LoadData.LoadPolls(state))
 
 	error_dict = {}
 
@@ -73,7 +70,9 @@ def ComputeRMSQ(poll, election, weight_TPP = False, TPP_weight = 4):
 			except TypeError:
 				pass
 			count = count + 1
+
 		if weight_TPP:
+
 			tppresid = poll.tpp() - election.tpp()
 			if not np.isnan(tppresid):
 				try:
@@ -82,12 +81,12 @@ def ComputeRMSQ(poll, election, weight_TPP = False, TPP_weight = 4):
 					pass
 			count = count + TPP_weight
 
-		return np.round(math.sqrt(sum(to_sum)/count),TPP_weight)
+		return np.round(math.sqrt(sum(to_sum)/count),3)
 
 	else:
 		return 'Can only compute RMSQ error when parties match in poll and election...'
 
-def ComputeError(pollster, n):
+def ComputeError(pollster, n = 14):
 
 	## Computes the average RMSQ error of a pollster, 
 	## first converting polls and elections into a 
@@ -113,7 +112,7 @@ def ComputeError(pollster, n):
 	av_error.append(np.mean(errors))
 	return np.round(np.mean(errors), 3)
 
-def ComputePollsterWeights(n):
+def ComputePollsterWeights(n = 14):
 
 	errors = {}
 	for pollster in pollsters:

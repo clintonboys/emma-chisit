@@ -75,7 +75,8 @@ class Poll(object):
 
 class Election(Poll):
 
-    ## Elections are just polls with a huge sample size
+    ## Elections are just polls with a huge sample size, and the 
+    ## median poll date becomes the date of the election. 
 
     def formal_votes(self):
         return self._samplesize
@@ -83,20 +84,10 @@ class Election(Poll):
     def election_date(self):
         return self._mediandate
 
-
-
-joined_parties = ['ALP', 'COA', 'GRN', 'OTH']
-
-others = ['DEM', 'ONP', 'PUP', 'KAP', 'FF', 'CD', 'OTH', 'SPA', 'ON', 
-          'BAP', 'CA', 'ASXP', 'TCS', 'FFP', 'LDP', 'CDP', 'SEP', 
-          'NAFD', 'IND', 'CEC', 'AFN', 'SAL', 'NCP', 'CAL']
-
-#parties = liberal_alias + coalition_alias + national_alias + others
-
 def LoadPolls(state):
 
-    ## Loads into memory all polling data from the database
-    ## for a given state (or AUS for federal polls). 
+    ## This function loads into memory all polling data from 
+    ## the database for a given state (or AUS for federal polls). 
 
     poll_list = []
     if state != 'AUS':
@@ -129,8 +120,8 @@ def LoadPolls(state):
 
 def LoadElections():
 
-    ## Loads into memory all election results, federal, state
-    ## and territory, since 2000. 
+    ## This function loads into memory all election results, 
+    ## federal, state and territory, since 2000. 
 
     electionframe = pd.read_csv('data/election_data/elections_from_2000.csv')
     election_list = []
