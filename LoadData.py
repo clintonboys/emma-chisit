@@ -147,7 +147,7 @@ def JoinCoalition(poll):
     national = 0
     liberal_party = None
     national_party = None
-    for party in ['LIB', 'LP']:
+    for party in ['LIB', 'LP', 'LNQ']:
         if poll.results(party) > 0:
             liberal = liberal + poll.results(party)
             liberal_party = party
@@ -171,7 +171,7 @@ def JoinOthers(poll):
     ## Helper function to join all parties which are not
     ## in 'ALP', 'COA', 'GRN' into an 'OTH' field. 
 
-    major_parties = ['ALP', 'LIB', 'NAT', 'LP', 'NP', 'COA', 'GRN']
+    major_parties = ['ALP', 'LIB', 'NAT', 'LP', 'NP', 'COA', 'GRN', 'LNQ']
 
     others_vote = 0
 

@@ -63,3 +63,18 @@ def Runoff(candidate_dict, pref_flows, group_others = False):
 			remaining_candidates[party] = int(np.round(remaining_candidates[party] + to_dist[party]*votes,0))
 
 	return remaining_candidates
+
+def GetTPP(results_dict):
+
+	## This function computes the ALP TPP percentage given a 
+	## results dictionary with two candidates.
+
+	if len(results_dict) > 2:
+		return 'Error: perform runoff election with Runoff(...) before computing TPP...'
+
+	else:
+		try:
+			return np.round(100*(float(results_dict['ALP']) / (float(sum(results_dict.values())))),2)
+		except KeyError:
+			return 'Error: ALP not in final two candidates...'
+

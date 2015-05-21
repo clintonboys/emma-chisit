@@ -3,7 +3,11 @@ MakeSeats.py
 ------------
 
 Contains the classes for seats and polling places
-used by the model. 
+used by the model. Importantly, results for seats
+and polling places are handled the same, but are not
+considered as polls, as they give vote numbers rather
+than percentages. Hence we need separate helper functions
+for these objects. 
 
 '''
 
@@ -62,7 +66,7 @@ class Seat(object):
             try:
                 return self._results[year][party]
             except KeyError:
-                return 'No results for ' + party + ' in seat ' + str(self._name) + ' in ' + str(year) + '...'
+                return 0
         else:
             try:
                 return self._results[year]
@@ -71,3 +75,53 @@ class Seat(object):
 
 def PPinSeat(pollingplace, seat):
     return pollingplace in seat.pollingplaces()
+
+def SeatJoinCoalition(seat, year):
+
+    ## Helper function to standardise all polls
+    ## into having only a single column for COA and no
+    ## columns for constituent parties of the Coalition. 
+
+    liberal = 0
+    national = 0
+    liberal_party = None
+    national_party = None
+    for party in ['LIB', 'LP']:
+        if seat.results(year,party) > 0:
+            liberal = liberal + seat.results(year,party)
+            liberal_party = party
+
+    for party in ['NAT', 'NP']:
+        if seat.results(year,party) > 0:
+            national = national + seat.results(year,party)
+            national_party = party
+
+    results_dict = {'COA': liberal + national}
+
+    for party in seat._results[year]:
+        if party not in [liberal_party, national_party]:
+            results_dict[party] = seat.results(year,party)
+
+    return results_dict
+
+
+def SeatJoinOthers(seat,year):
+
+    ## Helper function to join all parties which are not
+    ## in 'ALP', 'COA', 'GRN' into an 'OTH' field. 
+
+    major_parties = ['ALP', 'LIB', 'NAT', 'LP', 'NP', 'COA', 'GRN']
+
+    others_vote = 0
+
+    for party in seat._results[year]:
+        if party not in major_parties:
+            others_vote = others_vote + seat.results(year,party)
+
+    results_dict = {'OTH': others_vote}
+
+    for party in major_parties:
+        if seat.results(year,party) > 0:
+            results_dict[party] = seat.results(year,party)
+
+    return results_dict

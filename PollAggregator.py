@@ -26,19 +26,24 @@ import pandas as pd
 import LoadData
 import PollsterWeightings
 
-#to_date = datetime.datetime(2001,11,10) 
 state = 'AUS'
-N=30
 four_parties = ['ALP', 'COA', 'GRN', 'OTH']
 
-def ExpDecay(days,N):
+def ExpDecay(days, N = 30):
+
+	## Simple exponential decay formula to compute the weight
+	## of old polls in the model. 
+
 	days = getattr(days,"days",days)
 	return np.round(.5 ** (float(days)/float(N)),3)	
 
-poll_data = LoadData.LoadPolls(state)
-election_data = LoadData.LoadElections()
-
 def GetLatestElection(state, to_date):
+
+	## For a given state and a given date, returns the most recent
+	## election to that date. 
+
+	election_data = LoadData.LoadElections()
+
 	relevant_elections = []
 	for election in election_data:
 		if (election.state() == state):
@@ -54,7 +59,14 @@ def GetLatestElection(state, to_date):
 			latest_election = election
 	return latest_election
 
-def AggregatePolls(state, to_date, N):
+def AggregatePolls(state, to_date, N = 30):
+
+	## This function aggregates all polls for the given state up to the 
+	## given date. The optional argument N, which defaults to a month
+	## (the optimal period according to Nate Silver), gives how many days
+	## backwards from to_date the model looks for polls. 
+
+	poll_data = LoadData.LoadPolls(state)
 
 	relevant_polls = []
 
@@ -85,27 +97,19 @@ def AggregatePolls(state, to_date, N):
 	aggregated_poll = LoadData.Poll('Aggregate', state, (to_date - from_date)/2, 0, results_list, {})
 	return aggregated_poll
 
-def GetSwings(state, aggregated_poll):
+def GetSwings(state, aggregated_poll, to_date):
+
 	latest_election = GetLatestElection(state, to_date)
 
-	LoadData.JoinOthers(latest_election)
-	LoadData.JoinCoalition(latest_election)
+	latest_election._results = LoadData.JoinOthers(latest_election)
+	latest_election._results = LoadData.JoinCoalition(latest_election)
 
 	swing_dict = {}
 
-	for party in four_parties:
+	for party in latest_election._results:
 		swing_dict[party] = np.round(aggregated_poll.results(party) - latest_election.results(party),3)
 
 	return swing_dict
 
-to_dates = [datetime.datetime(2013,9,7), datetime.datetime(2010, 8, 21), datetime.datetime(2007, 11, 24), datetime.datetime(2004, 10,9)]
-polls = []
-elections = []
-for i in range(0,4):
-	polls.append(AggregatePolls('AUS', to_dates[i], 30))
-	elections.append(election_data[(i+22)])
-for i in range(0,4):
-	print elections[i].election_date(), elections[i].state()
-	elections[i]._results = LoadData.JoinCoalition(elections[i])
-	elections[i]._results = LoadData.JoinOthers(elections[i])
-	print polls[i]._results ,elections[i]._results
+# poll = AggregatePolls('AUS', datetime.datetime(2013,9,7))
+# print GetSwings('AUS', poll, datetime.datetime(2013,9,7))
