@@ -45,22 +45,50 @@ def Runoff(candidate_dict, pref_flows, group_others = False):
 
 	remaining_candidates = candidate_dict
 
+	round_no = 0
+
+	# print '------------------'
+	# print 'Runoff Election'
+	# print candidate_dict
+	# print '------------------'
+
 	while len(remaining_candidates) > 2:
 
+		round_no = round_no + 1
+
 		to_eliminate = min(remaining_candidates, key = remaining_candidates.get)
+
+		is_oth = False
+
+		if to_eliminate not in pref_flows:
+			is_oth = True
+
+#		print 'Runoff election round #' + str(round_no) + ', eliminating ' + to_eliminate
 		votes = remaining_candidates[to_eliminate]
 		to_dist = {}
-		for key, value in pref_flows[to_eliminate].iteritems():
-			if key in remaining_candidates:
-				to_dist[key] = value
+		if is_oth:
+			for key,value in pref_flows['OTH'].iteritems():
+				if key in remaining_candidates:
+					to_dist[key] = value
+		else:
+			for key, value in pref_flows[to_eliminate].iteritems():
+				if key in remaining_candidates:
+					to_dist[key] = value
 		count = 0
 		for party in to_dist:
 			count = count + to_dist[party]
 		for party in to_dist:
-			to_dist[party] = to_dist[party]/count
+			try:
+				to_dist[party] = to_dist[party]/count
+			except ZeroDivisionError:
+				return 'Cannot compute this runoff...'
+#		print to_dist
 		del remaining_candidates[to_eliminate]
 		for party in remaining_candidates:
-			remaining_candidates[party] = int(np.round(remaining_candidates[party] + to_dist[party]*votes,0))
+			if party in to_dist:
+				remaining_candidates[party] = int(np.round(remaining_candidates[party] + to_dist[party]*votes,0))
+			else:
+				remaining_candidates[party] = int(remaining_candidates[party])
 
 	return remaining_candidates
 
@@ -77,4 +105,3 @@ def GetTPP(results_dict):
 			return np.round(100*(float(results_dict['ALP']) / (float(sum(results_dict.values())))),2)
 		except KeyError:
 			return 'Error: ALP not in final two candidates...'
-

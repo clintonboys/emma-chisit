@@ -41,7 +41,7 @@ def ApplySwings(seat, year, swing_dict, pref_dict):
 	seat._results[year] = MakeSeats.SeatJoinCoalition(seat,year)
 	#seat._results[year] = MakeSeats.SeatJoinOthers(seat,year)
 
-	old_results = RunoffElection.Runoff(seat._results[year], pref_dict, True)
+	#old_results = RunoffElection.Runoff(seat._results[year], pref_dict, True)
 
 	seat_votes = 0
 
@@ -52,11 +52,12 @@ def ApplySwings(seat, year, swing_dict, pref_dict):
 			pass
 
 	for party in seat._results[year]:
-		try:
-			seat._results[year][party] = int(seat._results[year][party] + 0.01*swing_dict[party]*seat_votes)
-		except KeyError:
-			seat._results[year][party] = int(seat._results[year][party] + 0.01*swing_dict['OTH']*seat_votes)
+		if party != 'Informal':
+			try:
+				seat._results[year][party] = int(seat._results[year][party] + 0.01*swing_dict[party]*seat_votes)
+			except KeyError:
+				seat._results[year][party] = int(seat._results[year][party] + 0.01*swing_dict['OTH']*seat_votes)
 
-	new_results = RunoffElection.Runoff(seat._results[year], basic_pref_flows, True)
+	#new_results = RunoffElection.Runoff(seat._results[year], basic_pref_flows, True)
 
 	return seat._results[year]

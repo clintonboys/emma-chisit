@@ -69,7 +69,6 @@ def LoadPPResults(year, state_name, fed=False):
 
 		return ReadPPResults(path,state_name,year)
 
-
 def GetSeatResults(seat,year):
 
 	## Having loaded all the polling place data into memory,
@@ -88,3 +87,62 @@ def GetSeatResults(seat,year):
 	except KeyError:
 		pass
 	return results_dict
+
+def GetSingleSeat(seat, year):
+
+	state = seat.state()
+	path = 'data/election_data/fed_{0}/{1}.csv'.format(year,state)
+	data = pd.read_csv(path,header=1,skiprows=0)
+
+	seat_name = seat.name
+
+	new_data = data[(data['DivisionNm'] == seat_name)]
+
+	polling_places = []
+
+	for division_id in new_data['DivisionID'].unique():
+		for polling_place_id in new_data['PollingPlaceID'][new_data['DivisionID'] == division_id].unique():
+			pp_frame = new_data[(new_data['DivisionID'] == division_id) & (new_data['PollingPlaceID'] == polling_place_id)]
+			pp_name = pp_frame['PollingPlace'][:1].iloc[0]
+			polling_place = MakeSeats.PollingPlace(pp_name, seat)
+			results_dict = {}
+			for i in range(0,len(pp_frame)):
+				results_dict[pp_frame['PartyAb'].iloc[i]] = int(pp_frame['OrdinaryVotes'].iloc[i])
+				polling_place.AddResults(year,results_dict)
+			polling_places.append(polling_place)
+
+	results_dict = {}
+	for polling_place in polling_places:
+		for party in polling_place._results[year]:
+			try:
+				results_dict[party] += polling_place.GetResults(year,party)
+			except KeyError:
+				results_dict[party] = polling_place.GetResults(year,party)
+	try:
+		results_dict['Informal'] = results_dict.pop(np.nan)
+	except KeyError:
+		pass
+	return results_dict
+
+def LoadNationalSimple(year):
+
+	path = 'data/election_data/fed_{0}/AUS.csv'.format(year)
+	data = pd.read_csv(path,header=1,skiprows=0)
+
+	seats = []
+
+	for division_id in data['DivisionID'].unique():
+		this_data = data[data['DivisionID'] == division_id]
+		seat = MakeSeats.Seat(this_data['DivisionNm'].iloc[0], this_data['StateAb'].iloc[0])
+		seats.append(seat)
+		results_dict = {}
+		swing_dict = {}
+		for i in range(0,len(this_data)):
+			results_dict[this_data['PartyAb'].iloc[i]] = int(this_data['TotalVotes'].iloc[i])
+			swing_dict[this_data['PartyAb'].iloc[i]] = float(this_data['Swing'].iloc[i])
+		results_dict['Informal'] = results_dict.pop(np.nan)
+		swing_dict['Informal'] = swing_dict.pop(np.nan)
+		seat.AddResults(2010, results_dict)
+		seat._swings[year] = swing_dict
+
+	return seats

@@ -47,6 +47,7 @@ class Seat(object):
         self._state = state
         self._pollingplaces = []
         self._results = {}
+        self._swings = {}
 
     @property
     def name(self):
@@ -72,6 +73,13 @@ class Seat(object):
                 return self._results[year]
             except KeyError:
                 return 'No results for seat ' + str(self._name) + ' in ' + str(year) + '...'
+
+    def swing(self,year):
+        try:
+            return self._swings[year]
+        except KeyError:
+            return 'No swing recorded for seat ' + str(self._name) + ' in ' +str(year) + '...'
+
 
 def PPinSeat(pollingplace, seat):
     return pollingplace in seat.pollingplaces()
