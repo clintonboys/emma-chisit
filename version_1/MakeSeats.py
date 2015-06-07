@@ -48,6 +48,7 @@ class Seat(object):
         self._pollingplaces = []
         self._results = {}
         self._swings = {}
+        self._cluster_no = None
 
     @property
     def name(self):
@@ -79,6 +80,9 @@ class Seat(object):
             return self._swings[year]
         except KeyError:
             return 'No swing recorded for seat ' + str(self._name) + ' in ' +str(year) + '...'
+
+    def cluster_no(self):
+        return self._cluster_no
 
 
 def PPinSeat(pollingplace, seat):

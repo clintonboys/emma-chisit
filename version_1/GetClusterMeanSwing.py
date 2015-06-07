@@ -20,6 +20,8 @@ import PollsterWeightings
 import RunoffElection
 import PollAggregator
 import ComputeSeatSwings
+import matplotlib.pyplot as plt
+from scipy.stats import norm
 
 def LoadSwings(year):
 
@@ -44,6 +46,24 @@ def LoadSwings(year):
 
 	return seats
 
+def GetMeanSwings(year):
+
+	path = 'data/election_data/fed_{0}/AUS.csv'.format(year)
+	data = pd.read_csv(path,header=1,skiprows=0)
+
+	swing_dict = {}
+
+	for i in range(0,len(data)):
+		try:
+			swing_dict[data['PartyAb'][i]].append(data['Swing'][i])
+		except KeyError:
+			swing_dict[data['PartyAb'][i]] = [data['Swing'][i]]
+
+	av_dict = {}
+	for party in swing_dict:
+		av_dict[party] = np.round(np.mean(swing_dict[party]),3)
+	return av_dict
+
 def GetClusterSwings(cluster, year):
 
 	seats = LoadSwings(year)
@@ -58,6 +78,8 @@ def GetClusterSwings(cluster, year):
 
 	for party in total_dict:
 		total_dict[party] = np.round(float(total_dict[party])/float(n),3)
+
+
 	return total_dict
 
 def LoadClusterSeats(cluster, year):
@@ -73,17 +95,41 @@ def LoadClusterSeats(cluster, year):
 
 	q = len(seat_list)
 
-	if n != q:
-		print str(np.absolute(n-q)) + ' seats from census data do not match electorate list in ' + str(year) + '...'
+	# if n != q:
+	# 	print str(np.absolute(n-q)) + ' seats from census data do not match electorate list in ' + str(year) + '...'
 
 	return seat_list
 
+
+
+
+
+# path = 'data/election_data/fed_{0}/AUS.csv'.format(2010)
+# data = pd.read_csv(path,header=1,skiprows=0)
+# swings = []
+# for i in range(0,len(data)):
+# 	if data['PartyAb'][i] == 'ALP':
+# 		swings.append(data['Swing'][i])
+
+
+
+# mu,std = norm.fit(swings)
+# #print mu, std
+
 # seats = LoadSwings(2010)
 # cluster = [seats[0], seats[1], seats[5]]
-# print GetClusterSwings(cluster, 2010)
+# #print GetClusterSwings(cluster, 2010)
 
-clusters = ClusterSeats.ClusterSeats(2006,6)
-for cluster in clusters:
-	proper_cluster = LoadClusterSeats(cluster,2010)
-	print GetClusterSwings(proper_cluster, 2010)['ALP']
+# meanswings = GetMeanSwings(2010)
+# clusters = ClusterSeats.ClusterSeats(2006,6)
+# # for cluster in clusters:
+# # 	proper_cluster = LoadClusterSeats(cluster,2010)
+# # 	print GetClusterSwings(proper_cluster, 2010)['ALP']-mu
+# cluster_nos = {}
+# for i in range(0,len(clusters)):
+# 	for j in range(0,len(clusters[i])):
+# 		cluster_nos[clusters[i][j]] = i
+
+# print cluster_nos
+
 

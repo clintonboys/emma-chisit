@@ -1,37 +1,23 @@
-'''
- _______  _______  _______  _______ 
-(  ____ \(       )(       )(  ___  )
-| (    \/| () () || () () || (   ) |
-| (__    | || || || || || || (___) |
-|  __)   | |(_)| || |(_)| ||  ___  |
-| (      | |   | || |   | || (   ) |
-| (____/\| )   ( || )   ( || )   ( |
-(_______/|/     \||/     \||/     \|
-                                    
- _______          _________ _______ __________________
-(  ____ \|\     /|\__   __/(  ____ \|__   __/\__   __/
-| (    \/| )   ( |   ) (   | (    \/   ) (      ) (   
-| |      | (___) |   | |   | (_____    | |      | |   
-| |      |  ___  |   | |   (_____  )   | |      | |   
-| |      | (   ) |   | |         ) |   | |      | |   
-| (____/\| )   ( |___) (___/\____) |___) (___   | |   
-(_______/|/     \|\_______/\_______)\_______/   )_( 
-
-(c) Clinton Boys 2015
-
------------------
+''' 
 PollAggregator.py
 -----------------
 
-v1.0 Aggregates opinion polls (federal or state) into a single
-	 aggregate adjusting for recency and for pollster accuracy.
+Specify a state (or Australia) and a date. 
+The aggregator will combine together all polls
+from that state (or Australia) into a single
+collection of primary vote figures. 
 
-v2.0 Improved to work with percentage data, as well as non-
-	 traditional candidate combinations and inclusions of fourth
-	 parties in the model. Also allows for the alteration of 
-	 the federal aggregate by state poll aggregates. Some 
-	 improvements to speed. 
+The aggregator will account for pollster 
+accuracy using PollsterWeightings.py, and for recency
+using a simple exponential decay weighting. 
 
+For Australian federal elections, there is
+an option to also consider state polls to obtain
+state-by-state breakdowns of the primary vote. In each
+state, the state poll aggregate is included with 
+a particular weight; the best weight to use
+is determined by referring to historical data
+(see HistoricalStatePollWeights.py).
 '''
 
 import datetime
@@ -40,10 +26,13 @@ import pandas as pd
 import LoadData
 import PollsterWeightings
 
+state = 'AUS'
+four_parties = ['ALP', 'COA', 'GRN', 'OTH']
+
 def ExpDecay(days, N = 30):
 
 	## Simple exponential decay formula to compute the weight
-	## of old polls in the model. Defaults to 30 days. 
+	## of old polls in the model. 
 
 	days = getattr(days,"days",days)
 	return np.round(.5 ** (float(days)/float(N)),3)	

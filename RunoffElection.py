@@ -1,42 +1,52 @@
 '''
+ _______  _______  _______  _______ 
+(  ____ \(       )(       )(  ___  )
+| (    \/| () () || () () || (   ) |
+| (__    | || || || || || || (___) |
+|  __)   | |(_)| || |(_)| ||  ___  |
+| (      | |   | || |   | || (   ) |
+| (____/\| )   ( || )   ( || )   ( |
+(_______/|/     \||/     \||/     \|
+                                    
+ _______          _________ _______ __________________
+(  ____ \|\     /|\__   __/(  ____ \|__   __/\__   __/
+| (    \/| )   ( |   ) (   | (    \/   ) (      ) (   
+| |      | (___) |   | |   | (_____    | |      | |   
+| |      |  ___  |   | |   (_____  )   | |      | |   
+| |      | (   ) |   | |         ) |   | |      | |   
+| (____/\| )   ( |___) (___/\____) |___) (___   | |   
+(_______/|/     \|\_______/\_______)\_______/   )_( 
+
+(c) Clinton Boys 2015
+
+-----------------
 RunoffElection.py
 -----------------
 
-Simulates an Australian federal lower-house election 
-using single transferable instant runoff voting. 
+v1.0 Simulates an Australian federal lower-house election 
+	 using single transferable instant runoff voting, taking
+	 as input a dictionary of raw primary vote data, and a 
+	 matrix of preference flow data.  
 
-We take as input two dictionaries. The first consists of 
-the raw first-preference vote numbers for each party. 
+v2.0 Improved to work with percentage data, as well as non-
+	 traditional candidate combinations and inclusions of fourth
+	 parties in the model.
+
 '''
-
-sample_dict = {'ALP':10000, 'LIB':8500, 'GRN':1300, 'FF':400, 'IND':150, 'SEX':50}
-
-'''
-The second consists of a matrix of preference data, 
-which can be obtained for example through historical
-preference data or by polls. Note that this matrix does 
-not give the complete picture of preference flows, just
-the percentage of each party's first preferences which
-end up being distributed to other parties. 
-'''
-
-pref_flows = {'ALP':{             'LIB': 0.20, 'GRN': 0.50, 'FF':0.15, 'IND': 0.10, 'SEX': 0.05},
-			  'LIB':{'ALP': 0.10,              'GRN': 0.15, 'FF':0.60, 'IND': 0.10, 'SEX': 0.05},
-			  'GRN':{'ALP': 0.85, 'LIB': 0.10,              'FF':0.02, 'IND': 0.01, 'SEX': 0.02},
-			   'FF':{'ALP': 0.25, 'LIB': 0.55, 'GRN': 0.05,            'IND': 0.10, 'SEX': 0.05},
-			  'IND':{'ALP': 0.40, 'LIB': 0.40, 'GRN': 0.10, 'FF':0.05,              'SEX': 0.05},
-			  'SEX':{'ALP': 0.55, 'LIB': 0.05, 'GRN': 0.35, 'FF':0.01, 'IND': 0.04             }}
 
 import numpy as np
 
-def Runoff(candidate_dict, pref_flows, group_others = False):
+def Runoff(candidate_dict, pref_flows, group_others = False, print_progress = False):
 
+	#
 	# While there are more than two candidates remaining,
 	# we take the candidate with the fewest votes and
 	# eliminate them from the count, distributing their
 	# votes among the remaining candidates acccording
-	# to the preference flow data, which is calculated using
-	# ComputePreferences.py. 
+	# to the preference flow data.
+	#
+
+	total = np.sum([candidate_dict[key] for key in candidate_dict])
 
 	try:
 		del candidate_dict['Informal']
@@ -44,13 +54,15 @@ def Runoff(candidate_dict, pref_flows, group_others = False):
 		pass
 
 	remaining_candidates = candidate_dict
-
 	round_no = 0
 
-	# print '------------------'
-	# print 'Runoff Election'
-	# print candidate_dict
-	# print '------------------'
+	if print_progress:
+		print '---------------'
+		print 'Runoff Election'
+		print '---------------'
+		print 'Initial primary results:'
+		print candidate_dict
+		print '---------------'
 
 	while len(remaining_candidates) > 2:
 
@@ -58,50 +70,66 @@ def Runoff(candidate_dict, pref_flows, group_others = False):
 
 		to_eliminate = min(remaining_candidates, key = remaining_candidates.get)
 
-		is_oth = False
+		if print_progress:
+			print 'Runoff Election. Round #' + str(round_no) + ': eliminating ' + to_eliminate
 
-		if to_eliminate not in pref_flows:
-			is_oth = True
-
-#		print 'Runoff election round #' + str(round_no) + ', eliminating ' + to_eliminate
 		votes = remaining_candidates[to_eliminate]
 		to_dist = {}
-		if is_oth:
-			for key,value in pref_flows['OTH'].iteritems():
-				if key in remaining_candidates:
-					to_dist[key] = value
-		else:
-			for key, value in pref_flows[to_eliminate].iteritems():
-				if key in remaining_candidates:
-					to_dist[key] = value
-		count = 0
-		for party in to_dist:
-			count = count + to_dist[party]
-		for party in to_dist:
-			try:
-				to_dist[party] = to_dist[party]/count
-			except ZeroDivisionError:
-				return 'Cannot compute this runoff...'
-#		print to_dist
+
 		del remaining_candidates[to_eliminate]
+		to_dist = pref_flows[to_eliminate]
+
+		## Rescale the preference matrix to compensate for 
+		## the missing columns. 
+
+		fixed_prefs = {}
+		for party in remaining_candidates:
+			if party in pref_flows[to_eliminate]:
+				fixed_prefs[party] = pref_flows[to_eliminate][party]
+		preference_sum = np.sum([fixed_prefs[key] for key in fixed_prefs])
+		for party in fixed_prefs:
+			fixed_prefs[party] = fixed_prefs[party]/preference_sum
+
 		for party in remaining_candidates:
 			if party in to_dist:
-				remaining_candidates[party] = int(np.round(remaining_candidates[party] + to_dist[party]*votes,0))
+				remaining_candidates[party] = int(np.round(remaining_candidates[party] + pref_flows[to_eliminate][party]*votes))
 			else:
-				remaining_candidates[party] = int(remaining_candidates[party])
+				if float(remaining_candidates[party])/float(total) > 0.1:
+					if print_progress:
+						print 'Runoff Error: Missing preference data for important contest.'
+
+		if print_progress:
+			if len(remaining_candidates) > 2:
+				print remaining_candidates
 
 	return remaining_candidates
 
-def GetTPP(results_dict):
+def GetTPP(results_dict, return_parties = False):
 
-	## This function computes the ALP TPP percentage given a 
-	## results dictionary with two candidates.
+	## This function computes the two candidate preferred percentage 
+	## given a results dictionary with two candidates.
 
 	if len(results_dict) > 2:
-		return 'Error: perform runoff election with Runoff(...) before computing TPP...'
+		print 'Runoff Error: Cannot compute TCP with more than two candidates.'
+		print '              First perform runoff election with RunoffElection.Runoff().'
+		return 0.00
 
 	else:
-		try:
-			return np.round(100*(float(results_dict['ALP']) / (float(sum(results_dict.values())))),2)
-		except KeyError:
-			return 'Error: ALP not in final two candidates...'
+		winner = max(results_dict, key = results_dict.get)
+		loser = min(results_dict, key = results_dict.get)
+		result = np.round(100*(float(results_dict[winner]) / (float(sum(results_dict.values())))),2)
+		if return_parties:
+			if winner not in ['ALP', 'COA']:
+				print str(winner) + ' wins with '
+				return result
+			else:
+				if winner == 'ALP':
+					return result
+				else:
+					return 100 - result
+		else:
+			if winner == 'ALP':
+				return result
+			else:
+				return 100 - result
+ 

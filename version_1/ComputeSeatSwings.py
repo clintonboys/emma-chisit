@@ -54,9 +54,11 @@ def ApplySwings(seat, year, swing_dict, pref_dict):
 	for party in seat._results[year]:
 		if party != 'Informal':
 			try:
-				seat._results[year][party] = int(seat._results[year][party] + 0.01*swing_dict[party]*seat_votes)
+				seat._results[year][party] = int((1+0.01*swing_dict[party])*seat._results[year][party])
 			except KeyError:
-				seat._results[year][party] = int(seat._results[year][party] + 0.01*swing_dict['OTH']*seat_votes)
+				seat._results[year][party] = int((1+0.01*swing_dict['OTH'])*seat._results[year][party])
+
+
 
 	#new_results = RunoffElection.Runoff(seat._results[year], basic_pref_flows, True)
 
