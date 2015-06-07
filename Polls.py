@@ -61,7 +61,7 @@ class Poll(object):
     ## in a single others category. 
     ##
 
-    def __init__(self, pollster, state, mediandate, samplesize, results, TPP = None, others = {}):
+    def __init__(self, pollster, state, mediandate, samplesize, results, TPP = None, others = []):
         self._pollster = pollster
         self._state = state
         self._mediandate = mediandate
@@ -86,11 +86,14 @@ class Poll(object):
     def sample_size(self):
         return self._samplesize
 
-    def results(self,party):
-        try:
-            return self._results[party]
-        except KeyError:
-            return 0
+    def results(self,party = None):
+    	if party is None:
+    		return self._results
+    	else:
+	        try:
+	            return self._results[party]
+	        except KeyError:
+	            return 0
 
     def change_result(self,party,new):
         try:
@@ -105,6 +108,46 @@ class Poll(object):
         else:
             return self._TPP
 
+    def join_coalition(self):
+
+    	liberal = 0
+    	national = 0
+    	liberal_party = None
+    	national_party = None
+
+    	for party in ['LIB', 'LP', 'LNQ']:
+	        if self.results(party) > 0:
+	            liberal = liberal + self.results(party)
+	            liberal_party = party
+		for party in ['NAT', 'NP']:
+			if self.results(party) > 0:
+				national = national + self.results(party)
+	    		national_party = party
+		results_dict = {'COA': liberal + national}
+		for party in self._results:
+			if party not in ['LIB', 'LP', 'LNQ', 'NAT', 'NP', 'COA']:
+				results_dict[party] = self.results(party)
+		self._results = results_dict
+
+    def join_others(self):
+
+    	major_parties = ['ALP', 'COA', 'LIB', 'LP', 'NP', 'NAT', 'GRN', 'LNQ', 'OTH']
+    	if len(self._others) > 0:
+    		for party in list(self._others.keys()):
+    			major_parties.append(party) 
+    	try:
+    		others_vote = self.results('OTH')
+    	except KeyError:
+    		others_vote = 0
+    	for party in self._results:
+			if party not in major_parties:
+				others_vote = others_vote + self.results(party)
+        results_dict = {'OTH': others_vote}
+        for party in major_parties:
+			if self.results(party) > 0:
+				results_dict[party] = self.results(party)
+        self._results = results_dict
+
 class Election(Poll):
 
     ## Elections are just polls with a huge sample size, and the 
@@ -116,3 +159,55 @@ class Election(Poll):
     def election_date(self):
         return self._mediandate
 
+
+def LoadPolls(state):
+
+    ## This function loads into memory all polling data from 
+    ## the database for a given state (or AUS for federal polls). 
+
+    poll_list = []
+    if state != 'AUS':
+        filename = 'data/polling_data/' + state + '_state_polls.csv'
+    else:
+        filename = 'data/polling_data/FED_polls_primary.csv'
+    pollframe = pd.read_csv(filename)
+    if state != 'AUS':
+        parties = pollframe.columns[4:-2]
+    else:
+        parties = pollframe.columns[2:]
+    for i in range(0,len(pollframe)):
+        results_dict = {}
+        for party in parties:
+            if not np.isnan(pollframe[party][i]):
+                results_dict[party] = pollframe[party][i]
+        try:
+            sample_size = pollframe['N'][i]
+        except KeyError:
+            sample_size = np.nan
+        try:
+            poll_list.append(Poll(pollframe['Pollster'][i], state, 
+                pd.to_datetime(pollframe['PollMedianDate'][i],dayfirst=True), 
+                sample_size, results_dict, pollframe['ALP_TPP'][i]))
+        except KeyError:
+            poll_list.append(Poll(pollframe['Pollster'][i], state, 
+                pd.to_datetime(pollframe['PollMedianDate'][i],dayfirst=True), 
+                sample_size, results_dict, np.nan))
+    return poll_list
+
+def LoadElections():
+
+    ## This function loads into memory all election results, 
+    ## federal, state and territory, since 2000. 
+
+    electionframe = pd.read_csv('data/election_data/elections_from_2000.csv')
+    election_list = []
+    parties = electionframe.columns[2:-2]
+    for i in range(0,len(electionframe)):
+        results_dict = {}
+        for party in parties:
+            if not np.isnan(electionframe[party][i]):
+                results_dict[party] = electionframe[party][i]
+        election_list.append(Election('Election', electionframe['State'][i], 
+            pd.to_datetime(electionframe['Date'][i],dayfirst=True), 
+            electionframe['N'][i], results_dict, electionframe['ALP_TPP'][i]))
+    return election_list

@@ -1,20 +1,43 @@
 '''
-PollsterWeightings.py
----------------------
+ _______  _______  _______  _______ 
+(  ____ \(       )(       )(  ___  )
+| (    \/| () () || () () || (   ) |
+| (__    | || || || || || || (___) |
+|  __)   | |(_)| || |(_)| ||  ___  |
+| (      | |   | || |   | || (   ) |
+| (____/\| )   ( || )   ( || )   ( |
+(_______/|/     \||/     \||/     \|
+                                    
+ _______          _________ _______ __________________
+(  ____ \|\     /|\__   __/(  ____ \|__   __/\__   __/
+| (    \/| )   ( |   ) (   | (    \/   ) (      ) (   
+| |      | (___) |   | |   | (_____    | |      | |   
+| |      |  ___  |   | |   (_____  )   | |      | |   
+| |      | (   ) |   | |         ) |   | |      | |   
+| (____/\| )   ( |___) (___/\____) |___) (___   | |   
+(_______/|/     \|\_______/\_______)\_______/   )_( 
 
-Computes weightings for all pollsters in the database 
-of polling data to use in the model, based on historical
-reliability. 
+(c) Clinton Boys 2015
+
+------------------
+PollsterWeights.py
+------------------
+
+v1.0 Computes weightings for all pollsters in the database 
+	 of polling data to use in the model, based on historical
+	 reliability. 
+
+v2.0 Now works with improved poll classes. Will not need to be 
+	 computed every time. 
 
 '''
 
 import pandas as pd
 import numpy as np
 import math
-import LoadData
+import Polls
 from operator import attrgetter
 
-states = ['NSW', 'VIC', 'SA', 'WA', 'QLD', 'TAS', 'AUS']
 pollsters = ['Morgan', 'Newspoll', 'Galaxy', 'Essential', 'ReachTEL', 'Nielsen', 'Ipsos']
 
 def GetRelevantPolls(n = 14):
@@ -24,16 +47,19 @@ def GetRelevantPolls(n = 14):
 	## value defaults to two weeks), and add them all to a
 	## dictionary of pollsters and polls. 
 
-	elections_from_2000 = LoadData.LoadElections()
+	election_data = Polls.LoadElections()
+
+	states = ['NSW', 'VIC', 'SA', 'WA', 'QLD', 'TAS', 'AUS']
+
 	state_polls = []
 	for state in states:
-		state_polls.append(LoadData.LoadPolls(state))
+		state_polls.append(Polls.LoadPolls(state))
 
 	error_dict = {}
 
 	for pollster in pollsters:
 		error_dict[pollster] = []
-		for election in elections_from_2000:
+		for election in election_data:
 			potential_list = []
 			for state in state_polls:
 				for poll in state:
@@ -49,6 +75,7 @@ def GetRelevantPolls(n = 14):
 				pass
 
 	return error_dict
+			
 			
 def ComputeRMSQ(poll, election, weight_TPP = False, TPP_weight = 4):
 
@@ -84,7 +111,9 @@ def ComputeRMSQ(poll, election, weight_TPP = False, TPP_weight = 4):
 		return np.round(math.sqrt(sum(to_sum)/count),3)
 
 	else:
-		return 'Can only compute RMSQ error when parties match in poll and election...'
+		print 'Pollster Weight Error: Can only compute RMSQ error when parties match in poll and election...'
+		return 0.00
+
 
 def ComputeError(pollster, n = 14):
 
@@ -102,10 +131,13 @@ def ComputeError(pollster, n = 14):
 
 		poll = error_dict[i][0]
 		election = error_dict[i][1]
-		poll._results = LoadData.JoinCoalition(poll)
-		poll._results = LoadData.JoinOthers(poll)
-		election._results = LoadData.JoinCoalition(election)
-		election._results = LoadData.JoinOthers(election)
+		poll.join_coalition()
+		poll.join_others()
+		election.join_coalition()
+		election.join_others()
+
+		print election._results
+		print poll._results
 
 		errors.append(np.round(ComputeRMSQ(poll, election),3))
 
@@ -127,4 +159,4 @@ def ComputePollsterWeights(n = 14):
 
 	return weight_dict
 
-print ComputePollsterWeights()
+Weights = {'Newspoll': 0.60599999999999998, 'Nielsen': 1.4550000000000001, 'Ipsos': 1.0720000000000001, 'Morgan': 1.0149999999999999, 'ReachTEL': 1.169, 'Essential': 1.1599999999999999, 'Galaxy': 0.97299999999999998}

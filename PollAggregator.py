@@ -30,15 +30,16 @@ v2.0 Improved to work with percentage data, as well as non-
 	 traditional candidate combinations and inclusions of fourth
 	 parties in the model. Also allows for the alteration of 
 	 the federal aggregate by state poll aggregates. Some 
-	 improvements to speed. 
+	 improvements to speed by primitive caching of pollster weights.
 
 '''
 
 import datetime
 import numpy as np
 import pandas as pd
-import LoadData
-import PollsterWeightings
+import Polls
+from operator import attrgetter
+import PollsterWeights
 
 def ExpDecay(days, N = 30):
 
@@ -53,31 +54,46 @@ def GetLatestElection(state, to_date):
 	## For a given state and a given date, returns the most recent
 	## election to that date. 
 
-	election_data = LoadData.LoadElections()
+    electionframe = pd.read_csv('data/election_data/elections_from_2000.csv')
+    election_data = []
+    parties = electionframe.columns[2:-2]
 
-	relevant_elections = []
-	for election in election_data:
-		if (election.state() == state):
-			if election.election_date() < to_date:
-				relevant_elections.append(election)
+    for i in range(0,len(electionframe)):
+        if (electionframe['State'][i] == state) and (pd.to_datetime(electionframe['Date'][i], dayfirst = True) < to_date):
+        	results_dict = {}
+	        for party in parties:
+	            if not np.isnan(electionframe[party][i]):
+	                results_dict[party] = electionframe[party][i]
+	        election_data.append(Polls.Election('Election', electionframe['State'][i], 
+	                             pd.to_datetime(electionframe['Date'][i],dayfirst=True), 
+	                             electionframe['N'][i], results_dict, electionframe['ALP_TPP'][i]))
 
-	date = datetime.datetime(1900,1,1)
-	latest_election = None
+    date = max([election.election_date() for election in election_data])
+    this_election = None
+    for election in election_data:
+    	if election.election_date() == date:
+    		this_election = election
+    return this_election
 
-	for election in relevant_elections:
-		if election.election_date() > date:
-			date = election.election_date()
-			latest_election = election
-	return latest_election
-
-def AggregatePolls(state, to_date, N = 30):
+def AggregatePolls(state, to_date, N = 30, compute_weights = False, others = []):
 
 	## This function aggregates all polls for the given state up to the 
 	## given date. The optional argument N, which defaults to a month
 	## (the optimal period according to Nate Silver), gives how many days
 	## backwards from to_date the model looks for polls. 
 
-	poll_data = LoadData.LoadPolls(state)
+	## Unless we need to recompute them, the weights are stored in a
+	## static vector in PollsterWeights, as they take around 10s to
+	## compute. 
+
+	if compute_weights:
+		weightings = PollsterWeights.ComputePollsterWeights()
+	else:
+		weightings = PollsterWeights.Weights
+
+	poll_data = Polls.LoadPolls(state)
+
+	## We only need to consider polls within the window. 
 
 	relevant_polls = []
 
@@ -88,11 +104,8 @@ def AggregatePolls(state, to_date, N = 30):
 			relevant_polls.append(poll)
 
 	for poll in relevant_polls:
-#		print poll._results['ALP']
-		poll._results = LoadData.JoinCoalition(poll)
-		poll._results = LoadData.JoinOthers(poll)
-
-	weightings = PollsterWeightings.ComputePollsterWeights()
+		poll.join_coalition()
+		poll.join_others()
 
 	aggregate = {}
 	results_list = {}
@@ -106,15 +119,15 @@ def AggregatePolls(state, to_date, N = 30):
 						np.array([poll.results(party) for poll in relevant_polls])/(np.array([weightings[poll.pollster] for poll in relevant_polls])*
 						np.array([ExpDecay(to_date - poll.median_date(),N) for poll in relevant_polls])).sum()),2)
 
-	aggregated_poll = LoadData.Poll('Aggregate', state, (to_date - from_date)/2, 0, results_list, {})
+	aggregated_poll = Polls.Poll('Aggregate', state, (to_date - from_date)/2, 0, results_list, None, others)
 	return aggregated_poll
 
 def GetSwings(state, aggregated_poll, to_date):
 
 	latest_election = GetLatestElection(state, to_date)
 
-	latest_election._results = LoadData.JoinOthers(latest_election)
-	latest_election._results = LoadData.JoinCoalition(latest_election)
+	latest_election.join_coalition()
+	latest_election.join_others()
 
 	swing_dict = {}
 
