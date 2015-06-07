@@ -129,11 +129,11 @@ class Poll(object):
 				results_dict[party] = self.results(party)
 		self._results = results_dict
 
-    def join_others(self):
+    def join_others(self, others = []):
 
     	major_parties = ['ALP', 'COA', 'LIB', 'LP', 'NP', 'NAT', 'GRN', 'LNQ', 'OTH']
-    	if len(self._others) > 0:
-    		for party in list(self._others.keys()):
+    	if len(others) > 0:
+    		for party in others:
     			major_parties.append(party) 
     	try:
     		others_vote = self.results('OTH')

@@ -105,7 +105,7 @@ def AggregatePolls(state, to_date, N = 30, compute_weights = False, others = [])
 
 	for poll in relevant_polls:
 		poll.join_coalition()
-		poll.join_others()
+		poll.join_others(others)
 
 	aggregate = {}
 	results_list = {}
@@ -114,24 +114,39 @@ def AggregatePolls(state, to_date, N = 30, compute_weights = False, others = [])
 		for party in poll._results:
 			results_list[party] = np.round(
 					np.sum(
-						np.array([weightings[poll.pollster] for poll in relevant_polls])*
+						np.trim_zeros(np.array([weightings[poll.pollster] for poll in relevant_polls])*
 						np.array([ExpDecay(to_date - poll.median_date(),N) for poll in relevant_polls])*
-						np.array([poll.results(party) for poll in relevant_polls])/(np.array([weightings[poll.pollster] for poll in relevant_polls])*
-						np.array([ExpDecay(to_date - poll.median_date(),N) for poll in relevant_polls])).sum()),2)
+						np.array([poll.results(party) for poll in relevant_polls]))/(np.array([weightings[poll.pollster] for poll in relevant_polls])*
+						np.array([ExpDecay(to_date - poll.median_date(),N) for poll in relevant_polls]))[np.array([weightings[poll.pollster] for poll in relevant_polls])*
+						np.array([ExpDecay(to_date - poll.median_date(),N) for poll in relevant_polls])*
+						np.array([poll.results(party) for poll in relevant_polls]) > 0].sum()),2)
+
+    ## Since any fourth party will take votes from the others column,
+    ## we now correct for this (in a fairly ad hoc way). 
 
 	aggregated_poll = Polls.Poll('Aggregate', state, (to_date - from_date)/2, 0, results_list, None, others)
+	change = sum([aggregated_poll.results()[party] for party in aggregated_poll.results()])
+	old_others = aggregated_poll.results('OTH')
+	aggregated_poll.change_result('OTH', old_others -change + 100)
+
 	return aggregated_poll
 
-def GetSwings(state, aggregated_poll, to_date):
+def GetSwings(state, aggregated_poll, to_date, others):
 
 	latest_election = GetLatestElection(state, to_date)
 
 	latest_election.join_coalition()
-	latest_election.join_others()
+	latest_election.join_others(others)
 
 	swing_dict = {}
 
-	for party in latest_election._results:
+	for party in aggregated_poll.results():
 		swing_dict[party] = np.round(aggregated_poll.results(party) - latest_election.results(party),3)
 
 	return swing_dict
+
+agg = AggregatePolls('AUS', datetime.datetime(2013,9,7), 7, False, ['PUP'])
+print agg.results()
+print sum([agg.results()[party] for party in agg.results()])
+print GetSwings('AUS', agg, datetime.datetime(2013,9,7), ['PUP'])
+
