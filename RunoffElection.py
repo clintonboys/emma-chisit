@@ -77,22 +77,33 @@ def Runoff(candidate_dict, pref_flows, group_others = False, print_progress = Fa
 		to_dist = {}
 
 		del remaining_candidates[to_eliminate]
-		to_dist = pref_flows[to_eliminate]
+		try:
+			to_dist = pref_flows[to_eliminate]
+		except KeyError:
+			to_dist = {}
+			for party in remaining_candidates:
+				if party in ['LP', 'COA', 'LIB' 'LNP', 'NAT', 'NP', 'LNQ']:
+					to_dist[party] = 45.95
+				elif party == 'ALP':
+					to_dist[party] = 54.05
+				else:
+					to_dist[party] = 0
+
 
 		## Rescale the preference matrix to compensate for 
 		## the missing columns. 
 
 		fixed_prefs = {}
 		for party in remaining_candidates:
-			if party in pref_flows[to_eliminate]:
-				fixed_prefs[party] = pref_flows[to_eliminate][party]
+			if party in to_dist:
+				fixed_prefs[party] = to_dist[party]
 		preference_sum = np.sum([fixed_prefs[key] for key in fixed_prefs])
 		for party in fixed_prefs:
 			fixed_prefs[party] = fixed_prefs[party]/preference_sum
 
 		for party in remaining_candidates:
 			if party in to_dist:
-				remaining_candidates[party] = int(np.round(remaining_candidates[party] + pref_flows[to_eliminate][party]*votes))
+				remaining_candidates[party] = int(np.round(remaining_candidates[party] + to_dist[party]*0.01*votes))
 			else:
 				if float(remaining_candidates[party])/float(total) > 0.1:
 					if print_progress:

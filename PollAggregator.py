@@ -131,7 +131,7 @@ def AggregatePolls(state, to_date, N = 30, compute_weights = False, others = [])
 
 	return aggregated_poll
 
-def GetSwings(state, aggregated_poll, to_date, others):
+def GetSwings(state, aggregated_poll, to_date, others, from_date = None):
 
 	latest_election = GetLatestElection(state, to_date)
 
@@ -145,8 +145,9 @@ def GetSwings(state, aggregated_poll, to_date, others):
 
 	return swing_dict
 
-agg = AggregatePolls('AUS', datetime.datetime(2013,9,7), 7, False, ['PUP'])
-print agg.results()
-print sum([agg.results()[party] for party in agg.results()])
-print GetSwings('AUS', agg, datetime.datetime(2013,9,7), ['PUP'])
+# print GetSwings('WA', AggregatePolls('WA', datetime.datetime(2013,9,7), 300, False, ['PUP']), datetime.datetime(2013,9,7), ['PUP'])
+# print GetSwings('NSW', AggregatePolls('NSW', datetime.datetime(2013,9,7), 300, False, ['PUP']), datetime.datetime(2013,9,7), ['PUP'])
+# print GetSwings('VIC', AggregatePolls('VIC', datetime.datetime(2013,9,7), 300, False, ['PUP']), datetime.datetime(2013,9,7), ['PUP'])
+# print GetSwings('SA', AggregatePolls('SA', datetime.datetime(2013,9,7), 300, False, ['PUP']), datetime.datetime(2013,9,7), ['PUP'])
+# print GetSwings('QLD', AggregatePolls('QLD', datetime.datetime(2013,9,7), 300, False, ['PUP']), datetime.datetime(2013,9,7), ['PUP'])
 

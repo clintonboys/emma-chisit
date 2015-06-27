@@ -37,4 +37,4 @@ VI. **Poll aggregator**
 
 VII. **Swing calculator**
 
-`ComputeSeatSwings.py` translates the swings from the poll aggregator to the previous results on a seat-by-seat level, and then performs a runoff on these new results.  
+`ComputeSeatSwings.py` translates the swings from the poll aggregator to the previous results on a seat-by-seat level, and then performs a runoff on these new results. ~ 
