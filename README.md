@@ -1,40 +1,52 @@
 ## Emma Chisit
 ### A data-driven model for Australian federal and state elections
 
-26/3/15: This model is still in very early stages of development. I'm currently spending a lot of time building a poll database for state polls. 
+See [this](http://www.clintonboys.com/emma-chisit/) page for a timeline of the project's progress. 
 
-I. **Polling data**
+### I. Data.
 
-Federal polling data was obtained from the Phantom Trend's [github repository](https://github.com/PhantomTrend/ptcode) containing a wealth of federal poll data back to 2000. 
+The model combines data from a number of different sources. The data from the model alone is probably an invaluable resource to people analysing Australian elections: I'm unaware of anywhere else all this data is stored in an accessible way. Most of the data for this project is not fully collected and this is still a work in progress. 
 
-For state polling data I had to spend countless hours mining the web. 
+- **Federal polling data** was obtained from the Phantom Trend's [github repository](https://github.com/PhantomTrend/ptcode) containing a wealth of federal poll data back to 2000. 
 
-*Newspoll*. This is the easiest of the lot. Newspoll keeps fantastic online archives of its polls, federal and all six states, [here](http://polling.newspoll.com.au/cgi-bin/polling//display_poll_data.pl?url_caller=trend); the only difficulty is cleaning it all up into csv files. They all go back further than 2000 so I included the pre-2000 polls in other files. 
+- For **state polling data** I had to spend countless hours mining the web: 
 
-*Morgan*. All of Morgan's polls **are** available [here](http://www.roymorgan.com/findings) but finding them is a matter of fishing through their 39 000 findings. This took a while and is probably something I should have scraped, but this would have been a pretty tricky task. 
+    *Newspoll*. This is the easiest of the lot. Newspoll keeps fantastic online archives of its polls, federal and all six states, [here](http://polling.newspoll.com.au/cgi-bin/polling//display_poll_data.pl?url_caller=trend); the only difficulty is cleaning it all up into csv files. They all go back further than 2000 so I included the pre-2000 polls in other files. 
 
-*ReachTEL*. The only ReachTEL data I could find is on their website [here](https://www.reachtel.com.au/blog/category/tags/new-south-wales) (and various other tags). ReachTEL has only been polling since around 2013 so it's probable these are all their polls.
+    *Morgan*. All of Morgan's polls **are** available [here](http://www.roymorgan.com/findings) but finding them is a matter of fishing through their 39 000 findings. This took a while and is probably something I should have scraped, but this would have been a pretty tricky task. 
 
-II. **Pollster weightings**
+    *ReachTEL*. The only ReachTEL data I could find is on their website [here](https://www.reachtel.com.au/blog/category/tags/new-south-wales) (and various other tags). ReachTEL has only been polling since around 2013 so it's probable these are all their polls.
 
-The Python script `LoadData.py` contains a series of classes to load poll and election data. The script PollsterWeightings.py computes root-mean-square deviation errors for all contests polled, using the final poll released before the election, and averages over all contests. From this we compute the poll weightings we use in the full model. 
+Both the federal and state polling data are stored in `/data/polling_data`. 
 
-III. **Leader satisfaction data**
+- **Marginal poll data** was obtained by scraping the Ghost Who Votes twitter feed. This mysterious feed is the most comprehensive source of Australian poll data that I could find online. The scraping and parsing code is stored in `data/ghost_who_votes`.
 
-Newspoll leader satisfaction data goes back to 1985. The file `data/sat.csv` contains the raw data cut and pasted from the Newspoll sat; `SatisfactionParser.py` converts it into the neater file `data/leader_satisfaction.csv` which also contains median poll dates. 
+- **Demographic data** was obtained from the ABS census repository websites and is stored in `data/demographic data`
 
-IV. **Runoff simulator**
+- **Leader satisfaction data** was scraped from the Newspoll history and is stored, together with the scraper and parser used, in `data/leader_sat_data`.
 
-In `RunoffElection.py` we use primary vote data and historical preference data to simulate an election in a particular seat using the single transferable vote method with instant runoff voting, which is the electoral system used in most Australian lower houses. 
+- **Preference data** and **past election data** were obtained from the fantastic databases of the AEC: these are stored in `data/preference_data` and `data/election_data` respectively.
 
-V. **Seat clustering**
+- **Economic data** are also obtained from the ABS' collection of various economic data points. This data is not as regularly collected as I would like, so I have so far not incorporated it into the model and it is very incomplete. It is stored in `data/economic_data`. 
 
-The file `ClusterSeats.py` uses k-means clustering to find clusters of similar seats for federal electorates. Currently using 2006 census data and 2007 seat labels. 
+### II. Model components
 
-VI. **Poll aggregator**
+The Emma Chisit model is built from a number of pieces. The model is built entirely in Python. The early versions of most of the pieces are stored in the folder `version_1`. The file `SecondModel.py` contains the code I currently use to stitch the pieces together; this is frequently changing as I tinker with the model. 
 
-`PollAggregator.py` contains a number of functions for aggregating opinion polls and obtaining nationwide or statewide swing estimates for a nowcast. It can also combine national and statewide polls for a more informed national agreggate (research needs to be done to determine how useful or correct this is, and in what proportions). 
+- `ApplySwings.py` takes a dictionary of swings and applies them to seats. 
+- `ClusterSeats.py` uses the *k*-means algorithm to cluster seats according to demographic variables. 
+- `MarginalTrendAdjustments.py` makes adjustments to implied swings on certain seats which were polled individually. 
+- `PollAggregator.py` takes a weighted aggregate of polls. 
+- `Polls.py` contains the classes for polls and elections that the model uses. 
+- `PollsterWeights.py` computes the accuracy weights for each pollster to be used in the aggregate. 
+- `RunoffElection.py` uses primary vote data and historical preference data to simulate an election in a particular seat using the single transferable vote method with instant runoff voting, which is the electoral system used in most Australian lower houses.  
+- `Seats.py` contains the classes for seats and polling places that the model uses.
 
-VII. **Swing calculator**
+### III. Coming attractions
 
-`ComputeSeatSwings.py` translates the swings from the poll aggregator to the previous results on a seat-by-seat level, and then performs a runoff on these new results. ~ 
+I'm working on a number of additional pieces for the model; these are outlined in [this](http://www.clintonboys.com/aus-election-model-9/) post. 
+
+
+
+
+

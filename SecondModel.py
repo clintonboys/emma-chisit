@@ -60,8 +60,9 @@ actual_results = [nsw_results, act_results, nt_results, sa_results, wa_results, 
 
 prefs = pd.read_csv('data/election_data/fed_2013/pref_ag.csv')
 
-basic_pref_flows = {'COA' :{'ALP': 9.21, 'COA': 90.79, 'GRN': 0},
-					'ALP': {'COA': 0, 'GRN':0, 'OTH': 0}}
+basic_pref_flows = {'COA' :{'ALP': 40.00, 'IND': 60.00, 'GRN': 0},
+					'ALP': {'COA': 40.00, 'GRN':0, 'OTH': 0, 'IND': 60.00}
+					}
 
 for i in range(0,len(prefs)):
 	basic_pref_flows[prefs['party'][i]] = {'ALP': prefs['to_alp'][i], 'COA': prefs['to_coa'][i]}
@@ -73,7 +74,19 @@ results2013 = pd.concat(actual_results)
 poll_aggregate = PollAggregator.AggregatePolls('AUS', datetime.datetime(2013,9,7), 7, False, ['PUP'])
 swings = PollAggregator.GetSwings('AUS', poll_aggregate, datetime.datetime(2013,9,7), ['PUP'])
 
-print RunoffElection.Runoff(results2010[68].results(2010), basic_pref_flows, False, True)
+results2010[68].AddResults(2010,Seats.join_others(Seats.join_coalition(results2010[68].results(2010))))
+
+# for i in range(0,len(results2010)):
+# 	if results2010[i].name in ['Fairfax', 'Indi', 'Kennedy',
+# 							   'Melbourne', 'Denison', 'Wills',
+# 							   'Batman', 'New England', 'Mallee',
+# 							   'Durack', 'O\'Connor']:
+# 		print i, results2010[i].name
+
+for i in [32,60,68,95,100,118,124,128,134,139,144]:
+	print results2010[i].name
+	print RunoffElection.Runoff(results2010[i].results(2010), basic_pref_flows, False, True)
+	print '\n'
 
 # count = 0
 # wrong_count = 0

@@ -97,13 +97,14 @@ class Seat(object):
 	## with their name and the state to which they belong. 
 	##
 
-    def __init__(self, name, state):
+    def __init__(self, name, state, is_non_traditional_tpp = False):
         self._name = name
         self._state = state
         self._pollingplaces = {}
         self._results = {}
         self._swings = {}
         self._cluster_no = -1
+        self._is_non_traditional_tpp = is_non_traditional_tpp
 
     @property
     def name(self):
@@ -158,3 +159,49 @@ class Seat(object):
     	if self._cluster_no == -1:
     		print 'Seat Error: Seat ' + self._name + 'not included in any cluster.'
         return self._cluster_no
+
+def join_coalition(results_dict):
+
+	liberal = 0
+	national = 0
+	liberal_party = None
+	national_party = None
+
+	for party in ['LIB', 'LP', 'LNQ']:
+		if results_dict.has_key(party):
+			liberal = liberal + results_dict[party]
+			liberal_party = party
+		else:
+			pass
+	for party in ['NAT', 'NP']:
+		if results_dict.has_key(party):
+			national = national + results_dict[party]
+    		national_party = party
+    	else:
+    		pass
+	new_results_dict = {'COA': liberal + national}
+	for party in results_dict:
+		if party not in ['LIB', 'LP', 'LNQ', 'NAT', 'NP', 'COA']:
+			new_results_dict[party] = results_dict[party]
+	return new_results_dict
+
+def join_others(results_dict, others = []):
+
+	major_parties = ['ALP', 'COA', 'LIB', 'LP', 'NP', 'NAT', 'GRN', 'LNQ', 'OTH']
+	if len(others) > 0:
+		for party in others:
+			major_parties.append(party) 
+	try:
+		others_vote = results_dict['OTH']
+	except KeyError:
+		others_vote = 0
+	for party in results_dict:
+		if party not in major_parties:
+			others_vote = others_vote + results_dict[party]
+	new_results_dict = {'OTH': others_vote}
+	for party in major_parties:
+		try:
+			new_results_dict[party] = results_dict[party]
+		except KeyError:
+			pass
+	return new_results_dict
