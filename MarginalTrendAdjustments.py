@@ -32,6 +32,8 @@ v1.0  Loads marginal seat data from GhostWhoVotes
 import Polls
 import Seats
 import RunoffElection
+import PollAggregator
+import ApplySwings
 import pandas as pd
 import numpy as np
 import datetime
@@ -59,17 +61,31 @@ def LoadMarginals(year, seat, top_two = ['ALP', 'COA'], is_primary = False):
 
 	return polls
 
-def AdjustSwing(seat, aggregated_poll, marginal_poll, year):
+def AdjustSwing(seat, to_date, aggregated_poll, pref_flows, marginal_poll, year, top_two = ['ALP', 'COA'], is_primary = False):
 
-	## Given a marginal seat, this function computes the adjusment
+	## Given a marginal seat, this function computes the adjustment
 	## to the swing from that implied by the poll aggregate, using
 	## a seat-level poll. 
 
+	## Take the aggregated poll
+
+	## Make everything compatible
+
+	## Adjust the swing by the marginal poll
+
+	## Clean everything up so it adds to 100 etc
+
 	seat_results = seat.results(year)
 
-print LoadMarginals(2013, 'Melbourne', ['ALP', 'GRN'], True)[0].results()
-print LoadMarginals(2013, 'Corangamite')[0].tpp()
+	if not is_primary:
 
+		## if we are given a TPP poll (most marginal polls are)
+		## we get the TPP data implied by the aggregated poll and 
+		## adjust the two parties' primary vote accordingly
+
+		swings = PollAggregator.GetSwings('AUS', aggregated_poll, to_date, ['PUP'])
+
+		aggregate_implied_tpp = RunoffElection.GetTPP(RunoffElection.Runoff(ApplySwings.ApplySwings(seat, year, swings, pref_flows), pref_flows))
 
 
 

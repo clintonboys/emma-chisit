@@ -29,11 +29,12 @@ start_time = time.time()
 
 n = 0
 
-new_max = 455927395501867008
+new_max = 638615482887598084
 
-while n < 150:
 
-	print 'Now scraping ' + str(n + 98) + 'th page, ' + str(np.round(time.time()-start_time,3)+171) + ' seconds elapsed...'
+while n < 25:
+
+	print 'Now scraping ' + str(n) + 'th page, ' + str(np.round(time.time()-start_time,3)+171) + ' seconds elapsed...'
 	results = twitter.statuses.user_timeline(screen_name = user, max_id = new_max)
 	new_max = results[-1]["id"]
 	with open('ghost_tweets.txt', 'a') as dump_file:

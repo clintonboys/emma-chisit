@@ -15,6 +15,7 @@ import PollsterWeights
 import RunoffElection
 import PollAggregator
 import ApplySwings
+import MarginalTrendAdjustments
 
 def LoadNationalSimple(year):
 
@@ -83,10 +84,17 @@ results2010[68].AddResults(2010,Seats.join_others(Seats.join_coalition(results20
 # 							   'Durack', 'O\'Connor']:
 # 		print i, results2010[i].name
 
-for i in [32,60,68,95,100,118,124,128,134,139,144]:
-	print results2010[i].name
-	print RunoffElection.Runoff(results2010[i].results(2010), basic_pref_flows, False, True)
-	print '\n'
+# for i in [32,60,68,95,100,118,124,128,134,139,144]:
+# 	print results2010[i].name
+# 	print RunoffElection.Runoff(results2010[i].results(2010), basic_pref_flows, False, True)
+# 	print '\n'
+
+
+print MarginalTrendAdjustments.LoadMarginals(2013, 'Melbourne', ['ALP', 'GRN'], True)[0].results()
+print poll_aggregate.results('ALP')
+
+print MarginalTrendAdjustments.AdjustSwing(results2010[128], datetime.datetime(2013,9,7), poll_aggregate, basic_pref_flows,
+										   MarginalTrendAdjustments.LoadMarginals(2013, 'Melbourne', ['ALP', 'GRN'], True)[0],2010)
 
 # count = 0
 # wrong_count = 0
