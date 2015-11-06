@@ -130,7 +130,7 @@ def AggregatePolls(state, to_date, N = 30, compute_weights = False, others = [])
 	old_others = aggregated_poll.results('OTH')
 	aggregated_poll.change_result('OTH', old_others -change + 100)
 
-	print aggregated_poll.results()
+	#print aggregated_poll.results()
 	return aggregated_poll
 
 def GetSwings(state, aggregated_poll, to_date, others, from_date = None):

@@ -43,7 +43,7 @@ import MarginalTrendAdjustments
 def NormaliseDict(d, target=1.0):
 	raw = sum(d.values())
 	factor = target/raw
-	return {key:np.round(value*factor,3) for key,value in d.iteritems()}
+	return {key:100*np.round(value*factor,3) for key,value in d.iteritems()}
 
 
 def ComputePreferences(primary_results, independent_leanings = 'right', other_leanings = 'right'):
@@ -59,9 +59,9 @@ def ComputePreferences(primary_results, independent_leanings = 'right', other_le
 	new_leanings[-1] = other_leanings
 	master_preferences['leaning'] = new_leanings
 
-	print master_preferences
+	#print master_preferences
 
-	print primary_results.keys()
+	#print primary_results.keys()
 
 	pref_dict = {}
 
@@ -74,7 +74,7 @@ def ComputePreferences(primary_results, independent_leanings = 'right', other_le
 			AG_map[key] = key
 		else:
 			AG_map[key] = 'OTH'
-	print AG_map
+	#print AG_map
 
 	for party in primary_results.keys():
 

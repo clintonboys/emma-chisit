@@ -16,6 +16,7 @@ import RunoffElection
 import PollAggregator
 import ApplySwings
 import MarginalTrendAdjustments
+import PreferenceCalculator
 
 def LoadNationalSimple(year):
 
@@ -84,56 +85,86 @@ results2010[68].AddResults(2010,Seats.join_others(Seats.join_coalition(results20
 # 							   'Durack', 'O\'Connor']:
 # 		print i, results2010[i].name
 
-# for i in [32,60,68,95,100,118,124,128,134,139,144]:
+# for i in [32,60,68,95,100,118,124,128,134,139,144]
 # 	print results2010[i].name
 # 	print RunoffElection.Runoff(results2010[i].results(2010), basic_pref_flows, False, True)
 # 	print '\n'
 
 
-print MarginalTrendAdjustments.LoadMarginals(2013, 'Melbourne', ['ALP', 'GRN'], True)[0].results()
-print poll_aggregate.results('ALP')
+#results =  MarginalTrendAdjustments.LoadMarginals(2013, 'Melbourne', ['ALP', 'GRN'], True)[0].results()
 
-print MarginalTrendAdjustments.AdjustSwing(results2010[128], datetime.datetime(2013,9,7), poll_aggregate, basic_pref_flows,
-										   MarginalTrendAdjustments.LoadMarginals(2013, 'Melbourne', ['ALP', 'GRN'], True)[0],2010)
+# results = results2010[50].results(2010)
+# print results2010[50].name
 
-# count = 0
-# wrong_count = 0
-# errors = []
-# for seat in results2010:
-# 	if seat.state != 'TAS':
-# 		result = RunoffElection.GetTPP(RunoffElection.Runoff(ApplySwings.ApplySwings(seat, 2010, swings, basic_pref_flows), basic_pref_flows))
-# 		if seat.state == 'QLD':
-# 			result -= 6
-# 		elif seat.state == 'VIC':
-# 			result -= 2
-# 		elif seat.state == 'NSW':
-# 			result -= 2
-# 		elif seat.state == 'SA':
-# 			result -= 4
-# 		try:
-# 			actual = results2013[results2013['seat'] == seat.name]['alp_tpp'].iloc[0]
-# 			difference = np.absolute(result-actual)
-# 			errors.append(difference)
-# 			if (actual > 50.00) and (result < 50.00):
-# 				highlight2 = '****'
-# 				wrong_count += 1
-# 			elif (actual < 50.00) and (result > 50.00):
-# 				highlight2 = '****'
-# 				wrong_count += 1
-# 			else:
-# 				highlight2 = ''
-# 		except IndexError:
-# 			pass
-# 		if difference > 4:
-# 			highlight = '####'
-# 			count += 1
-# 		else:
-# 			highlight = ''
-# 		print seat.name, result, actual, highlight, highlight2
+# print PreferenceCalculator.ComputePreferences(results)
+# print poll_aggregate.results('ALP')
 
-# print count
-# print wrong_count, '(', np.round(100*float(wrong_count)/145.00,2), '% )'
-# print np.round(np.mean(errors),3)
+#print MarginalTrendAdjustments.AdjustSwing(results2010[128], datetime.datetime(2013,9,7), poll_aggregate, PreferenceCalculator.ComputePreferences(results),
+#										   MarginalTrendAdjustments.LoadMarginals(2013, 'Melbourne', ['ALP', 'GRN'], True)[0],2010)
+
+#def Runoff(candidate_dict, pref_flows, group_others = False, print_progress = False):
+#print results
+#print RunoffElection.GetTPP(RunoffElection.Runoff(results, PreferenceCalculator.ComputePreferences(results),group_others = True, print_progress = False),True)
+
+count = 0
+wrong_count = 0
+errors = []
+final_composition = {}
+for seat in results2010:
+	#if seat.state != 'TAS':
+
+	if seat.name in ['Indi','Denison']:
+		ind_leaning = 'left'
+	elif seat.name in ['New England']:
+		ind_leaning = 'right'
+	else:
+		ind_leaning = 'left'
+
+	result = RunoffElection.GetTPP(RunoffElection.Runoff(ApplySwings.ApplySwings(seat, 2010, swings, PreferenceCalculator.ComputePreferences(seat.results(2010),independent_leanings = ind_leaning)), PreferenceCalculator.ComputePreferences(seat.results(2010),independent_leanings = ind_leaning)),return_parties = 'True')
+
+
+
+	# if seat.state == 'QLD':
+	# 	pass
+	# 	#result -= 6
+	# elif seat.state == 'VIC':
+	# 	pass
+	# 	#result -= 2
+	# elif seat.state == 'NSW':
+	# 	pass
+	# 	#result -= 2
+	# elif seat.state == 'SA':
+	# 	pass
+		#result -= 4
+	try:
+		actual = results2013[results2013['seat'] == seat.name]['alp_tpp'].iloc[0]
+		difference = np.absolute(result[1]-actual)
+		errors.append(difference)
+		if (actual > 50.00) and (result[1] < 50.00):
+			highlight2 = '****'
+			wrong_count += 1
+		elif (actual < 50.00) and (result[1] > 50.00):
+			highlight2 = '****'
+			wrong_count += 1
+		else:
+			highlight2 = ''
+	except IndexError:
+		pass
+	if difference > 4:
+		highlight = '####'
+		count += 1
+	else:
+		highlight = ''
+	print seat.name, result[0], result[1], actual, highlight, highlight2
+	try:
+		final_composition[result[0]]+=1
+	except KeyError:
+		final_composition[result[0]] = 1
+
+print count
+print wrong_count, '(', np.round(100*float(wrong_count)/145.00,2), '% )'
+print np.round(np.mean(errors),3)
+print final_composition
 
 ## Load 2010 results by seat
 ## Apply swings as computed by aggregator

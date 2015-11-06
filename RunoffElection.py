@@ -130,14 +130,15 @@ def GetTPP(results_dict, return_parties = False):
 		loser = min(results_dict, key = results_dict.get)
 		result = np.round(100*(float(results_dict[winner]) / (float(sum(results_dict.values())))),2)
 		if return_parties:
-			if winner not in ['ALP', 'COA']:
-				print str(winner) + ' wins with '
-				return result
-			else:
-				if winner == 'ALP':
-					return result
-				else:
-					return 100 - result
+			return winner, result
+			# if winner not in ['ALP', 'COA']:
+			# 	print str(winner) + ' wins with '
+			# 	return result
+			# else:
+			# 	if winner == 'ALP':
+			# 		return result
+			# 	else:
+			# 		return 100 - result
 		else:
 			if winner == 'ALP':
 				return result
