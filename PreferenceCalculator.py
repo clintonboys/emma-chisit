@@ -37,7 +37,7 @@ import PollsterWeights
 import RunoffElection
 import PollAggregator
 import ApplySwings
-import MarginalTrendAdjustments
+#import MarginalTrendAdjustments
 
 
 def NormaliseDict(d, target=1.0):
