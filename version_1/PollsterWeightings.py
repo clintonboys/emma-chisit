@@ -14,8 +14,6 @@ import math
 import LoadData
 from operator import attrgetter
 
-states = ['NSW', 'VIC', 'SA', 'WA', 'QLD', 'TAS', 'AUS']
-pollsters = ['Morgan', 'Newspoll', 'Galaxy', 'Essential', 'ReachTEL', 'Nielsen', 'Ipsos']
 
 def GetRelevantPolls(n = 14):
 

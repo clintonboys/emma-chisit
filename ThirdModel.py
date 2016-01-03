@@ -3,6 +3,9 @@ import SecondModel
 import PollAggregator
 import ClusterSeats
 import MarginalTrendAdjustments
+import PreferenceCalculator
+import ApplySwings
+import RunoffElection
 
 ## Load 2010 results
 
@@ -29,6 +32,29 @@ for seat in results2010:
 		marginals[seat.name] = MarginalTrendAdjustments.LoadMarginals(2013, seat.name, top_two = ['ALP', 'COA'], is_primary = False)[0]
 
 ## For each marginal seat:
+
+for seat in marginals.keys():
+
+	try:
+		index = [value for value in range(0,len(results2010)) if results2010[value].name == seat][0]
+		print seat
+		#print results2010[index].results(2010)
+
+		pref_flows = PreferenceCalculator.ComputePreferences(results2010[index].results(2010))
+
+		after_swing = ApplySwings.ApplySwings(results2010[index],2010,swings,pref_flows)
+
+		print RunoffElection.GetTPP(RunoffElection.Runoff(after_swing, pref_flows))
+
+
+
+		print marginals[seat].tpp()['ALP']
+
+	except KeyError:
+		pass
+
+
+	#print results2010
 
 	## adjust the swing according to the marginal poll and the STM
 
