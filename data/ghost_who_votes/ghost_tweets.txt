@@ -2293,3 +2293,224 @@ Sun Dec 27 00:27:12 +0000 2015#Ipsos Poll USA GOP Presidential Candidate: Trump 
 Sun Dec 27 00:26:47 +0000 2015#Ipsos Poll USA DEM Presidential Candidate: Clinton 59.9 (+2.9) Sanders 28.4 (-3.8) O'Malley 3.9 (-0.3) #usapol680907645469888513
 Wed Dec 23 23:57:30 +0000 2015#Newspoll QLD Palaszczuk ALP: Approve 50 (-3) Disapprove 35 (+2) #qldpol #auspol679813111566610432
 Wed Dec 23 13:25:56 +0000 2015#Newspoll QLD Preferred Premier: Palaszczuk ALP 50 (+1) Springborg LNP 27 (-1) #qldpol #auspol679654169687408641
+Tue Sep 01 07:32:50 +0000 2015#Essential Poll Political alignment of the PUP: Too left-wing 12 About right 10 Too right-wing 17 #auspol638615482887598084
+Tue Sep 01 07:31:56 +0000 2015#Essential Poll Political alignment of the GRN: Too left-wing 30 About right 20 Too right-wing 9 #auspol638615253668904960
+Tue Sep 01 07:31:08 +0000 2015#Essential Poll Political alignment of the NAT: Too left-wing 7 About right 21 Too right-wing 29 #auspol638615054045179904
+Tue Sep 01 07:30:28 +0000 2015#Essential Poll Political alignment of the LIB: Too left-wing 7 About right 26 Too right-wing 34 #auspol638614887346794496
+Tue Sep 01 07:29:38 +0000 2015#Essential Poll Political alignment of the ALP: Too left-wing 20 About right 28 Too right-wing 16 #auspol638614675731558400
+Tue Sep 01 07:22:21 +0000 2015#Essential Poll Which party's NBN Plan is best for Aust: L/NP 29 ALP 38 #auspol638612845446299649
+Tue Sep 01 07:20:19 +0000 2015#Essential Poll The #QandA program: Good 46 Poor 11 Don't watch it 40 #auspol638612331585400832
+Tue Sep 01 07:18:23 +0000 2015#Essential Poll Federal Primary Votes: L/NP 40 (-1) ALP 38 (+1) GRN 11 (+1) #auspol638611845973061632
+Tue Sep 01 07:17:21 +0000 2015#Essential Poll Federal 2 Party Preferred: L/NP 48 (-1) ALP 52 (+1) #auspol638611587306164225
+Sat Aug 29 13:08:30 +0000 2015@jonorow Americans.637612791206014977
+Sat Aug 29 12:38:35 +0000 2015#Ipsos Poll USA GOP Presidential Candidate (3 choices only): Trump 47.0 (+2.1) Bush 24.5 (-4.0) Carson 21.4 (-2.6)637605263785132033
+Sat Aug 29 12:38:17 +0000 2015#Ipsos Poll USA GOP Presidential Candidate: Trump 32.6 (+0.9) Huckabee 11.8 (+4.6) Bush 9.5 (-6.3) Carson 7.3 (-0.9)637605189176791040
+Sat Aug 29 12:37:35 +0000 2015#Ipsos Poll USA DEM Presidential Candidate: Clinton 45.3 (-1.7) Sanders 25.1 (+0.2) Biden 16.2 (+2.9)637605010809851904
+Fri Aug 28 09:13:29 +0000 2015@sspencer_63 @ReachTEL is correct, I'm comparing the results with the Fairfax poll. #auspol637191260449542144
+Fri Aug 28 09:11:49 +0000 2015#ReachTEL Poll Preferred LIB Leader (L/NP Voters): Abbott 45.4 (+2.9) Turnbull 24.6 (0.0) Bishop 16.2 (-3.4) #auspol637190842562686976
+Fri Aug 28 09:09:44 +0000 2015#ReachTEL Poll Preferred LIB Leader: Abbott 21.4 (+2.5) Turnbull 43.5 (-1.9) Bishop 22.8 (-1.6) #auspol637190315527438336
+Fri Aug 28 09:07:45 +0000 2015#ReachTEL Poll Preferred PM: Abbott 42.1 (+0.6) Shorten 57.9 (-0.6) #auspol637189818993111040
+Fri Aug 28 09:07:12 +0000 2015#ReachTEL Poll Shorten: Approve 23.4 (+3.8) Disapprove 44.0 (-1.9) #auspol637189680216182786
+Fri Aug 28 09:06:00 +0000 2015#ReachTEL Poll Abbott: Approve 26.0 (-0.8) Disapprove 53.8 (+0.8) #auspol637189377802682368
+Fri Aug 28 09:04:12 +0000 2015#ReachTEL Poll Federal Primary Votes: L/NP 40.3 (+0.1) ALP 37.5 (-0.8) GRN 13.4 (+0.6) #auspol637188924780081152
+Fri Aug 28 09:04:12 +0000 2015#ReachTEL Poll Federal Primary Votes: L/NP 40.3 (+0.1) ALP 37.5 (-0.8) GRN 13.4 (+0.6) #auspol637188924780081152
+Fri Aug 28 08:48:52 +0000 2015@PollBludger Yes.637185066519564288
+Fri Aug 28 08:26:18 +0000 2015#ReachTEL Poll Federal 2 Party Preferred: L/NP 47 (0) ALP 53 (0) #auspol637179387679346688
+Tue Aug 25 07:35:55 +0000 2015#Essential Poll Should Dyson Heydon resign as Commissioner: Yes 38 No 25 #auspol636079542470225920
+Tue Aug 25 07:33:17 +0000 2015#Essential Poll Royal Commission into Unions: Legitimate
+investigation 39 Political attack on ALP 27 #auspol636078879078125568
+Tue Aug 25 07:29:51 +0000 2015#Essential Poll How should same-sex marriage be decided: Parliamentary vote 22 Popular vote 66 #auspol636078018016866304
+Tue Aug 25 07:26:36 +0000 2015#Essential Poll Same-sex marriage: Support 60 (+1) Oppose 31 (+3) #auspol636077197447401472
+Tue Aug 25 07:23:57 +0000 2015#Essential Poll Federal Primary Votes: L/NP 41 (0) ALP 37 (-1) GRN 10 (0) #auspol636076533216489472
+Tue Aug 25 07:22:36 +0000 2015#Essential Poll Federal 2 Party Preferred: L/NP 49 (+1) ALP 51 (-1) #auspol636076191997280256
+Mon Aug 24 12:08:16 +0000 2015#Newspoll Preferred PM: Abbott 35 (-3) Shorten 40 (+2) #auspol635785694451920896
+Mon Aug 24 12:07:31 +0000 2015#Newspoll Shorten: Approve 34 (+5) Disapprove 52 (-5) #auspol635785504240177152
+Mon Aug 24 12:06:44 +0000 2015#Newspoll Abbott: Approve 30 (-3) Disapprove 63 (+2) #auspol635785307971936260
+Mon Aug 24 12:06:00 +0000 2015#Newspoll Federal Primary Votes: L/NP 38 (-1) ALP 39 (0) GRN 13 (0) #auspol635785123586113537
+Mon Aug 24 12:04:57 +0000 2015#Newspoll Federal 2 Party Preferred: L/NP 46 (0) ALP 54 (0) #auspol635784857788944386
+Mon Aug 24 07:52:40 +0000 2015@mpesce No, it was 43/57 last time. #Morgan #auspol635721369603280896
+Mon Aug 24 07:52:05 +0000 2015#Morgan Poll Federal Primary Votes: L/NP 38.5 (+2) ALP 36 (-1) GRN 14 (-1.5) #auspol635721223574413312
+Mon Aug 24 07:50:51 +0000 2015#Morgan Poll Federal 2 Party Preferred: L/NP 45.5 (+2.5) ALP 54.5 (-2.5) #auspol635720911631486976
+Sun Aug 23 08:41:10 +0000 2015@andyindependent There was a #Newspoll on #Canning. https://t.co/P8kL7Vty6O635371189066567680
+Sat Aug 22 12:47:49 +0000 2015#Galaxy Poll QLD Federal Primary Votes: L/NP 41 (-3) ALP 37 (+1) GRN 10 (0) PUP 3 (+1) #auspol635070873016229888
+Sat Aug 22 12:46:48 +0000 2015#Galaxy Poll QLD Federal 2 Party Preferred: L/NP 49 (-2) ALP 51 (+2) #auspol635070615326601216
+Sat Aug 22 12:46:48 +0000 2015#Galaxy Poll QLD Federal 2 Party Preferred: L/NP 49 (-2) ALP 51 (+2) #auspol635070615326601216
+Sat Aug 22 00:48:35 +0000 2015#Galaxy Poll QLD Preferred Premier: Palaszczuk ALP 52 (-3) Springborg LNP 32 (+2) #qldpol #auspol634889870670868482
+Sat Aug 22 00:48:07 +0000 2015#Galaxy Poll QLD Springborg LNP: Approve 39 (-2) Disapprove 37 (-2) #qldpol #auspol634889751716204544
+Sat Aug 22 00:47:26 +0000 2015#Galaxy Poll QLD Palaszczuk ALP: Approve 57 (-2) Disapprove 28 (+1) #qldpol #auspol634889580446023680
+Sat Aug 22 00:47:11 +0000 2015#Galaxy Poll QLD State Primary Votes: ALP 40 (0) LNP 39 (0) GRN 10 (+1) KAP 4 (+1) #qldpol #auspol634889517573378048
+Sat Aug 22 00:44:58 +0000 2015#Galaxy Poll QLD State 2 Party Preferred: ALP 52 (0) LNP 48 (0) #qldpol #auspol634888959991005184
+Tue Aug 18 12:16:33 +0000 2015#EMRS Poll TAS Preferred Premier: Hodgman LIB 49 (-3) Green ALP 21 (-3) #politas #auspol633613453031174144
+Tue Aug 18 12:15:43 +0000 2015#EMRS Poll TAS State Primary Votes: LIB 40 (-6) ALP 29 (0) GRN 21 (+2) #politas #auspol633613243135561728
+Tue Aug 18 07:29:59 +0000 2015#Essential Poll Hunt: Approve 27 (-1) Disapprove 36 (-3) #auspol633541335866191872
+Tue Aug 18 07:28:56 +0000 2015#Essential Poll Pyne: Approve 30 (+1) Disapprove 39 (-8) #auspol633541070295437312
+Tue Aug 18 07:27:05 +0000 2015#Essential Poll Morrison: Approve 30 (-8) Disapprove 35 (-4) #auspol633540604627030016
+Tue Aug 18 07:25:50 +0000 2015#Essential Poll Brandis: Approve 28 (-5) Disapprove 30 (-1) #auspol633540290901442560
+Tue Aug 18 07:24:17 +0000 2015#Essential Poll Turnbull: Approve 47 (+3) Disapprove 24 (-7) #auspol633539900319535104
+Tue Aug 18 07:22:29 +0000 2015#Essential Poll Hockey: Approve 31 (-5) Disapprove 48 (0) #auspol633539448790106113
+Tue Aug 18 07:21:13 +0000 2015#Essential Poll J Bishop: Approve 56 (+15) Disapprove 22 (-16) #auspol633539126629789696
+Tue Aug 18 07:15:38 +0000 2015#Essential Poll Amount of effort by Govt to address climate change: Too little 53 About right 24 Too much 7 #auspol633537723018510336
+Tue Aug 18 07:13:11 +0000 2015#Essential Poll Federal Primary Votes: L/NP 41 (+1) ALP 38 (-1) GRN 10 (-1) PUP 2 (+1) #auspol633537108968247300
+Tue Aug 18 07:12:42 +0000 2015#Essential Poll Federal 2 Party Preferred: L/NP 48 (+1) ALP 52 (-1) #auspol633536984665845760
+Mon Aug 17 12:21:54 +0000 2015@nlentern1 508 voters. #Canning #Newspoll633252410371084288
+Mon Aug 17 12:20:07 +0000 2015#Newspoll Seat of #Canning Primary Votes: LIB 41 (-10.1 from election) ALP 36 (+9.4) GRN 11 (+3.6) #auspol633251959420522497
+Mon Aug 17 12:20:07 +0000 2015#Newspoll Seat of #Canning Primary Votes: LIB 41 (-10.1 from election) ALP 36 (+9.4) GRN 11 (+3.6) #auspol633251959420522497
+Mon Aug 17 12:16:27 +0000 2015#Newspoll Seat of #Canning 2 Party Preferred: LIB 51 (-10.8 from election) ALP 49 (+10.8) #auspol633251037499928577
+Sun Aug 16 22:33:28 +0000 2015@Supermercado99 In July 2012 the Greens were on 11 in #Newspoll and 12 in #Nielsen. #auspol633043926174314497
+Sun Aug 16 22:26:06 +0000 2015The #Ipsos Poll tables: http://t.co/hAtEiQDhmR633042075542548480
+Sun Aug 16 22:24:51 +0000 2015#Ipsos Poll SA Federal 2 Party Preferred: L/NP 42 (-9) ALP 58 (+9) #auspol633041757949833216
+Sun Aug 16 22:24:05 +0000 2015#Ipsos Poll WA Federal 2 Party Preferred: L/NP 48 (-2) ALP 52 (+2) #auspol633041565112508416
+Sun Aug 16 22:23:33 +0000 2015#Ipsos Poll QLD Federal 2 Party Preferred: L/NP 50 (+3) ALP 50 (-3) #auspol633041431486185472
+Sun Aug 16 22:23:07 +0000 2015#Ipsos Poll VIC Federal 2 Party Preferred: L/NP 42 (0) ALP 58 (0) #auspol633041323503828992
+Sun Aug 16 22:22:48 +0000 2015#Ipsos Poll NSW Federal 2 Party Preferred: L/NP 50 (+1) ALP 50 (-1) #auspol633041242000105472
+Sun Aug 16 09:36:35 +0000 2015@jamie_hall Morrison is on 5 (+1), 8 (+4) amongst L/NP voters. #Ipsos #auspol632848418449268736
+Sun Aug 16 09:22:27 +0000 2015#Ipsos Poll Preferred ALP Leader (ALP Voters): Shorten 34 (-9) Plibersek 24 (+3) Albanese 19 (+2) #auspol632844861687922688
+Sun Aug 16 09:21:57 +0000 2015#Ipsos Poll Preferred ALP Leader: Shorten 25 (-4) Plibersek 23 (+4) Albanese 19 (+3) Bowen 8 (+2) #auspol632844735435177984
+Sun Aug 16 08:23:29 +0000 2015@Jackitsdotcom 13-15 August, 1402 voters. #Ipsos #auspol632830023335059456
+Sun Aug 16 08:17:08 +0000 2015#Ipsos Poll Amount of effort by Govt to address climate change: Too little 58 (+1) About right 32 (-1) Too much 7 (0) #auspol632828423048708097
+Sun Aug 16 08:10:07 +0000 2015#Ipsos Poll Preferred LIB Leader (L/NP Voters): Abbott 33 (-5) Turnbull 25 (-5) Bishop 23 (+2) #auspol632826656873414656
+Sun Aug 16 08:08:29 +0000 2015#Ipsos Poll Preferred LIB Leader: Abbott 15 (-4) Turnbull 41 (+2) Bishop 23 (-1) #auspol632826249413533696
+Sun Aug 16 07:55:42 +0000 2015#Ipsos Poll Same-sex marriage: Support 69 (+1) Oppose 25 (0) #auspol632823031983919104
+Sun Aug 16 07:53:29 +0000 2015#Ipsos Poll Preferred PM: Abbott 39 (0) Shorten 45 (+2) #auspol632822472887390208
+Sun Aug 16 07:53:11 +0000 2015#Ipsos Poll Shorten: Approve 39 (+4) Disapprove 49 (-6) #auspol632822399617134593
+Sun Aug 16 07:52:30 +0000 2015#Ipsos Poll Abbott: Approve 35 (-1) Disapprove 59 (0) #auspol632822227398971393
+Sun Aug 16 07:52:30 +0000 2015#Ipsos Poll Abbott: Approve 35 (-1) Disapprove 59 (0) #auspol632822227398971393
+Sun Aug 16 07:52:00 +0000 2015#Ipsos Poll Federal Primary Votes: L/NP 38 (-1) ALP 36 (+1) GRN 16 (0) PUP 2 (+1) #auspol632822099132981249
+Sun Aug 16 07:51:32 +0000 2015#Ipsos Poll Federal 2 Party Preferred: L/NP 46 (-1) ALP 54 (+1) #auspol632821982837493760
+Tue Aug 11 07:34:36 +0000 2015#Essential Poll Are the people booing Adam Goodes being racist: Yes 29 No 45 #auspol631005780129349632
+Tue Aug 11 07:31:23 +0000 2015#Essential Poll Should Bishop resign from Parliament: Yes 66 No 18 #auspol631004970825854976
+Tue Aug 11 07:29:29 +0000 2015#Essential Poll Preferred PM: Abbott 36 (-1) Shorten 32 (+2) #auspol631004493992165376
+Tue Aug 11 07:28:54 +0000 2015#Essential Poll Shorten (ALP Voters): Approve 56 (+6) Disapprove 26 (-3) #auspol631004345740296192
+Tue Aug 11 07:27:42 +0000 2015#Essential Poll Shorten: Approve 29 (+2) Disapprove 52 (0) #auspol631004045310689280
+Tue Aug 11 07:27:12 +0000 2015#Essential Poll Abbott (L/NP Voters): Approve 82 (+1) Disapprove 10 (-3) #auspol631003920601493504
+Tue Aug 11 07:26:36 +0000 2015#Essential Poll Abbott: Approve 38 (+1) Disapprove 53 (0) #auspol631003769459716098
+Tue Aug 11 07:25:24 +0000 2015#Essential Poll Federal Primary Votes: L/NP 40 (+1) ALP 39 (+1) GRN 11 (-1) #auspol631003466245103616
+Tue Aug 11 07:25:02 +0000 2015#Essential Poll Federal 2 Party Preferred: L/NP 47 (0) ALP 53 (0) #auspol631003375883030528
+Mon Aug 10 12:45:04 +0000 2015#Morgan Poll Federal Primary Votes: L/NP 36.5 (-2.5) ALP 37 (+1.5) GRN 15.5 (+0.5) #auspol630721524945715200
+Mon Aug 10 12:44:04 +0000 2015#Morgan Poll Federal 2 Party Preferred: L/NP 43 (-3) ALP 57 (+3) #auspol630721275082584064
+Mon Aug 10 07:28:27 +0000 2015#Morgan Poll TAS Preferred Premier: Hodgman LIB 64 (+3) Green ALP 36 (-3) #politas #auspol630641845089873921
+Mon Aug 10 07:27:55 +0000 2015#Morgan Poll TAS State Primary Votes: LIB 44 (+1.5) ALP 31 (-2) GRN 20 (0) #politas #auspol630641712470192128
+Mon Aug 10 07:27:19 +0000 2015#Morgan Poll SA Preferred Premier: Weatherill ALP 47 (-2) Marshall LIB 53 (+2) #saparli #auspol630641562737750016
+Mon Aug 10 07:27:02 +0000 2015#Morgan Poll SA State Primary Votes: ALP 34 (+0.5) LIB 39.5 (-3.5) GRN 14 (+0.5) FF 4.5 (+0.5) #saparli #auspol630641490079813633
+Mon Aug 10 07:26:38 +0000 2015#Morgan Poll SA State 2 Party Preferred: ALP 51 (+2) LIB 49 (-2) #saparli #auspol630641389135491076
+Mon Aug 10 07:26:16 +0000 2015#Morgan Poll WA Preferred Premier: Barnett LIB 41.5 (0) McGowan ALP 58.5 (0) #wapol #auspol630641298299486208
+Mon Aug 10 07:26:16 +0000 2015#Morgan Poll WA Preferred Premier: Barnett LIB 41.5 (0) McGowan ALP 58.5 (0) #wapol #auspol630641298299486208
+Mon Aug 10 07:25:53 +0000 2015#Morgan Poll WA State Primary Votes: LIB 34.5 (-4) NAT 5.5 (-1.5) ALP 33 (+0.5) GRN 17 (+3) #wapol #auspol630641200517681152
+Mon Aug 10 07:25:28 +0000 2015#Morgan Poll WA State 2 Party Preferred: LIB 48.5 (-4) ALP 51.5 (+4) #wapol #auspol630641096507305984
+Mon Aug 10 07:24:57 +0000 2015#Morgan Poll QLD Preferred Premier: Palaszczuk ALP 64 (+3) Springborg LNP 36 (-3) #qldpol #auspol630640965045215232
+Mon Aug 10 07:24:26 +0000 2015#Morgan Poll QLD State Primary Votes: ALP 36 (-3.5) LNP 41 (-1) GRN 13 (+3.5) KAP 4 (+0.5) #qldpol #auspol630640833285328896
+Mon Aug 10 07:24:02 +0000 2015#Morgan Poll QLD State 2 Party Preferred: ALP 51 (-0.5) LNP 49 (+0.5) #qldpol #auspol630640735465832448
+Mon Aug 10 07:23:42 +0000 2015#Morgan Poll VIC Preferred Premier: Andrews ALP 64 (+2.5) Guy LIB 36 (-2.5) #springst #auspol630640650656976896
+Mon Aug 10 07:23:10 +0000 2015#Morgan Poll VIC State Primary Votes: ALP 41 (-1) L/NP 38 (-0.5) GRN 14 (+1) #springst #auspol630640517135536128
+Mon Aug 10 07:22:52 +0000 2015#Morgan Poll VIC State 2 Party Preferred: ALP 56.5 (0) L/NP 43.5 (0) #springst #auspol630640439910080512
+Mon Aug 10 07:22:23 +0000 2015#Morgan Poll NSW Preferred Premier: Baird LIB 72.5 (+2.5) Foley ALP 27.5 (-2.5) #nswpol #auspol630640319692800000
+Mon Aug 10 07:21:19 +0000 2015#Morgan Poll NSW State Primary Votes: L/NP 49.5 (0) ALP 28.5 (+1) GRN 15.5 (+1.5) CDP 2 (-1) #nswpol #auspol630640051894902784
+Mon Aug 10 07:20:13 +0000 2015#Morgan Poll NSW State 2 Party Preferred: L/NP 56 (-1) ALP 44 (+1) #nswpol #auspol630639771962863620
+Sun Aug 09 12:07:34 +0000 2015#Newspoll Preferred PM: Abbott 38 (-1) Shorten 38 (+2) #auspol630349699149533185
+Sun Aug 09 12:06:41 +0000 2015#Newspoll Shorten: Approve 29 (+2) Disapprove 57 (-2) #auspol630349479355416576
+Sun Aug 09 12:05:57 +0000 2015#Newspoll Abbott: Approve 33 (0) Disapprove 61 (+1) #auspol630349293837160448
+Sun Aug 09 12:05:11 +0000 2015#Newspoll Federal Primary Votes: L/NP 39 (-1) ALP 39 (0) GRN 13 (+1) #auspol630349099443720192
+Sun Aug 09 12:03:28 +0000 2015#Newspoll Federal 2 Party Preferred: L/NP 46 (-1) ALP 54 (+1) #auspol630348669615648768
+Sat Aug 08 14:25:02 +0000 2015#ReachTEL Poll Preferred ALP Leader (ALP Voters): Shorten 37.2 Plibersek 31.5 Albanese 31.3 #auspol630021907136516096
+Sat Aug 08 14:23:21 +0000 2015#ReachTEL Poll Preferred LIB Leader (L/NP Voters): Abbott 42.5 (-8.6) Turnbull 24.6 (+1.1) Bishop 19.6 (+1.3) #auspol630021481922048001
+Sat Aug 08 13:23:22 +0000 2015#ReachTEL Poll Preferred PM: Abbott 41.5 (-3.4) Shorten 58.5 (+3.4) #auspol630006386290601984
+Sat Aug 08 13:23:22 +0000 2015#ReachTEL Poll Preferred PM: Abbott 41.5 (-3.4) Shorten 58.5 (+3.4) #auspol630006386290601984
+Sat Aug 08 13:20:50 +0000 2015#ReachTEL Poll Preferred ALP Leader: Shorten 25.0 Albanese 40.1 Plibersek 34.9 #auspol630005748378923008
+Sat Aug 08 13:19:31 +0000 2015#ReachTEL Poll Preferred LIB Leader: Abbott 18.9 (-5.8) Turnbull 45.4 (+4.8) Bishop 24.4 (-3.8) #auspol630005420656975872
+Sat Aug 08 13:16:17 +0000 2015#ReachTEL Poll Federal Primary Votes: L/NP 40.2 (-0.4) ALP 38.3 (+0.3) GRN 12.8 (-0.1) #auspol630004604848111616
+Sat Aug 08 13:15:45 +0000 2015#ReachTEL Poll Federal 2 Party Preferred: L/NP 47 (0) ALP 53 (0) #auspol630004469426577408
+Tue Aug 04 07:37:55 +0000 2015#Essential Poll 50% renewable energy by 2030: Approve 65 Disapprove 16 #auspol628469901674459136
+Tue Aug 04 07:35:16 +0000 2015#Essential Poll Best at handling asylum-seeker boat arrivals: L/NP 37 ALP 12 GRN 8 #auspol628469234683658241
+Tue Aug 04 07:32:24 +0000 2015#Essential Poll Biggest threat to the world: Terrorism 43 Economic instability 23 Climate change 21 #auspol628468510935511040
+Tue Aug 04 07:29:26 +0000 2015#Essential Poll Preferred ALP Leader (ALP Voters): Shorten 34 Plibersek 15 Albanese 13 Bowen 3 #auspol628467766270431232
+Tue Aug 04 07:28:19 +0000 2015#Essential Poll Preferred ALP Leader: Shorten 16 Plibersek 13 Albanese 12 Bowen 5 #auspol628467486485147648
+Tue Aug 04 07:26:48 +0000 2015#Essential Poll Preferred LIB Leader (L/NP Voters): Abbott 41 (+18) Turnbull 21 (-3) Bishop 17 (-9) Morrison 6 (+2) #auspol628467105516490753
+Tue Aug 04 07:24:31 +0000 2015#Essential Poll Preferred LIB Leader: Abbott 18 (+7) Turnbull 24 (0) Bishop 17 (-4) Hockey 3 (-2) #auspol628466528082497536
+Tue Aug 04 07:20:46 +0000 2015#Essential Poll Federal Primary Votes: L/NP 39 (-1) ALP 38 (0) GRN 12 (+1) #auspol628465586352340992
+Tue Aug 04 07:20:12 +0000 2015#Essential Poll Federal 2 Party Preferred: L/NP 47 (0) ALP 53 (0) #auspol628465440616898560
+Fri Jul 31 09:16:48 +0000 2015#ReachTEL Poll Federal anti-corruption commission: Support 73.4 Oppose 10.8 #auspol627045234950537216
+Fri Jul 31 09:15:21 +0000 2015#ReachTEL Poll Should Bishop stand down as Speaker: Yes 58.3 No 29.5 #auspol627044867613442048
+Fri Jul 31 09:13:47 +0000 2015#ReachTEL Poll Preferred PM: Abbott 44.9 (+1.2) Shorten 55.1 (-1.2) #auspol627044476855291904
+Fri Jul 31 09:13:20 +0000 2015#ReachTEL Poll Shorten: Approve 19.6 (-0.4) Disapprove 45.9 (-0.3) #auspol627044363948797952
+Fri Jul 31 09:12:50 +0000 2015#ReachTEL Poll Abbott: Approve 26.8 (-0.7) Disapprove 53.0 (+0.5) #auspol627044236521639936
+Fri Jul 31 09:12:18 +0000 2015#ReachTEL Poll Federal Primary Votes: L/NP 40.6 (-1.3) ALP 38.0 (+1.0) GRN 12.9 (-0.2) #auspol627044103117647872
+Fri Jul 31 09:12:18 +0000 2015#ReachTEL Poll Federal Primary Votes: L/NP 40.6 (-1.3) ALP 38.0 (+1.0) GRN 12.9 (-0.2) #auspol627044103117647872
+Fri Jul 31 09:11:50 +0000 2015#ReachTEL Poll Federal 2 Party Preferred: L/NP 47 (-1) ALP 53 (+1) #auspol627043983257022464
+Tue Jul 28 07:25:09 +0000 2015#Essential Poll Should penalty rates be paid for working irregular hours: Yes 81 (0) No 13 (0) #auspol625929975015739392
+Tue Jul 28 07:23:20 +0000 2015#Essential Poll Change in electricity bill over last 12 months: Increased 51 Decreased 9 #auspol625929516062343168
+Tue Jul 28 07:21:12 +0000 2015#Essential Poll Federal Primary Votes: L/NP 40 (-1) ALP 38 (0) GRN 11 (0) #auspol625928979069800449
+Tue Jul 28 07:20:39 +0000 2015#Essential Poll Federal 2 Party Preferred: L/NP 47 (-1) ALP 53 (+1) #auspol625928838749392896
+Mon Jul 27 07:47:19 +0000 2015#Morgan Poll Federal Primary Votes: L/NP 39 (-2.5) ALP 35.5 (+1) GRN 15 (+1.5) #auspol625573162336579584
+Mon Jul 27 07:45:54 +0000 2015#Morgan Poll Federal 2 Party Preferred: L/NP 46 (-3) ALP 54 (+3) #auspol625572805959098368
+Thu Jul 23 09:12:24 +0000 2015#Morgan Poll Preferred ALP Leader (Shorten excluded, ALP voters): Plibersek 38 (+3) Albanese 20 (+3) #auspol624145024649814017
+Thu Jul 23 09:11:55 +0000 2015#Morgan Poll Preferred ALP Leader (Shorten excluded): Plibersek 29 (+3) Albanese 21 (+5) Swan 12 (-3) #auspol624144903254093825
+Thu Jul 23 09:10:48 +0000 2015#Morgan Poll Preferred ALP Leader (ALP voters): Shorten 17 (-9) Plibersek 32 (+2) Albanese 16 (+5) #auspol624144623468871680
+Thu Jul 23 09:09:36 +0000 2015#Morgan Poll Preferred ALP Leader: Shorten 12 (-9) Plibersek 26 (+3) Albanese 19 (+6) Swan 10 (0) #auspol624144319331483648
+Thu Jul 23 09:08:56 +0000 2015#Morgan Poll Preferred L/NP Leader (Abbott excluded, L/NP voters): Turnbull 37 (+3) Bishop 24 (-8) #auspol624144153463492609
+Thu Jul 23 09:08:19 +0000 2015#Morgan Poll Preferred L/NP Leader (Abbott excluded): Turnbull 47 (+7) Bishop 19 (-11) Morrison 8 (+1) #auspol624143995854172162
+Thu Jul 23 09:07:46 +0000 2015#Morgan Poll Preferred L/NP Leader (L/NP voters): Abbott 26 (+1) Turnbull 32 (+2) Bishop 16 (-9) #auspol624143856418697217
+Thu Jul 23 09:06:57 +0000 2015#Morgan Poll Preferred L/NP Leader: Abbott 13 (+1) Turnbull 44 (+6) Bishop 15 (-12) Morrison 5 (0) #auspol624143653112418308
+Thu Jul 23 09:06:14 +0000 2015#Morgan Poll Preferred PM: Abbott 42 (-2) Shorten 41 (+2) #auspol624143474330218497
+Thu Jul 23 09:05:42 +0000 2015#Morgan Poll Shorten: Approve 24 (-10) Disapprove 60 (+12) #auspol624143338984247297
+Thu Jul 23 09:05:12 +0000 2015#Morgan Poll Abbott: Approve 34 (-3) Disapprove 59 (+6) #auspol624143211116675072
+Tue Jul 21 07:22:56 +0000 2015#Essential Poll Australian gun ownership laws: Too strong 6 About right 40 Not strong enough 45 #auspol623392698536345600
+Tue Jul 21 07:22:56 +0000 2015#Essential Poll Australian gun ownership laws: Too strong 6 About right 40 Not strong enough 45 #auspol623392698536345600
+Tue Jul 21 07:20:44 +0000 2015#Essential Poll Which does the Govt currently prioritise: Coal 49 Renewable energy 12 #auspol623392147069251584
+Tue Jul 21 07:18:06 +0000 2015#Essential Poll Should Govt prioritise support for coal or renewable energy: Coal 6 Renewable energy 50 #auspol623391483039604736
+Tue Jul 21 07:14:08 +0000 2015#Essential Poll Federal Primary Votes: L/NP 41 (0) ALP 38 (0) GRN 11 (0) PUP 2 (0) #auspol623390486657564672
+Tue Jul 21 07:13:43 +0000 2015#Essential Poll Federal 2 Party Preferred: L/NP 48 (0) ALP 52 (0) #auspol623390382039023616
+Mon Jul 20 12:32:15 +0000 2015#Newspoll Preferred PM: Abbott 39 (0) Shorten 36 (-3) #auspol623108154910380033
+Mon Jul 20 12:31:59 +0000 2015#Newspoll Shorten: Approve 27 (-1) Disapprove 59 (+3) #auspol623108085599506432
+Mon Jul 20 12:31:34 +0000 2015#Newspoll Abbott: Approve 33 (0) Disapprove 60 (0) #auspol623107980867694596
+Mon Jul 20 12:31:13 +0000 2015#Newspoll Federal Primary Votes: L/NP 40 (0) ALP 39 (+2) GRN 12 (-1) #auspol623107893554851841
+Mon Jul 20 12:30:51 +0000 2015#Newspoll Federal 2 Party Preferred: L/NP 47 (-1) ALP 53 (+1) #auspol623107801208918016
+Tue Jul 14 07:25:44 +0000 2015#Essential Poll Who will win election in 2016: L/NP 37 (+14) ALP 32 (-17) #auspol620856689181351937
+Tue Jul 14 07:23:16 +0000 2015#Essential Poll Cause of climate change: Human activity 56 (+2) Normal fluctuation 31 (0) #auspol620856067442933760
+Tue Jul 14 07:22:11 +0000 2015#Essential Poll Recognition of Aboriginals in the constitution: Support 61 (+3) Oppose 16 (+6) #auspol620855796591521793
+Tue Jul 14 07:20:45 +0000 2015#Essential Poll Preferred PM: Abbott 37 (-1) Shorten 30 (-3) #auspol620855434954432512
+Tue Jul 14 07:19:51 +0000 2015#Essential Poll Shorten: Approve 27 (-5) Disapprove 52 (+7) #auspol620855209669996548
+Tue Jul 14 07:18:57 +0000 2015#Essential Poll Abbott: Approve 37 (-2) Disapprove 53 (+3) #auspol620854981399216128
+Tue Jul 14 07:16:36 +0000 2015#Essential Poll Federal Primary Votes: L/NP 41 (0) ALP 38 (-1) GRN 11 (+1) PUP 2 (+1) #auspol620854389939417092
+Tue Jul 14 07:16:04 +0000 2015#Essential Poll Federal 2 Party Preferred: L/NP 48 (0) ALP 52 (0) #auspol620854257382637568
+Mon Jul 13 07:22:30 +0000 2015#Morgan Poll Federal Primary Votes: L/NP 41.5 (+2.5) ALP 34.5 (-1.5) GRN 13.5 (-0.5) #auspol620493487348170753
+Mon Jul 13 07:20:30 +0000 2015#Morgan Poll Federal 2 Party Preferred: L/NP 49 (+2.5) ALP 51 (-2.5) #auspol620492983981375488
+Mon Jul 13 07:20:30 +0000 2015#Morgan Poll Federal 2 Party Preferred: L/NP 49 (+2.5) ALP 51 (-2.5) #auspol620492983981375488
+Sun Jul 12 10:57:46 +0000 2015@EvansTanya86 I'm only expecting #Morgan to come out tomorrow afternoon.620185276019638272
+Sat Jul 11 10:34:38 +0000 2015@chris_bloke I haven't seen one.619817065591869440
+Tue Jul 07 07:31:03 +0000 2015#Essential Poll ABC political bias: Biased to Left 22 Not biased 36 Biased to Right 3 #auspol618321312050601984
+Tue Jul 07 07:24:58 +0000 2015#Essential Poll Will same-sex marriage become legal in next few years: Likely 69 (+13) Unlikely 20 (-8) #auspol618319781792346112
+Tue Jul 07 07:19:15 +0000 2015#Essential Poll Federal Primary Votes: L/NP 41 (0) ALP 39 (0) GRN 10 (-1) #auspol618318343376777216
+Tue Jul 07 07:18:53 +0000 2015#Essential Poll Federal 2 Party Preferred: L/NP 48 (+1) ALP 52 (-1) #auspol618318250527449089
+Mon Jul 06 14:31:56 +0000 2015#Newspoll SA Preferred Premier: Weatherill ALP 48 (+1) Marshall LIB 29 (-2) #saparli #auspol618064845489844224
+Mon Jul 06 14:31:21 +0000 2015#Newspoll SA Marshall LIB: Approve 41 (0) Disapprove 39 (+2) #saparli #auspol618064696051044352
+Mon Jul 06 14:30:46 +0000 2015#Newspoll SA Weatherill ALP: Approve 45 (+2) Disapprove 43 (+2) #saparli #auspol618064551724974080
+Mon Jul 06 14:29:49 +0000 2015#Newspoll SA State Primary Votes: ALP 36 (0) LIB 33 (0) GRN 10 (0) Others 21 (0) #saparli #auspol618064310242115584
+Mon Jul 06 14:28:52 +0000 2015#Newspoll SA State 2 Party Preferred: ALP 54 (0) LIB 46 (0) #saparli #auspol618064070713851904
+Sun Jul 05 22:22:11 +0000 2015The #Ipsos Poll tables: http://t.co/qPRFmvIZjQ617820796719730689
+Sun Jul 05 22:20:58 +0000 2015#Ipsos Poll QLD Federal 2 Party Preferred: L/NP 47 (-3) ALP 53 (+3) #auspol617820493312163840
+Sun Jul 05 22:20:39 +0000 2015#Ipsos Poll VIC Federal 2 Party Preferred: L/NP 42 (-1) ALP 58 (+1) #auspol617820411607146503
+Sun Jul 05 22:19:57 +0000 2015#Ipsos Poll NSW Federal 2 Party Preferred: L/NP 49 (-1) ALP 51 (+1) #auspol617820236817928192
+Sun Jul 05 12:16:43 +0000 2015#Newspoll Preferred PM: Abbott 39 (-2) Shorten 39 (+1) #auspol617668427021299712
+Sun Jul 05 12:16:04 +0000 2015#Newspoll Shorten: Approve 28 (0) Disapprove 56 (+2) #auspol617668262654914562
+Sun Jul 05 12:15:43 +0000 2015#Newspoll Abbott: Approve 33 (-1) Disapprove 60 (+4) #auspol617668176835317760
+Sun Jul 05 12:14:27 +0000 2015#Newspoll Federal Primary Votes: L/NP 40 (0) ALP 37 (+3) GRN 13 (-1) #auspol617667857325821952
+Sun Jul 05 12:14:27 +0000 2015#Newspoll Federal Primary Votes: L/NP 40 (0) ALP 37 (+3) GRN 13 (-1) #auspol617667857325821952
+Sun Jul 05 12:13:29 +0000 2015#Newspoll Federal 2 Party Preferred: L/NP 48 (-1) ALP 52 (+1) #auspol617667614567849985
+Sun Jul 05 10:32:03 +0000 2015#Ipsos Poll Constitutional recognition of Aboriginals as 1st inhabitants of Aust: Support 85 Oppose 11 #auspol617642087224205312
+Sun Jul 05 09:17:16 +0000 2015#Ipsos Poll Has the confidence of their party: Abbott 51 (-2) Shorten 56 (-15) #auspol617623268661555201
+Sun Jul 05 09:13:36 +0000 2015@burgotastic PUP are unchanged on 1. #Ipsos #auspol617622345889419265
+Sun Jul 05 09:09:16 +0000 2015#Ipsos Poll Preferred PM: Abbott 39 (-2) Shorten 43 (+1) #auspol617621255336820736
+Sun Jul 05 09:08:40 +0000 2015#Ipsos Poll Shorten: Approve 35 (-6) Disapprove 55 (+8) #auspol617621101795880960
+Sun Jul 05 09:08:01 +0000 2015#Ipsos Poll Abbott: Approve 36 (-4) Disapprove 59 (+5) #auspol617620939539283968
+Sun Jul 05 09:06:26 +0000 2015#Ipsos Poll Federal Primary Votes: L/NP 39 (-1) ALP 35 (-2) GRN 16 (+2) #auspol617620539721428993
+Sun Jul 05 09:05:21 +0000 2015#Ipsos Poll Federal 2 Party Preferred: L/NP 47 (0) ALP 53 (0) #auspol617620270463856640
+Thu Jul 02 14:18:48 +0000 2015#Newspoll WA Preferred Premier: Barnett LIB 37 (-1) McGowan ALP 43 (-1) #wapol #auspol616611987410173952
+Thu Jul 02 14:18:10 +0000 2015#Newspoll WA McGowan ALP: Approve 49 (-4) Disapprove 33 (+5) #wapol #auspol616611828659961856
+Thu Jul 02 14:17:27 +0000 2015#Newspoll WA Barnett LIB: Approve 36 (-2) Disapprove 57 (+4) #wapol #auspol616611647784759296
+Thu Jul 02 14:16:29 +0000 2015#Newspoll WA State Primary Votes: LIB 33 (-1) NAT 7 (+1) ALP 33 (-2) GRN 14 (0) #wapol #auspol616611405358182401
+Thu Jul 02 14:15:07 +0000 2015#Newspoll WA State 2 Party Preferred: L/NP 48 (0) ALP 52 (0) #wapol #auspol616611059521064960
+Tue Jun 30 07:15:05 +0000 2015#Essential Poll Aust soldiers fighting Islamic State: Support 41 Oppose 43 #auspol615780577686388736
+Tue Jun 30 07:13:16 +0000 2015#Essential Poll Federal Primary Votes: L/NP 41 (0) ALP 39 (0) GRN 11 (+1) #auspol615780121006358528
+Tue Jun 30 07:12:32 +0000 2015#Essential Poll Federal 2 Party Preferred: L/NP 47 (-1) ALP 53 (+1) #auspol615779938742874112
+Mon Jun 29 14:32:00 +0000 2015#Newspoll Apr-Jun Quarterly SA Federal 2PP: L/NP 48 (+1) ALP 52 (-1) #auspol615528147186925568
+Mon Jun 29 14:31:43 +0000 2015#Newspoll Apr-Jun Quarterly WA Federal 2PP: L/NP 50 (+4) ALP 50 (-4) #auspol615528072809308160

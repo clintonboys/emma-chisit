@@ -53,4 +53,4 @@ def ClusterSeats(census, num_clusters):
 		cluster_list.append(seat_list)
 	return cluster_list
 
-#print ClusterSeats(2006,4)
+Clusters = ClusterSeats(2006,6)

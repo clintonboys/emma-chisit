@@ -33,6 +33,7 @@ import datetime
 import Polls
 import Seats
 import PollsterWeights
+import ClusterSeats
 import RunoffElection
 import PollAggregator
 import ApplySwings
@@ -41,11 +42,17 @@ import MarginalTrendAdjustments
 todays_date = datetime.datetime.today().date()
 print todays_date
 
-
-
 ## Import pollster weights
+
+weights = PollsterWeights.Weights
+
 ## Import preference flows
+
+
+
 ## Import seat clusters
+
+clusters = ClusterSeats.Clusters
 
 ## Check for recent polls on the Ghost Who Tweets feed
 
