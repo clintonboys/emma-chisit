@@ -36,7 +36,7 @@ def LoadNationalSimple(year):
 			swing_dict[this_data['PartyAb'].iloc[i]] = float(this_data['Swing'].iloc[i])
 		results_dict['Informal'] = results_dict.pop(np.nan)
 		swing_dict['Informal'] = swing_dict.pop(np.nan)
-		seat.AddResults(2010, results_dict)
+		seat.AddResults(year, results_dict)
 		seat._swings[year] = swing_dict
 
 	return seats

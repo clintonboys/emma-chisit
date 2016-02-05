@@ -38,36 +38,46 @@ import RunoffElection
 import PollAggregator
 import ApplySwings
 import MarginalTrendAdjustments
+import PreferenceCalculator
+import SecondModel
 
-todays_date = datetime.datetime.today().date()
-print todays_date
+todays_date = datetime.datetime.today()#.date()
 
 ## Import pollster weights
 
 weights = PollsterWeights.Weights
 
-## Import preference flows
-
-
-
 ## Import seat clusters
 
 clusters = ClusterSeats.Clusters
 
-## Check for recent polls on the Ghost Who Tweets feed
-
 ## Compute poll aggregate
+
+poll_aggregate = PollAggregator.AggregatePolls('AUS', todays_date, 30, False, ['PUP'])
 
 ## Compute implied swing
 
-## Adjust individual seat swings for polled marginals
+swings = PollAggregator.GetSwings('AUS', poll_aggregate, todays_date, ['PUP'])
 
-## Add further adjustments for personal member effects
+ALP_count = 0
+COA_count = 0
 
-## Runoff each seat and provide forecast
+results2013 = SecondModel.LoadNationalSimple(2013)
+for seat in results2013:
+	pref_flows = PreferenceCalculator.ComputePreferences(seat.results(2013))
+	after_swing = ApplySwings.ApplySwings(seat,2013,swings,pref_flows)
 
+	## adjust all swings for marginal seat adjustments by cluster
 
+	## add further adjustments for personal member effects and minor parties
 
+	if RunoffElection.GetTPP(RunoffElection.Runoff(after_swing, pref_flows)) > 50.0:
+		ALP_count += 1
+	else:
+		COA_count += 1
+
+print ALP_count
+print COA_count
 
 
 

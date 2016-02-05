@@ -7,14 +7,14 @@ import PreferenceCalculator
 import ApplySwings
 import RunoffElection
 
-## Load 2010 results
+## Load 2013 results
 
-results2010 = SecondModel.LoadNationalSimple(2010)
+results2013 = SecondModel.LoadNationalSimple(2013)
 
 ## Load polls and perform aggregate
 
-poll_aggregate = PollAggregator.AggregatePolls('AUS', datetime.datetime(2013,9,7), 7, False, ['PUP'])
-
+poll_aggregate = PollAggregator.AggregatePolls('AUS', datetime.datetime(2016,2,4), 30, False, ['PUP'])
+#print poll_aggregate.results()
 ## Compute implied swing
 
 swings = PollAggregator.GetSwings('AUS', poll_aggregate, datetime.datetime(2013,9,7), ['PUP'])
@@ -27,9 +27,11 @@ clusters = ClusterSeats.ClusterSeats(2006,6)
 
 marginals = {}
 
-for seat in results2010:
+for seat in results2013:
 	if len(MarginalTrendAdjustments.LoadMarginals(2013, seat.name, top_two = ['ALP', 'COA'], is_primary = False)) > 0:
 		marginals[seat.name] = MarginalTrendAdjustments.LoadMarginals(2013, seat.name, top_two = ['ALP', 'COA'], is_primary = False)[0]
+
+print marginals
 
 ## For each marginal seat:
 
