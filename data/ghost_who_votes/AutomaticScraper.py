@@ -112,7 +112,8 @@ def main():
 		since_id = data['tweet_id'].iloc[0]
 	else: 
 		since_id = 550642284887547904  # First tweet of 2015
-	start_time = time.time()
+	print since_id
+        start_time = time.time()
 
 	max_id   = 999999999999999999
 
