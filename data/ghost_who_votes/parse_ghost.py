@@ -8,13 +8,19 @@ using get_ghost.py.
 from datetime import datetime
 import re
 import pandas as pd
+import os
 from pandas import DataFrame
 
-database = 'poll_database.csv'
+tweet_database = 'tweet_database.csv'
+poll_database = 'poll_database.csv'
 
-data = pd.read_csv('test_dump.csv')
+if not os.path.isfile(poll_database):
+	with open(poll_database, 'a') as dump_file:
+		dump_file.write('source,pollster,time,state,primary,ALP,COA,GRN,OTH,tweet_id'+'\n') 
+
+data = pd.read_csv(tweet_database)
 #new_frame = pd.DataFrame(columns = ['tweet_id','time','poll_source','pollster','state','primary','ALP','COA','GRN','OTH'])
-for i in range(61,500):
+for i in range(0,500):
 	if 'counted):' not in data['tweet_text'][i].split(' ')[1:]:
 		if data['tweet_text'][i].split(' ')[0][0] == '#':   #If the tweet starts with a hashtag it will be a poll; otherwise a retweet (@)
 			#print data['tweet_text'][i].split(' ')[0]
@@ -69,7 +75,7 @@ for i in range(61,500):
 				for party in ['PUP','NAT','IND']:
 					if party in words:
 						OTH += float(words[words.index(party)+1])
-				with open(database, 'a') as f:
+				with open(poll_database, 'a') as f:
 					f.write('ghost,'+pollster+','+str(data['time'][i])+',Federal,true,'+str(ALP)+','+str(COA)+','+str(GRN)+','+str(OTH)+','+str(data['tweet_id'][i])+'\n')
 			elif '2' in words:  # This is a TPP poll
 				try:
@@ -86,7 +92,7 @@ for i in range(61,500):
 					words.remove('ALP')
 				except:
 					ALP = 0
-				with open(database, 'a') as f:
+				with open(poll_database, 'a') as f:
 				 	f.write('ghost,'+pollster+','+str(data['time'][i])+','+state+',false,'+str(ALP)+','+str(COA)+',N/A,N/A,'+str(data['tweet_id'][i])+'\n')
 			# elif 'State' in words:
 			# 	print words

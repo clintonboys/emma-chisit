@@ -166,15 +166,9 @@ def LoadPolls(state):
     ## the database for a given state (or AUS for federal polls). 
 
     poll_list = []
-    if state != 'AUS':
-        filename = 'data/polling_data/' + state + '_state_polls.csv'
-    else:
-        filename = 'data/polling_data/FED_polls_primary.csv'
+    filename = 'data/ghost_who_votes/poll_database.csv'
     pollframe = pd.read_csv(filename)
-    if state != 'AUS':
-        parties = pollframe.columns[4:-2]
-    else:
-        parties = pollframe.columns[2:]
+    parties = ['ALP','COA','GRN','OTH']
     for i in range(0,len(pollframe)):
         results_dict = {}
         for party in parties:
@@ -185,12 +179,12 @@ def LoadPolls(state):
         except KeyError:
             sample_size = np.nan
         try:
-            poll_list.append(Poll(pollframe['Pollster'][i], state, 
-                pd.to_datetime(pollframe['PollMedianDate'][i],dayfirst=True), 
+            poll_list.append(Poll(pollframe['pollster'][i], state, 
+                pd.to_datetime(pollframe['time'][i],dayfirst=True), 
                 sample_size, results_dict, pollframe['ALP_TPP'][i]))
         except KeyError:
-            poll_list.append(Poll(pollframe['Pollster'][i], state, 
-                pd.to_datetime(pollframe['PollMedianDate'][i],dayfirst=True), 
+            poll_list.append(Poll(pollframe['pollster'][i], state, 
+                pd.to_datetime(pollframe['time'][i],dayfirst=True), 
                 sample_size, results_dict, np.nan))
     return poll_list
 

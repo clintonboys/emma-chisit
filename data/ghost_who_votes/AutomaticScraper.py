@@ -89,7 +89,7 @@ def main():
 
 	## Data needs to be sorted by timestamp
 
-	data.time = pd.to_datetime(data.time)
+	data.time = pd.to_datetime(data.time, dayfirst = True)
 	data = data.sort('time', ascending = False)
 	data.index = range(0,len(data))
 	print 'Found ' + str(len(data)) + ' records....'
@@ -112,7 +112,6 @@ def main():
 		since_id = data['tweet_id'].iloc[0]
 	else: 
 		since_id = 550642284887547904  # First tweet of 2015
-
 	start_time = time.time()
 
 	max_id   = 999999999999999999
@@ -151,7 +150,7 @@ def main():
 
 	## Coerce to timetamp, reorder, drop duplicates and write to file. 
 
-	data['time'] = pd.to_datetime(data['time'])
+	data['time'] = pd.to_datetime(data['time'],dayfirst = True)
 	data = data.sort('time',ascending = False)
 	data = data.drop_duplicates()
 	data.index = range(0,len(data))

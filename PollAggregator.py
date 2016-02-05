@@ -103,10 +103,11 @@ def AggregatePolls(state, to_date, N = 30, compute_weights = False, others = [])
 	for poll in poll_data:
 		if to_date >= poll.median_date() >= from_date:
 			relevant_polls.append(poll)
+	print len(relevant_polls)
 
-	for poll in relevant_polls:
-		poll.join_coalition()
-		poll.join_others(others)
+	# for poll in relevant_polls:
+	# 	poll.join_coalition()
+	# 	poll.join_others(others)
 
 	aggregate = {}
 	results_list = {}
@@ -136,6 +137,7 @@ def AggregatePolls(state, to_date, N = 30, compute_weights = False, others = [])
 def GetSwings(state, aggregated_poll, to_date, others, from_date = None):
 
 	latest_election = GetLatestElection(state, to_date)
+	print latest_election.results()
 
 	latest_election.join_coalition()
 	latest_election.join_others(others)
@@ -146,6 +148,9 @@ def GetSwings(state, aggregated_poll, to_date, others, from_date = None):
 		swing_dict[party] = np.round(aggregated_poll.results(party) - latest_election.results(party),3)
 
 	return swing_dict
+
+print AggregatePolls('AUS',datetime.datetime(2016,1,23),50).results()
+print GetSwings('AUS', AggregatePolls('AUS',datetime.datetime(2016,1,23),50), datetime.datetime(2016,1,23), ['OTH'])
 
 # print GetSwings('WA', AggregatePolls('WA', datetime.datetime(2013,9,7), 300, False, ['PUP']), datetime.datetime(2013,9,7), ['PUP'])
 # print GetSwings('NSW', AggregatePolls('NSW', datetime.datetime(2013,9,7), 300, False, ['PUP']), datetime.datetime(2013,9,7), ['PUP'])
