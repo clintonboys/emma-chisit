@@ -40,6 +40,7 @@ import ApplySwings
 import MarginalTrendAdjustments
 import PreferenceCalculator
 import SecondModel
+import os
 
 todays_date = datetime.datetime.today()#.date()
 
@@ -79,7 +80,9 @@ for seat in results2013:
 print ALP_count
 print COA_count
 
+test_string = 'hkfdsfad'
+path = '/Users/clintonboys/Desktop/Programming/emma-chisit-site/current-forecast/index.md'
 
-
-
+with open(path, 'w') as test_file:
+	test_file.write(test_string)
 

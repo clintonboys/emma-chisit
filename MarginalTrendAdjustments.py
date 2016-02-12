@@ -126,10 +126,10 @@ for seat in results2013:
 		marginals[seat.name] = LoadMarginals(2013, seat.name, top_two = ['ALP', 'COA'])[0]
 
 
-print RunoffElection.GetTPP(RunoffElection.Runoff(ApplySwings.ApplySwings(results2013[3], 2013, swings,
-	basic_pref_flows),basic_pref_flows))
+# print RunoffElection.GetTPP(RunoffElection.Runoff(ApplySwings.ApplySwings(results2013[3], 2013, swings,
+# 	basic_pref_flows),basic_pref_flows))
 
-print marginals.keys()[0]
-print marginals.values()[0].results()
+# print marginals.keys()[0]
+# print marginals.values()[0].results()
 
 #print AdjustSwing(results2013[3], todays_date, poll_aggregate, basic_pref_flows, marginals.values()[0].results(), 2013, top_two = ['ALP', 'COA'], is_primary = False)
