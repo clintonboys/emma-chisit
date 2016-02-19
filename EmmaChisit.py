@@ -62,27 +62,43 @@ swings = PollAggregator.GetSwings('AUS', poll_aggregate, todays_date, ['PUP'])
 
 ALP_count = 0
 COA_count = 0
+results_frame = pd.DataFrame(columns = ['seat','state','winner','TPP'])
+seats = []
+states = []
+winners = []
+TPPs = []
 
 results2013 = SecondModel.LoadNationalSimple(2013)
 for seat in results2013:
 	pref_flows = PreferenceCalculator.ComputePreferences(seat.results(2013))
 	after_swing = ApplySwings.ApplySwings(seat,2013,swings,pref_flows)
-
+	if seat.name == 'Fairfax':
+		after_swing['PUP'] = after_swing['PUP']*2
+	if seat.name in ('Denison','Indi'):
+		after_swing['IND'] = after_swing['IND']*2
+	if seat.name == 'Kennedy':
+		after_swing['KAP'] = after_swing['KAP']*2
 	## adjust all swings for marginal seat adjustments by cluster
 
 	## add further adjustments for personal member effects and minor parties
-
-	if RunoffElection.GetTPP(RunoffElection.Runoff(after_swing, pref_flows)) > 50.0:
-		ALP_count += 1
+	seats.append(seat.name)
+	states.append(seat.state)
+	winner, TPP = RunoffElection.GetTPP(RunoffElection.Runoff(after_swing, pref_flows), True)
+	if winner in ['COA','LNP','LIB','NAT']:
+		winners.append('COA')
+	elif winner in ['ALP','CLP']:
+		winners.append('ALP')
 	else:
-		COA_count += 1
+		winners.append(winner)
+	TPPs.append(TPP)
+	#TPPs.append(RunoffElection.GetTPP(RunoffElection.Runoff(after_swing, pref_flows)))
 
-print ALP_count
-print COA_count
+results_frame['seat'] = seats
+results_frame['state'] = states
+results_frame['winner'] = winners
+results_frame['TPP'] = TPPs
 
-test_string = 'hkfdsfad'
-path = '/Users/clintonboys/Desktop/Programming/emma-chisit-site/current-forecast/index.md'
+print results_frame.groupby('winner').count()
 
-with open(path, 'w') as test_file:
-	test_file.write(test_string)
+results_frame.to_csv('current_forecast.csv')
 

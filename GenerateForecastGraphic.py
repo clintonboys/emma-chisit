@@ -25,18 +25,27 @@ GenerateForecastGraphic.py
 
 Generates the graphic containing the current Emma Chisit forecast. 
 '''
-
+import pandas as pd
 import datetime
 from PIL import Image
 from pyx import *
 
-composition = {'ALP': 55, 'COA': 90, 'IND': 3, 'PUP': 1, 'GRN': 1}
-this_time = datetime.datetime.now()
+composition_frame = pd.read_csv('current_forecast.csv')
+
+composition = {}
+for i in range(0,len(composition_frame)):
+	try:
+		composition[composition_frame['winner'].iloc[i]] += 1
+	except KeyError:
+		composition[composition_frame['winner'].iloc[i]] = 1
+
+#composition = {'ALP': 55, 'COA': 90, 'IND': 3, 'PUP': 1, 'GRN': 1}
+this_time = datetime.datetime.now() - datetime.timedelta(hours = -9)
 
 def GenerateForecastGraphic(composition, this_time, filename):
 
 
-	colors = {'ALP': color.rgb(1,10.0/255.0,10.0/255.0), 'COA': color.rgb(59.0/255.0,10.0/255.0,1), 'IND': color.rgb(171.0/255.0,171.0/255.0,171.0/255.0), 'PUP': color.rgb(247.0/255.0,1,10.0/255.0), 'GRN': color.rgb(8.0/255.0,242.0/255.0,0)}
+	colors = {'ALP': color.rgb(1,10.0/255.0,10.0/255.0), 'COA': color.rgb(59.0/255.0,10.0/255.0,1), 'IND': color.rgb(171.0/255.0,171.0/255.0,171.0/255.0), 'PUP': color.rgb(247.0/255.0,1,10.0/255.0), 'GRN': color.rgb(8.0/255.0,242.0/255.0,0), 'KAP': color.rgb(1,166.0/255.0,0)}
 	color_list = []
 	for party in sorted(composition, key = composition.get):
 		color_list.extend([colors[party] for i in range(composition[party])])
@@ -54,9 +63,9 @@ def GenerateForecastGraphic(composition, this_time, filename):
 	for i in range(0,150):
 		c.fill(path.rect(2*(i%25),2*(i/25),1.5,0.5), [color_list[i]])
 
-	im = bitmap.jpegimage('logo.jpg')
-	bm = bitmap.bitmap(55,10,im ,width = 10, height = 2.5, compressmode = None)
-	c.insert(bm)
+	# im = bitmap.jpegimage('logo.jpg')
+	# bm = bitmap.bitmap(55,10,im ,width = 10, height = 2.5, compressmode = None)
+	# c.insert(bm)
 	c.fill(path.rect(75,8,1,1), [color.rgb.white])
 	c.fill(path.rect(-2,-2,1,1), [color.rgb.white])
 
