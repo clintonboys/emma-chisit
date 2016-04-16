@@ -32,8 +32,12 @@ def LoadNationalSimple(year):
 		results_dict = {}
 		swing_dict = {}
 		for i in range(0,len(this_data)):
-			results_dict[this_data['PartyAb'].iloc[i]] = int(this_data['TotalVotes'].iloc[i])
-			swing_dict[this_data['PartyAb'].iloc[i]] = float(this_data['Swing'].iloc[i])
+			try:
+				results_dict[this_data['PartyAb'].iloc[i]] += int(this_data['TotalVotes'].iloc[i])
+				swing_dict[this_data['PartyAb'].iloc[i]] += float(this_data['Swing'].iloc[i])
+			except KeyError:
+				results_dict[this_data['PartyAb'].iloc[i]] = int(this_data['TotalVotes'].iloc[i])
+				swing_dict[this_data['PartyAb'].iloc[i]] = float(this_data['Swing'].iloc[i])
 		results_dict['Informal'] = results_dict.pop(np.nan)
 		swing_dict['Informal'] = swing_dict.pop(np.nan)
 		seat.AddResults(year, results_dict)

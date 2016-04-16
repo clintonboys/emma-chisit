@@ -159,4 +159,5 @@ def ComputePollsterWeights(n = 14):
 
 	return weight_dict
 
-Weights = {'Newspoll': 0.60599999999999998, 'Nielsen': 1.4550000000000001, 'Ipsos': 1.0720000000000001, 'Morgan': 1.0149999999999999, 'ReachTEL': 1.169, 'Essential': 1.1599999999999999, 'Galaxy': 0.97299999999999998}
+Weights = {'Newspoll': 0.60599999999999998, 'Nielsen': 1.4550000000000001, 'Ipsos': 1.0720000000000001, 'Morgan': 1.0149999999999999, 'ReachTEL': 1.169, 'Essential': 1.1599999999999999, 'Galaxy': 0.97299999999999998, 'EMRS': 1.0}
+

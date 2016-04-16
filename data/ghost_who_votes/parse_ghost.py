@@ -28,7 +28,7 @@ data = pd.read_csv(tweet_database)
 tweets_parsed = 0
 total_tweets = 0
 for i in range(0,500):
-	if 'counted):' not in data['tweet_text'][i].split(' ')[1:]:
+	if 'counted):' not in data['tweet_text'][i].split(' ')[1:] and 'USA' not in data['tweet_text'][i].split(' ')[1:]:
 		if data['tweet_text'][i].split(' ')[0][0] == '#':   #If the tweet starts with a hashtag it will be a poll; otherwise a retweet (@)
 			total_tweets += 1
 			words = data['tweet_text'][i].split(' ')[1:]
@@ -46,10 +46,13 @@ for i in range(0,500):
 				print 'State Leadership'
 			elif 'Quarterly' in words: # This is a quarterly Newspoll
 				print 'Quarterly Newspoll'
+			elif 'Seat of' in words:
+				print 'Marginal' # This is a marginal seat poll
 			else: # This is another kind of poll, probably not relevant
 				print 'Other'
 
 			if 'Primary' in words: # This is a primary poll
+				print 'Primary'
 				OTH = 0
 				try:
 					COA = words[words.index('L/NP')+1]
@@ -124,8 +127,8 @@ for i in range(0,500):
 				with open(poll_database, 'a') as f:
 				 	f.write('ghost,'+pollster+','+str(data['time'][i])+','+state+',false,'+str(ALP)+','+str(COA)+',N/A,N/A,'+str(data['tweet_id'][i])+'\n')
 				 	tweets_parsed += 1
-			else:
-				print words
+			# else:
+			# 	print words
 			# elif 'State' in words:
 			# 	print words
 				#elif ['2','Party','Preferred'] in words:

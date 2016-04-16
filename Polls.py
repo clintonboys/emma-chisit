@@ -38,6 +38,7 @@ v2.0 Polls are now all based on percentages. The
 
 import pandas as pd
 import numpy as np
+import datetime
 from collections import OrderedDict
 
 major_parties = ['ALP', 'COA', 'LP', 'NAT', 'LNP', 'GRN']
@@ -170,6 +171,7 @@ def LoadPolls(state):
     pollframe = pd.read_csv(filename)
     parties = ['ALP','COA','GRN','OTH']
     for i in range(0,len(pollframe)):
+        #if pollframe.primary[i]:# == 'true':
         results_dict = {}
         for party in parties:
             if not np.isnan(pollframe[party][i]):
@@ -187,6 +189,17 @@ def LoadPolls(state):
                 pd.to_datetime(pollframe['time'][i],dayfirst=True), 
                 sample_size, results_dict, np.nan))
     return poll_list
+
+# to_date = datetime.datetime.today()
+# from_date = to_date - datetime.timedelta(days=15)
+# poll_data = LoadPolls('AUS')
+# relevant_polls = []
+# for poll in poll_data:
+#     if to_date >= poll.median_date() >= from_date:
+#         print poll._pollster
+#         print poll._mediandate
+#         relevant_polls.append(poll)
+
 
 def LoadElections():
 

@@ -41,6 +41,7 @@ import MarginalTrendAdjustments
 import PreferenceCalculator
 import SecondModel
 import os
+from config import independent_seats, sophomore_seats, retiring_seats
 
 todays_date = datetime.datetime.today()#.date()
 
@@ -59,6 +60,9 @@ poll_aggregate = PollAggregator.AggregatePolls('AUS', todays_date, 30, False, ['
 ## Compute implied swing
 
 swings = PollAggregator.GetSwings('AUS', poll_aggregate, todays_date, ['PUP'])
+#swings = {'COA': -1.5, 'GRN': 3.9, 'ALP': -0.1, 'OTH': -2.6}
+
+print swings
 
 ALP_count = 0
 COA_count = 0
@@ -72,15 +76,28 @@ results2013 = SecondModel.LoadNationalSimple(2013)
 for seat in results2013:
 	pref_flows = PreferenceCalculator.ComputePreferences(seat.results(2013))
 	after_swing = ApplySwings.ApplySwings(seat,2013,swings,pref_flows)
-	if seat.name == 'Fairfax':
-		after_swing['PUP'] = after_swing['PUP']*2
-	if seat.name in ('Denison','Indi'):
-		after_swing['IND'] = after_swing['IND']*2
-	if seat.name == 'Kennedy':
-		after_swing['KAP'] = after_swing['KAP']*2
+	# if seat.name == 'Fairfax':
+	# 	after_swing['PUP'] = after_swing['PUP']*2
+	# if seat.name in ('Denison','Indi'):
+	# 	after_swing['IND'] = after_swing['IND']*2
+	# if seat.name == 'Kennedy':
+	# 	after_swing['KAP'] = after_swing['KAP']*2
 	## adjust all swings for marginal seat adjustments by cluster
 
 	## add further adjustments for personal member effects and minor parties
+
+	for retiring_seat in retiring_seats:
+		if retiring_seat == seat.name:
+			after_swing[retiring_seats[retiring_seat]] = after_swing[retiring_seats[retiring_seat]]*0.9
+
+	for sophomore_seat in sophomore_seats:
+		if sophomore_seat == seat.name:
+			after_swing[sophomore_seats[sophomore_seat]] = after_swing[sophomore_seats[sophomore_seat]]*1.1
+
+	for independent_seat in independent_seats:
+		if independent_seat == seat.name:
+			after_swing[independent_seats[independent_seat]] = after_swing[independent_seats[independent_seat]]*2
+
 	seats.append(seat.name)
 	states.append(seat.state)
 	winner, TPP = RunoffElection.GetTPP(RunoffElection.Runoff(after_swing, pref_flows), True)

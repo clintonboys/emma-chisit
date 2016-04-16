@@ -114,7 +114,7 @@ def main():
 		since_id = 550642284887547904  # First tweet of 2015
 	print since_id
 	start_time = time.time()
- 	since_id = 698827624789856000
+ 	since_id = 717254596129722368
 	max_id   = 999999999999999999
 
 	tweets_left = False
