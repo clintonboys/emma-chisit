@@ -87,6 +87,7 @@ def AggregatePolls(state, to_date, N = 30, compute_weights = False, others = [])
 	## static vector in PollsterWeights, as they take around 10s to
 	## compute. 
 
+	#print to_date
 	if compute_weights:
 		weightings = PollsterWeights.ComputePollsterWeights()
 	else:
@@ -99,10 +100,16 @@ def AggregatePolls(state, to_date, N = 30, compute_weights = False, others = [])
 	relevant_polls = []
 
 	from_date = to_date - datetime.timedelta(days=N)
+	# print 'From date: ', from_date
+	# print 'To date: ', to_date
+
 
 	for poll in poll_data:
 		if to_date >= poll.median_date() >= from_date:
+			print 'Yes to ' + str(poll.median_date())
 			relevant_polls.append(poll)
+		#else:
+		#	print 'No to ' + str(poll.median_date())
 
 	# for poll in relevant_polls:
 	# 	poll.join_coalition()
@@ -112,6 +119,10 @@ def AggregatePolls(state, to_date, N = 30, compute_weights = False, others = [])
 	results_list = {}
 
 	for poll in relevant_polls:
+		# print poll.results()
+		# print ExpDecay(to_date - poll.median_date(),N)
+		# print poll.median_date()
+		# print '----'
 		for party in poll._results:
 			results_list[party] = np.round(
 					np.sum(

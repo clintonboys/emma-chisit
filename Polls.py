@@ -171,23 +171,23 @@ def LoadPolls(state):
     pollframe = pd.read_csv(filename)
     parties = ['ALP','COA','GRN','OTH']
     for i in range(0,len(pollframe)):
-        #if pollframe.primary[i]:# == 'true':
-        results_dict = {}
-        for party in parties:
-            if not np.isnan(pollframe[party][i]):
-                results_dict[party] = pollframe[party][i]
-        try:
-            sample_size = pollframe['N'][i]
-        except KeyError:
-            sample_size = np.nan
-        try:
-            poll_list.append(Poll(pollframe['pollster'][i], state, 
-                pd.to_datetime(pollframe['time'][i],dayfirst=True), 
-                sample_size, results_dict, pollframe['ALP_TPP'][i]))
-        except KeyError:
-            poll_list.append(Poll(pollframe['pollster'][i], state, 
-                pd.to_datetime(pollframe['time'][i],dayfirst=True), 
-                sample_size, results_dict, np.nan))
+        if pollframe.primary[i]:
+            results_dict = {}
+            for party in parties:
+                if not np.isnan(pollframe[party][i]):
+                    results_dict[party] = pollframe[party][i]
+            try:
+                sample_size = pollframe['N'][i]
+            except KeyError:
+                sample_size = np.nan
+            try:
+                poll_list.append(Poll(pollframe['pollster'][i], state, 
+                    pd.to_datetime(pollframe['time'][i],dayfirst=True), 
+                    sample_size, results_dict, pollframe['ALP_TPP'][i]))
+            except KeyError:
+                poll_list.append(Poll(pollframe['pollster'][i], state, 
+                    pd.to_datetime(pollframe['time'][i],dayfirst=True), 
+                    sample_size, results_dict, np.nan))
     return poll_list
 
 # to_date = datetime.datetime.today()

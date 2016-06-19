@@ -101,13 +101,14 @@ def Runoff(candidate_dict, pref_flows, group_others = False, print_progress = Fa
 		for party in fixed_prefs:
 			fixed_prefs[party] = fixed_prefs[party]/preference_sum
 
+		print to_dist
 		for party in remaining_candidates:
 			if party in to_dist:
 				remaining_candidates[party] = int(np.round(remaining_candidates[party] + to_dist[party]*0.01*votes))
 			else:
 				if float(remaining_candidates[party])/float(total) > 0.1:
 					if print_progress:
-						print 'Runoff Error: Missing preference data for important contest.'
+						print 'Runoff Error: Missing preference data for important contest.', party
 
 		if print_progress:
 			if len(remaining_candidates) > 2:

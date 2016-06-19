@@ -45,7 +45,7 @@ year = 2016
 def LoadMarginals(to_date, seat, top_two = ['ALP', 'COA'], N= 30):
 
 	marginal_polls = pd.read_csv('data/ghost_who_votes/marginal_poll_database.csv')
-	these_polls = marginal_polls[marginal_polls['state'] == seat]
+	these_polls = marginal_polls[marginal_polls['seat'] == seat][marginal_polls['primary'] == False]
 	if len(these_polls) == 0:
 		return None
 	else:
@@ -55,17 +55,16 @@ def LoadMarginals(to_date, seat, top_two = ['ALP', 'COA'], N= 30):
 
 		for i in range(0,len(these_polls)):
 			if these_polls['primary'].iloc[i] == 'False':
-				this_poll = Polls.Poll(these_polls.pollster.iloc[i], these_polls.state.iloc[i], these_polls.time.iloc[i], 500, {},
+				this_poll = Polls.Poll(these_polls.pollster.iloc[i], these_polls.seat.iloc[i], these_polls.time.iloc[i], 500, {},
 				                      {top_two[0]: these_polls[top_two[0]].iloc[i], top_two[1]: these_polls[top_two[1]].iloc[i]})
 				polls.append(this_poll)
 			else:
-				this_poll = Polls.Poll(these_polls.pollster.iloc[i], these_polls.state.iloc[i], these_polls.time.iloc[i], 500, 
+				this_poll = Polls.Poll(these_polls.pollster.iloc[i], these_polls.seat.iloc[i], these_polls.time.iloc[i], 500, 
 					{top_two[0]: these_polls[top_two[0]].iloc[i], top_two[1]: these_polls[top_two[1]].iloc[i], 'OTH': 100.0-these_polls[top_two[0]].iloc[i]-these_polls[top_two[1]].iloc[i]},
 					{})
 				polls.append(this_poll)
 
 		return polls
-
 
 def AdjustSwing(seat, to_date, aggregated_poll, pref_flows, marginal_poll, year, top_two = ['ALP', 'COA'], is_primary = False):
 
@@ -99,31 +98,31 @@ def AdjustSwing(seat, to_date, aggregated_poll, pref_flows, marginal_poll, year,
 		print marginal_poll.tpp()['ALP']
 		return (aggregate_implied_tpp + marginal_poll.tpp()['ALP'])/2.0
 
-todays_date = datetime.datetime.today()
-results2013 = SecondModel.LoadNationalSimple(2013)
+# todays_date = datetime.datetime.today()
+# results2013 = SecondModel.LoadNationalSimple(2013)
 
-## Load polls and perform aggregate
+# ## Load polls and perform aggregate
 
-poll_aggregate = PollAggregator.AggregatePolls('AUS', datetime.datetime(2016,2,4), 7, False, ['PUP'])
+# poll_aggregate = PollAggregator.AggregatePolls('AUS', datetime.datetime(2016,2,4), 7, False, ['PUP'])
 
-## Compute implied swing
+# ## Compute implied swing
 
-swings = PollAggregator.GetSwings('AUS', poll_aggregate, datetime.datetime(2016,2,4), ['PUP'])
+# swings = PollAggregator.GetSwings('AUS', poll_aggregate, datetime.datetime(2016,2,4), ['PUP'])
 
-prefs = pd.read_csv('data/election_data/fed_2013/pref_ag.csv')
+# prefs = pd.read_csv('data/election_data/fed_2013/pref_ag.csv')
 
-basic_pref_flows = {'COA' :{'ALP': 40.00, 'IND': 60.00, 'GRN': 0},
-					'ALP': {'COA': 40.00, 'GRN':0, 'OTH': 0, 'IND': 60.00}
-					}
+# basic_pref_flows = {'COA' :{'ALP': 40.00, 'IND': 60.00, 'GRN': 0},
+# 					'ALP': {'COA': 40.00, 'GRN':0, 'OTH': 0, 'IND': 60.00}
+# 					}
 
-for i in range(0,len(prefs)):
-	basic_pref_flows[prefs['party'][i]] = {'ALP': prefs['to_alp'][i], 'COA': prefs['to_coa'][i]}
+# for i in range(0,len(prefs)):
+# 	basic_pref_flows[prefs['party'][i]] = {'ALP': prefs['to_alp'][i], 'COA': prefs['to_coa'][i]}
 
-marginals = {}
+# marginals = {}
 
-for seat in results2013:
-	if LoadMarginals(2013, seat.name, top_two = ['ALP', 'COA']):
-		marginals[seat.name] = LoadMarginals(2013, seat.name, top_two = ['ALP', 'COA'])[0]
+# for seat in results2013:
+# 	if LoadMarginals(2013, seat.name, top_two = ['ALP', 'COA']):
+# 		marginals[seat.name] = LoadMarginals(2013, seat.name, top_two = ['ALP', 'COA'])[0]
 
 
 # print RunoffElection.GetTPP(RunoffElection.Runoff(ApplySwings.ApplySwings(results2013[3], 2013, swings,
